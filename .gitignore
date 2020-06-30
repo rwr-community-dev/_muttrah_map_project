@@ -9,3 +9,9 @@ map.png
 
 # Exclude ImageMagick logs
 Magick*.log
+
+# Other file formats
+*.xcf
+*.wav
+*.zip
+*.7z
