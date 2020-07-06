@@ -7,7 +7,7 @@
 A community-driven project involving multiple modders from the RWR community. Each contributor has created a portion of the larger map (see layer *work_sectors* in objects.svg).
 
 ## Work Sectors
-* Sector names enclosed in brackets are subject to change, whilst work is ongoing, pending suggestions from the sector contributors*
+*Sector names enclosed in brackets are subject to change, whilst work is ongoing, pending suggestions from the sector contributors*
  
 | Sector Name | Contributor |
 | ----------- | ----------- |
