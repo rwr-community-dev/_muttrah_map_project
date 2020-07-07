@@ -1,6 +1,8 @@
 # Running with Rifles map18 'Muttrah District'
 
-## Project Kanban: [muttrah map](https://github.com/orgs/rwr-community-dev/projects/2)
+## Project Kanban
+
+[muttrah map](https://github.com/orgs/rwr-community-dev/projects/2)
 
 ## Discord Channel
 
@@ -8,7 +10,7 @@
 
 ## About
 
-A community-driven project involving multiple modders from the RWR community.Each contributor has created a portion of the larger map (see layer *work_sectors* in objects.svg).
+A community-driven project involving multiple modders from the RWR community.Each contributor has created a portion of the larger map (see *work_sectors*).
 
 ## Usage
 
@@ -16,6 +18,7 @@ To test the map:
 
 1. Change into your \<RWR install directory\>/media/packages/ and clone this repository.
     * ```git clone https://github.com/rwr-community-dev/_muttrah_map_project.git```
+    * Alternatively, download this repository as a zip archive and extract into the folder.
 1. Start RWR and launch a quickmatch using map *Muttrah District*
 
 ## Work Sectors
