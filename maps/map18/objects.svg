@@ -30,9 +30,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.4531248"
-     inkscape:cx="283.23672"
-     inkscape:cy="993.62172"
+     inkscape:zoom="0.2158203"
+     inkscape:cx="1059.3528"
+     inkscape:cy="661.50083"
      inkscape:document-units="px"
      inkscape:current-layer="layer37"
      showgrid="true"
@@ -18962,6 +18962,29 @@
          width="6"
          id="rect7651-13-5-8-6-4-4-7-3-9-0-3-2-0-9-1-5-6-5-5-64-3-5"
          style="display:inline;opacity:0.79775277;fill:#2cffe7;fill-opacity:1;fill-rule:nonzero;stroke:none;enable-background:new" />
+      <g
+         id="g4258">
+        <path
+           sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccc"
+           inkscape:label="#path47537_platform"
+           inkscape:connector-curvature="0"
+           id="path47537-1"
+           d="m 2175.0769,1355.7576 -60.6673,-29.0028 -67.3327,-35.3917 -127.8028,-61.5346 -60.7457,-22.0894 -67.057,-16.567 -63.9014,-7.1002 h -64.4931 l -64.0986,11.8336 -64.1547,29.0405 -62.3236,41.0231 -62.3236,22.8783 -65.4792,14.9892 -63.9013,6.3113 -64.6903,-3.1556 -63.1125,-8.678 -66.2681,-18.9338 -63.1125,-26.0339 -71.63189,-38.7124 -51.90636,-52.7181 -52.0678,-65.4792 -44.1787,-59.9569 -35.5008,-59.16787 -21.95395,-34.11434 23.39643,-41.13532 32.3452,-16.567 25.15913,-18.66972 18.5954,-18.72416 19.29022,-19.42379 22.55151,-42.46558 15.81772,-33.81078 34.91978,-13.23644 35.64093,17.5077 11.60251,28.56404 38.30297,25.81669 23.2549,15.64054 77.7516,0.45052 88.8196,121.71093 -59.0489,46.42655 -0.4819,12.96153 7.0721,9.6782 13.7908,4.5939 99.5162,-75.44095 -103.0789,-142.67514 12.8599,-36.93837 20.6319,-12.31212 45.6898,0.34564 144.0734,193.46043 74.2324,-52.87104 -37.6394,-46.81794"
+           style="fill:none;stroke:#0000ff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1">
+          <desc
+             id="desc47543-7">type = start;</desc>
+        </path>
+        <path
+           sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccc"
+           inkscape:label="#path47539_platform"
+           inkscape:connector-curvature="0"
+           id="path47539-4"
+           d="m 2176.5068,1344.2172 -60.6673,-29.0028 -67.3327,-35.3917 -127.8028,-61.5346 -60.7457,-22.0894 -67.057,-16.567 -63.9014,-7.1002 h -64.4931 l -64.0986,11.8336 -65.4792,27.6117 -62.3236,41.0231 -62.3236,22.8783 -65.4792,14.9892 -63.9013,6.3113 -64.6903,-3.1556 -63.1125,-8.678 -66.2681,-18.9338 -63.1125,-26.0339 -56.01231,-33.134 -57.5902,-50.49 -52.0678,-65.4792 -44.1787,-59.9569 -36.64496,-59.67889 -18.57844,-30.25631 18.9337,-29.9785 32.3452,-16.567 24.73179,-18.54879 19.81037,-18.76323 13.83684,-13.17798 24.4561,-38.6564 19.7226,-44.1787 28.4007,-9.4669 26.0339,14.2003 6.3112,23.6672 40.22191,28.23131 31.5686,20.68089 74.946,-0.7889 80.4684,111.2357 -55.2514,41.5974 -1.0282,21.0701 12.4475,14.806 20.1698,3.777 110.9718,-82.5295 -102.7638,-140.3877 6.9383,-25.8076 21.5329,-15.9463 27.9346,0.6696 150.896,199.4381 95.4576,-70.607 -45.2497,-57.15629"
+           style="fill:none;stroke:#ff0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1">
+          <desc
+             id="desc47541-0">type = end; mode = deck; height = 0; wall_template = BrickWall1; wall_height = 0; top_material = terrain; #separator_height = 1; no_collision_side1; no_collision_side2;</desc>
+        </path>
+      </g>
       <rect
          transform="rotate(-101.31755)"
          inkscape:label="#ladder"
@@ -23777,10 +23800,10 @@
            id="desc9346-0-2-5-7-3-45-1-86-8-7-2-7">height=4; material = BuildingDesert; offset = 0 0.1 0;</desc>
       </rect>
       <rect
-         transform="rotate(36.276728,1562.9214,-511.99999)"
+         transform="rotate(36.276728)"
          inkscape:label="#rect"
-         y="737.92249"
-         x="1124.7778"
+         y="-85.975044"
+         x="518.64313"
          height="13.666006"
          width="39.36834"
          id="buildingrect64-2-2-5-11"
@@ -23789,10 +23812,10 @@
            id="desc9346-0-2-5-7-3-52-5">height=4; material = BuildingDesert;</desc>
       </rect>
       <rect
-         transform="rotate(36.276728,1562.9214,-511.99999)"
+         transform="rotate(36.276728)"
          inkscape:label="#rect"
-         y="721.33606"
-         x="1144.306"
+         y="-102.56147"
+         x="538.17133"
          height="22.256102"
          width="19.490042"
          id="buildingrect64-2-2-22-2"
@@ -23801,10 +23824,10 @@
            id="desc9346-0-2-5-7-3-8-7">height=4; material = BuildingDesert; offset = 0 -0.1 0;</desc>
       </rect>
       <rect
-         transform="rotate(36.276728,1562.9214,-511.99999)"
+         transform="rotate(36.276728)"
          inkscape:label="#rect"
-         y="721.65808"
-         x="1141.5594"
+         y="-102.23945"
+         x="535.42474"
          height="5.9666934"
          width="19.536558"
          id="buildingrect64-2-2-97-7-6"
@@ -23837,10 +23860,10 @@
            id="desc9346-0-2-5-7-3-8-5-1">height=4; material = BuildingDesert; offset = 0 -0.1 0;</desc>
       </rect>
       <rect
-         transform="rotate(36.276728,1562.9214,-511.99999)"
+         transform="rotate(36.276728)"
          inkscape:label="#rect"
-         y="681.74097"
-         x="1141.6851"
+         y="-142.15656"
+         x="535.55035"
          height="18.750114"
          width="19.946222"
          id="buildingrect64-2-2-22-6-6"
@@ -23849,10 +23872,10 @@
            id="desc9346-0-2-5-7-3-8-0-85">height=4; material = BuildingDesert; offset = 0 -0.1 0;</desc>
       </rect>
       <rect
-         transform="rotate(36.276728,1562.9214,-511.99999)"
+         transform="rotate(36.276728)"
          inkscape:label="#rect"
-         y="695.70227"
-         x="1144.8602"
+         y="-128.19525"
+         x="538.72552"
          height="20.158707"
          width="16.740267"
          id="buildingrect64-2-2-22-7-76"
