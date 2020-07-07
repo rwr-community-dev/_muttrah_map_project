@@ -24,10 +24,10 @@ Note: *Sector names enclosed in brackets are subject to change, whilst work is o
 
 | Sector Name | Contributor |
 | ----------- | ----------- |
-| SUBURBS | *pending* |
+| SUBURBS | Robert Augustus |
 | FORT | *pending* |
 | (SCD EAST) | *pending* |
-| (WALL) | *pending* |
+| (WALL) | Robert Augustus |
 | (SOUTH CITY DISTRICT) | *pending* |
 | (CHOKE POINT BASTION) | *pending* |
 | WEST CITY DISTRICT | *pending* |
@@ -39,5 +39,5 @@ Note: *Sector names enclosed in brackets are subject to change, whilst work is o
 | (NW CD) | *pending* |
 | (NORTHERN INSURGENT CAMPS) | *pending* |
 | BAZAAR | *pending* |
-| DOCKS | *pending* |
+| DOCKS | MR. BANG |
 | LIGHT HOUSE | *pending* |
