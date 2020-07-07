@@ -10,7 +10,7 @@
 
 ## About
 
-A community-driven project involving multiple modders from the RWR community. Each contributor has created a portion of the larger map (see [work_sectors](#Work-Sectors)).
+A community-driven project involving multiple modders from the RWR community. Each contributor has created a portion of the larger map (see [Work Sectors](#work-sectors)).
 
 ## Usage
 
