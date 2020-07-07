@@ -1,6 +1,10 @@
 # Exclude any executables (such as the ImageMagick {composite,convert}.exe programs)
 *.exe
 
+# Exclude intermediate map overlay pngs (keeping terrain5_*.png and map.png)
+_*.png
+effect_*.png
+
 # Exclude ImageMagick logs
 Magick*.log
 
