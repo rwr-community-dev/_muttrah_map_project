@@ -11,6 +11,7 @@
 ## About
 
 A community-driven project involving multiple modders from the RWR community. Each contributor has created a portion of the larger map (see [Work Sectors](#work-sectors)).
+![map.png](maps/map18/map.png)
 
 ## Usage
 
@@ -28,7 +29,7 @@ Note: *Sector names enclosed in brackets are subject to change, whilst work is o
 | Sector Name | Contributor |
 | ----------- | ----------- |
 | SUBURBS | Robert Augustus |
-| FORT | *pending* |
+| FORT | [ComradeCheekiBreeki](https://github.com/ComradeCheekiBreeki) |
 | (SCD EAST) | *pending* |
 | (WALL) | Robert Augustus |
 | (SOUTH CITY DISTRICT) | *pending* |
@@ -42,5 +43,5 @@ Note: *Sector names enclosed in brackets are subject to change, whilst work is o
 | (NW CD) | *pending* |
 | (NORTHERN INSURGENT CAMPS) | *pending* |
 | BAZAAR | *pending* |
-| DOCKS | MR. BANG |
+| DOCKS | [david-wm-sanders <MR. BANG>](https://github.com/david-wm-sanders) |
 | LIGHT HOUSE | *pending* |
