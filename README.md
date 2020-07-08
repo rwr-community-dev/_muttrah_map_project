@@ -28,10 +28,10 @@ Note: *Sector names enclosed in brackets are subject to change, whilst work is o
 
 | Sector Name | Contributor |
 | ----------- | ----------- |
-| SUBURBS | Robert Augustus |
+| SUBURBS | [Robert Augustus](https://github.com/RobertAugustus) |
 | FORT | [ComradeCheekiBreeki](https://github.com/ComradeCheekiBreeki) |
 | (SCD EAST) | *pending* |
-| (WALL) | Robert Augustus |
+| (WALL) | [Robert Augustus](https://github.com/RobertAugustus) |
 | (SOUTH CITY DISTRICT) | *pending* |
 | (CHOKE POINT BASTION) | *pending* |
 | WEST CITY DISTRICT | *pending* |
