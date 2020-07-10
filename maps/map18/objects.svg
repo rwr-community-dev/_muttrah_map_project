@@ -15,7 +15,7 @@
    height="2048"
    id="svg2"
    version="1.1"
-   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
    sodipodi:docname="objects.svg"
    inkscape:export-filename="D:\DEVELOPMENT\Running with rifles TEST\media\packages\vanilla\maps\map1\zones.png"
    inkscape:export-xdpi="90"
@@ -30,11 +30,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.305216"
-     inkscape:cx="-2352.6018"
-     inkscape:cy="1425.0163"
+     inkscape:zoom="4.883456"
+     inkscape:cx="1377.2017"
+     inkscape:cy="1155.0999"
      inkscape:document-units="px"
-     inkscape:current-layer="layer29"
+     inkscape:current-layer="layer2"
      showgrid="true"
      inkscape:window-width="1680"
      inkscape:window-height="949"
@@ -19383,31 +19383,6 @@ walkable = 1;</desc>
            sodipodi:nodetypes="ccccccccccccccccc">
           <desc
              id="desc7945-3-9-7-6-96-0-1-94">type = start; mode = dock;</desc>
-        </path>
-      </g>
-      <g
-         transform="translate(0.50679,0.2172)"
-         style="display:inline;enable-background:new"
-         id="g6349">
-        <path
-           sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccc"
-           inkscape:label="#path47537_platform"
-           inkscape:connector-curvature="0"
-           id="path3978"
-           d="m 2174.5701,1355.5404 -60.6673,-29.0028 -67.3327,-35.3917 -127.8028,-61.5346 -60.7457,-22.0894 -67.057,-16.567 -63.9014,-7.1002 h -64.4931 l -64.0986,11.8336 -64.1547,29.0405 -62.3236,41.0231 -62.3236,22.8783 -65.4792,14.9892 -63.9013,6.3113 -64.6903,-3.1556 -63.1125,-8.678 -66.2681,-18.9338 -63.1125,-26.0339 -71.63188,-38.7124 -51.90636,-52.7181 -52.0678,-65.4792 -44.1787,-59.9569 -35.5008,-59.16787 -21.95395,-34.11434 23.39643,-41.13532 32.3452,-16.567 25.15913,-18.66972 18.5954,-18.72416 19.29022,-19.42379 22.55151,-42.46558 15.81772,-33.81078 34.91978,-13.23644 35.64093,17.5077 11.60251,28.56404 38.30296,25.81669 23.2549,15.64054 77.7516,0.45052 88.8196,121.71093 -59.0489,46.42655 -0.4819,12.96153 7.0721,9.6782 13.7908,4.5939 99.5162,-75.44095 -103.0789,-142.67514 12.8599,-36.93837 20.6319,-12.31212 45.6898,0.34564 144.0734,193.46043 74.2324,-52.87104 -37.6394,-46.81794"
-           style="fill:none;stroke:#0000ff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1">
-          <desc
-             id="desc3976">type = start;</desc>
-        </path>
-        <path
-           sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccc"
-           inkscape:label="#path47539_platform"
-           inkscape:connector-curvature="0"
-           id="path3982"
-           d="m 2176,1344 -60.6673,-29.0028 -67.3327,-35.3917 -127.8028,-61.5346 -60.7457,-22.0894 -67.057,-16.567 -63.9014,-7.1002 H 1664 l -64.0986,11.8336 -65.4792,27.6117 -62.3236,41.0231 -62.3236,22.8783 -65.4792,14.9892 -63.9013,6.3113 -64.6903,-3.1556 -63.1125,-8.678 -66.2681,-18.9338 -63.1125,-26.0339 -56.0123,-33.134 -57.5902,-50.49 -52.0678,-65.4792 -44.1787,-59.9569 -36.64496,-59.67889 -18.57844,-30.25631 18.9337,-29.9785 32.3452,-16.567 24.73179,-18.54879 19.81037,-18.76323 13.83684,-13.17798 24.4561,-38.6564 19.7226,-44.1787 28.4007,-9.4669 26.0339,14.2003 6.3112,23.6672 40.2219,28.23131 31.5686,20.68089 74.946,-0.7889 80.4684,111.2357 -55.2514,41.5974 -1.0282,21.0701 12.4475,14.806 20.1698,3.777 110.9718,-82.5295 -102.7638,-140.3877 6.9383,-25.8076 21.5329,-15.9463 27.9346,0.6696 150.896,199.4381 95.4576,-70.607 -45.2497,-57.15629"
-           style="fill:none;stroke:#ff0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1">
-          <desc
-             id="desc3980">type = end; mode = deck; height = 0; wall_template = BrickWall1; wall_height = 0; top_material = terrain; #separator_height = 1; no_collision_side1; no_collision_side2;</desc>
         </path>
       </g>
       <g
