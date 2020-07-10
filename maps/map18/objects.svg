@@ -15,7 +15,7 @@
    height="2048"
    id="svg2"
    version="1.1"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
    sodipodi:docname="objects.svg"
    inkscape:export-filename="D:\DEVELOPMENT\Running with rifles TEST\media\packages\vanilla\maps\map1\zones.png"
    inkscape:export-xdpi="90"
@@ -30,11 +30,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="6.9062498"
-     inkscape:cx="1424.7893"
-     inkscape:cy="1245.7255"
+     inkscape:zoom="2.441728"
+     inkscape:cx="154.53566"
+     inkscape:cy="693.88153"
      inkscape:document-units="px"
-     inkscape:current-layer="layer8"
+     inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:window-width="1680"
      inkscape:window-height="949"
@@ -13080,7 +13080,7 @@ show_base_names_in_map_view = 0;</desc>
     </rect>
     <path
        style="display:inline;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new"
-       d="M 2696.3825,151.76592 V 626.52324"
+       d="m 2696.3825,151.76592 0,540.28468"
        id="path8566-5-8-1-1"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
@@ -14542,43 +14542,43 @@ show_base_names_in_map_view = 0;</desc>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
-       x="2744.5881"
-       y="636.8808"
+       x="2742.95"
+       y="625.41351"
        id="text4275"><tspan
          sodipodi:role="line"
-         x="2744.5881"
-         y="636.8808"
+         x="2742.95"
+         y="625.41351"
          id="tspan4263"
          style="font-size:12px;line-height:0.0001"> <tspan
-   x="2744.5881"
-   y="636.8808"
+   x="2742.95"
+   y="625.41351"
    style="display:inline;enable-background:new"
    id="tspan4259" /><tspan
-   x="2794.2522"
-   y="636.8808"
+   x="2792.614"
+   y="625.41351"
    style="display:inline;enable-background:new"
    id="tspan4261" /></tspan><tspan
          sodipodi:role="line"
-         x="2744.5881"
-         y="649.3808"
+         x="2742.95"
+         y="637.91351"
          id="tspan4269"
          style="line-height:0.0001"><tspan
-           x="2744.5881"
-           y="649.3808"
+           x="2742.95"
+           y="637.91351"
            style="font-size:10px;line-height:1.25;font-family:sans-serif"
            id="tspan4265">mortar ammo </tspan><tspan
            dx="0"
-           x="2813.6702"
-           y="649.3808"
+           x="2812.032"
+           y="637.91351"
            style="font-size:10px;line-height:1.25;font-family:sans-serif"
            id="tspan4267" /></tspan><tspan
          sodipodi:role="line"
-         x="2744.5881"
-         y="649.3808"
+         x="2742.95"
+         y="637.91351"
          id="tspan4273"
          style="font-size:12px;line-height:0.0001"><tspan
-           x="2744.5881"
-           y="656.15094"
+           x="2742.95"
+           y="644.68365"
            style="display:inline;enable-background:new"
            id="tspan4271" /></tspan></text>
     <rect
@@ -17267,6 +17267,104 @@ walkable = 1;</desc>
          id="desc7569-9-3-1-4-4-6-4-8-6-6-2-7-9-2-0-9-6">template = train boxcar;
 </desc>
     </rect>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
+       x="2742.9097"
+       y="612.58331"
+       id="text107814-3"><tspan
+         sodipodi:role="line"
+         id="tspan107816-8"
+         x="2742.9097"
+         y="612.58331"
+         style="font-size:10px;line-height:1.25;font-family:sans-serif">water tower</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
+       x="2742.9097"
+       y="585.55328"
+       id="text107814-0"><tspan
+         sodipodi:role="line"
+         id="tspan107816-2"
+         x="2742.9097"
+         y="585.55328"
+         style="font-size:10px;line-height:1.25;font-family:sans-serif">anti-air</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
+       x="2744.2646"
+       y="421.58472"
+       id="text68610-4"><tspan
+         sodipodi:role="line"
+         id="tspan68612-8"
+         x="2744.2646"
+         y="421.58472"
+         style="font-size:10px;line-height:1.25;font-family:sans-serif">mobile armoury</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
+       x="2741.75"
+       y="232.52461"
+       id="text43065-3"><tspan
+         sodipodi:role="line"
+         id="tspan43067-9"
+         x="2741.75"
+         y="232.52461"
+         style="font-size:10px;line-height:1.25;font-family:sans-serif">APC</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
+       x="2740.9309"
+       y="198.94183"
+       id="text43065-0"><tspan
+         sodipodi:role="line"
+         id="tspan43067-5"
+         x="2740.9309"
+         y="198.94183"
+         style="font-size:10px;line-height:1.25;font-family:sans-serif">armoured truck</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
+       x="2741.75"
+       y="166.17815"
+       id="text43065-2"><tspan
+         sodipodi:role="line"
+         id="tspan43067-2"
+         x="2741.75"
+         y="166.17815"
+         style="font-size:10px;line-height:1.25;font-family:sans-serif">jeep</tspan></text>
+    <rect
+       transform="rotate(-0.00852511)"
+       inkscape:label=""
+       y="657.02234"
+       x="2668.1958"
+       height="2.7343748"
+       width="2.7343748"
+       id="spawn6969-30-4"
+       style="display:inline;fill:#ff00ff;fill-opacity:1;fill-rule:nonzero;stroke:#800000;stroke-width:1.79999995;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:new">
+      <desc
+         id="desc26444-1-2">type = vehicle; key = deployable_mg.vehicle;</desc>
+    </rect>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
+       x="2741.4951"
+       y="648.44843"
+       id="text4275-7"><tspan
+         sodipodi:role="line"
+         x="2741.4951"
+         y="648.44843"
+         id="tspan4263-3"
+         style="font-size:12px;line-height:0.0001"> </tspan><tspan
+         sodipodi:role="line"
+         x="2741.4951"
+         y="660.94843"
+         id="tspan4273-9"
+         style="font-size:12px;line-height:0.0001"><tspan
+           x="2741.4951"
+           y="660.94843"
+           style="font-size:10px;line-height:1.25;font-family:sans-serif"
+           id="tspan4265-2">deployable MG</tspan></tspan></text>
   </g>
   <g
      style="display:inline"
@@ -17315,7 +17413,7 @@ walkable = 1;</desc>
     <rect
        y="150.86073"
        x="2660.2458"
-       height="502.13416"
+       height="543.08875"
        width="18.871338"
        id="rect43431-1"
        style="display:inline;fill:#ffff00;fill-opacity:0.07843137;fill-rule:nonzero;stroke:#ff0000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:new" />
@@ -18097,8 +18195,7 @@ walkable = 1;</desc>
      style="display:none"
      inkscape:label="alpha_rocky_mountain"
      id="layer32"
-     inkscape:groupmode="layer"
-     sodipodi:insensitive="true">
+     inkscape:groupmode="layer">
     <path
        inkscape:connector-curvature="0"
        id="path47195"
@@ -18548,12 +18645,48 @@ walkable = 1;</desc>
        id="path1133_navigation-7-1-39"
        d="m 369.51984,1096.8105 76.70244,-1.2593"
        style="display:inline;fill:none;stroke:#956011;stroke-width:8;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter11732);enable-background:new" />
+    <path
+       inkscape:label="#path1133"
+       sodipodi:nodetypes="cccccc"
+       inkscape:connector-curvature="0"
+       id="path1133_navigation-7-1-39-7"
+       d="m 221.1239,1052.1409 13.1602,22.3599 42.32981,3.3446 30.14093,44.8432 39.22212,-5.049 23.54304,-20.8286"
+       style="display:inline;fill:none;stroke:#956011;stroke-width:8;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter11732);enable-background:new" />
+    <path
+       inkscape:label="#path1133"
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path1133_navigation-7-1-39-9"
+       d="m 301.00024,1246.7736 -24.41936,-19.7175 -6.76494,-17.7236 19.49269,-41.8378 16.09839,-43.6619"
+       style="display:inline;fill:none;stroke:#956011;stroke-width:8;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter11732);enable-background:new" />
+    <path
+       inkscape:label="#path1133"
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path1133_navigation-7-1-39-8"
+       d="m 187.82074,1013.6251 25.08751,8.4005 66.41045,-22.20905 45.58479,4.89825 24.18078,17.4972"
+       style="display:inline;fill:none;stroke:#956011;stroke-width:8;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter11732);enable-background:new" />
+    <path
+       inkscape:label="#path1133"
+       sodipodi:nodetypes="cccccccc"
+       inkscape:connector-curvature="0"
+       id="path1133_navigation-7-1-39-6"
+       d="m 220.07232,1411.3761 -39.04027,9.6382 -35.20552,-7.6483 -0.81272,-34.0969 19.12402,-45.6311 22.28044,-21.8674 22.07849,4.4256 26.43654,22.25"
+       style="display:inline;fill:none;stroke:#956011;stroke-width:8;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter11732);enable-background:new" />
+    <path
+       inkscape:label="#path1133"
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path1133_navigation-7-1-39-62"
+       d="m 151.04245,1435.8514 8.35855,-16.6078"
+       style="display:inline;fill:none;stroke:#956011;stroke-width:8;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter11732);enable-background:new" />
   </g>
   <g
-     style="display:inline;opacity:0.18000004"
+     style="display:none;opacity:0.18000004"
      inkscape:label="bases"
      id="layer37"
-     inkscape:groupmode="layer">
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true">
     <rect
        style="display:inline;opacity:0.72566373;fill:#b9b900;fill-opacity:1;stroke:none;enable-background:new"
        id="rect4874-8-3-4-9-1"
@@ -18568,20 +18701,21 @@ walkable = 1;</desc>
     <rect
        style="display:inline;opacity:0.72566373;fill:#b9b900;fill-opacity:1;stroke:none;enable-background:new"
        id="rect4874-8-3-4-9-7"
-       width="75.601196"
-       height="155.88782"
-       x="236.00046"
-       y="1036.3444"
+       width="121.47035"
+       height="151.38281"
+       x="190.1313"
+       y="1040.8494"
        inkscape:label="#rect11324_base">
       <desc
          id="desc4876-3-4-6-4-9">name=Crane;</desc>
     </rect>
   </g>
   <g
-     style="display:inline"
+     style="display:none"
      inkscape:label="map_view_decoration"
      id="layer38"
-     inkscape:groupmode="layer">
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true">
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:0.7;fill:#ffffff;fill-opacity:1;stroke:none;filter:url(#filter4081-1-5-4-8-0);enable-background:new"
@@ -18612,13 +18746,13 @@ walkable = 1;</desc>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:0.7;fill:#ffffff;fill-opacity:1;stroke:none;filter:url(#filter4081-1-5-4-8-0-4-8-1);enable-background:new"
-       x="1781.1522"
-       y="1903.76"
+       x="1811.2699"
+       y="1878.2759"
        id="text8384-4-2-2-2-4"><tspan
          id="tspan31718-7-3-5"
          sodipodi:role="line"
-         x="1781.1522"
-         y="1903.76"
+         x="1811.2699"
+         y="1878.2759"
          style="font-size:30px;line-height:1.15999997;font-family:sans-serif">SUBURBS</tspan></text>
     <text
        xml:space="preserve"
@@ -18720,16 +18854,17 @@ walkable = 1;</desc>
          style="font-size:30px;line-height:1.15999997;font-family:sans-serif">BAZAAR</tspan></text>
   </g>
   <g
-     style="display:inline"
+     style="display:none"
      inkscape:label="map_view_bases"
      id="layer39"
-     inkscape:groupmode="layer">
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true">
     <rect
        inkscape:label="#rect11324_base"
-       y="1036.9321"
-       x="238.59883"
-       height="154.1546"
-       width="73.857315"
+       y="1041.5096"
+       x="192.32724"
+       height="149.57703"
+       width="120.12891"
        id="rect91923-3"
        style="display:inline;opacity:0.5;fill:none;stroke:#c9c9c9;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:4.99999988, 4.99999988;stroke-dashoffset:0;stroke-opacity:1;enable-background:new"
        transform="rotate(0.08978138)">
@@ -19311,8 +19446,8 @@ walkable = 1;</desc>
       <rect
          transform="rotate(-57.699593)"
          inkscape:label="#ladder"
-         y="875.31696"
-         x="-870.44647"
+         y="882.76447"
+         x="-868.13654"
          height="1.0750006"
          width="3.1491213"
          id="rect7651-13-5-8-6-4-4-09-23-4-8-0-4-6"
@@ -19320,8 +19455,8 @@ walkable = 1;</desc>
       <rect
          transform="rotate(-58.479206)"
          inkscape:label="#ladder"
-         y="862.66925"
-         x="-800.29718"
+         y="870.14752"
+         x="-798.08881"
          height="1.0750006"
          width="3.1491213"
          id="rect7651-13-5-8-6-4-4-09-23-4-8-0-4-5"
@@ -19385,29 +19520,6 @@ walkable = 1;</desc>
            sodipodi:nodetypes="ccccccccccc">
           <desc
              id="desc7945-3-9-7-6-96-0-1-5-6">type = start;</desc>
-        </path>
-      </g>
-      <g
-         id="g7961">
-        <path
-           style="display:inline;fill:none;stroke:#800000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new"
-           d="m 1438.9791,834.39203 22.3695,2.13283 8.3751,-3.01265 3.6784,-5.94296 2.1997,-11.12657 0.4319,-12.65282 -11.7231,-14.76123 -21.5293,-27.30601 -23.6811,-30.23999 -24.0662,-30.13986 -12.5217,-15.68982 -17.126,-9.25086 -11.3889,-3.61008 -13.6441,11.05568 0.961,12.63821 4.7398,14.77865 -1.018,4.12246"
-           id="path7943-7-4-7-5-5-4-7"
-           inkscape:connector-curvature="0"
-           inkscape:label="#path7943_platform"
-           sodipodi:nodetypes="ccccccccccccccccc">
-          <desc
-             id="desc7945-4-0-2-6-8-7-4">type = end; height = 0.0; base_wall_template = InvisibleWall; wall_template = DummyWall1; wall_height = 0.0; top_material = none; wall_merge = 1; no_collision_side2; no_collision_side1; #no_collision_start; #no_collision_end;</desc>
-        </path>
-        <path
-           style="display:inline;fill:none;stroke:#0050ff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new"
-           d="m 1431.8279,826.01783 -17.1463,-21.87177 -6.1241,-7.34015 -4.0548,-5.4662 -4.9295,-5.41888 -3.8706,-4.18122 -3.981,-4.77093 -3.1425,-3.9336 -4.0118,-4.68128 -3.3109,-3.99593 -2.7705,-3.75355 -1.4791,-1.83406 -1.4905,-1.84682 -2.2014,-2.92865 -2.9191,-4.82244 -5.1903,-7.39414 -13.7456,-17.60005"
-           id="path7943-1-0-1-5-0-4-2-0"
-           inkscape:connector-curvature="0"
-           inkscape:label="#path7943_platform"
-           sodipodi:nodetypes="ccccccccccccccccc">
-          <desc
-             id="desc7945-3-9-7-6-96-0-1-94">type = start; mode = dock;</desc>
         </path>
       </g>
       <g
@@ -19562,8 +19674,8 @@ walkable = 1;</desc>
          id="spawn5_3-5-5"
          width="5.7888808"
          height="6.6684999"
-         x="-944.78204"
-         y="-835.77039"
+         x="-952.13593"
+         y="-833.17767"
          inkscape:label=""
          transform="rotate(-145.51081)">
         <desc
@@ -20688,8 +20800,8 @@ walkable = 1;</desc>
       <rect
          transform="rotate(-149.17763)"
          inkscape:label="#rect"
-         y="15.828939"
-         x="-352.34937"
+         y="17.946011"
+         x="-359.854"
          height="34.830471"
          width="28.075766"
          id="buildingrect64-2-2-99-8-3-2"
@@ -20700,8 +20812,8 @@ walkable = 1;</desc>
       <rect
          transform="rotate(-149.17763)"
          inkscape:label="#rect"
-         y="46.493958"
-         x="-358.68726"
+         y="48.611031"
+         x="-366.19189"
          height="15.759748"
          width="19.158716"
          id="buildingrect64-2-2-99-24-3-5"
@@ -20712,8 +20824,8 @@ walkable = 1;</desc>
       <rect
          transform="rotate(-149.17763)"
          inkscape:label="#rect"
-         y="59.574749"
-         x="-353.32779"
+         y="61.691822"
+         x="-360.83243"
          height="16.715849"
          width="22.670961"
          id="buildingrect64-2-2-99-9-1-19"
@@ -20724,8 +20836,8 @@ walkable = 1;</desc>
       <rect
          transform="rotate(-149.17763)"
          inkscape:label="#rect"
-         y="2.365675"
-         x="-360.0061"
+         y="4.4827466"
+         x="-367.51074"
          height="24.03977"
          width="21.392494"
          id="buildingrect64-2-2-99-24-3-8-9"
@@ -20736,8 +20848,8 @@ walkable = 1;</desc>
       <rect
          transform="rotate(-149.17763)"
          inkscape:label="#rect"
-         y="-17.48485"
-         x="-350.88782"
+         y="-15.367778"
+         x="-358.39246"
          height="25.856926"
          width="20.363457"
          id="buildingrect64-2-2-99-24-3-1-7"
@@ -25360,6 +25472,31 @@ walkable = 1;</desc>
         <desc
            id="desc6851-7-7-1-7-9-8">template = armory;</desc>
       </rect>
+      <g
+         style="display:inline;enable-background:new"
+         id="g7961"
+         transform="translate(0,-1024)">
+        <path
+           style="display:inline;fill:none;stroke:#800000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new"
+           d="m 1438.9791,834.39203 22.3695,2.13283 8.3751,-3.01265 3.6784,-5.94296 2.1997,-11.12657 0.4319,-12.65282 -11.7231,-14.76123 -21.5293,-27.30601 -23.6811,-30.23999 -24.0662,-30.13986 -12.5217,-15.68982 -17.126,-9.25086 -11.3889,-3.61008 -13.6441,11.05568 0.961,12.63821 4.7398,14.77865 -1.018,4.12246"
+           id="path7943-7-4-7-5-5-4-7"
+           inkscape:connector-curvature="0"
+           inkscape:label="#path7943_platform"
+           sodipodi:nodetypes="ccccccccccccccccc">
+          <desc
+             id="desc7945-4-0-2-6-8-7-4">type = end; height = 0.0; base_wall_template = InvisibleWall; wall_template = DummyWall1; wall_height = 0.0; top_material = none; wall_merge = 1; no_collision_side2; no_collision_side1; #no_collision_start; #no_collision_end;</desc>
+        </path>
+        <path
+           style="display:inline;fill:none;stroke:#0050ff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new"
+           d="m 1431.8279,826.01783 -17.1463,-21.87177 -6.1241,-7.34015 -4.0548,-5.4662 -4.9295,-5.41888 -3.8706,-4.18122 -3.981,-4.77093 -3.1425,-3.9336 -4.0118,-4.68128 -3.3109,-3.99593 -2.7705,-3.75355 -1.4791,-1.83406 -1.4905,-1.84682 -2.2014,-2.92865 -2.9191,-4.82244 -5.1903,-7.39414 -13.7456,-17.60005"
+           id="path7943-1-0-1-5-0-4-2-0"
+           inkscape:connector-curvature="0"
+           inkscape:label="#path7943_platform"
+           sodipodi:nodetypes="ccccccccccccccccc">
+          <desc
+             id="desc7945-3-9-7-6-96-0-1-94">type = start; mode = dock;</desc>
+        </path>
+      </g>
     </g>
     <g
        style="display:inline;opacity:0.44900004"
@@ -25473,7 +25610,7 @@ merge = 1;</desc>
          inkscape:connector-curvature="0"
          inkscape:label=""
          id="wall19-8-6-7-56-5-1-7-6"
-         d="m 320.77423,1197.186 -8.91739,14.788 -7.80112,-4.5839 -10.08316,17.5371 -20.1918,-12.1141"
+         d="m 328.30364,1199.2131 -8.91739,14.788 -7.80112,-4.5839 -10.08316,17.5371 -20.1918,-12.1141"
          style="display:inline;opacity:0.56300001;fill:none;stroke:#595034;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new">
         <desc
            id="desc29111-1-4-8-9-2">template = CorrugatedFence;</desc>
@@ -25708,17 +25845,17 @@ merge = 1;</desc>
          style="display:inline;fill:#0000fe;fill-opacity:1;stroke:none;enable-background:new" />
       <rect
          inkscape:label="#spawnrect10748"
-         y="224.73735"
-         x="6.0164666"
+         y="462.99896"
+         x="-979.33594"
          height="2.0679491"
          width="2.2977724"
          id="rect10748-1-0-1-7-76-86-1-8-76-9-4-7-6-0-9"
          style="display:inline;fill:#0000fe;fill-opacity:1;stroke:none;enable-background:new"
-         transform="rotate(-77.470546,638.27479,512)" />
+         transform="rotate(-77.470546)" />
       <rect
          inkscape:label="#spawnrect10748"
-         y="525.39026"
-         x="-1025.6985"
+         y="523.34863"
+         x="-1033.8654"
          height="2.0679491"
          width="2.2977724"
          id="rect10748-1-0-1-7-76-86-1-8-76-9-4-7-6-0-9-7"
@@ -25726,8 +25863,8 @@ merge = 1;</desc>
          transform="rotate(-77.470546)" />
       <rect
          inkscape:label="#spawnrect10748"
-         y="510.53253"
-         x="-986.87506"
+         y="508.742"
+         x="-977.48328"
          height="2.0679491"
          width="2.2977724"
          id="rect10748-1-0-1-7-76-86-1-8-76-9-4-7-6-0-9-9"
@@ -25735,8 +25872,8 @@ merge = 1;</desc>
          transform="rotate(-77.470546)" />
       <rect
          inkscape:label="#spawnrect10748"
-         y="520.02008"
-         x="-1120.3392"
+         y="513.73798"
+         x="-1124.1086"
          height="2.0679491"
          width="2.2977724"
          id="rect10748-1-0-1-7-76-86-1-8-76-9-4-7-6-0-9-3"
@@ -25788,7 +25925,7 @@ merge = 1;</desc>
          inkscape:label=""
          inkscape:connector-curvature="0"
          id="wall26971-7-8-3"
-         d="m 319.95962,1163.7994 0.73917,4.8587 -3.73098,5.6441 -4.31781,1.7256"
+         d="m 327.48903,1165.8265 0.73917,4.8587 -3.73098,5.6441 -4.31781,1.7256"
          style="display:inline;fill:none;stroke:#000000;stroke-width:2;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new">
         <desc
            id="desc26973-5-8-8">template = SandbagWall1;</desc>
@@ -26100,8 +26237,8 @@ merge = 1;</desc>
          transform="rotate(-64.927018)" />
       <rect
          inkscape:label="#spawnrect10748"
-         y="549.48285"
-         x="-1074.0394"
+         y="557.27271"
+         x="-1074.3849"
          height="2.0679491"
          width="2.2977724"
          id="rect10748-1-0-1-7-76-86-1-8-76-9-4-7-6-0-9-3-2"
@@ -26223,16 +26360,52 @@ merge = 1;</desc>
            id="desc7082-7-40-0">type = vehicle; tag = jeep;</desc>
       </rect>
       <rect
-         transform="rotate(161.45203)"
+         transform="rotate(-20.549233)"
          inkscape:label=""
-         y="-1074.1404"
-         x="123.14311"
+         y="1061.7214"
+         x="-164.43056"
          height="7.3961515"
          width="3.982286"
          id="spawn1-3-7-8"
          style="display:inline;fill:#007cff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:11.99999956, 11.99999956;stroke-dashoffset:4.5999999;stroke-opacity:1;enable-background:new">
         <desc
            id="desc7082-7-40-4">type = vehicle; tag = jeep;</desc>
+      </rect>
+      <rect
+         transform="rotate(-98.859842)"
+         inkscape:label=""
+         y="160.1602"
+         x="-1108.1152"
+         height="2.7343748"
+         width="2.7343748"
+         id="spawn6969-30-4-7"
+         style="display:inline;fill:#ff00ff;fill-opacity:1;fill-rule:nonzero;stroke:#800000;stroke-width:1.79999995;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:new">
+        <desc
+           id="desc26444-1-2-0">type = vehicle; key = deployable_mg.vehicle;</desc>
+      </rect>
+      <rect
+         transform="rotate(-55.463843)"
+         inkscape:label=""
+         y="929.41864"
+         x="-783.04535"
+         height="2.7343748"
+         width="2.7343748"
+         id="spawn6969-30-4-3"
+         style="display:inline;fill:#ff00ff;fill-opacity:1;fill-rule:nonzero;stroke:#800000;stroke-width:1.79999995;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:new">
+        <desc
+           id="desc26444-1-2-9">type = vehicle; key = deployable_mg.vehicle;</desc>
+      </rect>
+      <rect
+         transform="rotate(-140.36665)"
+         inkscape:label=""
+         y="-1008.3965"
+         x="-1033.3594"
+         height="7.3961515"
+         width="3.982286"
+         id="spawn1-3-7-8-5"
+         style="display:inline;fill:#007cff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:11.99999956, 11.99999956;stroke-dashoffset:4.5999999;stroke-opacity:1;enable-background:new">
+        <desc
+           id="desc7082-7-40-4-7">type = vehicle; tag = jeep;</desc>
       </rect>
     </g>
   </g>
