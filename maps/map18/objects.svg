@@ -30,9 +30,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.7265625"
-     inkscape:cx="1157.3799"
-     inkscape:cy="1356.8464"
+     inkscape:zoom="3.4531249"
+     inkscape:cx="1422.3076"
+     inkscape:cy="1251.82"
      inkscape:document-units="px"
      inkscape:current-layer="layer34"
      showgrid="true"
@@ -18134,7 +18134,7 @@ walkable = 1;</desc>
        inkscape:connector-curvature="0" />
     <path
        style="fill:#cccccc;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 973.43345,790.38166 71.72795,48.43371 74.947,-1.84295 80.6805,111.80606 -55.0839,42.79756 -1.4334,19.65816 13.1055,15.5628 19.2486,3.4811 110.987,-82.93303 -102.7961,-139.85997 6.5528,-25.8014 21.7059,-16.17706 28.4635,0.40954 150.9177,199.03937 95.0146,-69.8276 -207.8446,-262.10945 18.8391,-76.99466 -97.5361,-22.4899 -37.4093,220.71018 -101.9769,36.85914 -48.8206,-42.57476 z"
+       d="m 970.60585,790.88951 73.66915,50.23746 74.5499,-1.10568 79.0475,108.64237 -54.5932,41.24934 -1.2798,22.6347 13.4353,16.2217 21.6254,4.0178 113.4141,-84.47096 -103.3007,-141.2831 6.4133,-24.13837 20.29,-14.82119 26.2037,0.51193 151.924,200.3051 99.5766,-73.20831 -208.6514,-263.36295 18.8093,-78.52744 -100.1952,-21.17945 -38.0236,221.63166 -101.9769,36.85914 -48.8206,-42.57476 z"
        id="path4374"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccccccccccccccccccc" />
@@ -25430,7 +25430,7 @@ merge = 1;</desc>
       <path
          inkscape:label=""
          id="wall10574-4"
-         d="m 994.67414,804.96457 -21.19285,-15.23346 -6.3112,-23.6672 -26.61309,-14.2003 -28.4007,9.4669 -19.7226,44.1787 -24.4561,38.6564 -13.83684,13.17798"
+         d="m 994.72533,804.7086 -21.24404,-14.97749 -6.3112,-23.6672 -26.61309,-14.2003 -28.4007,9.4669 -19.7226,44.1787 -24.4561,38.6564 -13.83684,13.17798"
          style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:new"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cccccccc">
@@ -26253,7 +26253,7 @@ merge = 1;</desc>
      inkscape:groupmode="layer"
      id="layer46"
      inkscape:label="work_sectors"
-     style="display:inline"
+     style="display:none"
      sodipodi:insensitive="true">
     <path
        style="display:inline;fill:none;stroke:#ff0000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:20, 10;stroke-dashoffset:0;stroke-opacity:1;enable-background:new"
