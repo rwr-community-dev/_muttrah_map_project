@@ -30,11 +30,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="6.9062498"
-     inkscape:cx="1376.443"
-     inkscape:cy="1270.6179"
+     inkscape:zoom="2.441728"
+     inkscape:cx="1129.4395"
+     inkscape:cy="1313.829"
      inkscape:document-units="px"
-     inkscape:current-layer="layer16"
+     inkscape:current-layer="layer34"
      showgrid="true"
      inkscape:window-width="1680"
      inkscape:window-height="949"
@@ -10258,7 +10258,7 @@ show_base_names_in_map_view = 0;</desc>
          style="font-size:40px;line-height:1.25;font-family:sans-serif">templates</tspan></text>
     <path
        style="display:inline;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new"
-       d="m 2745.2128,841.3138 0,1200.6254"
+       d="M 2745.2128,841.3138 V 2041.9392"
        id="path8566"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
@@ -10699,7 +10699,7 @@ show_base_names_in_map_view = 0;</desc>
          id="title9786-13-5-7-8-6">venus</title>
     </rect>
     <rect
-       transform="rotate(0.07879261,-1918532.9,3935810.6)"
+       transform="rotate(0.07879261,-1918532.9,3935810.2)"
        inkscape:label="#mesh_template"
        y="-1522.1748"
        x="-2658.7271"
@@ -10711,7 +10711,7 @@ show_base_names_in_map_view = 0;</desc>
          id="desc10092-7-0-4-9-8-24">name = sunchair_red; mesh_name = sunchair.mesh; texture0 = world_atlas1.png; texture0_atlas_cell = 7 1 32 32; collision_model_type = 1; collision_model_size = 1.3 1.5 1.6; penetrability = 0.7; see_through = 1</desc>
     </rect>
     <rect
-       transform="rotate(0.00494255,-30581037,62856068)"
+       transform="rotate(0.00494255,-30581037,62850797)"
        inkscape:label="#mesh_template"
        y="-1522.1748"
        x="-2658.7271"
@@ -13527,7 +13527,7 @@ show_base_names_in_map_view = 0;</desc>
        height="46.488449"
        width="45.429886"
        id="rect91923"
-       style="display:inline;opacity:0.5;fill:none;stroke:#c9c9c9;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:4.99999988, 4.99999987999999984;stroke-dashoffset:0;stroke-opacity:1;enable-background:new"
+       style="display:inline;opacity:0.5;fill:none;stroke:#c9c9c9;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:4.99999988, 4.99999988;stroke-dashoffset:0;stroke-opacity:1;enable-background:new"
        transform="rotate(0.08978138)">
       <desc
          id="desc91925">name=Aqualand;</desc>
@@ -17268,6 +17268,88 @@ walkable = 1;</desc>
          id="desc7569-9-3-1-4-4-6-4-8-6-6-2-7-9-2-0-9-6">template = train boxcar;
 </desc>
     </rect>
+    <rect
+       inkscape:label="#wall_template"
+       y="269.88922"
+       x="-1213.4689"
+       height="50.507629"
+       width="77.781746"
+       id="rect9344-60-7-4-5-4-6-9"
+       style="display:inline;fill:#656565;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:new">
+      <desc
+         id="desc9346-8-2-1-6-2-7-0-2">name = SecurityFence2; 
+color = 1.0 1.0 1.0 1.0; 
+depth = -1.0; 
+height = 3.8; 
+side_texture = fence_atlas1.png; 
+side_texture_scale = 1.25 1.25; 
+side_texture_atlas_cell = 1 0 4 4 0.015625; 
+separator_side_texture = wall_atlas1.png; 
+separator_side_texture_scale = 1.0 1.0; 
+separator_side_texture_atlas_cell = 6 3 16 8 0.015625 0.0078125; 
+separator_top_texture = wall_atlas1.png; 
+separator_top_texture_scale = 1 1.0; 
+separator_top_texture_atlas_cell = 6 5 16 16 0.015625; 
+separator_color = 1.0 1.0 1.0 1.0; 
+separator_over_height = 1.0; 
+separator_depth = 0.4; 
+penetrability = 1.0; 
+see_through = 1; 
+climb_type = 1; 
+hack1 = 1;</desc>
+    </rect>
+    <rect
+       inkscape:label="#material"
+       y="613.20288"
+       x="-1011.4301"
+       height="50.507629"
+       width="77.781746"
+       id="rect9344-60-9-9"
+       style="display:inline;fill:#855349;fill-opacity:1;fill-rule:nonzero;stroke:#404040;stroke-width:5;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:new">
+      <desc
+         id="desc9346-8-01-2">name = BuildingFactory1; 
+color = fill; # brick;
+detail_texture = wall_atlas1.png; 
+detail_texture_atlas_cell = 2 0 8 8 0.0078125; 
+detail_texture_scale = 3 3; 
+detail_cutout_texture = cutout.png; 
+detail_cutout_texture_channel = 1; 
+detail_cutout_texture_scale = 10 10; 
+1st_floor_1 = factory1_1st_floor; 
+1st_floor_2 = factory1_1st_floor; 
+1st_floor_3 = factory1_1st_floor; 
+1st_floor_4 = factory1_1st_floor; 
+other_floor_1 = factory1_other_floor; 
+other_floor_2 = factory1_other_floor; 
+other_floor_3 = factory1_other_floor; 
+other_floor_4 = factory1_other_floor; 
+roof_color = stroke; 
+roof_texture = wall_atlas1.png; 
+roof_texture_atlas_cell = 1 0 2 2; 
+roof_scale = 4.0 4.0;</desc>
+    </rect>
+    <rect
+       inkscape:label="#building_style"
+       y="352.75974"
+       x="-2256.2629"
+       height="50.507629"
+       width="77.781746"
+       id="rect9344-6-8-0-1-2-9-3-3-5-7-2"
+       style="display:inline;fill:#276287;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:new">
+      <desc
+         id="desc6587-6-2-2-5-3-5-1">name = factory1_1st_floor; sequence = apartment1_1st_floor_door; sequence = apartment1_1st_floor_door_wide1_l, apartment1_1st_floor_door_wide1_r; sequence = apartment1_1st_floor_empty; sequence = apartment1_1st_floor_empty; sequence = apartment1_1st_floor_empty; sequence = apartment1_1st_floor_window; sequence = apartment1_1st_floor_window; sequence = apartment1_1st_floor_window;</desc>
+    </rect>
+    <rect
+       inkscape:label="#building_style"
+       y="430.75974"
+       x="-2255.7629"
+       height="50.507629"
+       width="77.781746"
+       id="rect9344-6-8-0-1-2-9-3-3-5-7-2-7"
+       style="display:inline;fill:#276287;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:new">
+      <desc
+         id="desc6587-6-2-2-5-3-5-1-8">name = factory1_other_floor; sequence = apartment1_small_window; sequence = apartment1_1st_floor_empty;</desc>
+    </rect>
   </g>
   <g
      style="display:inline"
@@ -18134,7 +18216,7 @@ walkable = 1;</desc>
        inkscape:connector-curvature="0" />
     <path
        style="fill:#cccccc;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 968.5787,789.44155 75.6963,51.68542 74.5499,-1.10568 79.0475,108.64237 -54.5932,41.24934 -1.2798,22.6347 13.4353,16.2217 21.6254,4.0178 113.4141,-84.47096 -103.3007,-141.2831 6.4133,-24.13837 20.29,-14.82119 26.2037,0.51193 151.924,200.3051 99.5766,-73.20831 -208.6514,-263.36295 18.8093,-78.52744 -100.1952,-21.17945 -38.0236,221.63166 -101.9769,36.85914 -50.2686,-46.04987 z"
+       d="m 968.5787,789.44155 75.6963,51.68542 74.5499,-1.10568 79.0475,108.64237 -54.5932,41.24934 -1.2798,22.6347 13.4353,16.2217 21.6254,4.0178 113.4141,-84.47096 -103.3007,-141.2831 6.4133,-24.13837 20.29,-14.82119 26.2037,0.51193 151.924,200.3051 99.5766,-73.20831 -208.6514,-263.36295 18.8093,-78.52744 -100.1952,-21.17945 -42.8473,222.71976 -94.4766,24.09648 -52.9452,-34.37531 z"
        id="path4374"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccccccccccccccccccc" />
@@ -18227,7 +18309,7 @@ walkable = 1;</desc>
        r="18.966587" />
     <path
        style="fill:none;stroke:#000000;stroke-width:20;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 1231.7125,361.08945 -68.0729,379.71778 c -3.4993,20.07795 -9.9163,18.90904 -21.1817,21.92759 l -65.8252,18.96658 c -15.2001,9.27285 -17.8833,7.77737 -30.1234,-4.46272 l -60.24678,-54.6684 C 928.1265,670.7296 871.70512,653.76982 749.92945,690.67765"
+       d="m 1231.7125,361.08945 -68.0729,379.71778 c -3.4993,20.07795 -9.9163,18.90904 -21.1817,21.92759 l -58.6581,14.05203 c -20.3195,4.15352 -21.3645,8.18691 -33.6046,-4.05318 L 986.26252,722.57028 C 928.1265,670.7296 871.70512,653.76982 749.92945,690.67765"
        id="path8308"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccc" />
@@ -25373,6 +25455,123 @@ walkable = 1;</desc>
         <desc
            id="desc6851-7-7-1-7-9-8">template = armory;</desc>
       </rect>
+      <rect
+         transform="rotate(14.422049)"
+         inkscape:label="#ladder"
+         y="-694.67633"
+         x="1080.0385"
+         height="2.25"
+         width="6"
+         id="rect7651-13-5-8-6-4-4-7-3-9-0-3-2-7-41-1-8"
+         style="display:inline;opacity:0.79775277;fill:#2cffe7;fill-opacity:1;fill-rule:nonzero;stroke:none;enable-background:new" />
+      <rect
+         transform="rotate(103.28278)"
+         inkscape:label="#rect6406"
+         y="-1145.2814"
+         x="-699.26178"
+         height="53.45335"
+         width="25.585327"
+         id="buildingrect6406-7-4-1-3-8-0-0-7-5-10-5-2-1-8-5-8-7-7-9-1-7-3"
+         style="display:inline;opacity:0.44900004;fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:1.00000238;stroke-opacity:1;enable-background:new">
+        <desc
+           id="desc6462-7-9-9-15-3-2-33-7-8-4-24-5-5-6-9-5-4-1-8">height=6; material = BuildingFactory1; roof_type = flat;</desc>
+      </rect>
+      <rect
+         transform="rotate(-76.223141)"
+         inkscape:label="#mesh"
+         y="1129.0983"
+         x="690.50983"
+         height="3.6170266"
+         width="3.5137532"
+         id="rect1000000-61-6-06-5-8-1-1-4-04-1-7"
+         style="display:inline;opacity:0.44900004;fill:#909090;fill-opacity:1;stroke:#000000;stroke-width:0.99999976;stroke-opacity:1;enable-background:new"
+         rx="3"
+         ry="3">
+        <desc
+           id="desc7569-86-7-2-8-1-4-1-1-21-8-4">template = pipe;</desc>
+      </rect>
+      <rect
+         transform="rotate(-76.223141)"
+         inkscape:label="#mesh"
+         y="1129.1649"
+         x="700.31879"
+         height="3.6170266"
+         width="3.5137532"
+         id="rect1000000-61-6-06-5-8-1-1-4-04-2-2"
+         style="display:inline;opacity:0.44900004;fill:#909090;fill-opacity:1;stroke:#000000;stroke-width:0.99999976;stroke-opacity:1;enable-background:new"
+         rx="3"
+         ry="3">
+        <desc
+           id="desc7569-86-7-2-8-1-4-1-1-21-6-7">template = pipe;</desc>
+      </rect>
+      <rect
+         transform="rotate(-76.223141)"
+         inkscape:label="#mesh"
+         y="1089.0531"
+         x="699.54193"
+         height="3.6170266"
+         width="3.5137532"
+         id="rect1000000-61-6-06-5-8-1-1-4-04-6-7"
+         style="display:inline;opacity:0.44900004;fill:#909090;fill-opacity:1;stroke:#000000;stroke-width:0.99999976;stroke-opacity:1;enable-background:new"
+         rx="3"
+         ry="3">
+        <desc
+           id="desc7569-86-7-2-8-1-4-1-1-21-0-9">template = pipe;</desc>
+      </rect>
+      <rect
+         transform="rotate(-76.223141)"
+         inkscape:label="#mesh"
+         y="1088.9131"
+         x="689.84491"
+         height="3.6170266"
+         width="3.5137532"
+         id="rect1000000-61-6-06-5-8-1-1-4-04-38-3"
+         style="display:inline;opacity:0.44900004;fill:#909090;fill-opacity:1;stroke:#000000;stroke-width:0.99999976;stroke-opacity:1;enable-background:new"
+         rx="3"
+         ry="3">
+        <desc
+           id="desc7569-86-7-2-8-1-4-1-1-21-01-1">template = pipe;</desc>
+      </rect>
+      <rect
+         style="display:inline;opacity:0.44900004;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+         id="rect9322-1-3-77-1-6-7"
+         width="6.3042655"
+         height="10.138712"
+         x="650.38788"
+         y="1136.5201"
+         inkscape:label="#mesh"
+         transform="rotate(-78.182362)">
+        <title
+           id="title10541-9-9-5-6">ventilator</title>
+        <desc
+           id="desc10092-7-8-3-8-0-3">template = ventilator;</desc>
+      </rect>
+      <rect
+         style="display:inline;opacity:0.44900004;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+         id="rect9322-1-3-77-1-6-7-6"
+         width="6.3042655"
+         height="10.138712"
+         x="-638.52478"
+         y="-1161.6727"
+         inkscape:label="#mesh"
+         transform="rotate(100.47954)">
+        <title
+           id="title10541-9-9-5-6-1">ventilator</title>
+        <desc
+           id="desc10092-7-8-3-8-0-3-5">template = ventilator;</desc>
+      </rect>
+      <rect
+         style="display:inline;opacity:0.44900004;fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:1.00000191;stroke-opacity:1;enable-background:new"
+         id="buildingrect6406-7-4-1-3-8-0-0-7-5-10-5-2-1-8-5-8-7-7-99-1"
+         width="15.300471"
+         height="12.526563"
+         x="-691.83942"
+         y="-1115.8761"
+         inkscape:label="#rect6406"
+         transform="rotate(103.17713)">
+        <desc
+           id="desc11871-6">height=2; material = BuildingFactory1; roof_type = flat;</desc>
+      </rect>
     </g>
     <g
        style="display:inline;opacity:0.44900004"
@@ -25576,6 +25775,16 @@ merge = 1;</desc>
         <desc
            id="desc16653-2-9-3-3-2-2-3-7-6-0-8-3-1">template = barbwire;</desc>
       </rect>
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:label=""
+         inkscape:connector-curvature="0"
+         id="wall126-9-8-88-6-5-5-7-5-4-19-9-0-5-6-6-9-9-7-2-8-2"
+         d="m 974.52079,788.89393 29.81361,-30.40838 54.7516,38.35136 54.7095,-11.24797"
+         style="display:inline;opacity:0.75170133;fill:#999999;fill-opacity:0;stroke:#999999;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new">
+        <desc
+           id="desc11325-6-6-1-4-5-6-7-0-9-7-5-3-5-9-2-8-1-7-8-8-2">template = SecurityFence2; merge = 1; separator_at_end = 1;</desc>
+      </path>
     </g>
     <g
        style="display:inline"
@@ -26253,7 +26462,7 @@ merge = 1;</desc>
      inkscape:groupmode="layer"
      id="layer46"
      inkscape:label="work_sectors"
-     style="display:inline"
+     style="display:none"
      sodipodi:insensitive="true">
     <path
        style="display:inline;fill:none;stroke:#ff0000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:20, 10;stroke-dashoffset:0;stroke-opacity:1;enable-background:new"
