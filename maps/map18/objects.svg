@@ -30,11 +30,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.305216"
-     inkscape:cx="332.11425"
-     inkscape:cy="981.34515"
+     inkscape:zoom="13.812499"
+     inkscape:cx="1127.1309"
+     inkscape:cy="1248.0393"
      inkscape:document-units="px"
-     inkscape:current-layer="layer29"
+     inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:window-width="1680"
      inkscape:window-height="949"
@@ -43,7 +43,7 @@
      inkscape:window-maximized="1"
      inkscape:snap-bbox="false"
      inkscape:object-nodes="true"
-     inkscape:snap-global="false"
+     inkscape:snap-global="true"
      showguides="true"
      inkscape:guide-bbox="true"
      borderlayer="true"
@@ -54,12 +54,12 @@
      inkscape:snap-bbox-edge-midpoints="false"
      inkscape:snap-bbox-midpoints="false"
      inkscape:snap-nodes="true"
-     inkscape:snap-others="true"
+     inkscape:snap-others="false"
      inkscape:snap-grids="false"
      inkscape:snap-to-guides="true"
      inkscape:snap-smooth-nodes="true"
      inkscape:document-rotation="0"
-     inkscape:snap-midpoints="true">
+     inkscape:snap-midpoints="false">
     <inkscape:grid
        spacingy="64"
        spacingx="64"
@@ -93,6 +93,21 @@
        position="1393.6616,1271.6456"
        orientation="-0.78460687,-0.6199936"
        id="guide4384"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1026.6064,1279.7105"
+       orientation="-0.61598818,-0.78775539"
+       id="guide4581"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1101.9005,1263.9277"
+       orientation="-0.23303334,0.97246875"
+       id="guide4778"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1190.1408,1385.9038"
+       orientation="-0.98424493,0.17681042"
+       id="guide5068"
        inkscape:locked="false" />
   </sodipodi:namedview>
   <defs
@@ -9635,7 +9650,8 @@
      style="display:inline"
      inkscape:label="materials"
      id="layer29"
-     inkscape:groupmode="layer">
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true">
     <rect
        inkscape:label="#texture_groups"
        y="1.9401522"
@@ -10699,7 +10715,7 @@ show_base_names_in_map_view = 0;</desc>
          id="title9786-13-5-7-8-6">venus</title>
     </rect>
     <rect
-       transform="rotate(0.07879261,-1918532.9,3935810.2)"
+       transform="rotate(0.07879261,-1918532.9,3935809.6)"
        inkscape:label="#mesh_template"
        y="-1522.1748"
        x="-2658.7271"
@@ -10711,7 +10727,7 @@ show_base_names_in_map_view = 0;</desc>
          id="desc10092-7-0-4-9-8-24">name = sunchair_red; mesh_name = sunchair.mesh; texture0 = world_atlas1.png; texture0_atlas_cell = 7 1 32 32; collision_model_type = 1; collision_model_size = 1.3 1.5 1.6; penetrability = 0.7; see_through = 1</desc>
     </rect>
     <rect
-       transform="rotate(0.00494255,-30581037,62850797)"
+       transform="rotate(0.00494255,-30581037,62842892)"
        inkscape:label="#mesh_template"
        y="-1522.1748"
        x="-2658.7271"
@@ -18106,7 +18122,8 @@ roof_scale = 4.0 4.0;</desc>
      style="display:none"
      inkscape:label="dirt"
      id="layer4"
-     inkscape:groupmode="layer">
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true">
     <rect
        style="opacity:0.92699998;fill:#aa4400;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5.48714018;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect7013"
@@ -18188,7 +18205,8 @@ roof_scale = 4.0 4.0;</desc>
      style="display:inline"
      inkscape:label="alpha_grass"
      id="layer31"
-     inkscape:groupmode="layer">
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true">
     <path
        style="opacity:0.89024389;fill:#008000;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter12851)"
        d="m 467.11313,1098.4253 -0.57919,15.638 11.00453,2.896 58.49774,-34.4616 0.57918,-6.371 -5.79185,-6.0815 z"
@@ -18199,7 +18217,8 @@ roof_scale = 4.0 4.0;</desc>
      style="display:inline"
      inkscape:label="alpha_asphalt"
      id="layer34"
-     inkscape:groupmode="layer">
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true">
     <path
        style="fill:#cccccc;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 631.53125,986.875 -2.875,26.1875 L 622.5,1018 v 9.8125 l -28.65625,2.875 0.40625,9.4063 -119.1875,9.4374 -25.78125,3.6876 2.4375,28.25 -21.28125,6.1562 -2.46875,61.4062 22.9375,15.5626 26.625,-29.4688 16.78125,7.375 52.84375,-42.5938 61.03125,78.2188 19.25,-9.8438 16.375,-21.2812 14.75,-14.75 -4.9375,-5.7188 12.28125,-15.9687 8.21875,3.6875 11.875,-16.8125 8.59375,-16.7813 -11.46875,-22.5312 11.46875,-6.9688 -17.625,-29.0624 -14.3125,6.5312 -11.875,-20.875 L 643,1002.8438 646.6875,988.5 Z m -98.5,80.875 6.75,6.9688 -0.21875,8.4062 -61,37.875 -15.78125,-4.5 0.8125,-19.25 z"
@@ -18216,7 +18235,8 @@ roof_scale = 4.0 4.0;</desc>
      style="display:inline"
      inkscape:label="alpha_road"
      id="layer35"
-     inkscape:groupmode="layer">
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true">
     <circle
        style="fill:none;stroke:#000000;stroke-width:26;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path8762"
@@ -18587,12 +18607,14 @@ roof_scale = 4.0 4.0;</desc>
      inkscape:groupmode="layer"
      id="layer45"
      inkscape:label="alpha_dirtroad"
-     style="display:inline" />
+     style="display:inline"
+     sodipodi:insensitive="true" />
   <g
      style="display:inline"
      inkscape:label="offroad"
      id="layer36"
-     inkscape:groupmode="layer">
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true">
     <path
        inkscape:label="#path1133"
        sodipodi:nodetypes="ccccccccccccc"
@@ -18633,7 +18655,8 @@ roof_scale = 4.0 4.0;</desc>
      style="display:inline;opacity:0.18000004"
      inkscape:label="bases"
      id="layer37"
-     inkscape:groupmode="layer">
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true">
     <rect
        style="display:inline;opacity:0.72566373;fill:#b9b900;fill-opacity:1;stroke:none;enable-background:new"
        id="rect4874-8-3-4-9-1"
@@ -18661,7 +18684,8 @@ roof_scale = 4.0 4.0;</desc>
      style="display:inline"
      inkscape:label="map_view_decoration"
      id="layer38"
-     inkscape:groupmode="layer">
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true">
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:0.7;fill:#ffffff;fill-opacity:1;stroke:none;filter:url(#filter4081-1-5-4-8-0);enable-background:new"
@@ -18809,7 +18833,8 @@ roof_scale = 4.0 4.0;</desc>
      style="display:inline"
      inkscape:label="map_view_bases"
      id="layer39"
-     inkscape:groupmode="layer">
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true">
     <rect
        inkscape:label="#rect11324_base"
        y="1036.9321"
@@ -18873,7 +18898,8 @@ roof_scale = 4.0 4.0;</desc>
        style="display:inline"
        inkscape:label="ladders"
        id="layer2"
-       inkscape:groupmode="layer">
+       inkscape:groupmode="layer"
+       sodipodi:insensitive="true">
       <rect
          transform="rotate(-128.44531)"
          inkscape:label="#ladder"
@@ -19209,29 +19235,6 @@ roof_scale = 4.0 4.0;</desc>
          width="6"
          id="rect7651-13-5-8-6-4-4-7-3-9-0-3-2-0-9-1-5-6-5-5-64-3-5"
          style="display:inline;opacity:0.79775277;fill:#2cffe7;fill-opacity:1;fill-rule:nonzero;stroke:none;enable-background:new" />
-      <g
-         id="g4258">
-        <path
-           sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccc"
-           inkscape:label="#path47537_platform"
-           inkscape:connector-curvature="0"
-           id="path47537-1"
-           d="m 2175.0769,1355.7576 -60.6673,-29.0028 -67.3327,-35.3917 -127.8028,-61.5346 -60.7457,-22.0894 -67.057,-16.567 -63.9014,-7.1002 h -64.4931 l -64.0986,11.8336 -64.1547,29.0405 -62.3236,41.0231 -62.3236,22.8783 -65.4792,14.9892 -63.9013,6.3113 -64.6903,-3.1556 -63.1125,-8.678 -66.2681,-18.9338 -63.1125,-26.0339 -71.63189,-38.7124 -51.90636,-52.7181 -52.0678,-65.4792 -44.1787,-59.9569 -35.5008,-59.16787 -21.95395,-34.11434 23.39643,-41.13532 32.3452,-16.567 25.15913,-18.66972 18.5954,-18.72416 19.29022,-19.42379 22.55151,-42.46558 15.81772,-33.81078 34.91978,-13.23644 35.64093,17.5077 13.60251,24.56404 36.30297,25.81669 25.2549,15.64054 79.7516,-1.54948 94.8196,131.71093 -63.0489,46.42655 -0.4819,6.96153 5.0721,5.6782 7.7908,0.5939 91.5162,-67.44095 -103.0789,-138.67514 10.8599,-40.93837 32.6319,-20.31212 45.6898,-1.65436 146.0734,191.46043 60.2324,-44.87104 -34.7236,-44.1722"
-           style="fill:none;stroke:#0000ff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1">
-          <desc
-             id="desc47543-7">type = start;</desc>
-        </path>
-        <path
-           sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccc"
-           inkscape:label="#path47539_platform"
-           inkscape:connector-curvature="0"
-           id="path47539-4"
-           d="m 2176.5068,1344.2172 -60.6673,-29.0028 -67.3327,-35.3917 -127.8028,-61.5346 -60.7457,-22.0894 -67.057,-16.567 -63.9014,-7.1002 h -64.4931 l -64.0986,11.8336 -65.4792,27.6117 -62.3236,41.0231 -62.3236,22.8783 -65.4792,14.9892 -63.9013,6.3113 -64.6903,-3.1556 -63.1125,-8.678 -66.2681,-18.9338 -63.1125,-26.0339 -56.01231,-33.134 -57.5902,-50.49 -52.0678,-65.4792 -44.1787,-59.9569 -36.64496,-59.67889 -18.57844,-30.25631 18.9337,-29.9785 32.3452,-16.567 24.73179,-18.54879 19.81037,-18.76323 13.83684,-13.17798 24.4561,-38.6564 19.7226,-44.1787 28.4007,-9.4669 26.0339,14.2003 6.3112,23.6672 40.22191,28.23131 31.5686,20.68089 74.946,-0.7889 80.4684,111.2357 -55.2514,41.5974 -1.0282,21.0701 12.4475,14.806 20.1698,3.777 110.9718,-82.5295 -102.7638,-140.3877 6.9383,-25.8076 21.5329,-15.9463 27.9346,0.6696 150.896,199.4381 95.4576,-70.607 -48.3744,-60.81967"
-           style="fill:none;stroke:#ff0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1">
-          <desc
-             id="desc47541-0">type = end; mode = deck; height = 0; wall_template = BrickWall1; wall_height = 0; top_material = terrain; #separator_height = 1; no_collision_side1; no_collision_side2; wall_merge = 1;</desc>
-        </path>
-      </g>
       <rect
          transform="rotate(-101.31755)"
          inkscape:label="#ladder"
@@ -19444,12 +19447,14 @@ roof_scale = 4.0 4.0;</desc>
        style="display:inline"
        inkscape:label="foliage"
        id="layer21"
-       inkscape:groupmode="layer" />
+       inkscape:groupmode="layer"
+       sodipodi:insensitive="true" />
     <g
        style="display:inline"
        inkscape:label="other"
        id="layer16"
-       inkscape:groupmode="layer">
+       inkscape:groupmode="layer"
+       sodipodi:insensitive="true">
       <g
          id="g7955">
         <path
@@ -19655,6 +19660,31 @@ roof_scale = 4.0 4.0;</desc>
         <desc
            id="desc9788-45-3-6-1-6-7-2-09-4-7-2-82-2-4-2-6-7-2-3-2-9-8-3-4">type = vehicle; key = deco_van_khaki.vehicle;</desc>
       </rect>
+      <g
+         transform="translate(-4.6743583e-6,-4.8748257e-5)"
+         style="display:inline;enable-background:new"
+         id="g4258">
+        <path
+           sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccc"
+           inkscape:label="#path47537_platform"
+           inkscape:connector-curvature="0"
+           id="path47537-1"
+           d="m 2175.0769,1355.7576 -60.6673,-29.0028 -67.3327,-35.3917 -127.8028,-61.5346 -60.7457,-22.0894 -67.057,-16.567 -63.9014,-7.1002 h -64.4931 l -64.0986,11.8336 -64.1547,29.0405 -62.3236,41.0231 -62.3236,22.8783 -65.4792,14.9892 -63.9013,6.3113 -64.6903,-3.1556 -63.1125,-8.678 -66.2681,-18.9338 -63.1125,-26.0339 -71.63189,-38.7124 -51.90636,-52.7181 -52.0678,-65.4792 -44.1787,-59.9569 -35.5008,-59.16787 -21.95395,-34.11434 23.39643,-41.13532 32.3452,-16.567 25.15913,-18.66972 18.5954,-18.72416 19.29022,-19.42379 22.55151,-42.46558 7.21725,-39.54442 45.97753,-16.51281 38.71252,19.96497 17.69797,24.8712 33.34224,24.23548 22.6868,12.81913 76.4752,-0.93515 94.0005,141.7448 -63.0489,46.42655 -0.4819,6.96153 5.0721,5.6782 7.7908,0.5939 91.5162,-67.44095 -103.0789,-138.67514 10.8599,-40.93837 32.6319,-20.31212 45.6898,-1.65436 146.0734,191.46043 60.2324,-44.87104 -34.7236,-44.1722"
+           style="fill:none;stroke:#0000ff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1">
+          <desc
+             id="desc47543-7">type = start;</desc>
+        </path>
+        <path
+           sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccc"
+           inkscape:label="#path47539_platform"
+           inkscape:connector-curvature="0"
+           id="path47539-4"
+           d="m 2176.5068,1344.2172 -60.6673,-29.0028 -67.3327,-35.3917 -127.8028,-61.5346 -60.7457,-22.0894 -67.057,-16.567 -63.9014,-7.1002 h -64.4931 l -64.0986,11.8336 -65.4792,27.6117 -62.3236,41.0231 -62.3236,22.8783 -65.4792,14.9892 -63.9013,6.3113 -64.6903,-3.1556 -63.1125,-8.678 -66.2681,-18.9338 -63.1125,-26.0339 -56.01231,-33.134 -57.5902,-50.49 -52.0678,-65.4792 -44.1787,-59.9569 -36.64496,-59.67889 -18.57844,-30.25631 18.9337,-29.9785 32.3452,-16.567 24.73179,-18.54879 19.81037,-18.76323 13.83684,-13.17798 24.4561,-38.6564 19.7226,-44.1787 28.4007,-9.4669 26.0339,14.2003 6.3112,23.6672 40.22191,28.23131 31.5686,20.68089 74.946,-0.7889 80.4684,111.2357 -55.2514,41.5974 -1.0282,21.0701 12.4475,14.806 20.1698,3.777 110.9718,-82.5295 -102.7638,-140.3877 6.9383,-25.8076 21.5329,-15.9463 27.9346,0.6696 150.896,199.4381 95.4576,-70.607 -48.3744,-60.81967"
+           style="fill:none;stroke:#ff0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1">
+          <desc
+             id="desc47541-0">type = end; mode = deck; height = 0; wall_template = BrickWall1; wall_height = 0; top_material = terrain; #separator_height = 1; no_collision_side1; no_collision_side2; wall_merge = 1;</desc>
+        </path>
+      </g>
     </g>
     <g
        transform="translate(0,1024)"
@@ -25563,6 +25593,21 @@ roof_scale = 4.0 4.0;</desc>
         <desc
            id="desc11871-6">height=2; material = BuildingFactory1; roof_type = flat;</desc>
       </rect>
+      <rect
+         ry="0"
+         transform="rotate(76.852142)"
+         inkscape:label="#mesh"
+         y="-1159.1968"
+         x="21.447878"
+         height="13.26965"
+         width="2.5652535"
+         id="rect16633-4-8-7-6-9-3-8"
+         style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ff0000;stroke-width:1.39167988;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:new">
+        <title
+           id="title12525-4-8-7">barrier</title>
+        <desc
+           id="desc16653-2-9-3-8-5-4">template = barrier;</desc>
+      </rect>
     </g>
     <g
        style="display:inline;opacity:0.44900004"
@@ -25766,22 +25811,981 @@ merge = 1;</desc>
         <desc
            id="desc16653-2-9-3-3-2-2-3-7-6-0-8-3-1">template = barbwire;</desc>
       </rect>
+      <rect
+         style="display:inline;opacity:0.75170133;fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke:#999999;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+         id="rect31604-2-6-2-8-9-1-3-8-7-7-8-9"
+         width="4"
+         height="12"
+         x="1247.0103"
+         y="-126.58379"
+         inkscape:label="#mesh"
+         transform="rotate(44.22794)">
+        <desc
+           id="desc31627-1-2-0-2-7-4-1-2-1-2-0-7">mesh_name = barbwire_fence.mesh; texture0 = world_atlas1.png; texture0_atlas_cell = 1 9 16 16; collision_model_type = -1; #collision_model_size = 1.4 1.4 2.8; #collision_model_offset = 0 0 0; #walkable = 0; alpha_blend = 1; penetrability = 0.8; see_through = 1;</desc>
+      </rect>
       <path
-         sodipodi:nodetypes="cccc"
+         sodipodi:nodetypes="cc"
          inkscape:label=""
          inkscape:connector-curvature="0"
          id="wall126-9-8-88-6-5-5-7-5-4-19-9-0-5-6-6-9-9-7-2-8-2"
-         d="m 974.52079,788.89393 33.90911,-34.29907 50.0418,38.96568 55.9381,-13.09093"
-         style="display:inline;opacity:0.75170133;fill:#999999;fill-opacity:0;stroke:#999999;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new">
+         d="m 983.38952,780.59374 -8.40892,8.6243"
+         style="display:inline;opacity:0.75170133;fill:#999999;fill-opacity:1;stroke:#999999;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new">
         <desc
            id="desc11325-6-6-1-4-5-6-7-0-9-7-5-3-5-9-2-8-1-7-8-8-2">template = SecurityFence2; merge = 1; separator_at_end = 1;</desc>
+      </path>
+      <rect
+         style="display:inline;opacity:0.75170133;fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke:#999999;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+         id="rect31604-2-6-2-8-9-1-3-8-7-7-8-9-4"
+         width="4"
+         height="12"
+         x="1247.0103"
+         y="-138.5838"
+         inkscape:label="#mesh"
+         transform="rotate(44.22794)">
+        <desc
+           id="desc31627-1-2-0-2-7-4-1-2-1-2-0-7-4">mesh_name = barbwire_fence.mesh; texture0 = world_atlas1.png; texture0_atlas_cell = 1 9 16 16; collision_model_type = -1; #collision_model_size = 1.4 1.4 2.8; #collision_model_offset = 0 0 0; #walkable = 0; alpha_blend = 1; penetrability = 0.8; see_through = 1;</desc>
+      </rect>
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:label=""
+         inkscape:connector-curvature="0"
+         id="wall126-9-8-88-6-5-5-7-5-4-19-9-0-5-6-6-9-9-7-2-8-2-0"
+         d="m 991.79844,771.96944 -8.40892,8.6243"
+         style="display:inline;opacity:0.75170133;fill:#999999;fill-opacity:1;stroke:#999999;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new">
+        <desc
+           id="desc11325-6-6-1-4-5-6-7-0-9-7-5-3-5-9-2-8-1-7-8-8-2-6">template = SecurityFence2; merge = 1; separator_at_end = 0;</desc>
+      </path>
+      <rect
+         style="display:inline;opacity:0.75170133;fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke:#999999;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+         id="rect31604-2-6-2-8-9-1-3-8-7-7-8-9-9"
+         width="4"
+         height="12"
+         x="1247.0103"
+         y="-150.5838"
+         inkscape:label="#mesh"
+         transform="rotate(44.22794)">
+        <desc
+           id="desc31627-1-2-0-2-7-4-1-2-1-2-0-7-45">mesh_name = barbwire_fence.mesh; texture0 = world_atlas1.png; texture0_atlas_cell = 1 9 16 16; collision_model_type = -1; #collision_model_size = 1.4 1.4 2.8; #collision_model_offset = 0 0 0; #walkable = 0; alpha_blend = 1; penetrability = 0.8; see_through = 1;</desc>
+      </rect>
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:label=""
+         inkscape:connector-curvature="0"
+         id="wall126-9-8-88-6-5-5-7-5-4-19-9-0-5-6-6-9-9-7-2-8-2-04"
+         d="m 1000.2073,763.34514 -8.40886,8.6243"
+         style="display:inline;opacity:0.75170133;fill:#999999;fill-opacity:1;stroke:#999999;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new">
+        <desc
+           id="desc11325-6-6-1-4-5-6-7-0-9-7-5-3-5-9-2-8-1-7-8-8-2-64">template = SecurityFence2; merge = 1; separator_at_end = 0;</desc>
+      </path>
+      <rect
+         style="display:inline;opacity:0.75170133;fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke:#999999;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+         id="rect31604-2-6-2-8-9-1-3-8-7-7-8-9-4-8"
+         width="4"
+         height="12"
+         x="1039.5865"
+         y="-717.89844"
+         inkscape:label="#mesh"
+         transform="rotate(71.475019)">
+        <desc
+           id="desc31627-1-2-0-2-7-4-1-2-1-2-0-7-4-6">mesh_name = barbwire_fence.mesh; texture0 = world_atlas1.png; texture0_atlas_cell = 1 9 16 16; collision_model_type = -1; #collision_model_size = 1.4 1.4 2.8; #collision_model_offset = 0 0 0; #walkable = 0; alpha_blend = 1; penetrability = 0.8; see_through = 1;</desc>
+      </rect>
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:label=""
+         inkscape:connector-curvature="0"
+         id="wall126-9-8-88-6-5-5-7-5-4-19-9-0-5-6-6-9-9-7-2-8-2-0-6"
+         d="m 1011.6316,759.52762 -11.4243,3.81752"
+         style="display:inline;opacity:0.75170133;fill:#999999;fill-opacity:1;stroke:#999999;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new">
+        <desc
+           id="desc11325-6-6-1-4-5-6-7-0-9-7-5-3-5-9-2-8-1-7-8-8-2-6-1">template = SecurityFence2; merge = 1; separator_at_end = 0;</desc>
+      </path>
+      <rect
+         style="display:inline;opacity:0.75170133;fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke:#999999;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+         id="rect31604-2-6-2-8-9-1-3-8-7-7-8-9-4-0"
+         width="4"
+         height="12"
+         x="-25.824188"
+         y="-1276.7976"
+         inkscape:label="#mesh"
+         transform="rotate(127.97814)">
+        <desc
+           id="desc31627-1-2-0-2-7-4-1-2-1-2-0-7-4-5">mesh_name = barbwire_fence.mesh; texture0 = world_atlas1.png; texture0_atlas_cell = 1 9 16 16; collision_model_type = -1; #collision_model_size = 1.4 1.4 2.8; #collision_model_offset = 0 0 0; #walkable = 0; alpha_blend = 1; penetrability = 0.8; see_through = 1;</desc>
+      </rect>
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:label=""
+         inkscape:connector-curvature="0"
+         id="wall126-9-8-88-6-5-5-7-5-4-19-9-0-5-6-6-9-9-7-2-8-2-0-9"
+         d="m 1021.1201,766.94777 -9.4885,-7.42015"
+         style="display:inline;opacity:0.75170133;fill:#999999;fill-opacity:1;stroke:#999999;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new">
+        <desc
+           id="desc11325-6-6-1-4-5-6-7-0-9-7-5-3-5-9-2-8-1-7-8-8-2-6-2">template = SecurityFence2; merge = 1; separator_at_end = 0;</desc>
+      </path>
+      <rect
+         style="display:inline;opacity:0.75170133;fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke:#999999;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+         id="rect31604-2-6-2-8-9-1-3-8-7-7-8-9-4-0-2"
+         width="4"
+         height="12"
+         x="-25.814116"
+         y="-1288.8429"
+         inkscape:label="#mesh"
+         transform="rotate(127.97814)">
+        <desc
+           id="desc31627-1-2-0-2-7-4-1-2-1-2-0-7-4-5-8">mesh_name = barbwire_fence.mesh; texture0 = world_atlas1.png; texture0_atlas_cell = 1 9 16 16; collision_model_type = -1; #collision_model_size = 1.4 1.4 2.8; #collision_model_offset = 0 0 0; #walkable = 0; alpha_blend = 1; penetrability = 0.8; see_through = 1;</desc>
+      </rect>
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:label=""
+         inkscape:connector-curvature="0"
+         id="wall126-9-8-88-6-5-5-7-5-4-19-9-0-5-6-6-9-9-7-2-8-2-0-9-7"
+         d="m 1030.6086,774.36792 -9.4885,-7.42015"
+         style="display:inline;opacity:0.75170133;fill:#999999;fill-opacity:1;stroke:#999999;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new">
+        <desc
+           id="desc11325-6-6-1-4-5-6-7-0-9-7-5-3-5-9-2-8-1-7-8-8-2-6-2-9">template = SecurityFence2; merge = 1; separator_at_end = 0;</desc>
+      </path>
+      <rect
+         style="display:inline;opacity:0.75170133;fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke:#999999;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+         id="rect31604-2-6-2-8-9-1-3-8-7-7-8-9-4-0-4"
+         width="4"
+         height="12"
+         x="-25.804012"
+         y="-1300.8883"
+         inkscape:label="#mesh"
+         transform="rotate(127.97814)">
+        <desc
+           id="desc31627-1-2-0-2-7-4-1-2-1-2-0-7-4-5-2">mesh_name = barbwire_fence.mesh; texture0 = world_atlas1.png; texture0_atlas_cell = 1 9 16 16; collision_model_type = -1; #collision_model_size = 1.4 1.4 2.8; #collision_model_offset = 0 0 0; #walkable = 0; alpha_blend = 1; penetrability = 0.8; see_through = 1;</desc>
+      </rect>
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:label=""
+         inkscape:connector-curvature="0"
+         id="wall126-9-8-88-6-5-5-7-5-4-19-9-0-5-6-6-9-9-7-2-8-2-0-9-6"
+         d="m 1040.0971,781.78816 -9.4885,-7.42015"
+         style="display:inline;opacity:0.75170133;fill:#999999;fill-opacity:1;stroke:#999999;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new">
+        <desc
+           id="desc11325-6-6-1-4-5-6-7-0-9-7-5-3-5-9-2-8-1-7-8-8-2-6-2-6">template = SecurityFence2; merge = 1; separator_at_end = 0;</desc>
+      </path>
+      <rect
+         style="display:inline;opacity:0.75170133;fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke:#999999;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+         id="rect31604-2-6-2-8-9-1-3-8-7-7-8-9-4-0-1"
+         width="4"
+         height="12"
+         x="-25.793892"
+         y="-1312.9337"
+         inkscape:label="#mesh"
+         transform="rotate(127.97814)">
+        <desc
+           id="desc31627-1-2-0-2-7-4-1-2-1-2-0-7-4-5-4">mesh_name = barbwire_fence.mesh; texture0 = world_atlas1.png; texture0_atlas_cell = 1 9 16 16; collision_model_type = -1; #collision_model_size = 1.4 1.4 2.8; #collision_model_offset = 0 0 0; #walkable = 0; alpha_blend = 1; penetrability = 0.8; see_through = 1;</desc>
+      </rect>
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:label=""
+         inkscape:connector-curvature="0"
+         id="wall126-9-8-88-6-5-5-7-5-4-19-9-0-5-6-6-9-9-7-2-8-2-0-9-4"
+         d="m 1049.5856,789.20836 -9.4885,-7.42015"
+         style="display:inline;opacity:0.75170133;fill:#999999;fill-opacity:1;stroke:#999999;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new">
+        <desc
+           id="desc11325-6-6-1-4-5-6-7-0-9-7-5-3-5-9-2-8-1-7-8-8-2-6-2-4">template = SecurityFence2; merge = 1; separator_at_end = 0;</desc>
+      </path>
+      <rect
+         style="display:inline;opacity:0.75170133;fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke:#999999;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+         id="rect31604-2-6-2-8-9-1-3-8-7-7-8-9-4-0-3"
+         width="4"
+         height="12"
+         x="-25.793892"
+         y="-1324.9337"
+         inkscape:label="#mesh"
+         transform="rotate(127.97814)">
+        <desc
+           id="desc31627-1-2-0-2-7-4-1-2-1-2-0-7-4-5-26">mesh_name = barbwire_fence.mesh; texture0 = world_atlas1.png; texture0_atlas_cell = 1 9 16 16; collision_model_type = -1; #collision_model_size = 1.4 1.4 2.8; #collision_model_offset = 0 0 0; #walkable = 0; alpha_blend = 1; penetrability = 0.8; see_through = 1;</desc>
+      </rect>
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:label=""
+         inkscape:connector-curvature="0"
+         id="wall126-9-8-88-6-5-5-7-5-4-19-9-0-5-6-6-9-9-7-2-8-2-0-9-40"
+         d="m 1059.0445,796.59273 -9.4885,-7.42015"
+         style="display:inline;opacity:0.75170133;fill:#999999;fill-opacity:1;stroke:#999999;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new">
+        <desc
+           id="desc11325-6-6-1-4-5-6-7-0-9-7-5-3-5-9-2-8-1-7-8-8-2-6-2-2">template = SecurityFence2; merge = 1; separator_at_end = 0;</desc>
+      </path>
+      <rect
+         style="display:inline;opacity:0.75170133;fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke:#999999;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+         id="rect31604-2-6-2-8-9-1-3-8-7-7-8-9-4-0-8"
+         width="4"
+         height="12"
+         x="1019.4461"
+         y="-856.26465"
+         inkscape:label="#mesh"
+         transform="rotate(76.524818)">
+        <desc
+           id="desc31627-1-2-0-2-7-4-1-2-1-2-0-7-4-5-1">mesh_name = barbwire_fence.mesh; texture0 = world_atlas1.png; texture0_atlas_cell = 1 9 16 16; collision_model_type = -1; #collision_model_size = 1.4 1.4 2.8; #collision_model_offset = 0 0 0; #walkable = 0; alpha_blend = 1; penetrability = 0.8; see_through = 1;</desc>
+      </rect>
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:label=""
+         inkscape:connector-curvature="0"
+         id="wall126-9-8-88-6-5-5-7-5-4-19-9-0-5-6-6-9-9-7-2-8-2-0-9-2"
+         d="m 1070.7606,793.79565 -11.7161,2.79708"
+         style="display:inline;opacity:0.75170133;fill:#999999;fill-opacity:1;stroke:#999999;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new">
+        <desc
+           id="desc11325-6-6-1-4-5-6-7-0-9-7-5-3-5-9-2-8-1-7-8-8-2-6-2-5">template = SecurityFence2; merge = 1; separator_at_end = 0;</desc>
+      </path>
+      <rect
+         style="display:inline;opacity:0.75170133;fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke:#999999;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+         id="rect31604-2-6-2-8-9-1-3-8-7-7-8-9-4-0-8-3"
+         width="4"
+         height="12"
+         x="1019.4562"
+         y="-868.31006"
+         inkscape:label="#mesh"
+         transform="rotate(76.524818)">
+        <desc
+           id="desc31627-1-2-0-2-7-4-1-2-1-2-0-7-4-5-1-1">mesh_name = barbwire_fence.mesh; texture0 = world_atlas1.png; texture0_atlas_cell = 1 9 16 16; collision_model_type = -1; #collision_model_size = 1.4 1.4 2.8; #collision_model_offset = 0 0 0; #walkable = 0; alpha_blend = 1; penetrability = 0.8; see_through = 1;</desc>
+      </rect>
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:label=""
+         inkscape:connector-curvature="0"
+         id="wall126-9-8-88-6-5-5-7-5-4-19-9-0-5-6-6-9-9-7-2-8-2-0-9-2-8"
+         d="m 1082.4767,790.99857 -11.7161,2.79708"
+         style="display:inline;opacity:0.75170133;fill:#999999;fill-opacity:1;stroke:#999999;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new">
+        <desc
+           id="desc11325-6-6-1-4-5-6-7-0-9-7-5-3-5-9-2-8-1-7-8-8-2-6-2-5-2">template = SecurityFence2; merge = 1; separator_at_end = 0;</desc>
+      </path>
+      <rect
+         style="display:inline;opacity:0.75170133;fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke:#999999;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+         id="rect31604-2-6-2-8-9-1-3-8-7-7-8-9-4-0-8-6"
+         width="4"
+         height="12"
+         x="1019.4661"
+         y="-880.35522"
+         inkscape:label="#mesh"
+         transform="rotate(76.524818)">
+        <desc
+           id="desc31627-1-2-0-2-7-4-1-2-1-2-0-7-4-5-1-15">mesh_name = barbwire_fence.mesh; texture0 = world_atlas1.png; texture0_atlas_cell = 1 9 16 16; collision_model_type = -1; #collision_model_size = 1.4 1.4 2.8; #collision_model_offset = 0 0 0; #walkable = 0; alpha_blend = 1; penetrability = 0.8; see_through = 1;</desc>
+      </rect>
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:label=""
+         inkscape:connector-curvature="0"
+         id="wall126-9-8-88-6-5-5-7-5-4-19-9-0-5-6-6-9-9-7-2-8-2-0-9-2-1"
+         d="m 1094.1928,788.20149 -11.7161,2.79708"
+         style="display:inline;opacity:0.75170133;fill:#999999;fill-opacity:1;stroke:#999999;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new">
+        <desc
+           id="desc11325-6-6-1-4-5-6-7-0-9-7-5-3-5-9-2-8-1-7-8-8-2-6-2-5-0">template = SecurityFence2; merge = 1; separator_at_end = 0;</desc>
+      </path>
+      <rect
+         style="display:inline;opacity:0.75170133;fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke:#999999;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+         id="rect31604-2-6-2-8-9-1-3-8-7-7-8-9-4-0-8-2"
+         width="4"
+         height="12"
+         x="1019.4763"
+         y="-892.40082"
+         inkscape:label="#mesh"
+         transform="rotate(76.524818)">
+        <desc
+           id="desc31627-1-2-0-2-7-4-1-2-1-2-0-7-4-5-1-9">mesh_name = barbwire_fence.mesh; texture0 = world_atlas1.png; texture0_atlas_cell = 1 9 16 16; collision_model_type = -1; #collision_model_size = 1.4 1.4 2.8; #collision_model_offset = 0 0 0; #walkable = 0; alpha_blend = 1; penetrability = 0.8; see_through = 1;</desc>
+      </rect>
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:label=""
+         inkscape:connector-curvature="0"
+         id="wall126-9-8-88-6-5-5-7-5-4-19-9-0-5-6-6-9-9-7-2-8-2-0-9-2-6"
+         d="m 1105.9089,785.40441 -11.7161,2.79708"
+         style="display:inline;opacity:0.75170133;fill:#999999;fill-opacity:1;stroke:#999999;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new">
+        <desc
+           id="desc11325-6-6-1-4-5-6-7-0-9-7-5-3-5-9-2-8-1-7-8-8-2-6-2-5-5">template = SecurityFence2; merge = 1; separator_at_end = 0;</desc>
+      </path>
+      <rect
+         style="display:inline;opacity:0.75170133;fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke:#999999;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+         id="rect31604-2-6-2-8-9-1-3-8-7-7-8-9-4-0-8-7"
+         width="4"
+         height="12"
+         x="1019.4862"
+         y="-904.44611"
+         inkscape:label="#mesh"
+         transform="rotate(76.524818)">
+        <desc
+           id="desc31627-1-2-0-2-7-4-1-2-1-2-0-7-4-5-1-0">mesh_name = barbwire_fence.mesh; texture0 = world_atlas1.png; texture0_atlas_cell = 1 9 16 16; collision_model_type = -1; #collision_model_size = 1.4 1.4 2.8; #collision_model_offset = 0 0 0; #walkable = 0; alpha_blend = 1; penetrability = 0.8; see_through = 1;</desc>
+      </rect>
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:label=""
+         inkscape:connector-curvature="0"
+         id="wall126-9-8-88-6-5-5-7-5-4-19-9-0-5-6-6-9-9-7-2-8-2-0-9-2-2"
+         d="m 1117.625,782.60733 -11.7161,2.79708"
+         style="display:inline;opacity:0.75170133;fill:#999999;fill-opacity:1;stroke:#999999;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new">
+        <desc
+           id="desc11325-6-6-1-4-5-6-7-0-9-7-5-3-5-9-2-8-1-7-8-8-2-6-2-5-3">template = SecurityFence2; merge = 1; separator_at_end = 0;</desc>
+      </path>
+      <rect
+         style="display:inline;opacity:0.75170133;fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke:#999999;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+         id="rect31604-2-6-2-8-9-1-3-8-7-7-8-9-4-0-8-7-5"
+         width="4"
+         height="12"
+         x="1019.0493"
+         y="-931.86932"
+         inkscape:label="#mesh"
+         transform="rotate(76.524818)">
+        <desc
+           id="desc31627-1-2-0-2-7-4-1-2-1-2-0-7-4-5-1-0-8">mesh_name = barbwire_fence.mesh; texture0 = world_atlas1.png; texture0_atlas_cell = 1 9 16 16; collision_model_type = -1; #collision_model_size = 1.4 1.4 2.8; #collision_model_offset = 0 0 0; #walkable = 0; alpha_blend = 1; penetrability = 0.8; see_through = 1;</desc>
+      </rect>
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:label=""
+         inkscape:connector-curvature="0"
+         id="wall126-9-8-88-6-5-5-7-5-4-19-9-0-5-6-6-9-9-7-2-8-2-0-9-2-2-6"
+         d="m 1144.1915,775.79206 -11.7161,2.79708"
+         style="display:inline;opacity:0.75170133;fill:#999999;fill-opacity:1;stroke:#999999;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new">
+        <desc
+           id="desc11325-6-6-1-4-5-6-7-0-9-7-5-3-5-9-2-8-1-7-8-8-2-6-2-5-3-0">template = SecurityFence2; merge = 1; separator_at_end = 1;</desc>
+      </path>
+      <rect
+         style="display:inline;opacity:0.75170133;fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke:#999999;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+         id="rect31604-2-6-2-8-9-1-3-8-7-7-8-9-4-0-8-7-3"
+         width="4"
+         height="12"
+         x="1019.0594"
+         y="-943.91473"
+         inkscape:label="#mesh"
+         transform="rotate(76.524818)">
+        <desc
+           id="desc31627-1-2-0-2-7-4-1-2-1-2-0-7-4-5-1-0-3">mesh_name = barbwire_fence.mesh; texture0 = world_atlas1.png; texture0_atlas_cell = 1 9 16 16; collision_model_type = -1; #collision_model_size = 1.4 1.4 2.8; #collision_model_offset = 0 0 0; #walkable = 0; alpha_blend = 1; penetrability = 0.8; see_through = 1;</desc>
+      </rect>
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:label=""
+         inkscape:connector-curvature="0"
+         id="wall126-9-8-88-6-5-5-7-5-4-19-9-0-5-6-6-9-9-7-2-8-2-0-9-2-2-5"
+         d="m 1155.9077,772.99506 -11.7161,2.79708"
+         style="display:inline;opacity:0.75170133;fill:#999999;fill-opacity:1;stroke:#999999;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new">
+        <desc
+           id="desc11325-6-6-1-4-5-6-7-0-9-7-5-3-5-9-2-8-1-7-8-8-2-6-2-5-3-3">template = SecurityFence2; merge = 1; separator_at_end = 0;</desc>
+      </path>
+      <rect
+         style="display:inline;opacity:0.75170133;fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke:#999999;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+         id="rect31604-2-6-2-8-9-1-3-8-7-7-8-9-4-0-8-7-9"
+         width="4"
+         height="12"
+         x="1272.7887"
+         y="-567.47931"
+         inkscape:label="#mesh"
+         transform="rotate(57.316792)">
+        <desc
+           id="desc31627-1-2-0-2-7-4-1-2-1-2-0-7-4-5-1-0-7">mesh_name = barbwire_fence.mesh; texture0 = world_atlas1.png; texture0_atlas_cell = 1 9 16 16; collision_model_type = -1; #collision_model_size = 1.4 1.4 2.8; #collision_model_offset = 0 0 0; #walkable = 0; alpha_blend = 1; penetrability = 0.8; see_through = 1;</desc>
+      </rect>
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:label=""
+         inkscape:connector-curvature="0"
+         id="wall126-9-8-88-6-5-5-7-5-4-19-9-0-5-6-6-9-9-7-2-8-2-0-9-2-2-2"
+         d="m 1166.0513,766.49911 -10.1436,6.49595"
+         style="display:inline;opacity:0.75170133;fill:#999999;fill-opacity:1;stroke:#999999;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new">
+        <desc
+           id="desc11325-6-6-1-4-5-6-7-0-9-7-5-3-5-9-2-8-1-7-8-8-2-6-2-5-3-08">template = SecurityFence2; merge = 1; separator_at_end = 0;</desc>
+      </path>
+      <rect
+         style="display:inline;opacity:0.75170133;fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke:#999999;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+         id="rect31604-2-6-2-8-9-1-3-8-7-7-8-9-4-0-8-7-3-3"
+         width="4"
+         height="12"
+         x="1392.3358"
+         y="-66.993942"
+         inkscape:label="#mesh"
+         transform="rotate(35.577389)">
+        <desc
+           id="desc31627-1-2-0-2-7-4-1-2-1-2-0-7-4-5-1-0-3-1">mesh_name = barbwire_fence.mesh; texture0 = world_atlas1.png; texture0_atlas_cell = 1 9 16 16; collision_model_type = -1; #collision_model_size = 1.4 1.4 2.8; #collision_model_offset = 0 0 0; #walkable = 0; alpha_blend = 1; penetrability = 0.8; see_through = 1;</desc>
+      </rect>
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:label=""
+         inkscape:connector-curvature="0"
+         id="wall126-9-8-88-6-5-5-7-5-4-19-9-0-5-6-6-9-9-7-2-8-2-0-9-2-2-5-8"
+         d="m 1173.0675,756.70811 -7.0162,9.791"
+         style="display:inline;opacity:0.75170133;fill:#999999;fill-opacity:1;stroke:#999999;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new">
+        <desc
+           id="desc11325-6-6-1-4-5-6-7-0-9-7-5-3-5-9-2-8-1-7-8-8-2-6-2-5-3-3-9">template = SecurityFence2; merge = 1; separator_at_end = 0;</desc>
+      </path>
+      <rect
+         style="display:inline;opacity:0.75170133;fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke:#999999;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+         id="rect31604-2-6-2-8-9-1-3-8-7-7-8-9-4-0-8-7-3-6"
+         width="4"
+         height="12"
+         x="1285.899"
+         y="526.52594"
+         inkscape:label="#mesh"
+         transform="rotate(10.132869)">
+        <desc
+           id="desc31627-1-2-0-2-7-4-1-2-1-2-0-7-4-5-1-0-3-8">mesh_name = barbwire_fence.mesh; texture0 = world_atlas1.png; texture0_atlas_cell = 1 9 16 16; collision_model_type = -1; #collision_model_size = 1.4 1.4 2.8; #collision_model_offset = 0 0 0; #walkable = 0; alpha_blend = 1; penetrability = 0.8; see_through = 1;</desc>
+      </rect>
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:label=""
+         inkscape:connector-curvature="0"
+         id="wall126-9-8-88-6-5-5-7-5-4-19-9-0-5-6-6-9-9-7-2-8-2-0-9-2-2-5-2"
+         d="m 1175.1964,744.85239 -2.1289,11.85572"
+         style="display:inline;opacity:0.75170133;fill:#999999;fill-opacity:1;stroke:#999999;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new">
+        <desc
+           id="desc11325-6-6-1-4-5-6-7-0-9-7-5-3-5-9-2-8-1-7-8-8-2-6-2-5-3-3-0">template = SecurityFence2; merge = 1; separator_at_end = 0;</desc>
+      </path>
+      <rect
+         style="display:inline;opacity:0.75170133;fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke:#999999;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+         id="rect31604-2-6-2-8-9-1-3-8-7-7-8-9-4-0-8-7-3-6-4"
+         width="4"
+         height="12"
+         x="1285.9088"
+         y="514.48059"
+         inkscape:label="#mesh"
+         transform="rotate(10.132869)">
+        <desc
+           id="desc31627-1-2-0-2-7-4-1-2-1-2-0-7-4-5-1-0-3-8-6">mesh_name = barbwire_fence.mesh; texture0 = world_atlas1.png; texture0_atlas_cell = 1 9 16 16; collision_model_type = -1; #collision_model_size = 1.4 1.4 2.8; #collision_model_offset = 0 0 0; #walkable = 0; alpha_blend = 1; penetrability = 0.8; see_through = 1;</desc>
+      </rect>
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:label=""
+         inkscape:connector-curvature="0"
+         id="wall126-9-8-88-6-5-5-7-5-4-19-9-0-5-6-6-9-9-7-2-8-2-0-9-2-2-5-2-5"
+         d="m 1177.3253,732.99667 -2.1289,11.85572"
+         style="display:inline;opacity:0.75170133;fill:#999999;fill-opacity:1;stroke:#999999;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new">
+        <desc
+           id="desc11325-6-6-1-4-5-6-7-0-9-7-5-3-5-9-2-8-1-7-8-8-2-6-2-5-3-3-0-8">template = SecurityFence2; merge = 1; separator_at_end = 0;</desc>
+      </path>
+      <rect
+         style="display:inline;opacity:0.75170133;fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke:#999999;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+         id="rect31604-2-6-2-8-9-1-3-8-7-7-8-9-4-0-8-7-3-6-8"
+         width="4"
+         height="12"
+         x="1285.9186"
+         y="502.43524"
+         inkscape:label="#mesh"
+         transform="rotate(10.132869)">
+        <desc
+           id="desc31627-1-2-0-2-7-4-1-2-1-2-0-7-4-5-1-0-3-8-1">mesh_name = barbwire_fence.mesh; texture0 = world_atlas1.png; texture0_atlas_cell = 1 9 16 16; collision_model_type = -1; #collision_model_size = 1.4 1.4 2.8; #collision_model_offset = 0 0 0; #walkable = 0; alpha_blend = 1; penetrability = 0.8; see_through = 1;</desc>
+      </rect>
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:label=""
+         inkscape:connector-curvature="0"
+         id="wall126-9-8-88-6-5-5-7-5-4-19-9-0-5-6-6-9-9-7-2-8-2-0-9-2-2-5-2-2"
+         d="m 1179.4542,721.14095 -2.1289,11.85572"
+         style="display:inline;opacity:0.75170133;fill:#999999;fill-opacity:1;stroke:#999999;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new">
+        <desc
+           id="desc11325-6-6-1-4-5-6-7-0-9-7-5-3-5-9-2-8-1-7-8-8-2-6-2-5-3-3-0-2">template = SecurityFence2; merge = 1; separator_at_end = 0;</desc>
+      </path>
+      <rect
+         style="display:inline;opacity:0.75170133;fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke:#999999;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+         id="rect31604-2-6-2-8-9-1-3-8-7-7-8-9-4-0-8-7-3-6-2"
+         width="4"
+         height="12"
+         x="1285.9286"
+         y="490.38989"
+         inkscape:label="#mesh"
+         transform="rotate(10.132869)">
+        <desc
+           id="desc31627-1-2-0-2-7-4-1-2-1-2-0-7-4-5-1-0-3-8-7">mesh_name = barbwire_fence.mesh; texture0 = world_atlas1.png; texture0_atlas_cell = 1 9 16 16; collision_model_type = -1; #collision_model_size = 1.4 1.4 2.8; #collision_model_offset = 0 0 0; #walkable = 0; alpha_blend = 1; penetrability = 0.8; see_through = 1;</desc>
+      </rect>
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:label=""
+         inkscape:connector-curvature="0"
+         id="wall126-9-8-88-6-5-5-7-5-4-19-9-0-5-6-6-9-9-7-2-8-2-0-9-2-2-5-2-1"
+         d="m 1181.5831,709.28523 -2.1289,11.85572"
+         style="display:inline;opacity:0.75170133;fill:#999999;fill-opacity:1;stroke:#999999;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new">
+        <desc
+           id="desc11325-6-6-1-4-5-6-7-0-9-7-5-3-5-9-2-8-1-7-8-8-2-6-2-5-3-3-0-6">template = SecurityFence2; merge = 1; separator_at_end = 0;</desc>
+      </path>
+      <rect
+         style="display:inline;opacity:0.75170133;fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke:#999999;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+         id="rect31604-2-6-2-8-9-1-3-8-7-7-8-9-4-0-8-7-3-6-2-0"
+         width="4"
+         height="12"
+         x="1285.9385"
+         y="478.34454"
+         inkscape:label="#mesh"
+         transform="rotate(10.132869)">
+        <desc
+           id="desc31627-1-2-0-2-7-4-1-2-1-2-0-7-4-5-1-0-3-8-7-0">mesh_name = barbwire_fence.mesh; texture0 = world_atlas1.png; texture0_atlas_cell = 1 9 16 16; collision_model_type = -1; #collision_model_size = 1.4 1.4 2.8; #collision_model_offset = 0 0 0; #walkable = 0; alpha_blend = 1; penetrability = 0.8; see_through = 1;</desc>
+      </rect>
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:label=""
+         inkscape:connector-curvature="0"
+         id="wall126-9-8-88-6-5-5-7-5-4-19-9-0-5-6-6-9-9-7-2-8-2-0-9-2-2-5-2-1-9"
+         d="m 1183.712,697.42951 -2.1289,11.85572"
+         style="display:inline;opacity:0.75170133;fill:#999999;fill-opacity:1;stroke:#999999;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new">
+        <desc
+           id="desc11325-6-6-1-4-5-6-7-0-9-7-5-3-5-9-2-8-1-7-8-8-2-6-2-5-3-3-0-6-6">template = SecurityFence2; merge = 1; separator_at_end = 0;</desc>
+      </path>
+      <rect
+         style="display:inline;opacity:0.75170133;fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke:#999999;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+         id="rect31604-2-6-2-8-9-1-3-8-7-7-8-9-4-0-8-7-3-6-2-8"
+         width="4"
+         height="12"
+         x="1285.9484"
+         y="466.29922"
+         inkscape:label="#mesh"
+         transform="rotate(10.132869)">
+        <desc
+           id="desc31627-1-2-0-2-7-4-1-2-1-2-0-7-4-5-1-0-3-8-7-7">mesh_name = barbwire_fence.mesh; texture0 = world_atlas1.png; texture0_atlas_cell = 1 9 16 16; collision_model_type = -1; #collision_model_size = 1.4 1.4 2.8; #collision_model_offset = 0 0 0; #walkable = 0; alpha_blend = 1; penetrability = 0.8; see_through = 1;</desc>
+      </rect>
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:label=""
+         inkscape:connector-curvature="0"
+         id="wall126-9-8-88-6-5-5-7-5-4-19-9-0-5-6-6-9-9-7-2-8-2-0-9-2-2-5-2-1-5"
+         d="m 1185.8409,685.57379 -2.1289,11.85572"
+         style="display:inline;opacity:0.75170133;fill:#999999;fill-opacity:1;stroke:#999999;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new">
+        <desc
+           id="desc11325-6-6-1-4-5-6-7-0-9-7-5-3-5-9-2-8-1-7-8-8-2-6-2-5-3-3-0-6-9">template = SecurityFence2; merge = 1; separator_at_end = 0;</desc>
+      </path>
+      <rect
+         style="display:inline;opacity:0.75170133;fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke:#999999;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+         id="rect31604-2-6-2-8-9-1-3-8-7-7-8-9-4-0-8-7-3-6-2-4"
+         width="4"
+         height="12"
+         x="1285.9584"
+         y="454.25385"
+         inkscape:label="#mesh"
+         transform="rotate(10.132869)">
+        <desc
+           id="desc31627-1-2-0-2-7-4-1-2-1-2-0-7-4-5-1-0-3-8-7-2">mesh_name = barbwire_fence.mesh; texture0 = world_atlas1.png; texture0_atlas_cell = 1 9 16 16; collision_model_type = -1; #collision_model_size = 1.4 1.4 2.8; #collision_model_offset = 0 0 0; #walkable = 0; alpha_blend = 1; penetrability = 0.8; see_through = 1;</desc>
+      </rect>
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:label=""
+         inkscape:connector-curvature="0"
+         id="wall126-9-8-88-6-5-5-7-5-4-19-9-0-5-6-6-9-9-7-2-8-2-0-9-2-2-5-2-1-1"
+         d="m 1187.9698,673.71807 -2.1289,11.85572"
+         style="display:inline;opacity:0.75170133;fill:#999999;fill-opacity:1;stroke:#999999;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new">
+        <desc
+           id="desc11325-6-6-1-4-5-6-7-0-9-7-5-3-5-9-2-8-1-7-8-8-2-6-2-5-3-3-0-6-8">template = SecurityFence2; merge = 1; separator_at_end = 0;</desc>
+      </path>
+      <rect
+         style="display:inline;opacity:0.75170133;fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke:#999999;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+         id="rect31604-2-6-2-8-9-1-3-8-7-7-8-9-4-0-8-7-3-6-2-6"
+         width="4"
+         height="12"
+         x="1285.9681"
+         y="442.20853"
+         inkscape:label="#mesh"
+         transform="rotate(10.132869)">
+        <desc
+           id="desc31627-1-2-0-2-7-4-1-2-1-2-0-7-4-5-1-0-3-8-7-5">mesh_name = barbwire_fence.mesh; texture0 = world_atlas1.png; texture0_atlas_cell = 1 9 16 16; collision_model_type = -1; #collision_model_size = 1.4 1.4 2.8; #collision_model_offset = 0 0 0; #walkable = 0; alpha_blend = 1; penetrability = 0.8; see_through = 1;</desc>
+      </rect>
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:label=""
+         inkscape:connector-curvature="0"
+         id="wall126-9-8-88-6-5-5-7-5-4-19-9-0-5-6-6-9-9-7-2-8-2-0-9-2-2-5-2-1-50"
+         d="m 1190.0987,661.86235 -2.1289,11.85572"
+         style="display:inline;opacity:0.75170133;fill:#999999;fill-opacity:1;stroke:#999999;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new">
+        <desc
+           id="desc11325-6-6-1-4-5-6-7-0-9-7-5-3-5-9-2-8-1-7-8-8-2-6-2-5-3-3-0-6-5">template = SecurityFence2; merge = 1; separator_at_end = 0;</desc>
+      </path>
+      <rect
+         style="display:inline;opacity:0.75170133;fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke:#999999;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+         id="rect31604-2-6-2-8-9-1-3-8-7-7-8-9-4-0-8-7-3-6-2-46"
+         width="4"
+         height="12"
+         x="1285.9879"
+         y="418.11786"
+         inkscape:label="#mesh"
+         transform="rotate(10.132869)">
+        <desc
+           id="desc31627-1-2-0-2-7-4-1-2-1-2-0-7-4-5-1-0-3-8-7-8">mesh_name = barbwire_fence.mesh; texture0 = world_atlas1.png; texture0_atlas_cell = 1 9 16 16; collision_model_type = -1; #collision_model_size = 1.4 1.4 2.8; #collision_model_offset = 0 0 0; #walkable = 0; alpha_blend = 1; penetrability = 0.8; see_through = 1;</desc>
+      </rect>
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:label=""
+         inkscape:connector-curvature="0"
+         id="wall126-9-8-88-6-5-5-7-5-4-19-9-0-5-6-6-9-9-7-2-8-2-0-9-2-2-5-2-1-7"
+         d="m 1194.3565,638.15091 -2.1289,11.85572"
+         style="display:inline;opacity:0.75170133;fill:#999999;fill-opacity:1;stroke:#999999;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new">
+        <desc
+           id="desc11325-6-6-1-4-5-6-7-0-9-7-5-3-5-9-2-8-1-7-8-8-2-6-2-5-3-3-0-6-0">template = SecurityFence2; merge = 1; separator_at_end = 0;</desc>
+      </path>
+      <rect
+         style="display:inline;opacity:0.75170133;fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke:#999999;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+         id="rect31604-2-6-2-8-9-1-3-8-7-7-8-9-4-0-8-7-3-6-2-1"
+         width="4"
+         height="12"
+         x="1286.0079"
+         y="394.02716"
+         inkscape:label="#mesh"
+         transform="rotate(10.132869)">
+        <desc
+           id="desc31627-1-2-0-2-7-4-1-2-1-2-0-7-4-5-1-0-3-8-7-4">mesh_name = barbwire_fence.mesh; texture0 = world_atlas1.png; texture0_atlas_cell = 1 9 16 16; collision_model_type = -1; #collision_model_size = 1.4 1.4 2.8; #collision_model_offset = 0 0 0; #walkable = 0; alpha_blend = 1; penetrability = 0.8; see_through = 1;</desc>
+      </rect>
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:label=""
+         inkscape:connector-curvature="0"
+         id="wall126-9-8-88-6-5-5-7-5-4-19-9-0-5-6-6-9-9-7-2-8-2-0-9-2-2-5-2-1-56"
+         d="m 1198.6143,614.43947 -2.1289,11.85572"
+         style="display:inline;opacity:0.75170133;fill:#999999;fill-opacity:1;stroke:#999999;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new">
+        <desc
+           id="desc11325-6-6-1-4-5-6-7-0-9-7-5-3-5-9-2-8-1-7-8-8-2-6-2-5-3-3-0-6-3">template = SecurityFence2; merge = 1; separator_at_end = 0;</desc>
+      </path>
+      <rect
+         style="display:inline;opacity:0.75170133;fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke:#999999;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+         id="rect31604-2-6-2-8-9-1-3-8-7-7-8-9-4-0-8-7-3-6-2-66"
+         width="4"
+         height="12"
+         x="1285.9979"
+         y="406.07251"
+         inkscape:label="#mesh"
+         transform="rotate(10.132869)">
+        <desc
+           id="desc31627-1-2-0-2-7-4-1-2-1-2-0-7-4-5-1-0-3-8-7-6">mesh_name = barbwire_fence.mesh; texture0 = world_atlas1.png; texture0_atlas_cell = 1 9 16 16; collision_model_type = -1; #collision_model_size = 1.4 1.4 2.8; #collision_model_offset = 0 0 0; #walkable = 0; alpha_blend = 1; penetrability = 0.8; see_through = 1;</desc>
+      </rect>
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:label=""
+         inkscape:connector-curvature="0"
+         id="wall126-9-8-88-6-5-5-7-5-4-19-9-0-5-6-6-9-9-7-2-8-2-0-9-2-2-5-2-1-18"
+         d="m 1196.4854,626.29519 -2.1289,11.85572"
+         style="display:inline;opacity:0.75170133;fill:#999999;fill-opacity:1;stroke:#999999;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new">
+        <desc
+           id="desc11325-6-6-1-4-5-6-7-0-9-7-5-3-5-9-2-8-1-7-8-8-2-6-2-5-3-3-0-6-86">template = SecurityFence2; merge = 1; separator_at_end = 0;</desc>
+      </path>
+      <rect
+         style="display:inline;opacity:0.75170133;fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke:#999999;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+         id="rect31604-2-6-2-8-9-1-3-8-7-7-8-9-4-0-8-7-3-6-2-2"
+         width="4"
+         height="12"
+         x="1286.0177"
+         y="381.98184"
+         inkscape:label="#mesh"
+         transform="rotate(10.132869)">
+        <desc
+           id="desc31627-1-2-0-2-7-4-1-2-1-2-0-7-4-5-1-0-3-8-7-1">mesh_name = barbwire_fence.mesh; texture0 = world_atlas1.png; texture0_atlas_cell = 1 9 16 16; collision_model_type = -1; #collision_model_size = 1.4 1.4 2.8; #collision_model_offset = 0 0 0; #walkable = 0; alpha_blend = 1; penetrability = 0.8; see_through = 1;</desc>
+      </rect>
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:label=""
+         inkscape:connector-curvature="0"
+         id="wall126-9-8-88-6-5-5-7-5-4-19-9-0-5-6-6-9-9-7-2-8-2-0-9-2-2-5-2-1-8"
+         d="m 1200.7432,602.58375 -2.1289,11.85572"
+         style="display:inline;opacity:0.75170133;fill:#999999;fill-opacity:1;stroke:#999999;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new">
+        <desc
+           id="desc11325-6-6-1-4-5-6-7-0-9-7-5-3-5-9-2-8-1-7-8-8-2-6-2-5-3-3-0-6-4">template = SecurityFence2; merge = 1; separator_at_end = 0;</desc>
+      </path>
+      <rect
+         style="display:inline;opacity:0.75170133;fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke:#999999;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+         id="rect31604-2-6-2-8-9-1-3-8-7-7-8-9-4-0-8-7-3-6-2-68"
+         width="4"
+         height="12"
+         x="1285.978"
+         y="430.16318"
+         inkscape:label="#mesh"
+         transform="rotate(10.132869)">
+        <desc
+           id="desc31627-1-2-0-2-7-4-1-2-1-2-0-7-4-5-1-0-3-8-7-02">mesh_name = barbwire_fence.mesh; texture0 = world_atlas1.png; texture0_atlas_cell = 1 9 16 16; collision_model_type = -1; #collision_model_size = 1.4 1.4 2.8; #collision_model_offset = 0 0 0; #walkable = 0; alpha_blend = 1; penetrability = 0.8; see_through = 1;</desc>
+      </rect>
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:label=""
+         inkscape:connector-curvature="0"
+         id="wall126-9-8-88-6-5-5-7-5-4-19-9-0-5-6-6-9-9-7-2-8-2-0-9-2-2-5-2-1-17"
+         d="m 1192.2276,650.00663 -2.1289,11.85572"
+         style="display:inline;opacity:0.75170133;fill:#999999;fill-opacity:1;stroke:#999999;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new">
+        <desc
+           id="desc11325-6-6-1-4-5-6-7-0-9-7-5-3-5-9-2-8-1-7-8-8-2-6-2-5-3-3-0-6-2">template = SecurityFence2; merge = 1; separator_at_end = 0;</desc>
+      </path>
+      <rect
+         style="display:inline;opacity:0.75170133;fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke:#999999;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+         id="rect31604-2-6-2-8-9-1-3-8-7-7-8-9-4-0-8-7-3-6-2-2-7"
+         width="4"
+         height="12"
+         x="1286.0276"
+         y="369.93652"
+         inkscape:label="#mesh"
+         transform="rotate(10.132869)">
+        <desc
+           id="desc31627-1-2-0-2-7-4-1-2-1-2-0-7-4-5-1-0-3-8-7-1-2">mesh_name = barbwire_fence.mesh; texture0 = world_atlas1.png; texture0_atlas_cell = 1 9 16 16; collision_model_type = -1; #collision_model_size = 1.4 1.4 2.8; #collision_model_offset = 0 0 0; #walkable = 0; alpha_blend = 1; penetrability = 0.8; see_through = 1;</desc>
+      </rect>
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:label=""
+         inkscape:connector-curvature="0"
+         id="wall126-9-8-88-6-5-5-7-5-4-19-9-0-5-6-6-9-9-7-2-8-2-0-9-2-2-5-2-1-8-0"
+         d="m 1202.8721,590.72803 -2.1289,11.85572"
+         style="display:inline;opacity:0.75170133;fill:#999999;fill-opacity:1;stroke:#999999;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new">
+        <desc
+           id="desc11325-6-6-1-4-5-6-7-0-9-7-5-3-5-9-2-8-1-7-8-8-2-6-2-5-3-3-0-6-4-4">template = SecurityFence2; merge = 1; separator_at_end = 0;</desc>
+      </path>
+      <rect
+         style="display:inline;opacity:0.75170133;fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke:#999999;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+         id="rect31604-2-6-2-8-9-1-3-8-7-7-8-9-4-0-8-7-3-6-2-2-2"
+         width="4"
+         height="12"
+         x="1286.0375"
+         y="357.89114"
+         inkscape:label="#mesh"
+         transform="rotate(10.132869)">
+        <desc
+           id="desc31627-1-2-0-2-7-4-1-2-1-2-0-7-4-5-1-0-3-8-7-1-3">mesh_name = barbwire_fence.mesh; texture0 = world_atlas1.png; texture0_atlas_cell = 1 9 16 16; collision_model_type = -1; #collision_model_size = 1.4 1.4 2.8; #collision_model_offset = 0 0 0; #walkable = 0; alpha_blend = 1; penetrability = 0.8; see_through = 1;</desc>
+      </rect>
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:label=""
+         inkscape:connector-curvature="0"
+         id="wall126-9-8-88-6-5-5-7-5-4-19-9-0-5-6-6-9-9-7-2-8-2-0-9-2-2-5-2-1-8-3"
+         d="m 1205.001,578.87231 -2.1289,11.85572"
+         style="display:inline;opacity:0.75170133;fill:#999999;fill-opacity:1;stroke:#999999;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new">
+        <desc
+           id="desc11325-6-6-1-4-5-6-7-0-9-7-5-3-5-9-2-8-1-7-8-8-2-6-2-5-3-3-0-6-4-0">template = SecurityFence2; merge = 1; separator_at_end = 0;</desc>
+      </path>
+      <rect
+         style="display:inline;opacity:0.75170133;fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke:#999999;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+         id="rect31604-2-6-2-8-9-1-3-8-7-7-8-9-4-0-8-7-3-6-2-2-27"
+         width="4"
+         height="12"
+         x="1286.0474"
+         y="345.84579"
+         inkscape:label="#mesh"
+         transform="rotate(10.132869)">
+        <desc
+           id="desc31627-1-2-0-2-7-4-1-2-1-2-0-7-4-5-1-0-3-8-7-1-30">mesh_name = barbwire_fence.mesh; texture0 = world_atlas1.png; texture0_atlas_cell = 1 9 16 16; collision_model_type = -1; #collision_model_size = 1.4 1.4 2.8; #collision_model_offset = 0 0 0; #walkable = 0; alpha_blend = 1; penetrability = 0.8; see_through = 1;</desc>
+      </rect>
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:label=""
+         inkscape:connector-curvature="0"
+         id="wall126-9-8-88-6-5-5-7-5-4-19-9-0-5-6-6-9-9-7-2-8-2-0-9-2-2-5-2-1-8-30"
+         d="m 1207.1299,567.01659 -2.1289,11.85572"
+         style="display:inline;opacity:0.75170133;fill:#999999;fill-opacity:1;stroke:#999999;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new">
+        <desc
+           id="desc11325-6-6-1-4-5-6-7-0-9-7-5-3-5-9-2-8-1-7-8-8-2-6-2-5-3-3-0-6-4-6">template = SecurityFence2; merge = 1; separator_at_end = 0;</desc>
+      </path>
+      <rect
+         style="display:inline;opacity:0.75170133;fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke:#999999;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+         id="rect31604-2-6-2-8-9-1-3-8-7-7-8-9-4-0-8-7-3-6-2-2-1"
+         width="4"
+         height="12"
+         x="1286.0573"
+         y="333.80048"
+         inkscape:label="#mesh"
+         transform="rotate(10.132869)">
+        <desc
+           id="desc31627-1-2-0-2-7-4-1-2-1-2-0-7-4-5-1-0-3-8-7-1-6">mesh_name = barbwire_fence.mesh; texture0 = world_atlas1.png; texture0_atlas_cell = 1 9 16 16; collision_model_type = -1; #collision_model_size = 1.4 1.4 2.8; #collision_model_offset = 0 0 0; #walkable = 0; alpha_blend = 1; penetrability = 0.8; see_through = 1;</desc>
+      </rect>
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:label=""
+         inkscape:connector-curvature="0"
+         id="wall126-9-8-88-6-5-5-7-5-4-19-9-0-5-6-6-9-9-7-2-8-2-0-9-2-2-5-2-1-8-6"
+         d="m 1209.2588,555.16087 -2.1289,11.85572"
+         style="display:inline;opacity:0.75170133;fill:#999999;fill-opacity:1;stroke:#999999;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new">
+        <desc
+           id="desc11325-6-6-1-4-5-6-7-0-9-7-5-3-5-9-2-8-1-7-8-8-2-6-2-5-3-3-0-6-4-9">template = SecurityFence2; merge = 1; separator_at_end = 0;</desc>
+      </path>
+      <rect
+         style="display:inline;opacity:0.75170133;fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke:#999999;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+         id="rect31604-2-6-2-8-9-1-3-8-7-7-8-9-4-0-8-7-3-6-2-2-9"
+         width="4"
+         height="12"
+         x="1286.0673"
+         y="321.75513"
+         inkscape:label="#mesh"
+         transform="rotate(10.132869)">
+        <desc
+           id="desc31627-1-2-0-2-7-4-1-2-1-2-0-7-4-5-1-0-3-8-7-1-5">mesh_name = barbwire_fence.mesh; texture0 = world_atlas1.png; texture0_atlas_cell = 1 9 16 16; collision_model_type = -1; #collision_model_size = 1.4 1.4 2.8; #collision_model_offset = 0 0 0; #walkable = 0; alpha_blend = 1; penetrability = 0.8; see_through = 1;</desc>
+      </rect>
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:label=""
+         inkscape:connector-curvature="0"
+         id="wall126-9-8-88-6-5-5-7-5-4-19-9-0-5-6-6-9-9-7-2-8-2-0-9-2-2-5-2-1-8-305"
+         d="m 1211.3877,543.30515 -2.1289,11.85572"
+         style="display:inline;opacity:0.75170133;fill:#999999;fill-opacity:1;stroke:#999999;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new">
+        <desc
+           id="desc11325-6-6-1-4-5-6-7-0-9-7-5-3-5-9-2-8-1-7-8-8-2-6-2-5-3-3-0-6-4-96">template = SecurityFence2; merge = 1; separator_at_end = 0;</desc>
+      </path>
+      <rect
+         style="display:inline;opacity:0.75170133;fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke:#999999;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+         id="rect31604-2-6-2-8-9-1-3-8-7-7-8-9-4-0-8-7-3-6-2-2-6"
+         width="4"
+         height="12"
+         x="796.4046"
+         y="-1072.7496"
+         inkscape:label="#mesh"
+         transform="rotate(77.188111)">
+        <desc
+           id="desc31627-1-2-0-2-7-4-1-2-1-2-0-7-4-5-1-0-3-8-7-1-7">mesh_name = barbwire_fence.mesh; texture0 = world_atlas1.png; texture0_atlas_cell = 1 9 16 16; collision_model_type = -1; #collision_model_size = 1.4 1.4 2.8; #collision_model_offset = 0 0 0; #walkable = 0; alpha_blend = 1; penetrability = 0.8; see_through = 1;</desc>
+      </rect>
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:label=""
+         inkscape:connector-curvature="0"
+         id="wall126-9-8-88-6-5-5-7-5-4-19-9-0-5-6-6-9-9-7-2-8-2-0-9-2-2-5-2-1-8-07"
+         d="m 1223.1353,540.64374 -11.7476,2.66141"
+         style="display:inline;opacity:0.75170133;fill:#999999;fill-opacity:1;stroke:#999999;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new">
+        <desc
+           id="desc11325-6-6-1-4-5-6-7-0-9-7-5-3-5-9-2-8-1-7-8-8-2-6-2-5-3-3-0-6-4-1">template = SecurityFence2; merge = 1; separator_at_end = 0;</desc>
+      </path>
+      <rect
+         style="display:inline;opacity:0.75170133;fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke:#999999;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+         id="rect31604-2-6-2-8-9-1-3-8-7-7-8-9-4-0-8-7-3-6-2-2-4"
+         width="4"
+         height="12"
+         x="276.1572"
+         y="-1320.0457"
+         inkscape:label="#mesh"
+         transform="rotate(101.84094)">
+        <desc
+           id="desc31627-1-2-0-2-7-4-1-2-1-2-0-7-4-5-1-0-3-8-7-1-78">mesh_name = barbwire_fence.mesh; texture0 = world_atlas1.png; texture0_atlas_cell = 1 9 16 16; collision_model_type = -1; #collision_model_size = 1.4 1.4 2.8; #collision_model_offset = 0 0 0; #walkable = 0; alpha_blend = 1; penetrability = 0.8; see_through = 1;</desc>
+      </rect>
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:label=""
+         inkscape:connector-curvature="0"
+         id="wall126-9-8-88-6-5-5-7-5-4-19-9-0-5-6-6-9-9-7-2-8-2-0-9-2-2-5-2-1-8-1"
+         d="m 1234.9223,543.12507 -11.787,-2.48133"
+         style="display:inline;opacity:0.75170133;fill:#999999;fill-opacity:1;stroke:#999999;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new">
+        <desc
+           id="desc11325-6-6-1-4-5-6-7-0-9-7-5-3-5-9-2-8-1-7-8-8-2-6-2-5-3-3-0-6-4-3">template = SecurityFence2; merge = 1; separator_at_end = 0;</desc>
+      </path>
+      <rect
+         style="display:inline;opacity:0.75170133;fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke:#999999;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+         id="rect31604-2-6-2-8-9-1-3-8-7-7-8-9-4-0-8-7-3-6-2-2-4-9"
+         width="4"
+         height="12"
+         x="276.16711"
+         y="-1332.0909"
+         inkscape:label="#mesh"
+         transform="rotate(101.84094)">
+        <desc
+           id="desc31627-1-2-0-2-7-4-1-2-1-2-0-7-4-5-1-0-3-8-7-1-78-2">mesh_name = barbwire_fence.mesh; texture0 = world_atlas1.png; texture0_atlas_cell = 1 9 16 16; collision_model_type = -1; #collision_model_size = 1.4 1.4 2.8; #collision_model_offset = 0 0 0; #walkable = 0; alpha_blend = 1; penetrability = 0.8; see_through = 1;</desc>
+      </rect>
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:label=""
+         inkscape:connector-curvature="0"
+         id="wall126-9-8-88-6-5-5-7-5-4-19-9-0-5-6-6-9-9-7-2-8-2-0-9-2-2-5-2-1-8-1-5"
+         d="m 1246.7093,545.6064 -11.787,-2.48133"
+         style="display:inline;opacity:0.75170133;fill:#999999;fill-opacity:1;stroke:#999999;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new">
+        <desc
+           id="desc11325-6-6-1-4-5-6-7-0-9-7-5-3-5-9-2-8-1-7-8-8-2-6-2-5-3-3-0-6-4-3-0">template = SecurityFence2; merge = 1; separator_at_end = 0;</desc>
+      </path>
+      <rect
+         style="display:inline;opacity:0.75170133;fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke:#999999;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+         id="rect31604-2-6-2-8-9-1-3-8-7-7-8-9-4-0-8-7-3-6-2-2-4-3"
+         width="4"
+         height="12"
+         x="276.17697"
+         y="-1344.1364"
+         inkscape:label="#mesh"
+         transform="rotate(101.84094)">
+        <desc
+           id="desc31627-1-2-0-2-7-4-1-2-1-2-0-7-4-5-1-0-3-8-7-1-78-9">mesh_name = barbwire_fence.mesh; texture0 = world_atlas1.png; texture0_atlas_cell = 1 9 16 16; collision_model_type = -1; #collision_model_size = 1.4 1.4 2.8; #collision_model_offset = 0 0 0; #walkable = 0; alpha_blend = 1; penetrability = 0.8; see_through = 1;</desc>
+      </rect>
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:label=""
+         inkscape:connector-curvature="0"
+         id="wall126-9-8-88-6-5-5-7-5-4-19-9-0-5-6-6-9-9-7-2-8-2-0-9-2-2-5-2-1-8-1-9"
+         d="m 1258.4963,548.08773 -11.787,-2.48133"
+         style="display:inline;opacity:0.75170133;fill:#999999;fill-opacity:1;stroke:#999999;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new">
+        <desc
+           id="desc11325-6-6-1-4-5-6-7-0-9-7-5-3-5-9-2-8-1-7-8-8-2-6-2-5-3-3-0-6-4-3-4">template = SecurityFence2; merge = 1; separator_at_end = 0;</desc>
+      </path>
+      <rect
+         style="display:inline;opacity:0.75170133;fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke:#999999;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+         id="rect31604-2-6-2-8-9-1-3-8-7-7-8-9-4-0-8-7-3-6-2-2-4-2"
+         width="4"
+         height="12"
+         x="276.18686"
+         y="-1356.1816"
+         inkscape:label="#mesh"
+         transform="rotate(101.84094)">
+        <desc
+           id="desc31627-1-2-0-2-7-4-1-2-1-2-0-7-4-5-1-0-3-8-7-1-78-3">mesh_name = barbwire_fence.mesh; texture0 = world_atlas1.png; texture0_atlas_cell = 1 9 16 16; collision_model_type = -1; #collision_model_size = 1.4 1.4 2.8; #collision_model_offset = 0 0 0; #walkable = 0; alpha_blend = 1; penetrability = 0.8; see_through = 1;</desc>
+      </rect>
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:label=""
+         inkscape:connector-curvature="0"
+         id="wall126-9-8-88-6-5-5-7-5-4-19-9-0-5-6-6-9-9-7-2-8-2-0-9-2-2-5-2-1-8-1-96"
+         d="m 1270.2833,550.56906 -11.787,-2.48133"
+         style="display:inline;opacity:0.75170133;fill:#999999;fill-opacity:1;stroke:#999999;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new">
+        <desc
+           id="desc11325-6-6-1-4-5-6-7-0-9-7-5-3-5-9-2-8-1-7-8-8-2-6-2-5-3-3-0-6-4-3-7">template = SecurityFence2; merge = 1; separator_at_end = 0;</desc>
+      </path>
+      <rect
+         style="display:inline;opacity:0.75170133;fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke:#999999;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+         id="rect31604-2-6-2-8-9-1-3-8-7-7-8-9-4-0-8-7-3-6-2-2-4-8"
+         width="4"
+         height="12"
+         x="276.19678"
+         y="-1368.2271"
+         inkscape:label="#mesh"
+         transform="rotate(101.84094)">
+        <desc
+           id="desc31627-1-2-0-2-7-4-1-2-1-2-0-7-4-5-1-0-3-8-7-1-78-5">mesh_name = barbwire_fence.mesh; texture0 = world_atlas1.png; texture0_atlas_cell = 1 9 16 16; collision_model_type = -1; #collision_model_size = 1.4 1.4 2.8; #collision_model_offset = 0 0 0; #walkable = 0; alpha_blend = 1; penetrability = 0.8; see_through = 1;</desc>
+      </rect>
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:label=""
+         inkscape:connector-curvature="0"
+         id="wall126-9-8-88-6-5-5-7-5-4-19-9-0-5-6-6-9-9-7-2-8-2-0-9-2-2-5-2-1-8-1-3"
+         d="m 1282.0703,553.05039 -11.787,-2.48133"
+         style="display:inline;opacity:0.75170133;fill:#999999;fill-opacity:1;stroke:#999999;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new">
+        <desc
+           id="desc11325-6-6-1-4-5-6-7-0-9-7-5-3-5-9-2-8-1-7-8-8-2-6-2-5-3-3-0-6-4-3-6">template = SecurityFence2; merge = 1; separator_at_end = 0;</desc>
+      </path>
+      <rect
+         style="display:inline;opacity:0.75170133;fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke:#999999;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+         id="rect31604-2-6-2-8-9-1-3-8-7-7-8-9-4-0-8-7-3-6-2-2-4-0"
+         width="4"
+         height="12"
+         x="276.20663"
+         y="-1380.2725"
+         inkscape:label="#mesh"
+         transform="rotate(101.84094)">
+        <desc
+           id="desc31627-1-2-0-2-7-4-1-2-1-2-0-7-4-5-1-0-3-8-7-1-78-93">mesh_name = barbwire_fence.mesh; texture0 = world_atlas1.png; texture0_atlas_cell = 1 9 16 16; collision_model_type = -1; #collision_model_size = 1.4 1.4 2.8; #collision_model_offset = 0 0 0; #walkable = 0; alpha_blend = 1; penetrability = 0.8; see_through = 1;</desc>
+      </rect>
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:label=""
+         inkscape:connector-curvature="0"
+         id="wall126-9-8-88-6-5-5-7-5-4-19-9-0-5-6-6-9-9-7-2-8-2-0-9-2-2-5-2-1-8-1-94"
+         d="m 1293.8573,555.53172 -11.787,-2.48133"
+         style="display:inline;opacity:0.75170133;fill:#999999;fill-opacity:1;stroke:#999999;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new">
+        <desc
+           id="desc11325-6-6-1-4-5-6-7-0-9-7-5-3-5-9-2-8-1-7-8-8-2-6-2-5-3-3-0-6-4-3-09">template = SecurityFence2; merge = 1; separator_at_end = 0;</desc>
+      </path>
+      <rect
+         style="display:inline;opacity:0.75170133;fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke:#999999;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+         id="rect31604-2-6-2-8-9-1-3-8-7-7-8-9-4-0-8-7-3-6-2-2-4-22"
+         width="4"
+         height="12"
+         x="865.25012"
+         y="-1121.3051"
+         inkscape:label="#mesh"
+         transform="rotate(75.218641)">
+        <desc
+           id="desc31627-1-2-0-2-7-4-1-2-1-2-0-7-4-5-1-0-3-8-7-1-78-29">mesh_name = barbwire_fence.mesh; texture0 = world_atlas1.png; texture0_atlas_cell = 1 9 16 16; collision_model_type = -1; #collision_model_size = 1.4 1.4 2.8; #collision_model_offset = 0 0 0; #walkable = 0; alpha_blend = 1; penetrability = 0.8; see_through = 1;</desc>
+      </rect>
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:label=""
+         inkscape:connector-curvature="0"
+         id="wall126-9-8-88-6-5-5-7-5-4-19-9-0-5-6-6-9-9-7-2-8-2-0-9-2-2-5-2-1-8-1-4"
+         d="m 1305.5064,552.46814 -11.6491,3.06358"
+         style="display:inline;opacity:0.75170133;fill:#999999;fill-opacity:1;stroke:#999999;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new">
+        <desc
+           id="desc11325-6-6-1-4-5-6-7-0-9-7-5-3-5-9-2-8-1-7-8-8-2-6-2-5-3-3-0-6-4-3-2">template = SecurityFence2; merge = 1; separator_at_end = 0;</desc>
       </path>
     </g>
     <g
        style="display:inline"
        inkscape:label="rocks"
        id="layer19"
-       inkscape:groupmode="layer" />
+       inkscape:groupmode="layer"
+       sodipodi:insensitive="true" />
     <g
        style="display:inline"
        inkscape:label="fallen"
@@ -25843,7 +26847,8 @@ merge = 1;</desc>
        style="display:inline"
        inkscape:label="crates"
        id="layer17"
-       inkscape:groupmode="layer" />
+       inkscape:groupmode="layer"
+       sodipodi:insensitive="true" />
     <g
        style="display:inline"
        inkscape:label="decals"
@@ -25854,7 +26859,8 @@ merge = 1;</desc>
        inkscape:label="spawnpoints"
        id="layer33"
        inkscape:groupmode="layer"
-       style="display:inline">
+       style="display:inline"
+       sodipodi:insensitive="true">
       <rect
          inkscape:label="#spawnrect10748"
          y="810.11157"
@@ -25961,7 +26967,8 @@ merge = 1;</desc>
      style="display:inline"
      inkscape:label="layer2"
      id="layer11"
-     inkscape:groupmode="layer">
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true">
     <g
        style="display:inline"
        inkscape:label="objects"
@@ -26380,19 +27387,18 @@ merge = 1;</desc>
      style="display:inline"
      inkscape:label="layer3"
      id="layer22"
-     inkscape:groupmode="layer">
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true">
     <g
        style="display:inline"
        inkscape:label="objects"
        id="layer23"
-       inkscape:groupmode="layer"
-       sodipodi:insensitive="true" />
+       inkscape:groupmode="layer" />
     <g
        style="display:inline"
        inkscape:label="other"
        id="layer24"
-       inkscape:groupmode="layer"
-       sodipodi:insensitive="true">
+       inkscape:groupmode="layer">
       <rect
          style="display:inline;fill:#ff0000;fill-opacity:1;stroke:none;enable-background:new"
          id="rect10892"
@@ -26453,7 +27459,7 @@ merge = 1;</desc>
      inkscape:groupmode="layer"
      id="layer46"
      inkscape:label="work_sectors"
-     style="display:inline"
+     style="display:none"
      sodipodi:insensitive="true">
     <path
        style="display:inline;fill:none;stroke:#ff0000;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:20, 10;stroke-dashoffset:0;stroke-opacity:1;enable-background:new"
