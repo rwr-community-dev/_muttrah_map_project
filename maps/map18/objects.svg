@@ -30,11 +30,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="9.7669118"
-     inkscape:cx="1010.6043"
-     inkscape:cy="1277.6146"
+     inkscape:zoom="4.8834559"
+     inkscape:cx="2701.4292"
+     inkscape:cy="476.22831"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer29"
      showgrid="true"
      inkscape:window-width="1680"
      inkscape:window-height="949"
@@ -14949,7 +14949,7 @@ climb_type = 0;</desc>
       <title
          id="title12407-7">barell_red</title>
       <desc
-         id="desc16653-2-9-3-3-8-7-0-7-9">name = barell_red; mesh_name = barell.mesh; texture0 = world_atlas1.png; texture0_atlas_cell = 10 16 32 32; collision_model_type = 0; collision_model_size = 1.2 1.4 1.2; penetrability = 0.4;</desc>
+         id="desc16653-2-9-3-3-8-7-0-7-9">name = barell_red; static_object_type_key=fuel_barrel.static_object; mesh_name = barell.mesh; texture0 = world_atlas1.png; texture0_atlas_cell = 10 16 32 32; collision_model_type = 0; collision_model_size = 1.2 1.4 1.2; penetrability = 0.4;</desc>
     </rect>
     <rect
        style="display:inline;fill:#6a6a6a;fill-opacity:1;fill-rule:nonzero;stroke:#ffff00;stroke-width:1.00000119;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.00000122, 1.00000122;stroke-dashoffset:0;stroke-opacity:1;enable-background:new"
@@ -14990,7 +14990,7 @@ climb_type = 0;</desc>
       <title
          id="title12409-61">barell_green</title>
       <desc
-         id="desc16653-2-9-3-3-8-7-0-7-4-5">name = barell_green; mesh_name = barell.mesh; texture0 = world_atlas1.png; texture0_atlas_cell = 8 16 32 32; collision_model_type = 0; collision_model_size = 1.2 1.4 1.2; penetrability = 0.4;</desc>
+         id="desc16653-2-9-3-3-8-7-0-7-4-5">name = barell_green; static_object_type_key=fuel_barrel.static_object; mesh_name = barell.mesh; texture0 = world_atlas1.png; texture0_atlas_cell = 8 16 32 32; collision_model_type = 0; collision_model_size = 1.2 1.4 1.2; penetrability = 0.4;</desc>
     </rect>
     <rect
        style="display:inline;fill:#6a6a6a;fill-opacity:1;fill-rule:nonzero;stroke:#008eff;stroke-width:1.00000119;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:7;stroke-opacity:1;enable-background:new"
@@ -15005,7 +15005,7 @@ climb_type = 0;</desc>
       <title
          id="title12411-1">barell_blue</title>
       <desc
-         id="desc16653-2-9-3-3-8-7-0-7-4-6-3">name = barell_blue; mesh_name = barell.mesh; texture0 = world_atlas1.png; texture0_atlas_cell = 9 16 32 32; collision_model_type = 0; collision_model_size = 1.2 1.4 1.2; penetrability = 0.4;</desc>
+         id="desc16653-2-9-3-3-8-7-0-7-4-6-3">name = barell_blue; static_object_type_key=fuel_barrel.static_object; mesh_name = barell.mesh; texture0 = world_atlas1.png; texture0_atlas_cell = 9 16 32 32; collision_model_type = 0; collision_model_size = 1.2 1.4 1.2; penetrability = 0.4;</desc>
     </rect>
     <rect
        rx="1"
