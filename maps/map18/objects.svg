@@ -30,11 +30,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="13.812499"
-     inkscape:cx="1127.1309"
-     inkscape:cy="1248.0393"
+     inkscape:zoom="3.4531248"
+     inkscape:cx="1109.4447"
+     inkscape:cy="1257.3922"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer8"
      showgrid="true"
      inkscape:window-width="1680"
      inkscape:window-height="949"
@@ -26190,10 +26190,10 @@ merge = 1;</desc>
          id="rect31604-2-6-2-8-9-1-3-8-7-7-8-9-4-0-8-7-3-3"
          width="4"
          height="12"
-         x="1392.3358"
-         y="-66.993942"
+         x="1379.3154"
+         y="-209.90025"
          inkscape:label="#mesh"
-         transform="rotate(35.577389)">
+         transform="rotate(41.47201)">
         <desc
            id="desc31627-1-2-0-2-7-4-1-2-1-2-0-7-4-5-1-0-3-1">mesh_name = barbwire_fence.mesh; texture0 = world_atlas1.png; texture0_atlas_cell = 1 9 16 16; collision_model_type = -1; #collision_model_size = 1.4 1.4 2.8; #collision_model_offset = 0 0 0; #walkable = 0; alpha_blend = 1; penetrability = 0.8; see_through = 1;</desc>
       </rect>
@@ -26202,7 +26202,7 @@ merge = 1;</desc>
          inkscape:label=""
          inkscape:connector-curvature="0"
          id="wall126-9-8-88-6-5-5-7-5-4-19-9-0-5-6-6-9-9-7-2-8-2-0-9-2-2-5-8"
-         d="m 1173.0675,756.70811 -7.0162,9.791"
+         d="m 1174.0359,757.48044 -7.9846,9.01867"
          style="display:inline;opacity:0.75170133;fill:#999999;fill-opacity:1;stroke:#999999;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new">
         <desc
            id="desc11325-6-6-1-4-5-6-7-0-9-7-5-3-5-9-2-8-1-7-8-8-2-6-2-5-3-3-9">template = SecurityFence2; merge = 1; separator_at_end = 0;</desc>
@@ -26212,8 +26212,8 @@ merge = 1;</desc>
          id="rect31604-2-6-2-8-9-1-3-8-7-7-8-9-4-0-8-7-3-6"
          width="4"
          height="12"
-         x="1285.899"
-         y="526.52594"
+         x="1286.9882"
+         y="527.11584"
          inkscape:label="#mesh"
          transform="rotate(10.132869)">
         <desc
@@ -26224,7 +26224,7 @@ merge = 1;</desc>
          inkscape:label=""
          inkscape:connector-curvature="0"
          id="wall126-9-8-88-6-5-5-7-5-4-19-9-0-5-6-6-9-9-7-2-8-2-0-9-2-2-5-2"
-         d="m 1175.1964,744.85239 -2.1289,11.85572"
+         d="m 1176.1648,745.62472 -2.1289,11.85572"
          style="display:inline;opacity:0.75170133;fill:#999999;fill-opacity:1;stroke:#999999;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new">
         <desc
            id="desc11325-6-6-1-4-5-6-7-0-9-7-5-3-5-9-2-8-1-7-8-8-2-6-2-5-3-3-0">template = SecurityFence2; merge = 1; separator_at_end = 0;</desc>
@@ -26234,8 +26234,8 @@ merge = 1;</desc>
          id="rect31604-2-6-2-8-9-1-3-8-7-7-8-9-4-0-8-7-3-6-4"
          width="4"
          height="12"
-         x="1285.9088"
-         y="514.48059"
+         x="1286.9979"
+         y="515.0705"
          inkscape:label="#mesh"
          transform="rotate(10.132869)">
         <desc
@@ -26246,7 +26246,7 @@ merge = 1;</desc>
          inkscape:label=""
          inkscape:connector-curvature="0"
          id="wall126-9-8-88-6-5-5-7-5-4-19-9-0-5-6-6-9-9-7-2-8-2-0-9-2-2-5-2-5"
-         d="m 1177.3253,732.99667 -2.1289,11.85572"
+         d="m 1178.2937,733.769 -2.1289,11.85572"
          style="display:inline;opacity:0.75170133;fill:#999999;fill-opacity:1;stroke:#999999;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new">
         <desc
            id="desc11325-6-6-1-4-5-6-7-0-9-7-5-3-5-9-2-8-1-7-8-8-2-6-2-5-3-3-0-8">template = SecurityFence2; merge = 1; separator_at_end = 0;</desc>
@@ -26256,8 +26256,8 @@ merge = 1;</desc>
          id="rect31604-2-6-2-8-9-1-3-8-7-7-8-9-4-0-8-7-3-6-8"
          width="4"
          height="12"
-         x="1285.9186"
-         y="502.43524"
+         x="1287.0077"
+         y="503.02515"
          inkscape:label="#mesh"
          transform="rotate(10.132869)">
         <desc
@@ -26268,7 +26268,7 @@ merge = 1;</desc>
          inkscape:label=""
          inkscape:connector-curvature="0"
          id="wall126-9-8-88-6-5-5-7-5-4-19-9-0-5-6-6-9-9-7-2-8-2-0-9-2-2-5-2-2"
-         d="m 1179.4542,721.14095 -2.1289,11.85572"
+         d="m 1180.4226,721.91328 -2.1289,11.85572"
          style="display:inline;opacity:0.75170133;fill:#999999;fill-opacity:1;stroke:#999999;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new">
         <desc
            id="desc11325-6-6-1-4-5-6-7-0-9-7-5-3-5-9-2-8-1-7-8-8-2-6-2-5-3-3-0-2">template = SecurityFence2; merge = 1; separator_at_end = 0;</desc>
@@ -26278,8 +26278,8 @@ merge = 1;</desc>
          id="rect31604-2-6-2-8-9-1-3-8-7-7-8-9-4-0-8-7-3-6-2"
          width="4"
          height="12"
-         x="1285.9286"
-         y="490.38989"
+         x="1287.0177"
+         y="490.9798"
          inkscape:label="#mesh"
          transform="rotate(10.132869)">
         <desc
@@ -26290,7 +26290,7 @@ merge = 1;</desc>
          inkscape:label=""
          inkscape:connector-curvature="0"
          id="wall126-9-8-88-6-5-5-7-5-4-19-9-0-5-6-6-9-9-7-2-8-2-0-9-2-2-5-2-1"
-         d="m 1181.5831,709.28523 -2.1289,11.85572"
+         d="m 1182.5515,710.05756 -2.1289,11.85572"
          style="display:inline;opacity:0.75170133;fill:#999999;fill-opacity:1;stroke:#999999;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new">
         <desc
            id="desc11325-6-6-1-4-5-6-7-0-9-7-5-3-5-9-2-8-1-7-8-8-2-6-2-5-3-3-0-6">template = SecurityFence2; merge = 1; separator_at_end = 0;</desc>
@@ -26300,8 +26300,8 @@ merge = 1;</desc>
          id="rect31604-2-6-2-8-9-1-3-8-7-7-8-9-4-0-8-7-3-6-2-0"
          width="4"
          height="12"
-         x="1285.9385"
-         y="478.34454"
+         x="1287.0276"
+         y="478.93445"
          inkscape:label="#mesh"
          transform="rotate(10.132869)">
         <desc
@@ -26312,7 +26312,7 @@ merge = 1;</desc>
          inkscape:label=""
          inkscape:connector-curvature="0"
          id="wall126-9-8-88-6-5-5-7-5-4-19-9-0-5-6-6-9-9-7-2-8-2-0-9-2-2-5-2-1-9"
-         d="m 1183.712,697.42951 -2.1289,11.85572"
+         d="m 1184.6804,698.20184 -2.1289,11.85572"
          style="display:inline;opacity:0.75170133;fill:#999999;fill-opacity:1;stroke:#999999;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new">
         <desc
            id="desc11325-6-6-1-4-5-6-7-0-9-7-5-3-5-9-2-8-1-7-8-8-2-6-2-5-3-3-0-6-6">template = SecurityFence2; merge = 1; separator_at_end = 0;</desc>
@@ -26322,8 +26322,8 @@ merge = 1;</desc>
          id="rect31604-2-6-2-8-9-1-3-8-7-7-8-9-4-0-8-7-3-6-2-8"
          width="4"
          height="12"
-         x="1285.9484"
-         y="466.29922"
+         x="1287.0375"
+         y="466.88913"
          inkscape:label="#mesh"
          transform="rotate(10.132869)">
         <desc
@@ -26334,7 +26334,7 @@ merge = 1;</desc>
          inkscape:label=""
          inkscape:connector-curvature="0"
          id="wall126-9-8-88-6-5-5-7-5-4-19-9-0-5-6-6-9-9-7-2-8-2-0-9-2-2-5-2-1-5"
-         d="m 1185.8409,685.57379 -2.1289,11.85572"
+         d="m 1186.8093,686.34612 -2.1289,11.85572"
          style="display:inline;opacity:0.75170133;fill:#999999;fill-opacity:1;stroke:#999999;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new">
         <desc
            id="desc11325-6-6-1-4-5-6-7-0-9-7-5-3-5-9-2-8-1-7-8-8-2-6-2-5-3-3-0-6-9">template = SecurityFence2; merge = 1; separator_at_end = 0;</desc>
@@ -26344,8 +26344,8 @@ merge = 1;</desc>
          id="rect31604-2-6-2-8-9-1-3-8-7-7-8-9-4-0-8-7-3-6-2-4"
          width="4"
          height="12"
-         x="1285.9584"
-         y="454.25385"
+         x="1287.0475"
+         y="454.84375"
          inkscape:label="#mesh"
          transform="rotate(10.132869)">
         <desc
@@ -26356,7 +26356,7 @@ merge = 1;</desc>
          inkscape:label=""
          inkscape:connector-curvature="0"
          id="wall126-9-8-88-6-5-5-7-5-4-19-9-0-5-6-6-9-9-7-2-8-2-0-9-2-2-5-2-1-1"
-         d="m 1187.9698,673.71807 -2.1289,11.85572"
+         d="m 1188.9382,674.4904 -2.1289,11.85572"
          style="display:inline;opacity:0.75170133;fill:#999999;fill-opacity:1;stroke:#999999;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new">
         <desc
            id="desc11325-6-6-1-4-5-6-7-0-9-7-5-3-5-9-2-8-1-7-8-8-2-6-2-5-3-3-0-6-8">template = SecurityFence2; merge = 1; separator_at_end = 0;</desc>
@@ -26366,8 +26366,8 @@ merge = 1;</desc>
          id="rect31604-2-6-2-8-9-1-3-8-7-7-8-9-4-0-8-7-3-6-2-6"
          width="4"
          height="12"
-         x="1285.9681"
-         y="442.20853"
+         x="1287.0573"
+         y="442.79843"
          inkscape:label="#mesh"
          transform="rotate(10.132869)">
         <desc
@@ -26378,7 +26378,7 @@ merge = 1;</desc>
          inkscape:label=""
          inkscape:connector-curvature="0"
          id="wall126-9-8-88-6-5-5-7-5-4-19-9-0-5-6-6-9-9-7-2-8-2-0-9-2-2-5-2-1-50"
-         d="m 1190.0987,661.86235 -2.1289,11.85572"
+         d="m 1191.0671,662.63468 -2.1289,11.85572"
          style="display:inline;opacity:0.75170133;fill:#999999;fill-opacity:1;stroke:#999999;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new">
         <desc
            id="desc11325-6-6-1-4-5-6-7-0-9-7-5-3-5-9-2-8-1-7-8-8-2-6-2-5-3-3-0-6-5">template = SecurityFence2; merge = 1; separator_at_end = 0;</desc>
@@ -26388,8 +26388,8 @@ merge = 1;</desc>
          id="rect31604-2-6-2-8-9-1-3-8-7-7-8-9-4-0-8-7-3-6-2-46"
          width="4"
          height="12"
-         x="1285.9879"
-         y="418.11786"
+         x="1287.077"
+         y="418.70776"
          inkscape:label="#mesh"
          transform="rotate(10.132869)">
         <desc
@@ -26400,7 +26400,7 @@ merge = 1;</desc>
          inkscape:label=""
          inkscape:connector-curvature="0"
          id="wall126-9-8-88-6-5-5-7-5-4-19-9-0-5-6-6-9-9-7-2-8-2-0-9-2-2-5-2-1-7"
-         d="m 1194.3565,638.15091 -2.1289,11.85572"
+         d="m 1195.3249,638.92324 -2.1289,11.85572"
          style="display:inline;opacity:0.75170133;fill:#999999;fill-opacity:1;stroke:#999999;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new">
         <desc
            id="desc11325-6-6-1-4-5-6-7-0-9-7-5-3-5-9-2-8-1-7-8-8-2-6-2-5-3-3-0-6-0">template = SecurityFence2; merge = 1; separator_at_end = 0;</desc>
@@ -26410,8 +26410,8 @@ merge = 1;</desc>
          id="rect31604-2-6-2-8-9-1-3-8-7-7-8-9-4-0-8-7-3-6-2-1"
          width="4"
          height="12"
-         x="1286.0079"
-         y="394.02716"
+         x="1287.097"
+         y="394.61707"
          inkscape:label="#mesh"
          transform="rotate(10.132869)">
         <desc
@@ -26422,7 +26422,7 @@ merge = 1;</desc>
          inkscape:label=""
          inkscape:connector-curvature="0"
          id="wall126-9-8-88-6-5-5-7-5-4-19-9-0-5-6-6-9-9-7-2-8-2-0-9-2-2-5-2-1-56"
-         d="m 1198.6143,614.43947 -2.1289,11.85572"
+         d="m 1199.5827,615.2118 -2.1289,11.85572"
          style="display:inline;opacity:0.75170133;fill:#999999;fill-opacity:1;stroke:#999999;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new">
         <desc
            id="desc11325-6-6-1-4-5-6-7-0-9-7-5-3-5-9-2-8-1-7-8-8-2-6-2-5-3-3-0-6-3">template = SecurityFence2; merge = 1; separator_at_end = 0;</desc>
@@ -26432,8 +26432,8 @@ merge = 1;</desc>
          id="rect31604-2-6-2-8-9-1-3-8-7-7-8-9-4-0-8-7-3-6-2-66"
          width="4"
          height="12"
-         x="1285.9979"
-         y="406.07251"
+         x="1287.087"
+         y="406.66241"
          inkscape:label="#mesh"
          transform="rotate(10.132869)">
         <desc
@@ -26444,7 +26444,7 @@ merge = 1;</desc>
          inkscape:label=""
          inkscape:connector-curvature="0"
          id="wall126-9-8-88-6-5-5-7-5-4-19-9-0-5-6-6-9-9-7-2-8-2-0-9-2-2-5-2-1-18"
-         d="m 1196.4854,626.29519 -2.1289,11.85572"
+         d="m 1197.4538,627.06752 -2.1289,11.85572"
          style="display:inline;opacity:0.75170133;fill:#999999;fill-opacity:1;stroke:#999999;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new">
         <desc
            id="desc11325-6-6-1-4-5-6-7-0-9-7-5-3-5-9-2-8-1-7-8-8-2-6-2-5-3-3-0-6-86">template = SecurityFence2; merge = 1; separator_at_end = 0;</desc>
@@ -26454,8 +26454,8 @@ merge = 1;</desc>
          id="rect31604-2-6-2-8-9-1-3-8-7-7-8-9-4-0-8-7-3-6-2-2"
          width="4"
          height="12"
-         x="1286.0177"
-         y="381.98184"
+         x="1287.1068"
+         y="382.57175"
          inkscape:label="#mesh"
          transform="rotate(10.132869)">
         <desc
@@ -26466,7 +26466,7 @@ merge = 1;</desc>
          inkscape:label=""
          inkscape:connector-curvature="0"
          id="wall126-9-8-88-6-5-5-7-5-4-19-9-0-5-6-6-9-9-7-2-8-2-0-9-2-2-5-2-1-8"
-         d="m 1200.7432,602.58375 -2.1289,11.85572"
+         d="m 1201.7116,603.35608 -2.1289,11.85572"
          style="display:inline;opacity:0.75170133;fill:#999999;fill-opacity:1;stroke:#999999;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new">
         <desc
            id="desc11325-6-6-1-4-5-6-7-0-9-7-5-3-5-9-2-8-1-7-8-8-2-6-2-5-3-3-0-6-4">template = SecurityFence2; merge = 1; separator_at_end = 0;</desc>
@@ -26476,8 +26476,8 @@ merge = 1;</desc>
          id="rect31604-2-6-2-8-9-1-3-8-7-7-8-9-4-0-8-7-3-6-2-68"
          width="4"
          height="12"
-         x="1285.978"
-         y="430.16318"
+         x="1287.0671"
+         y="430.75308"
          inkscape:label="#mesh"
          transform="rotate(10.132869)">
         <desc
@@ -26488,7 +26488,7 @@ merge = 1;</desc>
          inkscape:label=""
          inkscape:connector-curvature="0"
          id="wall126-9-8-88-6-5-5-7-5-4-19-9-0-5-6-6-9-9-7-2-8-2-0-9-2-2-5-2-1-17"
-         d="m 1192.2276,650.00663 -2.1289,11.85572"
+         d="m 1193.196,650.77896 -2.1289,11.85572"
          style="display:inline;opacity:0.75170133;fill:#999999;fill-opacity:1;stroke:#999999;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new">
         <desc
            id="desc11325-6-6-1-4-5-6-7-0-9-7-5-3-5-9-2-8-1-7-8-8-2-6-2-5-3-3-0-6-2">template = SecurityFence2; merge = 1; separator_at_end = 0;</desc>
@@ -26498,8 +26498,8 @@ merge = 1;</desc>
          id="rect31604-2-6-2-8-9-1-3-8-7-7-8-9-4-0-8-7-3-6-2-2-7"
          width="4"
          height="12"
-         x="1286.0276"
-         y="369.93652"
+         x="1287.1167"
+         y="370.52643"
          inkscape:label="#mesh"
          transform="rotate(10.132869)">
         <desc
@@ -26510,7 +26510,7 @@ merge = 1;</desc>
          inkscape:label=""
          inkscape:connector-curvature="0"
          id="wall126-9-8-88-6-5-5-7-5-4-19-9-0-5-6-6-9-9-7-2-8-2-0-9-2-2-5-2-1-8-0"
-         d="m 1202.8721,590.72803 -2.1289,11.85572"
+         d="m 1203.8405,591.50036 -2.1289,11.85572"
          style="display:inline;opacity:0.75170133;fill:#999999;fill-opacity:1;stroke:#999999;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new">
         <desc
            id="desc11325-6-6-1-4-5-6-7-0-9-7-5-3-5-9-2-8-1-7-8-8-2-6-2-5-3-3-0-6-4-4">template = SecurityFence2; merge = 1; separator_at_end = 0;</desc>
@@ -26520,8 +26520,8 @@ merge = 1;</desc>
          id="rect31604-2-6-2-8-9-1-3-8-7-7-8-9-4-0-8-7-3-6-2-2-2"
          width="4"
          height="12"
-         x="1286.0375"
-         y="357.89114"
+         x="1287.1266"
+         y="358.48105"
          inkscape:label="#mesh"
          transform="rotate(10.132869)">
         <desc
@@ -26532,7 +26532,7 @@ merge = 1;</desc>
          inkscape:label=""
          inkscape:connector-curvature="0"
          id="wall126-9-8-88-6-5-5-7-5-4-19-9-0-5-6-6-9-9-7-2-8-2-0-9-2-2-5-2-1-8-3"
-         d="m 1205.001,578.87231 -2.1289,11.85572"
+         d="m 1205.9694,579.64464 -2.1289,11.85572"
          style="display:inline;opacity:0.75170133;fill:#999999;fill-opacity:1;stroke:#999999;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new">
         <desc
            id="desc11325-6-6-1-4-5-6-7-0-9-7-5-3-5-9-2-8-1-7-8-8-2-6-2-5-3-3-0-6-4-0">template = SecurityFence2; merge = 1; separator_at_end = 0;</desc>
@@ -26542,8 +26542,8 @@ merge = 1;</desc>
          id="rect31604-2-6-2-8-9-1-3-8-7-7-8-9-4-0-8-7-3-6-2-2-27"
          width="4"
          height="12"
-         x="1286.0474"
-         y="345.84579"
+         x="1287.1365"
+         y="346.4357"
          inkscape:label="#mesh"
          transform="rotate(10.132869)">
         <desc
@@ -26554,7 +26554,7 @@ merge = 1;</desc>
          inkscape:label=""
          inkscape:connector-curvature="0"
          id="wall126-9-8-88-6-5-5-7-5-4-19-9-0-5-6-6-9-9-7-2-8-2-0-9-2-2-5-2-1-8-30"
-         d="m 1207.1299,567.01659 -2.1289,11.85572"
+         d="m 1208.0983,567.78892 -2.1289,11.85572"
          style="display:inline;opacity:0.75170133;fill:#999999;fill-opacity:1;stroke:#999999;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new">
         <desc
            id="desc11325-6-6-1-4-5-6-7-0-9-7-5-3-5-9-2-8-1-7-8-8-2-6-2-5-3-3-0-6-4-6">template = SecurityFence2; merge = 1; separator_at_end = 0;</desc>
@@ -26564,8 +26564,8 @@ merge = 1;</desc>
          id="rect31604-2-6-2-8-9-1-3-8-7-7-8-9-4-0-8-7-3-6-2-2-1"
          width="4"
          height="12"
-         x="1286.0573"
-         y="333.80048"
+         x="1287.1464"
+         y="334.39038"
          inkscape:label="#mesh"
          transform="rotate(10.132869)">
         <desc
@@ -26576,7 +26576,7 @@ merge = 1;</desc>
          inkscape:label=""
          inkscape:connector-curvature="0"
          id="wall126-9-8-88-6-5-5-7-5-4-19-9-0-5-6-6-9-9-7-2-8-2-0-9-2-2-5-2-1-8-6"
-         d="m 1209.2588,555.16087 -2.1289,11.85572"
+         d="m 1210.2272,555.9332 -2.1289,11.85572"
          style="display:inline;opacity:0.75170133;fill:#999999;fill-opacity:1;stroke:#999999;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new">
         <desc
            id="desc11325-6-6-1-4-5-6-7-0-9-7-5-3-5-9-2-8-1-7-8-8-2-6-2-5-3-3-0-6-4-9">template = SecurityFence2; merge = 1; separator_at_end = 0;</desc>
@@ -26586,8 +26586,8 @@ merge = 1;</desc>
          id="rect31604-2-6-2-8-9-1-3-8-7-7-8-9-4-0-8-7-3-6-2-2-9"
          width="4"
          height="12"
-         x="1286.0673"
-         y="321.75513"
+         x="1287.1564"
+         y="322.34503"
          inkscape:label="#mesh"
          transform="rotate(10.132869)">
         <desc
@@ -26598,40 +26598,18 @@ merge = 1;</desc>
          inkscape:label=""
          inkscape:connector-curvature="0"
          id="wall126-9-8-88-6-5-5-7-5-4-19-9-0-5-6-6-9-9-7-2-8-2-0-9-2-2-5-2-1-8-305"
-         d="m 1211.3877,543.30515 -2.1289,11.85572"
+         d="m 1212.3561,544.07748 -2.1289,11.85572"
          style="display:inline;opacity:0.75170133;fill:#999999;fill-opacity:1;stroke:#999999;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new">
         <desc
            id="desc11325-6-6-1-4-5-6-7-0-9-7-5-3-5-9-2-8-1-7-8-8-2-6-2-5-3-3-0-6-4-96">template = SecurityFence2; merge = 1; separator_at_end = 0;</desc>
       </path>
       <rect
          style="display:inline;opacity:0.75170133;fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke:#999999;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
-         id="rect31604-2-6-2-8-9-1-3-8-7-7-8-9-4-0-8-7-3-6-2-2-6"
-         width="4"
-         height="12"
-         x="796.4046"
-         y="-1072.7496"
-         inkscape:label="#mesh"
-         transform="rotate(77.188111)">
-        <desc
-           id="desc31627-1-2-0-2-7-4-1-2-1-2-0-7-4-5-1-0-3-8-7-1-7">mesh_name = barbwire_fence.mesh; texture0 = world_atlas1.png; texture0_atlas_cell = 1 9 16 16; collision_model_type = -1; #collision_model_size = 1.4 1.4 2.8; #collision_model_offset = 0 0 0; #walkable = 0; alpha_blend = 1; penetrability = 0.8; see_through = 1;</desc>
-      </rect>
-      <path
-         sodipodi:nodetypes="cc"
-         inkscape:label=""
-         inkscape:connector-curvature="0"
-         id="wall126-9-8-88-6-5-5-7-5-4-19-9-0-5-6-6-9-9-7-2-8-2-0-9-2-2-5-2-1-8-07"
-         d="m 1223.1353,540.64374 -11.7476,2.66141"
-         style="display:inline;opacity:0.75170133;fill:#999999;fill-opacity:1;stroke:#999999;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new">
-        <desc
-           id="desc11325-6-6-1-4-5-6-7-0-9-7-5-3-5-9-2-8-1-7-8-8-2-6-2-5-3-3-0-6-4-1">template = SecurityFence2; merge = 1; separator_at_end = 0;</desc>
-      </path>
-      <rect
-         style="display:inline;opacity:0.75170133;fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke:#999999;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
          id="rect31604-2-6-2-8-9-1-3-8-7-7-8-9-4-0-8-7-3-6-2-2-4"
          width="4"
          height="12"
-         x="276.1572"
-         y="-1320.0457"
+         x="281.72971"
+         y="-1310.2004"
          inkscape:label="#mesh"
          transform="rotate(101.84094)">
         <desc
@@ -26642,7 +26620,7 @@ merge = 1;</desc>
          inkscape:label=""
          inkscape:connector-curvature="0"
          id="wall126-9-8-88-6-5-5-7-5-4-19-9-0-5-6-6-9-9-7-2-8-2-0-9-2-2-5-2-1-8-1"
-         d="m 1234.9223,543.12507 -11.787,-2.48133"
+         d="m 1224.1431,546.55881 -11.787,-2.48133"
          style="display:inline;opacity:0.75170133;fill:#999999;fill-opacity:1;stroke:#999999;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new">
         <desc
            id="desc11325-6-6-1-4-5-6-7-0-9-7-5-3-5-9-2-8-1-7-8-8-2-6-2-5-3-3-0-6-4-3">template = SecurityFence2; merge = 1; separator_at_end = 0;</desc>
@@ -26652,8 +26630,8 @@ merge = 1;</desc>
          id="rect31604-2-6-2-8-9-1-3-8-7-7-8-9-4-0-8-7-3-6-2-2-4-9"
          width="4"
          height="12"
-         x="276.16711"
-         y="-1332.0909"
+         x="281.73962"
+         y="-1322.2457"
          inkscape:label="#mesh"
          transform="rotate(101.84094)">
         <desc
@@ -26664,7 +26642,7 @@ merge = 1;</desc>
          inkscape:label=""
          inkscape:connector-curvature="0"
          id="wall126-9-8-88-6-5-5-7-5-4-19-9-0-5-6-6-9-9-7-2-8-2-0-9-2-2-5-2-1-8-1-5"
-         d="m 1246.7093,545.6064 -11.787,-2.48133"
+         d="m 1235.9301,549.04014 -11.787,-2.48133"
          style="display:inline;opacity:0.75170133;fill:#999999;fill-opacity:1;stroke:#999999;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new">
         <desc
            id="desc11325-6-6-1-4-5-6-7-0-9-7-5-3-5-9-2-8-1-7-8-8-2-6-2-5-3-3-0-6-4-3-0">template = SecurityFence2; merge = 1; separator_at_end = 0;</desc>
@@ -26674,8 +26652,8 @@ merge = 1;</desc>
          id="rect31604-2-6-2-8-9-1-3-8-7-7-8-9-4-0-8-7-3-6-2-2-4-3"
          width="4"
          height="12"
-         x="276.17697"
-         y="-1344.1364"
+         x="281.74948"
+         y="-1334.2911"
          inkscape:label="#mesh"
          transform="rotate(101.84094)">
         <desc
@@ -26686,7 +26664,7 @@ merge = 1;</desc>
          inkscape:label=""
          inkscape:connector-curvature="0"
          id="wall126-9-8-88-6-5-5-7-5-4-19-9-0-5-6-6-9-9-7-2-8-2-0-9-2-2-5-2-1-8-1-9"
-         d="m 1258.4963,548.08773 -11.787,-2.48133"
+         d="m 1247.7171,551.52147 -11.787,-2.48133"
          style="display:inline;opacity:0.75170133;fill:#999999;fill-opacity:1;stroke:#999999;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new">
         <desc
            id="desc11325-6-6-1-4-5-6-7-0-9-7-5-3-5-9-2-8-1-7-8-8-2-6-2-5-3-3-0-6-4-3-4">template = SecurityFence2; merge = 1; separator_at_end = 0;</desc>
@@ -26696,8 +26674,8 @@ merge = 1;</desc>
          id="rect31604-2-6-2-8-9-1-3-8-7-7-8-9-4-0-8-7-3-6-2-2-4-2"
          width="4"
          height="12"
-         x="276.18686"
-         y="-1356.1816"
+         x="281.75937"
+         y="-1346.3364"
          inkscape:label="#mesh"
          transform="rotate(101.84094)">
         <desc
@@ -26708,7 +26686,7 @@ merge = 1;</desc>
          inkscape:label=""
          inkscape:connector-curvature="0"
          id="wall126-9-8-88-6-5-5-7-5-4-19-9-0-5-6-6-9-9-7-2-8-2-0-9-2-2-5-2-1-8-1-96"
-         d="m 1270.2833,550.56906 -11.787,-2.48133"
+         d="m 1259.5041,554.0028 -11.787,-2.48133"
          style="display:inline;opacity:0.75170133;fill:#999999;fill-opacity:1;stroke:#999999;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new">
         <desc
            id="desc11325-6-6-1-4-5-6-7-0-9-7-5-3-5-9-2-8-1-7-8-8-2-6-2-5-3-3-0-6-4-3-7">template = SecurityFence2; merge = 1; separator_at_end = 0;</desc>
@@ -26718,8 +26696,8 @@ merge = 1;</desc>
          id="rect31604-2-6-2-8-9-1-3-8-7-7-8-9-4-0-8-7-3-6-2-2-4-8"
          width="4"
          height="12"
-         x="276.19678"
-         y="-1368.2271"
+         x="281.76929"
+         y="-1358.3818"
          inkscape:label="#mesh"
          transform="rotate(101.84094)">
         <desc
@@ -26730,7 +26708,7 @@ merge = 1;</desc>
          inkscape:label=""
          inkscape:connector-curvature="0"
          id="wall126-9-8-88-6-5-5-7-5-4-19-9-0-5-6-6-9-9-7-2-8-2-0-9-2-2-5-2-1-8-1-3"
-         d="m 1282.0703,553.05039 -11.787,-2.48133"
+         d="m 1271.2911,556.48413 -11.787,-2.48133"
          style="display:inline;opacity:0.75170133;fill:#999999;fill-opacity:1;stroke:#999999;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new">
         <desc
            id="desc11325-6-6-1-4-5-6-7-0-9-7-5-3-5-9-2-8-1-7-8-8-2-6-2-5-3-3-0-6-4-3-6">template = SecurityFence2; merge = 1; separator_at_end = 0;</desc>
@@ -26740,8 +26718,8 @@ merge = 1;</desc>
          id="rect31604-2-6-2-8-9-1-3-8-7-7-8-9-4-0-8-7-3-6-2-2-4-0"
          width="4"
          height="12"
-         x="276.20663"
-         y="-1380.2725"
+         x="281.77914"
+         y="-1370.4272"
          inkscape:label="#mesh"
          transform="rotate(101.84094)">
         <desc
@@ -26752,32 +26730,32 @@ merge = 1;</desc>
          inkscape:label=""
          inkscape:connector-curvature="0"
          id="wall126-9-8-88-6-5-5-7-5-4-19-9-0-5-6-6-9-9-7-2-8-2-0-9-2-2-5-2-1-8-1-94"
-         d="m 1293.8573,555.53172 -11.787,-2.48133"
+         d="m 1283.0781,558.96546 -11.787,-2.48133"
          style="display:inline;opacity:0.75170133;fill:#999999;fill-opacity:1;stroke:#999999;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new">
         <desc
            id="desc11325-6-6-1-4-5-6-7-0-9-7-5-3-5-9-2-8-1-7-8-8-2-6-2-5-3-3-0-6-4-3-09">template = SecurityFence2; merge = 1; separator_at_end = 0;</desc>
       </path>
       <rect
          style="display:inline;opacity:0.75170133;fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke:#999999;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
-         id="rect31604-2-6-2-8-9-1-3-8-7-7-8-9-4-0-8-7-3-6-2-2-4-22"
+         id="rect31604-2-6-2-8-9-1-3-8-7-7-8-9-4-0-8-7-3-6-2-2-4-0-1"
          width="4"
          height="12"
-         x="865.25012"
-         y="-1121.3051"
+         x="281.78903"
+         y="-1382.4727"
          inkscape:label="#mesh"
-         transform="rotate(75.218641)">
+         transform="rotate(101.84094)">
         <desc
-           id="desc31627-1-2-0-2-7-4-1-2-1-2-0-7-4-5-1-0-3-8-7-1-78-29">mesh_name = barbwire_fence.mesh; texture0 = world_atlas1.png; texture0_atlas_cell = 1 9 16 16; collision_model_type = -1; #collision_model_size = 1.4 1.4 2.8; #collision_model_offset = 0 0 0; #walkable = 0; alpha_blend = 1; penetrability = 0.8; see_through = 1;</desc>
+           id="desc31627-1-2-0-2-7-4-1-2-1-2-0-7-4-5-1-0-3-8-7-1-78-93-5">mesh_name = barbwire_fence.mesh; texture0 = world_atlas1.png; texture0_atlas_cell = 1 9 16 16; collision_model_type = -1; #collision_model_size = 1.4 1.4 2.8; #collision_model_offset = 0 0 0; #walkable = 0; alpha_blend = 1; penetrability = 0.8; see_through = 1;</desc>
       </rect>
       <path
          sodipodi:nodetypes="cc"
          inkscape:label=""
          inkscape:connector-curvature="0"
-         id="wall126-9-8-88-6-5-5-7-5-4-19-9-0-5-6-6-9-9-7-2-8-2-0-9-2-2-5-2-1-8-1-4"
-         d="m 1305.5064,552.46814 -11.6491,3.06358"
+         id="wall126-9-8-88-6-5-5-7-5-4-19-9-0-5-6-6-9-9-7-2-8-2-0-9-2-2-5-2-1-8-1-94-8"
+         d="m 1294.8651,561.44679 -11.787,-2.48133"
          style="display:inline;opacity:0.75170133;fill:#999999;fill-opacity:1;stroke:#999999;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new">
         <desc
-           id="desc11325-6-6-1-4-5-6-7-0-9-7-5-3-5-9-2-8-1-7-8-8-2-6-2-5-3-3-0-6-4-3-2">template = SecurityFence2; merge = 1; separator_at_end = 0;</desc>
+           id="desc11325-6-6-1-4-5-6-7-0-9-7-5-3-5-9-2-8-1-7-8-8-2-6-2-5-3-3-0-6-4-3-09-0">template = SecurityFence2; merge = 1; separator_at_end = 0;</desc>
       </path>
     </g>
     <g
@@ -27156,7 +27134,7 @@ merge = 1;</desc>
        style="display:inline"
        sodipodi:insensitive="true" />
     <g
-       style="display:none"
+       style="display:inline"
        inkscape:label="other"
        id="layer18"
        inkscape:groupmode="layer">
