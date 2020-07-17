@@ -30,11 +30,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.4531248"
-     inkscape:cx="1109.4447"
-     inkscape:cy="1257.3922"
+     inkscape:zoom="9.7669118"
+     inkscape:cx="1010.6043"
+     inkscape:cy="1277.6146"
      inkscape:document-units="px"
-     inkscape:current-layer="layer8"
+     inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:window-width="1680"
      inkscape:window-height="949"
@@ -9650,8 +9650,7 @@
      style="display:inline"
      inkscape:label="materials"
      id="layer29"
-     inkscape:groupmode="layer"
-     sodipodi:insensitive="true">
+     inkscape:groupmode="layer">
     <rect
        inkscape:label="#texture_groups"
        y="1.9401522"
@@ -10715,7 +10714,7 @@ show_base_names_in_map_view = 0;</desc>
          id="title9786-13-5-7-8-6">venus</title>
     </rect>
     <rect
-       transform="rotate(0.07879261,-1918532.9,3935809.6)"
+       transform="rotate(0.07879261,-1918532.9,3935809.4)"
        inkscape:label="#mesh_template"
        y="-1522.1748"
        x="-2658.7271"
@@ -10727,7 +10726,7 @@ show_base_names_in_map_view = 0;</desc>
          id="desc10092-7-0-4-9-8-24">name = sunchair_red; mesh_name = sunchair.mesh; texture0 = world_atlas1.png; texture0_atlas_cell = 7 1 32 32; collision_model_type = 1; collision_model_size = 1.3 1.5 1.6; penetrability = 0.7; see_through = 1</desc>
     </rect>
     <rect
-       transform="rotate(0.00494255,-30581037,62842892)"
+       transform="rotate(0.00494255,-30581037,62840254)"
        inkscape:label="#mesh_template"
        y="-1522.1748"
        x="-2658.7271"
@@ -25607,6 +25606,22 @@ roof_scale = 4.0 4.0;</desc>
            id="title12525-4-8-7">barrier</title>
         <desc
            id="desc16653-2-9-3-8-5-4">template = barrier;</desc>
+      </rect>
+      <rect
+         rx="1"
+         style="display:inline;fill:#6a6a6a;fill-opacity:1;fill-rule:nonzero;stroke:#008eff;stroke-width:1.00000119;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:7;stroke-opacity:1;enable-background:new"
+         id="rect16633-4-8-7-6-9-7-2-8-8-1-8-5-3-3"
+         width="2"
+         height="2"
+         x="-1005.8928"
+         y="270.74097"
+         inkscape:label="#mesh"
+         transform="rotate(-179.77602)"
+         ry="1">
+        <title
+           id="title12411-5-3-6">barell_blue</title>
+        <desc
+           id="desc16653-2-9-3-3-8-7-0-7-4-6-1-5-0">template = barell_blue;</desc>
       </rect>
     </g>
     <g
