@@ -30,11 +30,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="4.8834559"
-     inkscape:cx="2701.4292"
-     inkscape:cy="476.22831"
+     inkscape:zoom="1.7265624"
+     inkscape:cx="1298.9621"
+     inkscape:cy="1268.8975"
      inkscape:document-units="px"
-     inkscape:current-layer="layer29"
+     inkscape:current-layer="layer37"
      showgrid="true"
      inkscape:window-width="1680"
      inkscape:window-height="949"
@@ -18654,8 +18654,7 @@ roof_scale = 4.0 4.0;</desc>
      style="display:inline;opacity:0.18000004"
      inkscape:label="bases"
      id="layer37"
-     inkscape:groupmode="layer"
-     sodipodi:insensitive="true">
+     inkscape:groupmode="layer">
     <rect
        style="display:inline;opacity:0.72566373;fill:#b9b900;fill-opacity:1;stroke:none;enable-background:new"
        id="rect4874-8-3-4-9-1"
@@ -18665,7 +18664,7 @@ roof_scale = 4.0 4.0;</desc>
        y="1326.1566"
        inkscape:label="#rect11324_base">
       <desc
-         id="desc4876-3-4-6-4-8">name=Old fortress;</desc>
+         id="desc4876-3-4-6-4-8">name=Old Fortress; faction_index=0; capturable=0;</desc>
     </rect>
     <rect
        style="display:inline;opacity:0.72566373;fill:#b9b900;fill-opacity:1;stroke:none;enable-background:new"
@@ -18676,7 +18675,19 @@ roof_scale = 4.0 4.0;</desc>
        y="1036.3444"
        inkscape:label="#rect11324_base">
       <desc
-         id="desc4876-3-4-6-4-9">name=Crane;</desc>
+         id="desc4876-3-4-6-4-9">name=Crane; faction_index=0; capturable=0;</desc>
+    </rect>
+    <rect
+       inkscape:label="#rect11324_base"
+       y="-1407.7283"
+       x="718.47821"
+       height="130.16466"
+       width="99.825142"
+       id="rect4874-8-1-8-7"
+       style="display:inline;opacity:0.82566373;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:6.12990093;enable-background:new"
+       transform="matrix(-0.00157368,0.99999876,-0.99999961,-8.8419822e-4,0,0)">
+      <desc
+         id="desc4876-3-1-3-4">name=Docks, Jetty; faction_index=1; capturable=0;</desc>
     </rect>
   </g>
   <g
