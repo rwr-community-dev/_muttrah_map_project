@@ -30,9 +30,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.5289732"
-     inkscape:cx="1347.6964"
-     inkscape:cy="1421.5102"
+     inkscape:zoom="11.057946"
+     inkscape:cx="1128.0696"
+     inkscape:cy="1210.3578"
      inkscape:document-units="px"
      inkscape:current-layer="layer19"
      showgrid="true"
@@ -132,7 +132,7 @@
        position="1187.1735,1240.9669"
        orientation="0.80723854,0.59022533"
        id="guide7346"
-       inkscape:locked="true"
+       inkscape:locked="false"
        inkscape:label=""
        inkscape:color="rgb(0,0,255)" />
     <sodipodi:guide
@@ -26846,8 +26846,8 @@ merge = 1;</desc>
          id="use9624-50-2-3-9"
          width="8"
          height="10"
-         x="1321.1179"
-         y="437.36163"
+         x="1320.7773"
+         y="438.04938"
          inkscape:label="#mesh"
          transform="rotate(18.684998)">
         <desc
@@ -26858,8 +26858,8 @@ merge = 1;</desc>
          id="use9624-18-1-4-00-4-3-7"
          width="3.5999999"
          height="3.4000001"
-         x="1116.5786"
-         y="838.14941"
+         x="1116.0359"
+         y="838.69214"
          inkscape:label="#mesh">
         <desc
            id="desc5775-4-7-9-9-0-0-6">template = rock_s3;</desc>
@@ -26917,8 +26917,8 @@ merge = 1;</desc>
          id="use9624-18-9-7-2-1-4"
          width="6.4000001"
          height="7.5999999"
-         x="934.26538"
-         y="-1046.2942"
+         x="934.7594"
+         y="-1045.7068"
          inkscape:label="#mesh"
          transform="rotate(85.065947)">
         <desc
@@ -27543,7 +27543,7 @@ merge = 1;</desc>
          width="2.603924"
          height="2.7171383"
          x="1112.2573"
-         y="848.22736"
+         y="850.22736"
          inkscape:label="#mesh">
         <desc
            id="desc5775-4-4-1-1-7">template = stone_1;</desc>
@@ -27554,7 +27554,7 @@ merge = 1;</desc>
          width="2.603924"
          height="2.7171383"
          x="1112.2876"
-         y="853.16754"
+         y="855.16754"
          inkscape:label="#mesh">
         <desc
            id="desc5775-4-4-1-3-5-4">template = stone_2;</desc>
@@ -27565,7 +27565,7 @@ merge = 1;</desc>
          width="2.603924"
          height="2.7171383"
          x="1112.2573"
-         y="858.2359"
+         y="860.2359"
          inkscape:label="#mesh">
         <desc
            id="desc5775-4-4-1-0-7-7">template = stone_3;</desc>
@@ -27576,7 +27576,7 @@ merge = 1;</desc>
          width="2.603924"
          height="2.7171383"
          x="1112.2573"
-         y="863.18951"
+         y="865.18951"
          inkscape:label="#mesh">
         <desc
            id="desc5775-4-4-1-09-1-1">template = stone_4;</desc>
@@ -27587,7 +27587,7 @@ merge = 1;</desc>
          width="2.603924"
          height="2.7171383"
          x="1112.2573"
-         y="868.16656"
+         y="870.16656"
          inkscape:label="#mesh">
         <desc
            id="desc5775-4-4-1-30-2-7">template = stone_5;</desc>
@@ -28333,8 +28333,8 @@ merge = 1;</desc>
          id="use9624-18-9-0-9-2-5-24-8-93-7"
          width="10.486447"
          height="10.68864"
-         x="-624.92462"
-         y="1278.9426"
+         x="-619.79102"
+         y="1283.1431"
          inkscape:label="#mesh"
          transform="rotate(-92.32095)">
         <desc
@@ -28345,8 +28345,8 @@ merge = 1;</desc>
          id="use9624-18-9-0-9-2-5-1-1-5-6-47"
          width="10.486447"
          height="10.68864"
-         x="-1359.4956"
-         y="419.62497"
+         x="-1357.7458"
+         y="425.77292"
          inkscape:label="#mesh"
          transform="rotate(-138.99932)">
         <desc
@@ -28355,8 +28355,8 @@ merge = 1;</desc>
       <rect
          transform="rotate(-47.983679)"
          inkscape:label="#mesh"
-         y="1351.8126"
-         x="456.58545"
+         y="1351.5885"
+         x="446.7771"
          height="10.68864"
          width="10.486447"
          id="use9624-18-9-0-9-2-5-1-1-1-0-53-8"
@@ -28367,8 +28367,8 @@ merge = 1;</desc>
       <rect
          transform="rotate(-45.463189)"
          inkscape:label="#mesh"
-         y="1335.5217"
-         x="521.06818"
+         y="1335.1095"
+         x="517.52631"
          height="10.68864"
          width="10.486447"
          id="use9624-18-9-0-9-2-5-1-1-1-1-8-5-9"
