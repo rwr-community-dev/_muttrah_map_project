@@ -30,9 +30,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.69112166"
-     inkscape:cx="906.31182"
-     inkscape:cy="1273.9971"
+     inkscape:zoom="1.9547872"
+     inkscape:cx="1178.5973"
+     inkscape:cy="1014.0757"
      inkscape:document-units="px"
      inkscape:current-layer="layer19"
      showgrid="true"
@@ -27095,7 +27095,7 @@ merge = 1;</desc>
       </rect>
       <rect
          style="display:inline;fill:#cccccc;fill-opacity:1;enable-background:new"
-         id="mesh_template18-9-0-9-2-5-24-8-93"
+         id="use9624-18-9-0-9-2-5-24-8-93"
          width="10.486447"
          height="10.68864"
          x="-1230.0802"
@@ -27107,7 +27107,7 @@ merge = 1;</desc>
       </rect>
       <rect
          style="display:inline;fill:#cccccc;fill-opacity:1;enable-background:new"
-         id="mesh_template18-9-0-9-2-5-1-1-5-6"
+         id="use9624-18-9-0-9-2-5-1-1-5-6"
          width="10.486447"
          height="10.68864"
          x="-1732.5724"
@@ -27371,7 +27371,7 @@ merge = 1;</desc>
       </rect>
       <rect
          style="display:inline;fill:#cccccc;fill-opacity:1;enable-background:new"
-         id="mesh_template18-9-0-9-2-5-24-8-93-6"
+         id="use9624-18-9-0-9-2-5-24-8-93-6"
          width="10.486447"
          height="10.68864"
          x="1189.3047"
@@ -27383,7 +27383,7 @@ merge = 1;</desc>
       </rect>
       <rect
          style="display:inline;fill:#cccccc;fill-opacity:1;enable-background:new"
-         id="mesh_template18-9-0-9-2-5-1-1-5-6-4"
+         id="use9624-18-9-0-9-2-5-1-1-5-6-4"
          width="10.486447"
          height="10.68864"
          x="1709.4373"
@@ -27460,7 +27460,7 @@ merge = 1;</desc>
          x="1218.2433"
          height="10.68864"
          width="10.486447"
-         id="mesh_template18-9-0-9-2-5-1-1-1-0-53-3"
+         id="use9624-18-9-0-9-2-5-1-1-1-0-53-3"
          style="display:inline;fill:#cccccc;fill-opacity:1;enable-background:new">
         <desc
            id="desc5775-4-5-9-5-9-2-95-1-9-6-5-6">template = rock_h3;</desc>
@@ -27472,7 +27472,7 @@ merge = 1;</desc>
          x="-53.041046"
          height="10.68864"
          width="10.486447"
-         id="mesh_template18-9-0-9-2-5-1-1-1-1-8-5-1"
+         id="use9624-18-9-0-9-2-5-1-1-1-1-8-5-1"
          style="display:inline;fill:#cccccc;fill-opacity:1;enable-background:new">
         <desc
            id="desc5775-4-5-9-5-9-2-95-1-9-61-7-2-8">template = rock_h4;</desc>
