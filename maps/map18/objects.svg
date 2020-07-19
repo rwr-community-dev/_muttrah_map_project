@@ -30,11 +30,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.7644865"
-     inkscape:cx="841.44369"
-     inkscape:cy="1125.3444"
+     inkscape:zoom="15.638297"
+     inkscape:cx="1283.2549"
+     inkscape:cy="1291.7016"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer2"
      showgrid="true"
      inkscape:window-width="1680"
      inkscape:window-height="949"
@@ -173,6 +173,46 @@
        position="1267.453,1259.8417"
        orientation="-18.196953,23.851015"
        id="guide10187"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1289.1432,1314.1245"
+       orientation="24.262606,-31.801351"
+       id="guide10333"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1257.3419,1289.8619"
+       orientation="31.801351,24.262606"
+       id="guide10335"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1281.6045,1258.0606"
+       orientation="-24.262606,31.801351"
+       id="guide10337"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1313.4058,1282.3232"
+       orientation="-31.801351,-24.262606"
+       id="guide10339"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1267.6534,1276.3464"
+       orientation="1.3647693,-1.7888278"
+       id="guide10351"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1265.8646,1274.9816"
+       orientation="4.7702074,3.6393848"
+       id="guide10353"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1269.504,1270.2114"
+       orientation="-1.3647693,1.7888278"
+       id="guide10355"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1271.2928,1271.5762"
+       orientation="-4.7702074,-3.6393848"
+       id="guide10357"
        inkscape:locked="false" />
   </sodipodi:namedview>
   <defs
@@ -10779,7 +10819,7 @@ show_base_names_in_map_view = 0;</desc>
          id="title9786-13-5-7-8-6">venus</title>
     </rect>
     <rect
-       transform="rotate(0.07879261,-1918532.9,3935796.7)"
+       transform="rotate(0.07879261,-1918532.9,3935793.4)"
        inkscape:label="#mesh_template"
        y="-1522.1748"
        x="-2658.7271"
@@ -10791,7 +10831,7 @@ show_base_names_in_map_view = 0;</desc>
          id="desc10092-7-0-4-9-8-24">name = sunchair_red; mesh_name = sunchair.mesh; texture0 = world_atlas1.png; texture0_atlas_cell = 7 1 32 32; collision_model_type = 1; collision_model_size = 1.3 1.5 1.6; penetrability = 0.7; see_through = 1</desc>
     </rect>
     <rect
-       transform="rotate(0.00494255,-30581037,62672859)"
+       transform="rotate(0.00494255,-30581037,62629360)"
        inkscape:label="#mesh_template"
        y="-1522.1748"
        x="-2658.7271"
@@ -19031,8 +19071,7 @@ collision_model_size = 5.0 2.4 4.7;</desc>
        style="display:inline"
        inkscape:label="ladders"
        id="layer2"
-       inkscape:groupmode="layer"
-       sodipodi:insensitive="true">
+       inkscape:groupmode="layer">
       <rect
          transform="rotate(-128.44531)"
          inkscape:label="#ladder"
@@ -19556,6 +19595,24 @@ collision_model_size = 5.0 2.4 4.7;</desc>
          height="1.0750006"
          width="3.1491213"
          id="rect7651-13-5-8-6-4-4-09-23-4-8-0-4-4"
+         style="display:inline;opacity:0.79775277;fill:#2cffe7;fill-opacity:1;fill-rule:nonzero;stroke:none;enable-background:new" />
+      <rect
+         transform="rotate(142.65702)"
+         inkscape:label="#ladder"
+         y="-1419.1166"
+         x="-562.56329"
+         height="2.25"
+         width="6"
+         id="rect7651-13-5-8-6-4-4-7-3-9-0-3-2-0-9-1-9"
+         style="display:inline;opacity:0.79775277;fill:#2cffe7;fill-opacity:1;fill-rule:nonzero;stroke:none;enable-background:new" />
+      <rect
+         transform="rotate(-37.34298)"
+         inkscape:label="#ladder"
+         y="1351.4478"
+         x="556.56482"
+         height="2.25"
+         width="6"
+         id="rect7651-13-5-8-6-4-4-7-3-9-0-3-2-0-9-1-9-8"
          style="display:inline;opacity:0.79775277;fill:#2cffe7;fill-opacity:1;fill-rule:nonzero;stroke:none;enable-background:new" />
     </g>
     <g
@@ -29124,6 +29181,29 @@ merge = 1;</desc>
          id="rect10748-1-0-1-7-76-86-1-8-76-9-4-7-6-0-9-3-8-99"
          style="display:inline;fill:#0000fe;fill-opacity:1;stroke:none;enable-background:new"
          transform="rotate(-77.470546)" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer13"
+       inkscape:label="ladders">
+      <rect
+         transform="rotate(142.65852)"
+         inkscape:label="#ladder"
+         y="-1408.955"
+         x="-562.60034"
+         height="2.25"
+         width="6"
+         id="rect7651-13-5-8-6-4-4-7-3-9-0-3-2-0-9-1-9-9"
+         style="display:inline;opacity:0.79775277;fill:#2cffe7;fill-opacity:1;fill-rule:nonzero;stroke:none;enable-background:new" />
+      <rect
+         transform="rotate(52.65852)"
+         inkscape:label="#ladder"
+         y="-538.64587"
+         x="1382.4044"
+         height="2.25"
+         width="6"
+         id="rect7651-13-5-8-6-4-4-7-3-9-0-3-2-0-9-1-9-9-8"
+         style="display:inline;opacity:0.79775277;fill:#2cffe7;fill-opacity:1;fill-rule:nonzero;stroke:none;enable-background:new" />
     </g>
   </g>
   <g
