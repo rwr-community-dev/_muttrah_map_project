@@ -30,11 +30,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.9095743"
-     inkscape:cx="1224.9512"
-     inkscape:cy="1398.3297"
+     inkscape:zoom="15.638297"
+     inkscape:cx="1425.5681"
+     inkscape:cy="1276.2302"
      inkscape:document-units="px"
-     inkscape:current-layer="layer12"
+     inkscape:current-layer="layer24"
      showgrid="true"
      inkscape:window-width="1680"
      inkscape:window-height="949"
@@ -28976,13 +28976,13 @@ merge = 1;</desc>
      style="display:inline"
      inkscape:label="layer3"
      id="layer22"
-     inkscape:groupmode="layer"
-     sodipodi:insensitive="true">
+     inkscape:groupmode="layer">
     <g
        style="display:inline"
        inkscape:label="objects"
        id="layer23"
-       inkscape:groupmode="layer" />
+       inkscape:groupmode="layer"
+       sodipodi:insensitive="true" />
     <g
        style="display:inline"
        inkscape:label="other"
@@ -28993,8 +28993,8 @@ merge = 1;</desc>
          id="rect10892"
          width="11.923013"
          height="5.8959785"
-         x="-620.74817"
-         y="-1479.2554"
+         x="-619.18243"
+         y="-1482.082"
          inkscape:label="#mesh"
          transform="rotate(140.80367)">
         <desc
@@ -29011,6 +29011,18 @@ merge = 1;</desc>
          transform="rotate(-129.523)">
         <desc
            id="desc10537">mesh_name = container.mesh; texture0 = alpha.png; collision_model_type = 1; collision_model_size = 2.5 14.0 9.4; walkable = 0; texture0 = alpha.png; alpha_blend = 1:</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#d94e4e;fill-opacity:0.25;stroke:none;enable-background:new"
+         id="rect10286-1"
+         width="33.053493"
+         height="5.8959785"
+         x="596.68811"
+         y="1476.1885"
+         inkscape:label="#mesh"
+         transform="rotate(-39.196565)">
+        <desc
+           id="desc10288-7">mesh_name = container.mesh; texture0 = alpha.png; collision_model_type = 1; collision_model_size = 19.0 3.0 3.0; walkable = 1; texture0 = alpha.png; alpha_blend = 1:</desc>
       </rect>
     </g>
     <g
