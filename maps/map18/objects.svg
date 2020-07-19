@@ -30,11 +30,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="22.115892"
-     inkscape:cx="1407.5538"
-     inkscape:cy="1285.9875"
+     inkscape:zoom="2.7644865"
+     inkscape:cx="1156.9706"
+     inkscape:cy="1337.1181"
      inkscape:document-units="px"
-     inkscape:current-layer="layer24"
+     inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:window-width="1680"
      inkscape:window-height="949"
@@ -144,12 +144,12 @@
        position="1490.4632,1225.7032"
        orientation="-0.78451669,-0.6201077"
        id="guide6722"
-       inkscape:locked="true"
+       inkscape:locked="false"
        inkscape:label=""
        inkscape:color="rgb(0,0,255)" />
     <sodipodi:guide
-       position="1410.0197,1289.2367"
-       orientation="-0.6201077,0.78451669"
+       position="1410.2906,1289.5078"
+       orientation="-0.62010894,0.78451571"
        id="guide6724"
        inkscape:locked="false"
        inkscape:label=""
@@ -10759,7 +10759,7 @@ show_base_names_in_map_view = 0;</desc>
          id="title9786-13-5-7-8-6">venus</title>
     </rect>
     <rect
-       transform="rotate(0.07879261,-1918532.9,3935808.7)"
+       transform="rotate(0.07879261,-1918532.9,3935803)"
        inkscape:label="#mesh_template"
        y="-1522.1748"
        x="-2658.7271"
@@ -10771,7 +10771,7 @@ show_base_names_in_map_view = 0;</desc>
          id="desc10092-7-0-4-9-8-24">name = sunchair_red; mesh_name = sunchair.mesh; texture0 = world_atlas1.png; texture0_atlas_cell = 7 1 32 32; collision_model_type = 1; collision_model_size = 1.3 1.5 1.6; penetrability = 0.7; see_through = 1</desc>
     </rect>
     <rect
-       transform="rotate(0.00494255,-30581037,62831027)"
+       transform="rotate(0.00494255,-30581037,62755899)"
        inkscape:label="#mesh_template"
        y="-1522.1748"
        x="-2658.7271"
@@ -25668,6 +25668,18 @@ collision_model_size = 5.0 2.4 4.7;</desc>
         <desc
            id="desc16653-2-9-3-8-5-4-1-1-2">template = barrier;</desc>
       </rect>
+      <rect
+         inkscape:label="#rect"
+         y="-1098.5726"
+         x="382.75934"
+         height="40"
+         width="40"
+         id="buildingrect64-2-4-23-36-8-2-14-3-1-6"
+         style="display:inline;fill:#b4754b;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.20772099;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:new"
+         transform="rotate(52.658446)">
+        <desc
+           id="desc9346-0-2-5-7-2-4-8-0-5-79-7-8-0">height=3; material = BuildingDesert; roof_type = flat;</desc>
+      </rect>
     </g>
     <g
        style="display:inline;opacity:0.44900004"
@@ -28589,6 +28601,54 @@ merge = 1;</desc>
          transform="rotate(103.17713)">
         <desc
            id="desc11871-6">height=2; material = BuildingFactory1; roof_type = flat;</desc>
+      </rect>
+      <rect
+         inkscape:label="#rect"
+         y="-467.44986"
+         x="1186.874"
+         height="20"
+         width="30"
+         id="buildingrect64-2-4-23-36-8-2-14-3-1-6-6"
+         style="display:inline;fill:#b4754b;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.20772099;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:new"
+         transform="rotate(52.658446)">
+        <desc
+           id="desc9346-0-2-5-7-2-4-8-0-5-79-7-8-0-9">height=2; material = BuildingDesert; roof_type = flat; offset = 0 -0.1 0;</desc>
+      </rect>
+      <rect
+         inkscape:label="#rect"
+         y="-1226.874"
+         x="-487.27939"
+         height="20"
+         width="30"
+         id="buildingrect64-2-4-23-36-8-2-14-3-1-6-6-0"
+         style="display:inline;fill:#b4754b;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.20772099;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:new"
+         transform="rotate(142.65845)">
+        <desc
+           id="desc9346-0-2-5-7-2-4-8-0-5-79-7-8-0-9-2">height=2; material = BuildingDesert; roof_type = flat; offset = 0 -0.1 0;</desc>
+      </rect>
+      <rect
+         inkscape:label="#rect"
+         y="-467.44986"
+         x="1216.874"
+         height="20"
+         width="30"
+         id="buildingrect64-2-4-23-36-8-2-14-3-1-6-6-2"
+         style="display:inline;fill:#b4754b;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.20772099;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:new"
+         transform="rotate(52.658446)">
+        <desc
+           id="desc9346-0-2-5-7-2-4-8-0-5-79-7-8-0-9-25">height=2; material = BuildingDesert; roof_type = flat; offset = 0 -0.1 0;</desc>
+      </rect>
+      <rect
+         inkscape:label="#rect"
+         y="-1226.874"
+         x="-457.27939"
+         height="20"
+         width="30"
+         id="buildingrect64-2-4-23-36-8-2-14-3-1-6-6-8"
+         style="display:inline;fill:#b4754b;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:3.20772099;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:new"
+         transform="rotate(142.65845)">
+        <desc
+           id="desc9346-0-2-5-7-2-4-8-0-5-79-7-8-0-9-3">height=2; material = BuildingDesert; roof_type = flat; offset = 0 -0.1 0;</desc>
       </rect>
     </g>
     <g
