@@ -30,9 +30,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="15.638297"
-     inkscape:cx="1425.5681"
-     inkscape:cy="1276.2302"
+     inkscape:zoom="22.115892"
+     inkscape:cx="1407.5538"
+     inkscape:cy="1285.9875"
      inkscape:document-units="px"
      inkscape:current-layer="layer24"
      showgrid="true"
@@ -140,6 +140,20 @@
        orientation="0.80723854,0.59022533"
        id="guide7348"
        inkscape:locked="false" />
+    <sodipodi:guide
+       position="1490.4632,1225.7032"
+       orientation="-0.78451669,-0.6201077"
+       id="guide6722"
+       inkscape:locked="true"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="1410.0197,1289.2367"
+       orientation="-0.6201077,0.78451669"
+       id="guide6724"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
   </sodipodi:namedview>
   <defs
      id="defs4">
@@ -28993,10 +29007,10 @@ merge = 1;</desc>
          id="rect10892"
          width="11.923013"
          height="5.8959785"
-         x="-619.18243"
-         y="-1482.082"
+         x="-642.01898"
+         y="-1472.5265"
          inkscape:label="#mesh"
-         transform="rotate(140.80367)">
+         transform="rotate(141.6763)">
         <desc
            id="desc10894">mesh_name = container.mesh; texture0 = alpha.png; collision_model_type = 1; collision_model_size = 3.5 4.0 1.2; walkable = 0; texture0 = alpha.png; alpha_blend = 1:</desc>
       </rect>
@@ -29017,12 +29031,12 @@ merge = 1;</desc>
          id="rect10286-1"
          width="33.053493"
          height="5.8959785"
-         x="596.68811"
-         y="1476.1885"
+         x="619.52466"
+         y="1466.6331"
          inkscape:label="#mesh"
-         transform="rotate(-39.196565)">
+         transform="rotate(-38.323932)">
         <desc
-           id="desc10288-7">mesh_name = container.mesh; texture0 = alpha.png; collision_model_type = 1; collision_model_size = 19.0 3.0 3.0; walkable = 1; texture0 = alpha.png; alpha_blend = 1:</desc>
+           id="desc10288-7">mesh_name = container.mesh; texture0 = alpha.png; collision_model_type = 1; collision_model_size = 19.4 3.0 3.0; walkable = 1; texture0 = alpha.png; alpha_blend = 1:</desc>
       </rect>
     </g>
     <g
