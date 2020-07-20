@@ -30,11 +30,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="16.408365"
-     inkscape:cx="1196.3511"
-     inkscape:cy="1184.2599"
+     inkscape:zoom="4.1020912"
+     inkscape:cx="1051.1676"
+     inkscape:cy="1241.3012"
      inkscape:document-units="px"
-     inkscape:current-layer="layer14"
+     inkscape:current-layer="layer33"
      showgrid="true"
      inkscape:window-width="1680"
      inkscape:window-height="949"
@@ -28899,55 +28899,14 @@ merge = 1;</desc>
        inkscape:label="spawnpoints"
        id="layer33"
        inkscape:groupmode="layer"
-       style="display:inline"
-       sodipodi:insensitive="true">
+       style="display:inline">
       <rect
          inkscape:label="#spawnrect10748"
-         y="810.11157"
-         x="1064.8358"
-         height="2.0679491"
-         width="2.2977724"
-         id="rect10748-1-0-1-7-76-86-1-8-76-9-4-7"
-         style="display:inline;fill:#0000fe;fill-opacity:1;stroke:none;enable-background:new" />
-      <rect
-         inkscape:label="#spawnrect10748"
-         y="936.0882"
-         x="1232.5162"
+         y="814.44293"
+         x="1035.7872"
          height="2.0679491"
          width="2.2977724"
          id="rect10748-1-0-1-7-76-86-1-8-76-9-4-7-6"
-         style="display:inline;fill:#0000fe;fill-opacity:1;stroke:none;enable-background:new" />
-      <rect
-         inkscape:label="#spawnrect10748"
-         y="809.73621"
-         x="1322.4387"
-         height="2.0679491"
-         width="2.2977724"
-         id="rect10748-1-0-1-7-76-86-1-8-76-9-4-7-61"
-         style="display:inline;fill:#0000fe;fill-opacity:1;stroke:none;enable-background:new" />
-      <rect
-         inkscape:label="#spawnrect10748"
-         y="743.21942"
-         x="1317.0774"
-         height="2.0679491"
-         width="2.2977724"
-         id="rect10748-1-0-1-7-76-86-1-8-76-9-4-7-8"
-         style="display:inline;fill:#0000fe;fill-opacity:1;stroke:none;enable-background:new" />
-      <rect
-         inkscape:label="#spawnrect10748"
-         y="508.07007"
-         x="1300.281"
-         height="2.0679491"
-         width="2.2977724"
-         id="rect10748-1-0-1-7-76-86-1-8-76-9-4-7-4"
-         style="display:inline;fill:#0000fe;fill-opacity:1;stroke:none;enable-background:new" />
-      <rect
-         inkscape:label="#spawnrect10748"
-         y="432.19678"
-         x="1368.0457"
-         height="2.0679491"
-         width="2.2977724"
-         id="rect10748-1-0-1-7-76-86-1-8-76-9-4-7-9"
          style="display:inline;fill:#0000fe;fill-opacity:1;stroke:none;enable-background:new" />
       <rect
          inkscape:label="#spawnrect10748"
