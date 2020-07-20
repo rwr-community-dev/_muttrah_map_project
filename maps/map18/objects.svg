@@ -31,10 +31,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="7.8191486"
-     inkscape:cx="1368.9829"
-     inkscape:cy="1245.7262"
+     inkscape:cx="1423.2163"
+     inkscape:cy="1289.4906"
      inkscape:document-units="px"
-     inkscape:current-layer="layer24"
+     inkscape:current-layer="layer18"
      showgrid="true"
      inkscape:window-width="1680"
      inkscape:window-height="949"
@@ -19556,8 +19556,7 @@ collision_model_size = 5.0 2.4 4.7;</desc>
        style="display:inline"
        inkscape:label="other"
        id="layer16"
-       inkscape:groupmode="layer"
-       sodipodi:insensitive="true">
+       inkscape:groupmode="layer">
       <g
          id="g7955">
         <path
@@ -29131,6 +29130,30 @@ merge = 1;</desc>
              id="desc7945-3-9-7-6-9-0-2-8-2-3-7">type = start;</desc>
         </path>
       </g>
+      <rect
+         style="display:inline;fill:#d94e4e;fill-opacity:0.25;stroke:none;enable-background:new"
+         id="rect10286-1"
+         width="33.053493"
+         height="5.8959785"
+         x="619.52466"
+         y="1466.6331"
+         inkscape:label="#mesh"
+         transform="rotate(-38.323932)">
+        <desc
+           id="desc10288-7">mesh_name = container.mesh; texture0 = alpha.png; collision_model_type = 1; collision_model_size = 19.4 3.0 3.0; walkable = 1; texture0 = alpha.png; alpha_blend = 1:</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#ff0000;fill-opacity:1;stroke:none;enable-background:new"
+         id="rect10892"
+         width="11.923013"
+         height="5.8959785"
+         x="-642.01898"
+         y="-1472.5265"
+         inkscape:label="#mesh"
+         transform="rotate(141.6763)">
+        <desc
+           id="desc10894">mesh_name = container.mesh; texture0 = alpha.png; collision_model_type = 1; collision_model_size = 3.5 4.0 1.2; walkable = 0; texture0 = alpha.png; alpha_blend = 1:</desc>
+      </rect>
     </g>
     <g
        inkscape:label="crates"
@@ -29276,30 +29299,6 @@ merge = 1;</desc>
          transform="rotate(-129.523)">
         <desc
            id="desc10537">mesh_name = container.mesh; texture0 = alpha.png; collision_model_type = 1; collision_model_size = 2.5 14.0 9.4; walkable = 0; texture0 = alpha.png; alpha_blend = 1:</desc>
-      </rect>
-      <rect
-         style="display:inline;fill:#d94e4e;fill-opacity:0.25;stroke:none;enable-background:new"
-         id="rect10286-1"
-         width="33.053493"
-         height="5.8959785"
-         x="619.52466"
-         y="1466.6331"
-         inkscape:label="#mesh"
-         transform="rotate(-38.323932)">
-        <desc
-           id="desc10288-7">mesh_name = container.mesh; texture0 = alpha.png; collision_model_type = 1; collision_model_size = 19.4 3.0 3.0; walkable = 1; texture0 = alpha.png; alpha_blend = 1:</desc>
-      </rect>
-      <rect
-         style="display:inline;fill:#ff0000;fill-opacity:1;stroke:none;enable-background:new"
-         id="rect10892"
-         width="11.923013"
-         height="5.8959785"
-         x="-642.01898"
-         y="-1472.5265"
-         inkscape:label="#mesh"
-         transform="rotate(141.6763)">
-        <desc
-           id="desc10894">mesh_name = container.mesh; texture0 = alpha.png; collision_model_type = 1; collision_model_size = 3.5 4.0 1.2; walkable = 0; texture0 = alpha.png; alpha_blend = 1:</desc>
       </rect>
       <rect
          transform="rotate(-38.323932)"
