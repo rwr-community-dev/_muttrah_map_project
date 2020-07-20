@@ -30,9 +30,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.528973"
-     inkscape:cx="1332.2727"
-     inkscape:cy="1258.6204"
+     inkscape:zoom="7.8191486"
+     inkscape:cx="1368.9829"
+     inkscape:cy="1245.7262"
      inkscape:document-units="px"
      inkscape:current-layer="layer24"
      showgrid="true"
@@ -10750,7 +10750,7 @@ show_base_names_in_map_view = 0;</desc>
          id="title9786-13-5-7-8-6">venus</title>
     </rect>
     <rect
-       transform="rotate(0.07879261,-1918532.9,3935791.5)"
+       transform="rotate(0.07879261,-1918532.9,3935791.2)"
        inkscape:label="#mesh_template"
        y="-1522.1748"
        x="-2658.7271"
@@ -10762,7 +10762,7 @@ show_base_names_in_map_view = 0;</desc>
          id="desc10092-7-0-4-9-8-24">name = sunchair_red; mesh_name = sunchair.mesh; texture0 = world_atlas1.png; texture0_atlas_cell = 7 1 32 32; collision_model_type = 1; collision_model_size = 1.3 1.5 1.6; penetrability = 0.7; see_through = 1</desc>
     </rect>
     <rect
-       transform="rotate(0.00494255,-30581037,62604319)"
+       transform="rotate(0.00494255,-30581037,62600361)"
        inkscape:label="#mesh_template"
        y="-1522.1748"
        x="-2658.7271"
@@ -29266,18 +29266,6 @@ merge = 1;</desc>
        id="layer24"
        inkscape:groupmode="layer">
       <rect
-         style="display:inline;fill:#ff0000;fill-opacity:1;stroke:none;enable-background:new"
-         id="rect10892"
-         width="11.923013"
-         height="5.8959785"
-         x="-642.01898"
-         y="-1472.5265"
-         inkscape:label="#mesh"
-         transform="rotate(141.6763)">
-        <desc
-           id="desc10894">mesh_name = container.mesh; texture0 = alpha.png; collision_model_type = 1; collision_model_size = 3.5 4.0 1.2; walkable = 0; texture0 = alpha.png; alpha_blend = 1:</desc>
-      </rect>
-      <rect
          style="display:inline;fill:#d94e4e;fill-opacity:1;stroke:none;enable-background:new"
          id="rect10535"
          width="7.625"
@@ -29302,6 +29290,18 @@ merge = 1;</desc>
            id="desc10288-7">mesh_name = container.mesh; texture0 = alpha.png; collision_model_type = 1; collision_model_size = 19.4 3.0 3.0; walkable = 1; texture0 = alpha.png; alpha_blend = 1:</desc>
       </rect>
       <rect
+         style="display:inline;fill:#ff0000;fill-opacity:1;stroke:none;enable-background:new"
+         id="rect10892"
+         width="11.923013"
+         height="5.8959785"
+         x="-642.01898"
+         y="-1472.5265"
+         inkscape:label="#mesh"
+         transform="rotate(141.6763)">
+        <desc
+           id="desc10894">mesh_name = container.mesh; texture0 = alpha.png; collision_model_type = 1; collision_model_size = 3.5 4.0 1.2; walkable = 0; texture0 = alpha.png; alpha_blend = 1:</desc>
+      </rect>
+      <rect
          transform="rotate(-38.323932)"
          inkscape:label="#mesh"
          y="1466.6334"
@@ -29312,6 +29312,30 @@ merge = 1;</desc>
          style="display:inline;fill:#d94e4e;fill-opacity:0.25;stroke:none;enable-background:new">
         <desc
            id="desc6740">mesh_name = container.mesh; texture0 = alpha.png; collision_model_type = 1; collision_model_size = 19.0 3.0 3.0; walkable = 1; texture0 = alpha.png; alpha_blend = 1:</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#d94e4e;fill-opacity:0.25;stroke:none;enable-background:new"
+         id="rect10286-1-5"
+         width="33.053493"
+         height="5.8959785"
+         x="534.33002"
+         y="1478.4014"
+         inkscape:label="#mesh"
+         transform="rotate(-38.323932)">
+        <desc
+           id="desc10288-7-5">mesh_name = container.mesh; texture0 = alpha.png; collision_model_type = 1; collision_model_size = 19.4 3.0 3.0; walkable = 1; texture0 = alpha.png; alpha_blend = 1:</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#ff0000;fill-opacity:1;stroke:none;enable-background:new"
+         id="rect10892-4"
+         width="11.923013"
+         height="5.8959785"
+         x="-556.8244"
+         y="-1484.2952"
+         inkscape:label="#mesh"
+         transform="rotate(141.6763)">
+        <desc
+           id="desc10894-2">mesh_name = container.mesh; texture0 = alpha.png; collision_model_type = 1; collision_model_size = 3.5 4.0 1.2; walkable = 0; texture0 = alpha.png; alpha_blend = 1:</desc>
       </rect>
     </g>
     <g
