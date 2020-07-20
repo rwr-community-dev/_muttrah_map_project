@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<scene>
+  <!-- debug camera specification -->
+  <camera direction="-0.3 -1.7 1.0" distance="42.0" far_clip="300.0" shadow_far_clip="250.0" />
+  <fog offset="-100.0" range="600.0" />
+</scene>
+
+<!-- m_fogOffset = -100.0; -->
+<!-- m_fogRange = 600.0; -->
