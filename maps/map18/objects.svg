@@ -30,11 +30,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="7.8191486"
-     inkscape:cx="1423.2163"
-     inkscape:cy="1289.4906"
+     inkscape:zoom="2.9006165"
+     inkscape:cx="1159.7386"
+     inkscape:cy="1145.0155"
      inkscape:document-units="px"
-     inkscape:current-layer="layer18"
+     inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:window-width="1680"
      inkscape:window-height="949"
@@ -144,6 +144,36 @@
        position="1271.2928,1271.5762"
        orientation="-4.7702074,-3.6393848"
        id="guide10357"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1148.1337,1241.8219"
+       orientation="-0.80723973,-0.59022371"
+       id="guide6830"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="-561.17383,2101.3226"
+       orientation="22.549438,0"
+       id="guide7106"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="-561.17383,2078.7732"
+       orientation="0,31.130615"
+       id="guide7108"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="-530.04321,2078.7732"
+       orientation="-22.549438,0"
+       id="guide7110"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="-530.04321,2101.3226"
+       orientation="0,-31.130615"
+       id="guide7112"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1176.595,1239.3871"
+       orientation="0.80612476,0.59174561"
+       id="guide7308"
        inkscape:locked="false" />
   </sodipodi:namedview>
   <defs
@@ -5744,16 +5774,6 @@
          style="stop-color:#878787;stop-opacity:0;" />
     </linearGradient>
     <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient10435-4-3-2"
-       id="linearGradient9875-1-0"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.01086902,-0.99992352,0.99994221,0.0124715,-1.2081499,-0.7246593)"
-       x1="2700.2405"
-       y1="2199.1719"
-       x2="2709.1338"
-       y2="2199.1719" />
-    <linearGradient
        id="linearGradient10435-4-3">
       <stop
          id="stop10437-0-3"
@@ -9669,6 +9689,46 @@
          in2="result3"
          id="feComposite4087-0-7-7-0-0-8-7-5-04-8-4-3-8" />
     </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient10435-8"
+       id="linearGradient7169"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.01086902,-0.99992352,0.99994221,0.0124715,-1365.476,-777.50441)"
+       x1="2700.2405"
+       y1="2199.1719"
+       x2="2709.1338"
+       y2="2199.1719" />
+    <filter
+       id="filter11084-65-0"
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB">
+      <feBlend
+         id="feBlend11086-4-1"
+         in2="BackgroundImage"
+         mode="multiply"
+         inkscape:collect="always" />
+    </filter>
+    <filter
+       id="filter11084-65-7"
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB">
+      <feBlend
+         id="feBlend11086-4-5"
+         in2="BackgroundImage"
+         mode="multiply"
+         inkscape:collect="always" />
+    </filter>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient10435-8"
+       id="linearGradient7306"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.01086902,-0.99992352,0.99994221,0.0124715,-1365.476,-777.50441)"
+       x1="2700.2405"
+       y1="2199.1719"
+       x2="2709.1338"
+       y2="2199.1719" />
   </defs>
   <metadata
      id="metadata7">
@@ -25847,13 +25907,307 @@ collision_model_size = 5.0 2.4 4.7;</desc>
         <desc
            id="desc6778-1">template = concrete_barrier;</desc>
       </rect>
+      <rect
+         style="display:inline;opacity:0.79775277;fill:#0e5500;fill-opacity:1;fill-rule:nonzero;stroke:none;enable-background:new"
+         id="rect6780-3"
+         width="2.1352713"
+         height="5.8737106"
+         x="-1157.7507"
+         y="-43.572853"
+         inkscape:label="#mesh"
+         transform="rotate(166.21596)"
+         inkscape:transform-center-y="-0.00024919855"
+         inkscape:transform-center-x="6.0307615e-05">
+        <desc
+           id="desc6778-0">template = concrete_barrier;</desc>
+      </rect>
+      <rect
+         style="display:inline;opacity:0.79775277;fill:#0e5500;fill-opacity:1;fill-rule:nonzero;stroke:none;enable-background:new"
+         id="rect6780-3-6"
+         width="2.1352713"
+         height="5.8737106"
+         x="-1157.7507"
+         y="-49.446564"
+         inkscape:label="#mesh"
+         transform="rotate(166.21596)"
+         inkscape:transform-center-y="-0.00024919855"
+         inkscape:transform-center-x="6.0307615e-05">
+        <desc
+           id="desc6778-0-4">template = concrete_barrier;</desc>
+      </rect>
+      <rect
+         style="display:inline;opacity:0.79775277;fill:#0e5500;fill-opacity:1;fill-rule:nonzero;stroke:none;enable-background:new"
+         id="rect6780-3-7"
+         width="2.1352713"
+         height="5.8737106"
+         x="-1157.7507"
+         y="-55.320274"
+         inkscape:label="#mesh"
+         transform="rotate(166.21596)"
+         inkscape:transform-center-y="-0.00024919855"
+         inkscape:transform-center-x="6.0307615e-05">
+        <desc
+           id="desc6778-0-6">template = concrete_barrier;</desc>
+      </rect>
+      <rect
+         style="display:inline;opacity:0.79775277;fill:#0e5500;fill-opacity:1;fill-rule:nonzero;stroke:none;enable-background:new"
+         id="rect6780-3-7-8"
+         width="2.1352713"
+         height="5.8737106"
+         x="-1157.7507"
+         y="-61.193985"
+         inkscape:label="#mesh"
+         transform="rotate(166.21596)"
+         inkscape:transform-center-y="-0.00024919855"
+         inkscape:transform-center-x="6.0307615e-05">
+        <desc
+           id="desc6778-0-6-8">template = concrete_barrier;</desc>
+      </rect>
+      <rect
+         style="display:inline;opacity:0.79775277;fill:#0e5500;fill-opacity:1;fill-rule:nonzero;stroke:none;enable-background:new"
+         id="rect6780-3-7-8-6"
+         width="2.1352713"
+         height="5.8737106"
+         x="-1157.7507"
+         y="-67.067696"
+         inkscape:label="#mesh"
+         transform="rotate(166.21596)"
+         inkscape:transform-center-y="-0.00024919855"
+         inkscape:transform-center-x="6.0307615e-05">
+        <desc
+           id="desc6778-0-6-8-4">template = concrete_barrier;</desc>
+      </rect>
+      <rect
+         style="display:inline;opacity:0.79775277;fill:#0e5500;fill-opacity:1;fill-rule:nonzero;stroke:none;enable-background:new"
+         id="rect6780-3-7-8-8"
+         width="2.1352713"
+         height="5.8737106"
+         x="-509.27716"
+         y="1017.3177"
+         inkscape:label="#mesh"
+         transform="rotate(-125.95731)"
+         inkscape:transform-center-y="-0.00020837863"
+         inkscape:transform-center-x="-0.00025750695">
+        <desc
+           id="desc6778-0-6-8-0">template = concrete_barrier;</desc>
+      </rect>
+      <rect
+         style="display:inline;opacity:0.79775277;fill:#0e5500;fill-opacity:1;fill-rule:nonzero;stroke:none;enable-background:new"
+         id="rect6780-3-7-8-8-6"
+         width="2.1352713"
+         height="5.8737106"
+         x="-509.27716"
+         y="1023.1914"
+         inkscape:label="#mesh"
+         transform="rotate(-125.95731)"
+         inkscape:transform-center-y="-0.00020837863"
+         inkscape:transform-center-x="-0.00025750695">
+        <desc
+           id="desc6778-0-6-8-0-7">template = concrete_barrier;</desc>
+      </rect>
+      <rect
+         style="display:inline;opacity:0.79775277;fill:#0e5500;fill-opacity:1;fill-rule:nonzero;stroke:none;enable-background:new"
+         id="rect6780-3-7-8-8-0"
+         width="2.1352713"
+         height="5.8737106"
+         x="-509.27716"
+         y="1029.0651"
+         inkscape:label="#mesh"
+         transform="rotate(-125.95731)"
+         inkscape:transform-center-y="-0.00020837863"
+         inkscape:transform-center-x="-0.00025750695">
+        <desc
+           id="desc6778-0-6-8-0-3">template = concrete_barrier;</desc>
+      </rect>
+      <rect
+         style="display:inline;opacity:0.79775277;fill:#0e5500;fill-opacity:1;fill-rule:nonzero;stroke:none;enable-background:new"
+         id="rect6780-3-7-8-8-1"
+         width="2.1352713"
+         height="5.8737106"
+         x="-509.27716"
+         y="1034.9387"
+         inkscape:label="#mesh"
+         transform="rotate(-125.95731)"
+         inkscape:transform-center-y="-0.00020837863"
+         inkscape:transform-center-x="-0.00025750695">
+        <desc
+           id="desc6778-0-6-8-0-71">template = concrete_barrier;</desc>
+      </rect>
+      <rect
+         style="display:inline;opacity:0.79775277;fill:#0e5500;fill-opacity:1;fill-rule:nonzero;stroke:none;enable-background:new"
+         id="rect6780-3-7-8-6-4"
+         width="2.1352713"
+         height="5.8737106"
+         x="-1157.7507"
+         y="-72.941406"
+         inkscape:label="#mesh"
+         transform="rotate(166.21596)"
+         inkscape:transform-center-y="-0.00024919855"
+         inkscape:transform-center-x="6.0307615e-05">
+        <desc
+           id="desc6778-0-6-8-4-9">template = concrete_barrier;</desc>
+      </rect>
+      <rect
+         style="display:inline;opacity:0.79775277;fill:#0e5500;fill-opacity:1;fill-rule:nonzero;stroke:none;enable-background:new"
+         id="rect6780-3-7-8-6-5"
+         width="2.1352713"
+         height="5.8737106"
+         x="-1157.7507"
+         y="-78.815117"
+         inkscape:label="#mesh"
+         transform="rotate(166.21596)"
+         inkscape:transform-center-y="-0.00024919855"
+         inkscape:transform-center-x="6.0307615e-05">
+        <desc
+           id="desc6778-0-6-8-4-2">template = concrete_barrier;</desc>
+      </rect>
+      <rect
+         style="display:inline;opacity:0.79775277;fill:#0e5500;fill-opacity:1;fill-rule:nonzero;stroke:none;enable-background:new"
+         id="mesh8-1-9-3-7-7"
+         width="2.1352713"
+         height="5.8737106"
+         x="-1174.7875"
+         y="-660.86407"
+         inkscape:label="#mesh"
+         transform="rotate(142.65767)"
+         inkscape:transform-center-x="-8.0818904e-06"
+         inkscape:transform-center-y="-7.2847788e-05">
+        <desc
+           id="desc8739-3-3-8-0-0-9-1-6-2-7-9-6-7-1">template = concrete_barrier;</desc>
+      </rect>
+      <rect
+         inkscape:transform-center-y="-7.2847788e-05"
+         inkscape:transform-center-x="-8.0818904e-06"
+         transform="rotate(142.65767)"
+         inkscape:label="#mesh"
+         y="-660.92993"
+         x="-1170.9473"
+         height="5.8737106"
+         width="2.1352713"
+         id="rect6764-7"
+         style="display:inline;opacity:0.79775277;fill:#0e5500;fill-opacity:1;fill-rule:nonzero;stroke:none;enable-background:new">
+        <desc
+           id="desc6762-4">template = concrete_barrier;</desc>
+      </rect>
+      <rect
+         style="display:inline;opacity:0.79775277;fill:#0e5500;fill-opacity:1;fill-rule:nonzero;stroke:none;enable-background:new"
+         id="mesh8-1-9-3-7-3"
+         width="2.1352713"
+         height="5.8737106"
+         x="-1225.7626"
+         y="-660.10022"
+         inkscape:label="#mesh"
+         transform="rotate(142.65767)"
+         inkscape:transform-center-x="-8.0818904e-06"
+         inkscape:transform-center-y="-7.2847788e-05">
+        <desc
+           id="desc8739-3-3-8-0-0-9-1-6-2-7-9-6-7-9">template = concrete_barrier;</desc>
+      </rect>
+      <rect
+         inkscape:transform-center-y="-7.2847788e-05"
+         inkscape:transform-center-x="-8.0818904e-06"
+         transform="rotate(142.65767)"
+         inkscape:label="#mesh"
+         y="-660.16608"
+         x="-1221.9224"
+         height="5.8737106"
+         width="2.1352713"
+         id="rect6764-4"
+         style="display:inline;opacity:0.79775277;fill:#0e5500;fill-opacity:1;fill-rule:nonzero;stroke:none;enable-background:new">
+        <desc
+           id="desc6762-5">template = concrete_barrier;</desc>
+      </rect>
+      <rect
+         inkscape:label="#rect"
+         y="1063.8469"
+         x="-570.00861"
+         height="9.5886421"
+         width="32.246704"
+         id="buildingrect64-2-6"
+         style="display:inline;opacity:1;fill:#b4754b;fill-opacity:1;fill-rule:nonzero;stroke:#c98f69;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:new"
+         transform="rotate(-125.6196)">
+        <desc
+           id="desc9346-0-2-5-7-1">height=4; material =  BuildingWhite3; offset = 0 -0.1 0;</desc>
+      </rect>
+      <rect
+         inkscape:label="#rect"
+         y="1058.7618"
+         x="-548.44855"
+         height="22.549402"
+         width="31.130627"
+         id="buildingrect64"
+         style="display:inline;opacity:1;fill:#b4754b;fill-opacity:1;fill-rule:nonzero;stroke:#c98f69;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:new"
+         transform="rotate(-125.6196)">
+        <desc
+           id="desc9346-0-2-5">height=4; material =  BuildingWhite3;</desc>
+      </rect>
+      <rect
+         inkscape:label="#rect"
+         y="1059.0044"
+         x="-588.59277"
+         height="26.146984"
+         width="21.858984"
+         id="testbuildingrect64-2"
+         style="display:inline;opacity:1;fill:#b4754b;fill-opacity:1;fill-rule:nonzero;stroke:#c98f69;stroke-width:2.82328653;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:new"
+         transform="rotate(-125.6196)">
+        <desc
+           id="desc9346-0-2-5-7">height=6; material =  BuildingWhite3;</desc>
+      </rect>
+      <rect
+         inkscape:label="#ladder"
+         y="547.32343"
+         x="1075.3114"
+         height="2.25"
+         width="6"
+         id="rect7651-13-5-8-6-4-4-7-3-9-0-3-2-7-1-1-7-8-9-5"
+         style="display:inline;opacity:0.79775277;fill:#2cffe7;fill-opacity:1;fill-rule:nonzero;stroke:none;enable-background:new"
+         transform="rotate(-35.619593)" />
+      <rect
+         style="display:inline;opacity:1;fill:#b4754b;fill-opacity:1;fill-rule:nonzero;stroke:#c98f69;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:new"
+         id="rect7100"
+         width="31.130627"
+         height="22.549402"
+         x="-639.36346"
+         y="1026.13"
+         inkscape:label="#rect"
+         transform="rotate(-125.6196)">
+        <desc
+           id="desc7098">height=4; material =  BuildingWhite3;</desc>
+      </rect>
+      <rect
+         style="display:inline;opacity:1;fill:url(#linearGradient7306);fill-opacity:1;fill-rule:nonzero;stroke:none;filter:url(#filter11084-65-7);enable-background:new"
+         id="rect10498-1-4"
+         width="4.434515"
+         height="9.6910601"
+         x="-600.61584"
+         y="-1122.5341"
+         inkscape:label="#spawn5"
+         transform="rotate(-35.619593,1821.8785,-3423.2497)">
+        <title
+           id="title10504-38-8">gas_tank</title>
+        <desc
+           id="desc10500-7-9">type = vehicle; key = gas_tank.vehicle;</desc>
+      </rect>
+      <rect
+         style="display:inline;opacity:1;fill:url(#linearGradient7169);fill-opacity:1;fill-rule:nonzero;stroke:none;filter:url(#filter11084-65-0);enable-background:new"
+         id="rect10498-1-6"
+         width="4.434515"
+         height="9.6910601"
+         x="-600.61584"
+         y="-1122.5341"
+         inkscape:label="#spawn5"
+         transform="rotate(-35.619593,1805.6268,-3417.9253)">
+        <title
+           id="title10504-38-9">gas_tank</title>
+        <desc
+           id="desc10500-7-3">type = vehicle; key = gas_tank.vehicle;</desc>
+      </rect>
     </g>
     <g
        style="display:inline;opacity:0.44900004"
        inkscape:label="walls"
        id="layer8"
-       inkscape:groupmode="layer"
-       sodipodi:insensitive="true">
+       inkscape:groupmode="layer">
       <path
          inkscape:label=""
          id="wall10582-1"
@@ -28828,6 +29182,48 @@ merge = 1;</desc>
          transform="rotate(52.658446)">
         <desc
            id="desc9346-0-2-5-7-2-4-8-0-5-79-7-8-0-9-0">height=2; material = BuildingDesert; roof_type = flat; offset = 0 -0.1 0;</desc>
+      </rect>
+      <rect
+         ry="2"
+         rx="2"
+         style="display:inline;fill:#909090;fill-opacity:1;stroke:#000000;stroke-width:0.99999976;stroke-opacity:1;enable-background:new"
+         id="rect1000000-61-6-06-5-8-1-1-4-0"
+         width="4"
+         height="4"
+         x="1178.8541"
+         y="816.20563"
+         inkscape:label="#mesh"
+         transform="rotate(0.55420551)">
+        <desc
+           id="desc7569-86-7-2-8-1-4-1-1-2-7">template = pipe;</desc>
+      </rect>
+      <rect
+         ry="2"
+         rx="2"
+         style="display:inline;fill:#909090;fill-opacity:1;stroke:#000000;stroke-width:0.99999976;stroke-opacity:1;enable-background:new"
+         id="rect1000000-61-6-06-5-8-1-1-4-2"
+         width="4"
+         height="4"
+         x="1184.4548"
+         y="812.07892"
+         inkscape:label="#mesh"
+         transform="rotate(0.55420551)">
+        <desc
+           id="desc7569-86-7-2-8-1-4-1-1-2-6">template = pipe;</desc>
+      </rect>
+      <rect
+         ry="2"
+         rx="2"
+         style="display:inline;fill:#909090;fill-opacity:1;stroke:#000000;stroke-width:0.99999976;stroke-opacity:1;enable-background:new"
+         id="rect1000000-61-6-06-5-8-1-1-4-27"
+         width="4"
+         height="4"
+         x="1214.2765"
+         y="855.47968"
+         inkscape:label="#mesh"
+         transform="rotate(0.55420551)">
+        <desc
+           id="desc7569-86-7-2-8-1-4-1-1-2-3">template = pipe;</desc>
       </rect>
     </g>
     <g
