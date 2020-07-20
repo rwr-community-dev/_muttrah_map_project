@@ -34,7 +34,7 @@
      inkscape:cx="1232.2886"
      inkscape:cy="1137.764"
      inkscape:document-units="px"
-     inkscape:current-layer="layer33"
+     inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:window-width="1680"
      inkscape:window-height="949"
@@ -26240,7 +26240,7 @@ separator_depth = 0.0;</desc>
          id="buildingrect6881"
          style="display:inline;opacity:1;fill:#b4754b;fill-opacity:1;fill-rule:nonzero;stroke:#c98f69;stroke-width:1.59444928;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:new">
         <desc
-           id="desc6879">height=6; material =  BuildingWhite2;</desc>
+           id="desc6879">height=6; material =  BuildingWhite2; offset = 0, -0.05, 0</desc>
       </rect>
     </g>
     <g
