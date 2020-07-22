@@ -26,24 +26,24 @@ To test the map:
 
 ## Work Sectors
 
-Note: *Sector names enclosed in brackets are subject to change, whilst work is ongoing, pending suggestions from the sector contributors*
+Note: *Sector names are subject to change, whilst work is ongoing, pending suggestions from the sector contributors*
 
 | Sector Name | Contributor |
 | ----------- | ----------- |
-| SUBURBS | [Robert Augustus](https://github.com/RobertAugustus) |
 | FORT | [ComradeCheekiBreeki](https://github.com/ComradeCheekiBreeki) |
-| (SCD EAST) | *pending* |
-| (WALL) | [Robert Augustus](https://github.com/RobertAugustus) |
-| (SOUTH CITY DISTRICT) | *pending* |
-| (CHOKE POINT BASTION) | *pending* |
+| SUBURBS | [Robert Augustus](https://github.com/RobertAugustus) |
+| WALL | [Robert Augustus](https://github.com/RobertAugustus) |
+| SOUTH EAST CITY DISTRICT | *pending* |
+| MOSQUE | *pending* |
+| BASTION | *pending* |
 | WEST CITY DISTRICT | *pending* |
 | RESIDENTIAL | *pending* |
-| (SOUTHERN INSURGENT CAMPS) | *pending* |
 | CRANE | [anoshi](https://github.com/anoshi) |
-| MOSQUE | *pending* |
+| CENTRAL CITY SQUARE | *pending* |
 | NORTH CITY DISTRICT | *pending* |
-| (NW CD) | *pending* |
-| (NORTHERN INSURGENT CAMPS) | *pending* |
+| NORTH WEST CITY DISTRICT | *pending* |
 | BAZAAR | *pending* |
 | DOCKS | [david-wm-sanders <MR. BANG>](https://github.com/david-wm-sanders) |
 | LIGHT HOUSE | *pending* |
+| (SOUTHERN INSURGENT CAMPS) | *pending* |
+| (NORTHERN INSURGENT CAMPS) | *pending* |
