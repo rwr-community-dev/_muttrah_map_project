@@ -30,38 +30,38 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.12"
-     inkscape:cx="1377.215"
-     inkscape:cy="1311.4207"
+     inkscape:zoom="3.6203867"
+     inkscape:cx="1327.5529"
+     inkscape:cy="1253.8659"
      inkscape:document-units="px"
-     inkscape:current-layer="layer16"
+     inkscape:current-layer="layer6"
      showgrid="true"
      inkscape:window-width="1673"
      inkscape:window-height="921"
      inkscape:window-x="1054"
      inkscape:window-y="381"
      inkscape:window-maximized="0"
-     inkscape:snap-bbox="false"
-     inkscape:object-nodes="true"
+     inkscape:snap-bbox="true"
+     inkscape:object-nodes="false"
      inkscape:snap-global="true"
      showguides="true"
      inkscape:guide-bbox="true"
      borderlayer="true"
      inkscape:showpageshadow="false"
-     inkscape:object-paths="false"
-     inkscape:bbox-paths="true"
-     inkscape:bbox-nodes="true"
+     inkscape:object-paths="true"
+     inkscape:bbox-paths="false"
+     inkscape:bbox-nodes="false"
      inkscape:snap-bbox-edge-midpoints="true"
      inkscape:snap-bbox-midpoints="true"
-     inkscape:snap-nodes="false"
-     inkscape:snap-others="false"
+     inkscape:snap-nodes="true"
+     inkscape:snap-others="true"
      inkscape:snap-grids="false"
      inkscape:snap-to-guides="true"
      inkscape:snap-smooth-nodes="false"
      inkscape:document-rotation="0"
      inkscape:snap-midpoints="true"
-     inkscape:snap-intersection-paths="true"
-     inkscape:snap-object-midpoints="false"
+     inkscape:snap-intersection-paths="false"
+     inkscape:snap-object-midpoints="true"
      inkscape:snap-center="true">
     <inkscape:grid
        spacingy="64"
@@ -17631,6 +17631,28 @@ separator_top_texture_scale = 3 3;
 separator_color = fill; separator_over_height = 0.3;
 separator_depth = 0.0;</desc>
     </rect>
+    <rect
+       inkscape:label="#mesh_template"
+       y="1036.375"
+       x="-1246.4135"
+       height="42"
+       width="42"
+       id="rect64-2-4-23-36-4-1-3-7-5-4"
+       style="display:inline;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:#b4754b;stroke-width:1.182742;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:new">
+      <desc
+         id="desc9346-0-2-5-7-2-4-8-7-4-2-5-3-5">name = warehouse; mesh_name = warehouse.mesh; texture0 = warehouse.png; #texture0_atlas_cell = 5 5 8 8; collision_model_type = 1; collision_model_size = 21 5.4 21; #collision_model_offset = -1.5 0 1.2; walkable = 1; backline =1;</desc>
+    </rect>
+    <rect
+       style="display:inline;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:#b4754b;stroke-width:1.182742;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:new"
+       id="rect40641"
+       width="42"
+       height="42"
+       x="-1362.774"
+       y="1036.375"
+       inkscape:label="#mesh">
+      <desc
+         id="desc40643">template = warehouse;</desc>
+    </rect>
   </g>
   <g
      style="display:inline"
@@ -26948,6 +26970,354 @@ separator_depth = 0.0;</desc>
         <desc
            id="desc8739-3-3-8-0-0-9-1-6-2-7-9-6-8-9-7">template = concrete_barrier;</desc>
       </rect>
+      <rect
+         style="display:inline;opacity:0.79775277;fill:#0e5500;fill-opacity:1;fill-rule:nonzero;stroke:none;enable-background:new"
+         id="rect6780-3-7-8-6-0"
+         width="2.1352713"
+         height="5.8737106"
+         x="557.14404"
+         y="1110.8796"
+         inkscape:label="#mesh"
+         transform="rotate(-79.56096)"
+         inkscape:transform-center-y="5.8469698e-06"
+         inkscape:transform-center-x="-0.00027569727">
+        <desc
+           id="desc6778-0-6-8-4-6">template = concrete_barrier;</desc>
+      </rect>
+      <rect
+         style="display:inline;opacity:0.79775277;fill:#0e5500;fill-opacity:1;fill-rule:nonzero;stroke:none;enable-background:new"
+         id="rect6780-3-7-8-6-0-5"
+         width="2.1352713"
+         height="5.8737106"
+         x="557.14404"
+         y="1116.7533"
+         inkscape:label="#mesh"
+         transform="rotate(-79.56096)"
+         inkscape:transform-center-y="5.8469698e-06"
+         inkscape:transform-center-x="-0.00027569727">
+        <desc
+           id="desc6778-0-6-8-4-6-1">template = concrete_barrier;</desc>
+      </rect>
+      <rect
+         style="display:inline;opacity:0.79775277;fill:#0e5500;fill-opacity:1;fill-rule:nonzero;stroke:none;enable-background:new"
+         id="rect6780-3-7-8-6-0-6"
+         width="2.1352713"
+         height="5.8737106"
+         x="557.14404"
+         y="1122.627"
+         inkscape:label="#mesh"
+         transform="rotate(-79.56096)"
+         inkscape:transform-center-y="5.8469698e-06"
+         inkscape:transform-center-x="-0.00027569727">
+        <desc
+           id="desc6778-0-6-8-4-6-6">template = concrete_barrier;</desc>
+      </rect>
+      <rect
+         style="display:inline;opacity:0.79775277;fill:#0e5500;fill-opacity:1;fill-rule:nonzero;stroke:none;enable-background:new"
+         id="rect6780-3-7-8-6-0-8"
+         width="2.1352713"
+         height="5.8737106"
+         x="557.14404"
+         y="1128.5006"
+         inkscape:label="#mesh"
+         transform="rotate(-79.56096)"
+         inkscape:transform-center-y="5.8469698e-06"
+         inkscape:transform-center-x="-0.00027569727">
+        <desc
+           id="desc6778-0-6-8-4-6-4">template = concrete_barrier;</desc>
+      </rect>
+      <rect
+         style="display:inline;opacity:0.79775277;fill:#0e5500;fill-opacity:1;fill-rule:nonzero;stroke:none;enable-background:new"
+         id="rect6780-3-7-8-6-0-0"
+         width="2.1352713"
+         height="5.8737106"
+         x="557.14404"
+         y="1216.6055"
+         inkscape:label="#mesh"
+         transform="rotate(-79.56096)"
+         inkscape:transform-center-y="5.8469698e-06"
+         inkscape:transform-center-x="-0.00027569727">
+        <desc
+           id="desc6778-0-6-8-4-6-43">template = concrete_barrier;</desc>
+      </rect>
+      <rect
+         style="display:inline;opacity:0.79775277;fill:#0e5500;fill-opacity:1;fill-rule:nonzero;stroke:none;enable-background:new"
+         id="rect6780-3-7-8-6-0-02"
+         width="2.1352713"
+         height="5.8737106"
+         x="557.14404"
+         y="1234.2264"
+         inkscape:label="#mesh"
+         transform="rotate(-79.56096)"
+         inkscape:transform-center-y="5.8469698e-06"
+         inkscape:transform-center-x="-0.00027569727">
+        <desc
+           id="desc6778-0-6-8-4-6-2">template = concrete_barrier;</desc>
+      </rect>
+      <rect
+         style="display:inline;opacity:0.79775277;fill:#0e5500;fill-opacity:1;fill-rule:nonzero;stroke:none;enable-background:new"
+         id="rect6780-3-7-8-6-0-50"
+         width="2.1352713"
+         height="5.8737106"
+         x="557.14404"
+         y="1222.4791"
+         inkscape:label="#mesh"
+         transform="rotate(-79.56096)"
+         inkscape:transform-center-y="5.8469698e-06"
+         inkscape:transform-center-x="-0.00027569727">
+        <desc
+           id="desc6778-0-6-8-4-6-7">template = concrete_barrier;</desc>
+      </rect>
+      <rect
+         style="display:inline;opacity:0.79775277;fill:#0e5500;fill-opacity:1;fill-rule:nonzero;stroke:none;enable-background:new"
+         id="rect6780-3-7-8-6-0-9"
+         width="2.1352713"
+         height="5.8737106"
+         x="557.14404"
+         y="1228.3528"
+         inkscape:label="#mesh"
+         transform="rotate(-79.56096)"
+         inkscape:transform-center-y="5.8469698e-06"
+         inkscape:transform-center-x="-0.00027569727">
+        <desc
+           id="desc6778-0-6-8-4-6-0">template = concrete_barrier;</desc>
+      </rect>
+      <rect
+         style="display:inline;opacity:0.79775277;fill:#0e5500;fill-opacity:1;fill-rule:nonzero;stroke:none;enable-background:new"
+         id="rect6780-3-7-8-6-0-53"
+         width="2.1352713"
+         height="5.8737106"
+         x="557.14404"
+         y="1134.3743"
+         inkscape:label="#mesh"
+         transform="rotate(-79.56096)"
+         inkscape:transform-center-y="5.8469698e-06"
+         inkscape:transform-center-x="-0.00027569727">
+        <desc
+           id="desc6778-0-6-8-4-6-05">template = concrete_barrier;</desc>
+      </rect>
+      <rect
+         style="display:inline;opacity:0.79775277;fill:#0e5500;fill-opacity:1;fill-rule:nonzero;stroke:none;enable-background:new"
+         id="rect6780-3-7-8-6-0-2"
+         width="2.1352713"
+         height="5.8737106"
+         x="557.14404"
+         y="1140.2479"
+         inkscape:label="#mesh"
+         transform="rotate(-79.56096)"
+         inkscape:transform-center-y="5.8469698e-06"
+         inkscape:transform-center-x="-0.00027569727">
+        <desc
+           id="desc6778-0-6-8-4-6-45">template = concrete_barrier;</desc>
+      </rect>
+      <rect
+         style="display:inline;opacity:0.79775277;fill:#0e5500;fill-opacity:1;fill-rule:nonzero;stroke:none;enable-background:new"
+         id="rect6780-3-7-8-6-0-51"
+         width="2.1352713"
+         height="5.8737106"
+         x="557.14404"
+         y="1146.1216"
+         inkscape:label="#mesh"
+         transform="rotate(-79.56096)"
+         inkscape:transform-center-y="5.8469698e-06"
+         inkscape:transform-center-x="-0.00027569727">
+        <desc
+           id="desc6778-0-6-8-4-6-23">template = concrete_barrier;</desc>
+      </rect>
+      <rect
+         style="display:inline;opacity:0.79775277;fill:#0e5500;fill-opacity:1;fill-rule:nonzero;stroke:none;enable-background:new"
+         id="rect6780-3-7-8-6-0-04"
+         width="2.1352713"
+         height="5.8737106"
+         x="557.14404"
+         y="1151.9952"
+         inkscape:label="#mesh"
+         transform="rotate(-79.56096)"
+         inkscape:transform-center-y="5.8469698e-06"
+         inkscape:transform-center-x="-0.00027569727">
+        <desc
+           id="desc6778-0-6-8-4-6-24">template = concrete_barrier;</desc>
+      </rect>
+      <rect
+         style="display:inline;opacity:0.79775277;fill:#0e5500;fill-opacity:1;fill-rule:nonzero;stroke:none;enable-background:new"
+         id="rect6780-3-7-8-6-0-32"
+         width="2.1352713"
+         height="5.8737106"
+         x="557.14404"
+         y="1204.8582"
+         inkscape:label="#mesh"
+         transform="rotate(-79.56096)"
+         inkscape:transform-center-y="5.8469698e-06"
+         inkscape:transform-center-x="-0.00027569727">
+        <desc
+           id="desc6778-0-6-8-4-6-3">template = concrete_barrier;</desc>
+      </rect>
+      <rect
+         style="display:inline;opacity:0.79775277;fill:#0e5500;fill-opacity:1;fill-rule:nonzero;stroke:none;enable-background:new"
+         id="rect6780-3-7-8-6-0-33"
+         width="2.1352713"
+         height="5.8737106"
+         x="557.14404"
+         y="1210.7318"
+         inkscape:label="#mesh"
+         transform="rotate(-79.56096)"
+         inkscape:transform-center-y="5.8469698e-06"
+         inkscape:transform-center-x="-0.00027569727">
+        <desc
+           id="desc6778-0-6-8-4-6-9">template = concrete_barrier;</desc>
+      </rect>
+      <rect
+         style="display:inline;opacity:0.79775277;fill:#0e5500;fill-opacity:1;fill-rule:nonzero;stroke:none;enable-background:new"
+         id="rect6780-3-7-8-6-0-26"
+         width="2.1352713"
+         height="5.8737106"
+         x="557.14404"
+         y="1198.9845"
+         inkscape:label="#mesh"
+         transform="rotate(-79.56096)"
+         inkscape:transform-center-y="5.8469698e-06"
+         inkscape:transform-center-x="-0.00027569727">
+        <desc
+           id="desc6778-0-6-8-4-6-27">template = concrete_barrier;</desc>
+      </rect>
+      <rect
+         style="display:inline;opacity:0.79775277;fill:#0e5500;fill-opacity:1;fill-rule:nonzero;stroke:none;enable-background:new"
+         id="rect6780-3-7-8-6-0-90"
+         width="2.1352713"
+         height="5.8737106"
+         x="557.14404"
+         y="1193.1108"
+         inkscape:label="#mesh"
+         transform="rotate(-79.56096)"
+         inkscape:transform-center-y="5.8469698e-06"
+         inkscape:transform-center-x="-0.00027569727">
+        <desc
+           id="desc6778-0-6-8-4-6-5">template = concrete_barrier;</desc>
+      </rect>
+      <rect
+         style="display:inline;opacity:0.79775277;fill:#0e5500;fill-opacity:1;fill-rule:nonzero;stroke:none;enable-background:new"
+         id="rect6780-3-7-8-6-0-7"
+         width="2.1352713"
+         height="5.8737106"
+         x="557.14404"
+         y="1187.2372"
+         inkscape:label="#mesh"
+         transform="rotate(-79.56096)"
+         inkscape:transform-center-y="5.8469698e-06"
+         inkscape:transform-center-x="-0.00027569727">
+        <desc
+           id="desc6778-0-6-8-4-6-74">template = concrete_barrier;</desc>
+      </rect>
+      <rect
+         style="display:inline;opacity:0.79775277;fill:#0e5500;fill-opacity:1;fill-rule:nonzero;stroke:none;enable-background:new"
+         id="rect6780-3-7-8-6-0-65"
+         width="2.1352713"
+         height="5.8737106"
+         x="557.14404"
+         y="1157.8689"
+         inkscape:label="#mesh"
+         transform="rotate(-79.56096)"
+         inkscape:transform-center-y="5.8469698e-06"
+         inkscape:transform-center-x="-0.00027569727">
+        <desc
+           id="desc6778-0-6-8-4-6-58">template = concrete_barrier;</desc>
+      </rect>
+      <rect
+         style="display:inline;opacity:0.79775277;fill:#0e5500;fill-opacity:1;fill-rule:nonzero;stroke:none;enable-background:new"
+         id="rect6780-3-7-8-6-0-25"
+         width="2.1352713"
+         height="5.8737106"
+         x="557.14404"
+         y="1181.3635"
+         inkscape:label="#mesh"
+         transform="rotate(-79.56096)"
+         inkscape:transform-center-y="5.8469698e-06"
+         inkscape:transform-center-x="-0.00027569727">
+        <desc
+           id="desc6778-0-6-8-4-6-09">template = concrete_barrier;</desc>
+      </rect>
+      <rect
+         style="display:inline;opacity:0.79775277;fill:#0e5500;fill-opacity:1;fill-rule:nonzero;stroke:none;enable-background:new"
+         id="rect6780-3-7-8-6-0-08"
+         width="2.1352713"
+         height="5.8737106"
+         x="557.14404"
+         y="1175.4899"
+         inkscape:label="#mesh"
+         transform="rotate(-79.56096)"
+         inkscape:transform-center-y="5.8469698e-06"
+         inkscape:transform-center-x="-0.00027569727">
+        <desc
+           id="desc6778-0-6-8-4-6-59">template = concrete_barrier;</desc>
+      </rect>
+      <rect
+         style="display:inline;opacity:0.79775277;fill:#0e5500;fill-opacity:1;fill-rule:nonzero;stroke:none;enable-background:new"
+         id="rect6780-3-7-8-6-0-79"
+         width="2.1352713"
+         height="5.8737106"
+         x="557.14404"
+         y="1169.6162"
+         inkscape:label="#mesh"
+         transform="rotate(-79.56096)"
+         inkscape:transform-center-y="5.8469698e-06"
+         inkscape:transform-center-x="-0.00027569727">
+        <desc
+           id="desc6778-0-6-8-4-6-679">template = concrete_barrier;</desc>
+      </rect>
+      <rect
+         style="display:inline;opacity:0.79775277;fill:#0e5500;fill-opacity:1;fill-rule:nonzero;stroke:none;enable-background:new"
+         id="rect6780-3-7-8-6-0-4"
+         width="2.1352713"
+         height="5.8737106"
+         x="557.14404"
+         y="1163.7426"
+         inkscape:label="#mesh"
+         transform="rotate(-79.56096)"
+         inkscape:transform-center-y="5.8469698e-06"
+         inkscape:transform-center-x="-0.00027569727">
+        <desc
+           id="desc6778-0-6-8-4-6-22">template = concrete_barrier;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:#b4754b;stroke-width:1.182742;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:new"
+         id="rect40641-5"
+         width="42"
+         height="42"
+         x="-1249.0476"
+         y="-788.37585"
+         inkscape:label="#mesh"
+         transform="rotate(142.65843)">
+        <desc
+           id="desc40643-5">template = warehouse;</desc>
+      </rect>
+      <rect
+         style="display:inline;opacity:0.79775277;fill:#0e5500;fill-opacity:1;fill-rule:nonzero;stroke:none;enable-background:new"
+         id="rect6780-3-7-8-6-0-02-7"
+         width="2.1352713"
+         height="5.8737106"
+         x="557.14404"
+         y="1240.1001"
+         inkscape:label="#mesh"
+         transform="rotate(-79.56096)"
+         inkscape:transform-center-y="5.8469698e-06"
+         inkscape:transform-center-x="-0.00027569727">
+        <desc
+           id="desc6778-0-6-8-4-6-2-5">template = concrete_barrier;</desc>
+      </rect>
+      <rect
+         style="display:inline;opacity:0.79775277;fill:#0e5500;fill-opacity:1;fill-rule:nonzero;stroke:none;enable-background:new"
+         id="rect6780-3-7-8-6-0-02-0"
+         width="2.1352713"
+         height="5.8737106"
+         x="557.14404"
+         y="1245.9738"
+         inkscape:label="#mesh"
+         transform="rotate(-79.56096)"
+         inkscape:transform-center-y="5.8469698e-06"
+         inkscape:transform-center-x="-0.00027569727">
+        <desc
+           id="desc6778-0-6-8-4-6-2-7">template = concrete_barrier;</desc>
+      </rect>
     </g>
     <g
        style="display:inline;opacity:0.44900004"
@@ -29738,7 +30108,20 @@ merge = 1;</desc>
        style="display:inline"
        inkscape:label="decals"
        id="layer6"
-       inkscape:groupmode="layer" />
+       inkscape:groupmode="layer">
+      <rect
+         inkscape:label="#rect5943"
+         y="1478.1475"
+         x="618.70966"
+         height="64"
+         width="36"
+         id="decal_tennis_court-1-2"
+         style="display:inline;fill:#0de300;fill-opacity:1;fill-rule:evenodd;stroke:none;enable-background:new"
+         transform="rotate(-38.323906)">
+        <desc
+           id="desc6971-7-4">template = tennis_court;</desc>
+      </rect>
+    </g>
     <g
        inkscape:label="spawnpoints"
        id="layer33"
@@ -29746,8 +30129,8 @@ merge = 1;</desc>
        style="display:inline">
       <rect
          inkscape:label="#spawnrect10748"
-         y="777.59381"
-         x="1362.5649"
+         y="740.87506"
+         x="1301.2368"
          height="2.0679491"
          width="2.2977724"
          id="rect10748-1-0-1-7-76-86-1-8-76-9-4-7-6"
