@@ -15,7 +15,7 @@
    height="2048"
    id="svg2"
    version="1.1"
-   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
    sodipodi:docname="objects.svg"
    inkscape:export-filename="D:\DEVELOPMENT\Running with rifles TEST\media\packages\vanilla\maps\map1\zones.png"
    inkscape:export-xdpi="90"
@@ -30,11 +30,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.6203867"
-     inkscape:cx="573.83701"
-     inkscape:cy="380.07706"
+     inkscape:zoom="5.12"
+     inkscape:cx="1377.215"
+     inkscape:cy="1311.4207"
      inkscape:document-units="px"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer16"
      showgrid="true"
      inkscape:window-width="1673"
      inkscape:window-height="921"
@@ -18500,7 +18500,8 @@ separator_depth = 0.0;</desc>
      inkscape:groupmode="layer"
      id="layer45"
      inkscape:label="alpha_dirtroad"
-     style="display:none">
+     style="display:none"
+     sodipodi:insensitive="true">
     <path
        inkscape:label="#path1133"
        sodipodi:nodetypes="cccc"
@@ -18899,7 +18900,8 @@ separator_depth = 0.0;</desc>
      style="display:inline"
      inkscape:label="offroad"
      id="layer36"
-     inkscape:groupmode="layer">
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true">
     <path
        inkscape:label="#path1133"
        sodipodi:nodetypes="ccccccccccccc"
@@ -19027,7 +19029,8 @@ separator_depth = 0.0;</desc>
      style="display:inline"
      inkscape:label="map_view_decoration"
      id="layer38"
-     inkscape:groupmode="layer">
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true">
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;opacity:0.7;fill:#ffffff;fill-opacity:1;stroke:none;filter:url(#filter4081-1-5-4-8-0);enable-background:new"
@@ -20380,6 +20383,31 @@ separator_depth = 0.0;</desc>
         <desc
            id="desc9788-45-3-6-1-6-7-2-09-4-7-2-82-2-4-4-2-4-7-5-1-5-4-3-6-7-2-6">type = vehicle; key = deco_pickup_khaki.vehicle;</desc>
       </rect>
+      <g
+         transform="translate(3.486536e-5,-2.3765211e-5)"
+         style="display:inline;enable-background:new"
+         id="g7961">
+        <path
+           style="display:inline;fill:none;stroke:#800000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new"
+           d="m 1438.9791,834.39203 22.3695,2.13283 8.3751,-3.01265 3.6784,-5.94296 2.1997,-11.12657 0.4319,-12.65282 -11.7231,-14.76123 -21.5293,-27.30601 -23.6811,-30.23999 -24.0662,-30.13986 -12.5217,-15.68982 -17.126,-9.25086 -11.3889,-3.61008 -13.6441,11.05568 0.961,12.63821 4.7398,14.77865 -1.018,4.12246"
+           id="path7943-7-4-7-5-5-4-7"
+           inkscape:connector-curvature="0"
+           inkscape:label="#path7943_platform"
+           sodipodi:nodetypes="ccccccccccccccccc">
+          <desc
+             id="desc7945-4-0-2-6-8-7-4">type = end; height = 0.0; base_wall_template = InvisibleWall; wall_template = DummyWall1; wall_height = 0.0; top_material = none; wall_merge = 1; no_collision_side2; no_collision_side1; #no_collision_start; #no_collision_end;</desc>
+        </path>
+        <path
+           style="display:inline;fill:none;stroke:#0050ff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new"
+           d="m 1431.8279,826.01783 -17.1463,-21.87177 -6.1241,-7.34015 -4.0548,-5.4662 -4.9295,-5.41888 -3.8706,-4.18122 -3.981,-4.77093 -3.1425,-3.9336 -4.0118,-4.68128 -3.3109,-3.99593 -2.7705,-3.75355 -1.4791,-1.83406 -1.4905,-1.84682 -2.2014,-2.92865 -2.9191,-4.82244 -5.1903,-7.39414 -13.7456,-17.60005"
+           id="path7943-1-0-1-5-0-4-2-0"
+           inkscape:connector-curvature="0"
+           inkscape:label="#path7943_platform"
+           sodipodi:nodetypes="ccccccccccccccccc">
+          <desc
+             id="desc7945-3-9-7-6-96-0-1-94">type = start; mode = dock;</desc>
+        </path>
+      </g>
     </g>
     <g
        transform="translate(0,1024)"
@@ -29718,8 +29746,8 @@ merge = 1;</desc>
        style="display:inline">
       <rect
          inkscape:label="#spawnrect10748"
-         y="873.49225"
-         x="1202.604"
+         y="777.59381"
+         x="1362.5649"
          height="2.0679491"
          width="2.2977724"
          id="rect10748-1-0-1-7-76-86-1-8-76-9-4-7-6"
