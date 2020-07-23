@@ -23,6 +23,7 @@ To test the map:
 1. Start RWR and launch a quickmatch using map *Muttrah District* or directly from the command line (examples below)
     * PC: ```<RWR_install_folder>\rwr_game.exe no_ai debugmode verbose map=media\packages\_muttrah_map_project\maps\map18```
     * MAC: ```/Users/<username>/Library/Application\ Support/Steam/SteamApps/common/RunningWithRifles/RunningWithRifles.app/Contents/MacOS/RunningWithRifles debugmode verbose map=media/packages/_muttrah_map_project/maps/map18```
+    * Cross-platform (if python>=3.6): run `quickstart.py` from the root of the local repo directory tree
 
 ## Work Sectors
 
@@ -33,7 +34,7 @@ Note: *Sector names are subject to change, whilst work is ongoing, pending sugge
 | FORT | [ComradeCheekiBreeki](https://github.com/ComradeCheekiBreeki) |
 | SUBURBS | [Robert Augustus](https://github.com/RobertAugustus) |
 | WALL | [Robert Augustus](https://github.com/RobertAugustus) |
-| SOUTH EAST CITY DISTRICT | *pending* |
+| SOUTH EAST CITY DISTRICT | [Robert Augustus](https://github.com/RobertAugustus) |
 | MOSQUE | *pending* |
 | BASTION | *pending* |
 | WEST CITY DISTRICT | *pending* |
