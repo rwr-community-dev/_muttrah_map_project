@@ -20,7 +20,9 @@ To test the map:
 1. Change into your \<RWR install directory\>/media/packages/ and clone this repository.
     * ```git clone https://github.com/rwr-community-dev/_muttrah_map_project.git```
     * Alternatively, download this repository as a zip archive and extract into the folder.
-1. Start RWR and launch a quickmatch using map *Muttrah District*
+1. Start RWR and launch a quickmatch using map *Muttrah District* or directly from the command line (examples below)
+    * PC: ```<RWR_install_folder>\rwr_game.exe no_ai debugmode verbose map=media\packages\_muttrah_map_project\maps\map18```
+    * MAC: ```/Users/<username>/Library/Application\ Support/Steam/SteamApps/common/RunningWithRifles/RunningWithRifles.app/Contents/MacOS/RunningWithRifles debugmode verbose map=media/packages/_muttrah_map_project/maps/map18```
 
 ## Work Sectors
 
