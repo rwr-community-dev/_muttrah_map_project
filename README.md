@@ -38,7 +38,7 @@ Note: *Sector names are subject to change, whilst work is ongoing, pending sugge
 | MOSQUE | *pending* |
 | BASTION | *pending* |
 | WEST CITY DISTRICT | *pending* |
-| RESIDENTIAL | *pending* |
+| RESIDENTIAL | [anoshi](https://github.com/anoshi) |
 | CRANE | [anoshi](https://github.com/anoshi) |
 | CENTRAL CITY SQUARE | *pending* |
 | NORTH CITY DISTRICT | *pending* |
