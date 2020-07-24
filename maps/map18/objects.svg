@@ -31,10 +31,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="7.2407734"
-     inkscape:cx="1374.1019"
-     inkscape:cy="1167.8892"
+     inkscape:cx="1349.1444"
+     inkscape:cy="1153.3611"
      inkscape:document-units="px"
-     inkscape:current-layer="layer12"
+     inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:window-width="1673"
      inkscape:window-height="921"
@@ -179,6 +179,26 @@
        position="1132.3468,1262.4736"
        orientation="-0.97120152,-0.23825952"
        id="guide7357"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1440.8501,1147.0844"
+       orientation="-1.7651626,-1.3952423"
+       id="guide7132"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1439.4549,1148.8495"
+       orientation="3.7206462,-4.7071001"
+       id="guide7134"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1434.7478,1145.1289"
+       orientation="1.7651626,1.3952423"
+       id="guide7136"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1487.5713,1152.724"
+       orientation="-3.7206462,4.7071001"
+       id="guide7138"
        inkscape:locked="false" />
   </sodipodi:namedview>
   <defs
@@ -20127,7 +20147,7 @@ separator_depth = 0.0;</desc>
            inkscape:label="#path47539_platform"
            inkscape:connector-curvature="0"
            id="path47539-4"
-           d="m 2176.5068,1344.2172 -60.6673,-29.0028 -67.3327,-35.3917 -127.8028,-61.5346 -60.7457,-22.0894 -67.057,-16.567 -63.9014,-7.1002 h -64.4931 l -64.0986,11.8336 -65.4792,27.6117 -62.3236,41.0231 -62.3236,22.8783 -65.4792,14.9892 -63.9013,6.3113 -64.6903,-3.1556 -63.1125,-8.678 -66.2681,-18.9338 -63.1125,-26.0339 -56.01231,-33.134 -57.5902,-50.49 -52.0678,-65.4792 -44.1787,-59.9569 -36.64496,-59.67889 -18.57844,-30.25631 18.9337,-29.9785 32.3452,-16.567 24.73179,-18.54879 19.81037,-18.76323 13.83684,-13.17798 24.4561,-38.6564 19.7226,-44.1787 28.4007,-9.4669 26.0339,14.2003 6.3112,23.6672 40.22191,28.23131 31.5686,20.68089 74.946,-0.7889 80.4684,111.2357 -55.2514,41.5974 -1.0282,21.0701 12.4475,14.806 20.1698,3.777 69.2234,-51.4813 41.7484,-31.0482 -102.7638,-140.3877 6.9383,-25.8076 21.5329,-15.9463 27.9346,0.6696 150.896,199.4381 95.4576,-70.607 -48.3744,-60.81967"
+           d="m 2176.5068,1344.2172 -60.6673,-29.0028 -67.3327,-35.3917 -127.8028,-61.5346 -60.7457,-22.0894 -67.057,-16.567 -63.9014,-7.1002 h -64.4931 l -64.0986,11.8336 -65.4792,27.6117 -62.3236,41.0231 -62.3236,22.8783 -65.4792,14.9892 -63.9013,6.3113 -64.6903,-3.1556 -63.1125,-8.678 -66.2681,-18.9338 -63.1125,-26.0339 -56.01231,-33.134 -57.5902,-50.49 -52.0678,-65.4792 -44.1787,-59.9569 -36.64496,-59.67889 -18.57844,-30.25631 18.9337,-29.9785 32.3452,-16.567 24.73179,-18.54879 19.81037,-18.76323 13.83684,-13.17798 24.4561,-38.6564 19.7226,-44.1787 28.4007,-9.4669 26.0339,14.2003 6.3112,23.6672 40.22191,28.23131 31.5686,20.68089 74.946,-0.7889 80.4684,111.2357 -55.2514,41.5974 -1.0282,21.0701 12.4475,14.806 20.1698,3.777 69.2234,-51.4813 41.7484,-31.0482 -102.7638,-140.3877 6.9383,-25.8076 21.5329,-15.9463 27.9346,0.6696 152.6384,202.70766 93.7152,-73.87656 -48.3744,-60.81967"
            style="fill:none;stroke:#ff0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1">
           <desc
              id="desc47541-0">type = end; mode = deck; height = 0; wall_template = BrickWall1; wall_height = 0; top_material = terrain; #separator_height = 1; no_collision_side1; no_collision_side2; wall_merge = 1;</desc>
@@ -27348,10 +27368,22 @@ separator_depth = 0.0;</desc>
         <desc
            id="desc6778-0-6-8-4-6-2-7">template = concrete_barrier;</desc>
       </rect>
+      <rect
+         inkscape:label="#rect27316"
+         y="1148.2848"
+         x="736.95685"
+         height="20.012695"
+         width="16.14875"
+         id="buildingrect27316"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.5;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.00000024;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:new"
+         transform="rotate(-62.820603)">
+        <desc
+           id="desc27356">height=10; material = BuildingWhite3; offset = 0 -0.05 0; roof_type = flat;</desc>
+      </rect>
       <path
          inkscape:connector-curvature="0"
          id="rect17455"
-         d="m 1374.3444,-140.6995 -7.2192,-9.31525 1.0584,-0.3113 -4.851,-16.48784 -11.9922,3.52906 4.119,13.99363 -5.3801,4.16949 11.2463,14.51162 z"
+         d="m 1461.049,-56.303225 -7.2192,-9.31525 1.0584,-0.3113 -4.851,-16.48784 -11.9922,3.52906 4.119,13.99363 -5.3801,4.16949 11.2463,14.51162 z"
          style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.00000024;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:new">
         <desc
            id="desc17464">height=6; material = BuildingWhite1; offset = 0 0 0;</desc>
@@ -27359,16 +27391,16 @@ separator_depth = 0.0;</desc>
       <path
          inkscape:connector-curvature="0"
          id="rect17466"
-         d="m 1406.2802,-134.97216 -9.204,-11.87636 -6.805,5.27379 -12.7713,-6.38137 -10.1346,20.28332 15.8793,7.93374 3.7775,-7.56072 3.5115,4.53098 15.7466,-12.20339 z"
+         d="m 1495.8399,-85.59574 -9.204,-11.87636 -6.805,5.27379 -12.7713,-6.38137 -10.1346,20.28332 15.8793,7.93374 3.7775,-7.56072 3.5115,4.53098 15.7466,-12.20339 z"
          style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.00000024;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:new">
         <desc
            id="desc17475">height=4; material = BuildingWhite1; offset = 0 -0.2 0;</desc>
       </path>
       <rect
-         transform="rotate(71.923084)"
+         transform="rotate(-38.38889)"
          inkscape:label="#mesh"
-         y="-1351.5786"
-         x="270.88626"
+         y="720.29694"
+         x="1147.1023"
          height="2.25"
          width="6"
          id="mesh8-4-4-8-4"
@@ -27381,7 +27413,7 @@ separator_depth = 0.0;</desc>
          inkscape:label="#path8894"
          inkscape:connector-curvature="0"
          id="wallpath8894-6-0"
-         d="m 1378.092,-146.17685 12.2777,6.13254 6.4013,-5.00781 7.9878,10.21404"
+         d="m 1380.9094,-97.958534 12.2777,6.13254 6.4013,-5.00781 7.9878,10.21404"
          style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#0000c7;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:new">
         <desc
            id="desc8896-1-4">template = PlatformFence1;</desc>
@@ -27389,10 +27421,10 @@ separator_depth = 0.0;</desc>
       <rect
          transform="rotate(-38.38908)"
          inkscape:label="#rect27318"
-         y="725.05579"
-         x="1147.952"
-         height="18.359373"
-         width="16.471766"
+         y="724.06677"
+         x="1140.7483"
+         height="19.623411"
+         width="18.289562"
          id="buildingrect27318"
          style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.00000024;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:new">
         <desc
@@ -27401,10 +27433,10 @@ separator_depth = 0.0;</desc>
       <rect
          inkscape:label="#rect27310"
          transform="rotate(-17.009821)"
-         y="239.61996"
-         x="1339.6088"
-         height="17.187498"
-         width="12.499998"
+         y="236.52261"
+         x="1338.6174"
+         height="28.689854"
+         width="14.467738"
          id="buildingrect27310"
          style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.00000024;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:new">
         <desc
@@ -27413,10 +27445,10 @@ separator_depth = 0.0;</desc>
       <rect
          inkscape:label="#rect27316"
          transform="rotate(-64.065079)"
-         y="1174.1115"
-         x="712.56543"
-         height="17.751438"
-         width="22.674297"
+         y="1178.3026"
+         x="707.38629"
+         height="20.532379"
+         width="26.320229"
          id="buildingrect27316-9"
          style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.00000024;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:new">
         <desc
@@ -27425,14 +27457,50 @@ separator_depth = 0.0;</desc>
       <rect
          transform="rotate(-38.38908)"
          inkscape:label="#rect27314"
-         y="752.47961"
-         x="1166.2352"
-         height="15.02619"
-         width="19.921873"
+         y="761.15692"
+         x="1156.547"
+         height="18.642403"
+         width="26.042955"
          id="buildingrect27314"
          style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.00000024;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:new">
         <desc
            id="desc27354">height=4; material = BuildingWhite1; offset = 0 +0.2 0;</desc>
+      </rect>
+      <rect
+         transform="rotate(141.676)"
+         inkscape:label="#mesh"
+         y="-796.92053"
+         x="-1203.6965"
+         height="2.25"
+         width="6"
+         id="mesh8-4-4-8-4-1"
+         style="display:inline;opacity:0.79775277;fill:#552200;fill-opacity:1;fill-rule:nonzero;stroke:none;enable-background:new">
+        <desc
+           id="desc8739-3-3-8-0-0-9-1-6-2-1-0-6-0-4">template = enclosure;</desc>
+      </rect>
+      <rect
+         transform="rotate(141.676)"
+         inkscape:label="#mesh"
+         y="-796.92053"
+         x="-1220.7874"
+         height="2.25"
+         width="6"
+         id="mesh8-4-4-8-4-1-2"
+         style="display:inline;opacity:0.79775277;fill:#552200;fill-opacity:1;fill-rule:nonzero;stroke:none;enable-background:new">
+        <desc
+           id="desc8739-3-3-8-0-0-9-1-6-2-1-0-6-0-4-8">template = enclosure;</desc>
+      </rect>
+      <rect
+         transform="rotate(141.676)"
+         inkscape:label="#mesh"
+         y="-796.92053"
+         x="-1237.3715"
+         height="2.25"
+         width="6"
+         id="mesh8-4-4-8-4-1-4"
+         style="display:inline;opacity:0.79775277;fill:#552200;fill-opacity:1;fill-rule:nonzero;stroke:none;enable-background:new">
+        <desc
+           id="desc8739-3-3-8-0-0-9-1-6-2-1-0-6-0-4-0">template = enclosure;</desc>
       </rect>
     </g>
     <g
@@ -27479,7 +27547,7 @@ merge = 1;</desc>
       <path
          inkscape:label=""
          id="wall10576-5"
-         d="m 1440.5029,836.21232 47.1626,58.99409 -95.168,70.31741 -75.3544,-99.74026 -75.7588,-99.59545 -28.339,-0.45241 -21.5329,15.9463 -7.0656,25.77761 51.5267,70.19385 51.2371,70.12145 -55.1714,41.26475 -55.4859,41.26474 -19.889,-3.6834 -12.3027,-14.8784 1.271,-20.6825 55.3238,-41.88699 -80.992,-111.64449 -75.0184,1.07849 -27.5503,-18.1215"
+         d="m 1440.5029,836.21232 47.1626,58.99409 -93.7179,73.97724 -76.8045,-103.40009 -75.7588,-99.59545 -28.339,-0.45241 -21.5329,15.9463 -7.0656,25.77761 51.5267,70.19385 51.2371,70.12145 -55.1714,41.26475 -55.4859,41.26474 -19.889,-3.6834 -12.3027,-14.8784 1.271,-20.6825 55.3238,-41.88699 -80.992,-111.64449 -75.0184,1.07849 -27.5503,-18.1215"
          style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:new"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="ccccccccccccccccccc">
@@ -30245,8 +30313,8 @@ merge = 1;</desc>
        style="display:inline">
       <rect
          inkscape:label="#spawnrect10748"
-         y="740.87506"
-         x="1301.2368"
+         y="860.96259"
+         x="1356.2092"
          height="2.0679491"
          width="2.2977724"
          id="rect10748-1-0-1-7-76-86-1-8-76-9-4-7-6"
@@ -30597,24 +30665,12 @@ merge = 1;</desc>
            id="desc14014-76-0">name = contruction_bricks; mesh_name = construction_bricks.mesh; texture0 = mortar_ammunition_crates.png; collision_model_type = 1; collision_model_size = 2.2 2 2.5; walkable = 1;</desc>
       </rect>
       <rect
-         inkscape:label="#rect27316"
-         transform="rotate(-63.595028)"
-         y="1613.7782"
-         x="-191.89398"
-         height="20.012695"
-         width="16.14875"
-         id="buildingrect27316"
-         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.00000024;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:new">
-        <desc
-           id="desc27356">height=4; material = BuildingWhite3; offset = 0 -0.05 0; roof_type = flat;</desc>
-      </rect>
-      <rect
          style="display:inline;fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:0.99999976;stroke-opacity:1;enable-background:new"
          id="buildingrect6406-7-4-1-3-8-0-12-2-311-1-5-0-61-7-4-4-7-34-85-77-3-0-5-34-37-15-02-6"
          width="4.347754"
          height="5.377337"
-         x="532.68677"
-         y="1524.386"
+         x="522.31018"
+         y="1522.5939"
          inkscape:label="#rect6406"
          transform="rotate(-37.78448)"
          ry="0">
