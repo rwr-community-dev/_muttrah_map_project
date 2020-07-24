@@ -30,9 +30,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="14.481547"
-     inkscape:cx="1357.0314"
-     inkscape:cy="1162.6746"
+     inkscape:zoom="5.12"
+     inkscape:cx="1162.5362"
+     inkscape:cy="1211.6945"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -18551,11 +18551,10 @@ separator_depth = 0.0;</desc>
        inkscape:connector-curvature="0" />
   </g>
   <g
-     style="display:none"
+     style="display:inline"
      inkscape:label="alpha_asphalt"
      id="layer34"
-     inkscape:groupmode="layer"
-     sodipodi:insensitive="true">
+     inkscape:groupmode="layer">
     <path
        style="fill:#cccccc;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 631.53125,986.875 -2.875,26.1875 L 622.5,1018 v 9.8125 l -28.65625,2.875 0.40625,9.4063 -119.1875,9.4374 -25.78125,3.6876 2.4375,28.25 -21.28125,6.1562 -2.46875,61.4062 22.9375,15.5626 26.625,-29.4688 16.78125,7.375 52.84375,-42.5938 61.03125,78.2188 19.25,-9.8438 16.375,-21.2812 14.75,-14.75 -4.9375,-5.7188 12.28125,-15.9687 8.21875,3.6875 11.875,-16.8125 8.59375,-16.7813 -11.46875,-22.5312 11.46875,-6.9688 -17.625,-29.0624 -14.3125,6.5312 -11.875,-20.875 L 643,1002.8438 646.6875,988.5 Z m -98.5,80.875 6.75,6.9688 -0.21875,8.4062 -61,37.875 -15.78125,-4.5 0.8125,-19.25 z"
@@ -18563,7 +18562,7 @@ separator_depth = 0.0;</desc>
        inkscape:connector-curvature="0" />
     <path
        style="fill:#cccccc;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 968.5787,789.44155 75.6963,51.68542 74.5499,-1.10568 79.0475,108.64237 -54.5932,41.24934 -1.2798,22.6347 13.4353,16.2217 21.6254,4.0178 113.4141,-84.47096 -103.3007,-141.2831 6.4133,-24.13837 20.29,-14.82119 26.2037,0.51193 151.924,200.3051 99.5766,-73.20831 -208.6514,-263.36295 18.8093,-78.52744 -100.1952,-21.17945 -42.8473,222.71976 -94.4766,24.09648 -52.9452,-34.37531 z"
+       d="m 968.5787,789.44155 75.6963,51.68542 74.5499,-1.10568 79.0475,108.64237 -54.5932,41.24934 -1.2798,22.6347 13.4353,16.2217 21.6254,4.0178 113.4141,-84.47096 -103.3007,-141.2831 6.4133,-24.13837 20.29,-14.82119 26.2037,0.51193 153.3051,204.65546 98.1955,-77.55867 -208.6514,-263.36295 18.8093,-78.52744 -100.1952,-21.17945 -42.8473,222.71976 -94.4766,24.09648 -52.9452,-34.37531 z"
        id="path4374"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccccccccccccccccccccc" />
@@ -19497,8 +19496,8 @@ separator_depth = 0.0;</desc>
       <rect
          transform="rotate(-35.88095)"
          inkscape:label="#ladder"
-         y="1598.3489"
-         x="592.53375"
+         y="1602.251"
+         x="591.33032"
          height="2.25"
          width="6"
          id="rect7651-13-5-8-6-4-4-7-3-9-0-3-2-0-9-1-1"
@@ -19506,8 +19505,8 @@ separator_depth = 0.0;</desc>
       <rect
          transform="rotate(-35.88095)"
          inkscape:label="#ladder"
-         y="1597.696"
-         x="651.31506"
+         y="1599.651"
+         x="652.36816"
          height="2.25"
          width="6"
          id="rect7651-13-5-8-6-4-4-7-3-9-0-3-2-0-9-1-1-5"
@@ -26758,7 +26757,7 @@ separator_depth = 0.0;</desc>
          style="display:inline;opacity:1;fill:#b4754b;fill-opacity:1;fill-rule:nonzero;stroke:#c98f69;stroke-width:2;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:new"
          transform="rotate(-126.2808)">
         <desc
-           id="desc9346-0-2-5">height=4; material =  BuildingWhite;</desc>
+           id="desc9346-0-2-5">height=4; material =  BuildingWhite2;</desc>
       </rect>
       <rect
          inkscape:label="#rect"
@@ -27464,7 +27463,7 @@ separator_depth = 0.0;</desc>
          id="buildingrect27314"
          style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.00000024;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:new">
         <desc
-           id="desc27354">height=4; material = BuildingWhite1; offset = 0 +0.2 0;</desc>
+           id="desc27354">height=4; material = BuildingWhite1; offset = 0 -0.05 0;</desc>
       </rect>
       <rect
          transform="rotate(141.676)"
@@ -27547,7 +27546,7 @@ merge = 1;</desc>
       <path
          inkscape:label=""
          id="wall10576-5"
-         d="m 1440.5029,836.21232 47.1626,58.99409 -93.7179,73.97724 -76.8045,-103.40009 -75.7588,-99.59545 -28.339,-0.45241 -21.5329,15.9463 -7.0656,25.77761 51.5267,70.19385 51.2371,70.12145 -55.1714,41.26475 -55.4859,41.26474 -19.889,-3.6834 -12.3027,-14.8784 1.271,-20.6825 55.3238,-41.88699 -80.992,-111.64449 -75.0184,1.07849 -27.5503,-18.1215"
+         d="m 1440.5029,836.21232 47.1626,58.99409 -93.7179,73.97724 -77.5369,-103.10712 -75.0264,-99.88842 -28.339,-0.45241 -21.5329,15.9463 -7.0656,25.77761 51.5267,70.19385 51.2371,70.12145 -55.1714,41.26475 -55.4859,41.26474 -19.889,-3.6834 -12.3027,-14.8784 1.271,-20.6825 55.3238,-41.88699 -80.992,-111.64449 -75.0184,1.07849 -27.5503,-18.1215"
          style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:new"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="ccccccccccccccccccc">
