@@ -30,11 +30,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.56"
-     inkscape:cx="998.61181"
-     inkscape:cy="1248.5238"
+     inkscape:zoom="10.24"
+     inkscape:cx="1185.9359"
+     inkscape:cy="1140.2317"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer14"
      showgrid="true"
      inkscape:window-width="1673"
      inkscape:window-height="921"
@@ -27895,6 +27895,354 @@ see_through =0;
 penetrability = 0.1;
 alpha_blend = 1;</desc>
       </rect>
+      <rect
+         style="display:inline;fill:#1c526a;fill-opacity:1;enable-background:new"
+         id="use9624-1-80-2-2-0-2"
+         width="4.5999999"
+         height="4.8000002"
+         x="-457.17978"
+         y="-990.14734"
+         inkscape:label="#mesh"
+         transform="rotate(90.26379)">
+        <desc
+           id="desc5775-4-9-9-1-0">template = rock_b4;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#1c526a;fill-opacity:1;enable-background:new"
+         id="use9624-1-80-2-2-2-2-7-4"
+         width="2"
+         height="3.4000001"
+         x="-451.86096"
+         y="-1114.439"
+         inkscape:label="#mesh"
+         transform="rotate(90.083247)">
+        <desc
+           id="desc5775-4-9-6-4-7">template = rock_s4;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#1c526a;fill-opacity:1;enable-background:new"
+         id="use9624-1-80-2-2-2-5-1-3"
+         width="3.5999999"
+         height="3.8"
+         x="-451.0303"
+         y="-1131.4576"
+         inkscape:label="#mesh"
+         transform="rotate(89.988868)">
+        <desc
+           id="desc5775-4-9-6-3-7-2">template = rock_s2;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#1c526a;fill-opacity:1;enable-background:new"
+         id="use9624-1-80-2-2-2-5-5-2-1"
+         width="5"
+         height="5.5999999"
+         x="-450.56277"
+         y="-1082.6924"
+         inkscape:label="#mesh"
+         transform="rotate(89.914104)">
+        <desc
+           id="desc5775-4-9-6-3-9-7-6">template = rock_,m2;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#1c526a;fill-opacity:1;enable-background:new"
+         id="use9624-1-80-2-2-2-5-5-7-4-7"
+         width="5"
+         height="7.1999998"
+         x="-447.9371"
+         y="-1096.8137"
+         inkscape:label="#mesh"
+         transform="rotate(89.771239)">
+        <desc
+           id="desc5775-4-9-6-3-9-0-2-4-9">template = rock_m1;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#1c526a;fill-opacity:1;enable-background:new"
+         id="use9624-50-2-2"
+         width="8"
+         height="10"
+         x="-461.39597"
+         y="-1040.3722"
+         inkscape:label="#mesh"
+         transform="rotate(90.347673)">
+        <desc
+           id="desc5775-4-9-61-1-3">template = rock_b1;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#1c526a;fill-opacity:1;enable-background:new"
+         id="mesh_template18-9-0-9-2-5-24-9"
+         width="10.486447"
+         height="10.68864"
+         x="-475.90427"
+         y="-923.67859"
+         inkscape:label="#mesh"
+         transform="rotate(90.043656)">
+        <desc
+           id="desc5775-4-5-9-5-9-2-55-2">template = rock_h1;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#1c526a;fill-opacity:1;enable-background:new"
+         id="mesh_template18-9-0-9-2-5-1-1-2"
+         width="10.486447"
+         height="10.68864"
+         x="-458.8779"
+         y="-923.83472"
+         inkscape:label="#mesh"
+         transform="rotate(90.043656)">
+        <desc
+           id="desc5775-4-5-9-5-9-2-95-1-1">template = rock_h3;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#1c526a;fill-opacity:1;enable-background:new"
+         id="use9624-18-1-4-1-1-0"
+         width="3.5"
+         height="5.4000001"
+         x="-450.8432"
+         y="-1141.3416"
+         inkscape:label="#mesh"
+         transform="rotate(90)">
+        <desc
+           id="desc5775-4-7-9-4-7-5">template = rock_s1;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#1c526a;fill-opacity:1;enable-background:new"
+         id="use9624-18-1-4-00-4-1"
+         width="3.5999999"
+         height="3.4000001"
+         x="-451.99799"
+         y="-1122.1115"
+         inkscape:label="#mesh"
+         transform="rotate(90)">
+        <desc
+           id="desc5775-4-7-9-9-0-6">template = rock_s3;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#1c526a;fill-opacity:1;enable-background:new"
+         id="use9624-18-1-4-0-4-9-4"
+         width="5"
+         height="5"
+         x="-452.69818"
+         y="-1070.569"
+         inkscape:label="#mesh"
+         transform="rotate(90)">
+        <desc
+           id="desc5775-4-7-9-2-80-4-5">template = rock_m3;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#1c526a;fill-opacity:1;enable-background:new"
+         id="use9624-18-1-4-0-7-8-5"
+         width="3.2"
+         height="4.1999998"
+         x="-451.10736"
+         y="-1058.8444"
+         inkscape:label="#mesh"
+         transform="rotate(90)">
+        <desc
+           id="desc5775-4-7-9-2-1-8-3">template = rock_m4;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#1c526a;fill-opacity:1;enable-background:new"
+         id="use9624-18-9-7-2-4"
+         width="6.4000001"
+         height="7.5999999"
+         x="-454.45892"
+         y="-1023.6725"
+         inkscape:label="#mesh"
+         transform="rotate(90)">
+        <desc
+           id="desc5775-4-5-6-4-1">template = rock_b2;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#1c526a;fill-opacity:1;enable-background:new"
+         id="use9624-18-9-7-7-5-2"
+         width="6.8000002"
+         height="6.5999999"
+         x="-454.65863"
+         y="-1007.8405"
+         inkscape:label="#mesh"
+         transform="rotate(90)">
+        <desc
+           id="desc5775-4-5-6-6-5-3">template = rock_b3;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#1c526a;fill-opacity:1;enable-background:new"
+         id="use9624-18-17-5-17-4"
+         width="2.603924"
+         height="2.7171383"
+         x="-450.99799"
+         y="-965.27411"
+         inkscape:label="#mesh"
+         transform="rotate(90)">
+        <desc
+           id="desc5775-4-4-1-1-9">template = stone_1;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#1c526a;fill-opacity:1;enable-background:new"
+         id="use9624-18-17-5-4-1-0"
+         width="2.603924"
+         height="2.7171383"
+         x="-451.09564"
+         y="-959.21942"
+         inkscape:label="#mesh"
+         transform="rotate(90)">
+        <desc
+           id="desc5775-4-4-1-3-5-3">template = stone_2;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#1c526a;fill-opacity:1;enable-background:new"
+         id="use9624-18-17-5-5-2-5"
+         width="2.603924"
+         height="2.7171383"
+         x="-450.99799"
+         y="-952.87177"
+         inkscape:label="#mesh"
+         transform="rotate(90)">
+        <desc
+           id="desc5775-4-4-1-0-7-5">template = stone_3;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#1c526a;fill-opacity:1;enable-background:new"
+         id="use9624-18-17-5-8-6-20"
+         width="2.603924"
+         height="2.7171383"
+         x="-450.99799"
+         y="-946.62177"
+         inkscape:label="#mesh"
+         transform="rotate(90)">
+        <desc
+           id="desc5775-4-4-1-09-1-9">template = stone_4;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#1c526a;fill-opacity:1;enable-background:new"
+         id="use9624-18-17-5-1-4-8"
+         width="2.603924"
+         height="2.7171383"
+         x="-450.99799"
+         y="-940.86005"
+         inkscape:label="#mesh"
+         transform="rotate(90)">
+        <desc
+           id="desc5775-4-4-1-30-2-8">template = stone_5;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#1c526a;fill-opacity:1;enable-background:new"
+         id="use9624-18-1-4-0-4-9-4-4"
+         width="5"
+         height="5"
+         x="91.433136"
+         y="-1076.5844"
+         inkscape:label="#mesh"
+         transform="rotate(73.11191)">
+        <desc
+           id="desc5775-4-7-9-2-80-4-5-0">template = rock_m3;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#1c526a;fill-opacity:1;enable-background:new"
+         id="use9624-18-1-4-0-4-9-4-6"
+         width="5"
+         height="5"
+         x="460.7305"
+         y="-953.13892"
+         inkscape:label="#mesh"
+         transform="rotate(53.329414)">
+        <desc
+           id="desc5775-4-7-9-2-80-4-5-5">template = rock_m3;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#1c526a;fill-opacity:1;enable-background:new"
+         id="use9624-18-1-4-1-1-0-4-1"
+         width="3.5"
+         height="5.4000001"
+         x="717.21021"
+         y="-784.59088"
+         inkscape:label="#mesh"
+         transform="rotate(36.388969)">
+        <desc
+           id="desc5775-4-7-9-4-7-5-2-8">template = rock_s1;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#1c526a;fill-opacity:1;enable-background:new"
+         id="use9624-18-1-4-1-1-0-4-2"
+         width="3.5"
+         height="5.4000001"
+         x="717.33344"
+         y="-799.36908"
+         inkscape:label="#mesh"
+         transform="rotate(36.388969)">
+        <desc
+           id="desc5775-4-7-9-4-7-5-2-6">template = rock_s1;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#1c526a;fill-opacity:1;enable-background:new"
+         id="use9624-18-1-4-0-4-9-4-6-8"
+         width="5"
+         height="5"
+         x="918.19818"
+         y="-541.76752"
+         inkscape:label="#mesh"
+         transform="rotate(19.061553)">
+        <desc
+           id="desc5775-4-7-9-2-80-4-5-5-4">template = rock_m3;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#1c526a;fill-opacity:1;enable-background:new"
+         id="use9624-18-1-4-1-1-0-1"
+         width="3.5"
+         height="5.4000001"
+         x="-880.25433"
+         y="-627.52191"
+         inkscape:label="#mesh"
+         transform="rotate(126.56367)">
+        <desc
+           id="desc5775-4-7-9-4-7-5-3">template = rock_s1;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#1c526a;fill-opacity:1;enable-background:new"
+         id="use9624-18-1-4-1-1-0-1-1"
+         width="3.5"
+         height="5.4000001"
+         x="-880.25433"
+         y="-632.92194"
+         inkscape:label="#mesh"
+         transform="rotate(126.56367)">
+        <desc
+           id="desc5775-4-7-9-4-7-5-3-0">template = rock_s1;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#1c526a;fill-opacity:1;enable-background:new"
+         id="use9624-18-1-4-1-1-0-1-5"
+         width="3.5"
+         height="5.4000001"
+         x="-880.25433"
+         y="-638.32196"
+         inkscape:label="#mesh"
+         transform="rotate(126.56367)">
+        <desc
+           id="desc5775-4-7-9-4-7-5-3-2">template = rock_s1;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#1c526a;fill-opacity:1;enable-background:new"
+         id="use9624-18-1-4-1-1-0-1-6"
+         width="3.5"
+         height="5.4000001"
+         x="-880.25433"
+         y="-649.12201"
+         inkscape:label="#mesh"
+         transform="rotate(126.56367)">
+        <desc
+           id="desc5775-4-7-9-4-7-5-3-6">template = rock_s1;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#1c526a;fill-opacity:1;enable-background:new"
+         id="use9624-18-1-4-1-1-0-1-57"
+         width="3.5"
+         height="5.4000001"
+         x="-880.25433"
+         y="-643.72198"
+         inkscape:label="#mesh"
+         transform="rotate(126.56367)">
+        <desc
+           id="desc5775-4-7-9-4-7-5-3-1">template = rock_s1;</desc>
+      </rect>
     </g>
     <g
        style="display:inline;opacity:0.44900004"
@@ -30868,8 +31216,8 @@ merge = 1;</desc>
          id="decal_template_parking_line-3-7"
          width="0.46679688"
          height="12.688965"
-         x="1337.9261"
-         y="-433.18466"
+         x="1340.7178"
+         y="-433.63892"
          inkscape:label="#rect9252"
          ry="0"
          transform="rotate(54.24164)">
@@ -30881,8 +31229,8 @@ merge = 1;</desc>
          id="decal_template_parking_line-3-7-6"
          width="0.46679688"
          height="12.688965"
-         x="1345.689"
-         y="-433.2085"
+         x="1348.4806"
+         y="-433.66275"
          inkscape:label="#rect9252"
          ry="0"
          transform="rotate(54.24164)">
@@ -30894,8 +31242,8 @@ merge = 1;</desc>
          id="decal_template_parking_line-3-7-6-2"
          width="0.46679688"
          height="12.688965"
-         x="1353.4518"
-         y="-433.23233"
+         x="1356.2434"
+         y="-433.68658"
          inkscape:label="#rect9252"
          ry="0"
          transform="rotate(54.24164)">
@@ -30907,8 +31255,8 @@ merge = 1;</desc>
          id="decal_template_parking_line-3-7-6-4"
          width="0.46679688"
          height="12.688965"
-         x="1361.2146"
-         y="-433.25616"
+         x="1364.0062"
+         y="-433.71042"
          inkscape:label="#rect9252"
          ry="0"
          transform="rotate(54.24164)">
@@ -30920,8 +31268,8 @@ merge = 1;</desc>
          id="decal_template_parking_line-3-7-6-2-0"
          width="0.46679688"
          height="12.688965"
-         x="1368.9774"
-         y="-433.28"
+         x="1371.769"
+         y="-433.73425"
          inkscape:label="#rect9252"
          ry="0"
          transform="rotate(54.24164)">
@@ -30933,8 +31281,8 @@ merge = 1;</desc>
          id="decal_template_parking_line-3-7-6-3"
          width="0.46679688"
          height="12.688965"
-         x="1376.7402"
-         y="-433.30383"
+         x="1379.5319"
+         y="-433.75809"
          inkscape:label="#rect9252"
          ry="0"
          transform="rotate(54.24164)">
@@ -30946,8 +31294,8 @@ merge = 1;</desc>
          id="decal_template_parking_line-3-7-6-2-6"
          width="0.46679688"
          height="12.688965"
-         x="1384.5031"
-         y="-433.32767"
+         x="1387.2947"
+         y="-433.78192"
          inkscape:label="#rect9252"
          ry="0"
          transform="rotate(54.24164)">
@@ -30959,8 +31307,8 @@ merge = 1;</desc>
          id="decal_template_parking_line-3-7-6-4-9"
          width="0.46679688"
          height="12.688965"
-         x="1392.2659"
-         y="-433.3515"
+         x="1395.0575"
+         y="-433.80576"
          inkscape:label="#rect9252"
          ry="0"
          transform="rotate(54.24164)">
@@ -30972,8 +31320,8 @@ merge = 1;</desc>
          id="decal_template_parking_line-3-7-6-2-0-2"
          width="0.46679688"
          height="12.688965"
-         x="1400.0287"
-         y="-433.37534"
+         x="1402.8203"
+         y="-433.82959"
          inkscape:label="#rect9252"
          ry="0"
          transform="rotate(54.24164)">
@@ -30985,8 +31333,8 @@ merge = 1;</desc>
          id="decal_template_parking_line-3-7-6-5"
          width="0.46679688"
          height="12.688965"
-         x="1407.7915"
-         y="-433.39917"
+         x="1410.5831"
+         y="-433.85342"
          inkscape:label="#rect9252"
          ry="0"
          transform="rotate(54.24164)">
@@ -30998,8 +31346,8 @@ merge = 1;</desc>
          id="decal_template_parking_line-3-7-6-2-3"
          width="0.46679688"
          height="12.688965"
-         x="1415.5543"
-         y="-433.423"
+         x="1418.3459"
+         y="-433.87726"
          inkscape:label="#rect9252"
          ry="0"
          transform="rotate(54.24164)">
@@ -31011,8 +31359,8 @@ merge = 1;</desc>
          id="decal_template_parking_line-3-7-6-4-3"
          width="0.46679688"
          height="12.688965"
-         x="1423.3171"
-         y="-433.44684"
+         x="1426.1088"
+         y="-433.90109"
          inkscape:label="#rect9252"
          ry="0"
          transform="rotate(54.24164)">
@@ -31024,8 +31372,8 @@ merge = 1;</desc>
          id="decal_template_parking_line-3-7-6-2-0-1"
          width="0.46679688"
          height="12.688965"
-         x="1431.08"
-         y="-433.47067"
+         x="1433.8716"
+         y="-433.92493"
          inkscape:label="#rect9252"
          ry="0"
          transform="rotate(54.24164)">
@@ -31037,8 +31385,8 @@ merge = 1;</desc>
          id="decal_template_parking_line-3-7-6-3-4"
          width="0.46679688"
          height="12.688965"
-         x="1438.8428"
-         y="-433.49451"
+         x="1441.6344"
+         y="-433.94876"
          inkscape:label="#rect9252"
          ry="0"
          transform="rotate(54.24164)">
@@ -31050,8 +31398,8 @@ merge = 1;</desc>
          id="decal_template_parking_line-3-7-6-2-6-3"
          width="0.46679688"
          height="12.688965"
-         x="1446.6056"
-         y="-433.51834"
+         x="1449.3972"
+         y="-433.9726"
          inkscape:label="#rect9252"
          ry="0"
          transform="rotate(54.24164)">
@@ -31063,8 +31411,8 @@ merge = 1;</desc>
          id="decal_template_parking_line-3-7-6-4-9-3"
          width="0.46679688"
          height="12.688965"
-         x="1454.3684"
-         y="-433.54218"
+         x="1457.16"
+         y="-433.99643"
          inkscape:label="#rect9252"
          ry="0"
          transform="rotate(54.24164)">
@@ -31076,8 +31424,8 @@ merge = 1;</desc>
          id="decal_template_parking_line-3-7-6-2-0-2-4"
          width="0.46679688"
          height="12.688965"
-         x="1462.1312"
-         y="-433.56601"
+         x="1464.9229"
+         y="-434.02026"
          inkscape:label="#rect9252"
          ry="0"
          transform="rotate(54.24164)">
@@ -32879,8 +33227,8 @@ merge = 1;</desc>
          id="spawn3_2-4-1"
          width="5.7888808"
          height="6.6684999"
-         x="1460.9272"
-         y="-425.53619"
+         x="1464.8583"
+         y="-426.13031"
          inkscape:label=""
          transform="rotate(54.04507)">
         <desc
@@ -32891,8 +33239,8 @@ merge = 1;</desc>
          id="spawn3_2-4-1-8"
          width="5.7888808"
          height="6.6684999"
-         x="1452.931"
-         y="-425.53979"
+         x="1457.0955"
+         y="-426.13312"
          inkscape:label=""
          transform="rotate(54.04507)">
         <desc
@@ -32903,8 +33251,8 @@ merge = 1;</desc>
          id="spawn3_2-4-1-6"
          width="5.7888808"
          height="6.6684999"
-         x="1445.1681"
-         y="-425.5426"
+         x="1449.3325"
+         y="-426.13593"
          inkscape:label=""
          transform="rotate(54.04507)">
         <desc
@@ -32915,8 +33263,8 @@ merge = 1;</desc>
          id="spawn3_2-4-1-65"
          width="5.7888808"
          height="6.6684999"
-         x="1437.4053"
-         y="-425.54538"
+         x="1441.8031"
+         y="-426.13791"
          inkscape:label=""
          transform="rotate(54.04507)">
         <desc
@@ -32927,8 +33275,8 @@ merge = 1;</desc>
          id="spawn3_2-4-1-65-9"
          width="5.7888808"
          height="6.6684999"
-         x="-1427.9019"
-         y="418.88168"
+         x="-1432.2997"
+         y="419.47421"
          inkscape:label=""
          transform="rotate(-125.95493)">
         <desc
@@ -32939,8 +33287,8 @@ merge = 1;</desc>
          id="spawn3_2-4-1-65-8"
          width="5.7888808"
          height="6.6684999"
-         x="-1419.9055"
-         y="418.88525"
+         x="-1424.0701"
+         y="419.47864"
          inkscape:label=""
          transform="rotate(-125.95493)">
         <desc
