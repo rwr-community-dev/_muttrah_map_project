@@ -30,11 +30,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.12"
-     inkscape:cx="1060.2956"
-     inkscape:cy="1239.8724"
+     inkscape:zoom="7.2407735"
+     inkscape:cx="1133.3429"
+     inkscape:cy="1177.8122"
      inkscape:document-units="px"
-     inkscape:current-layer="layer14"
+     inkscape:current-layer="layer6"
      showgrid="true"
      inkscape:window-width="1673"
      inkscape:window-height="921"
@@ -30741,6 +30741,227 @@ merge = 1;</desc>
         <desc
            id="desc10070-0-7-1-9-4-1">name = parking_line2; texture0 = decal_decoration_atlas.png; texture0_atlas_cell = 2 3 8 8;</desc>
       </rect>
+      <rect
+         style="display:inline;fill:#c1007b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.09835112;enable-background:new"
+         id="decal_template_parking_line-3-7"
+         width="0.46679688"
+         height="12.688965"
+         x="1337.9261"
+         y="-433.18466"
+         inkscape:label="#rect9252"
+         ry="0"
+         transform="rotate(54.24164)">
+        <desc
+           id="desc10070-0-9">name = parking_line2; texture0 = decal_decoration_atlas.png; texture0_atlas_cell = 2 3 8 8;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#c1007b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.09835112;enable-background:new"
+         id="decal_template_parking_line-3-7-6"
+         width="0.46679688"
+         height="12.688965"
+         x="1345.689"
+         y="-433.2085"
+         inkscape:label="#rect9252"
+         ry="0"
+         transform="rotate(54.24164)">
+        <desc
+           id="desc10070-0-9-7">name = parking_line2; texture0 = decal_decoration_atlas.png; texture0_atlas_cell = 2 3 8 8;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#c1007b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.09835112;enable-background:new"
+         id="decal_template_parking_line-3-7-6-2"
+         width="0.46679688"
+         height="12.688965"
+         x="1353.4518"
+         y="-433.23233"
+         inkscape:label="#rect9252"
+         ry="0"
+         transform="rotate(54.24164)">
+        <desc
+           id="desc10070-0-9-7-8">name = parking_line2; texture0 = decal_decoration_atlas.png; texture0_atlas_cell = 2 3 8 8;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#c1007b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.09835112;enable-background:new"
+         id="decal_template_parking_line-3-7-6-4"
+         width="0.46679688"
+         height="12.688965"
+         x="1361.2146"
+         y="-433.25616"
+         inkscape:label="#rect9252"
+         ry="0"
+         transform="rotate(54.24164)">
+        <desc
+           id="desc10070-0-9-7-0">name = parking_line2; texture0 = decal_decoration_atlas.png; texture0_atlas_cell = 2 3 8 8;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#c1007b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.09835112;enable-background:new"
+         id="decal_template_parking_line-3-7-6-2-0"
+         width="0.46679688"
+         height="12.688965"
+         x="1368.9774"
+         y="-433.28"
+         inkscape:label="#rect9252"
+         ry="0"
+         transform="rotate(54.24164)">
+        <desc
+           id="desc10070-0-9-7-8-4">name = parking_line2; texture0 = decal_decoration_atlas.png; texture0_atlas_cell = 2 3 8 8;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#c1007b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.09835112;enable-background:new"
+         id="decal_template_parking_line-3-7-6-3"
+         width="0.46679688"
+         height="12.688965"
+         x="1376.7402"
+         y="-433.30383"
+         inkscape:label="#rect9252"
+         ry="0"
+         transform="rotate(54.24164)">
+        <desc
+           id="desc10070-0-9-7-3">name = parking_line2; texture0 = decal_decoration_atlas.png; texture0_atlas_cell = 2 3 8 8;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#c1007b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.09835112;enable-background:new"
+         id="decal_template_parking_line-3-7-6-2-6"
+         width="0.46679688"
+         height="12.688965"
+         x="1384.5031"
+         y="-433.32767"
+         inkscape:label="#rect9252"
+         ry="0"
+         transform="rotate(54.24164)">
+        <desc
+           id="desc10070-0-9-7-8-9">name = parking_line2; texture0 = decal_decoration_atlas.png; texture0_atlas_cell = 2 3 8 8;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#c1007b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.09835112;enable-background:new"
+         id="decal_template_parking_line-3-7-6-4-9"
+         width="0.46679688"
+         height="12.688965"
+         x="1392.2659"
+         y="-433.3515"
+         inkscape:label="#rect9252"
+         ry="0"
+         transform="rotate(54.24164)">
+        <desc
+           id="desc10070-0-9-7-0-4">name = parking_line2; texture0 = decal_decoration_atlas.png; texture0_atlas_cell = 2 3 8 8;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#c1007b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.09835112;enable-background:new"
+         id="decal_template_parking_line-3-7-6-2-0-2"
+         width="0.46679688"
+         height="12.688965"
+         x="1400.0287"
+         y="-433.37534"
+         inkscape:label="#rect9252"
+         ry="0"
+         transform="rotate(54.24164)">
+        <desc
+           id="desc10070-0-9-7-8-4-0">name = parking_line2; texture0 = decal_decoration_atlas.png; texture0_atlas_cell = 2 3 8 8;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#c1007b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.09835112;enable-background:new"
+         id="decal_template_parking_line-3-7-6-5"
+         width="0.46679688"
+         height="12.688965"
+         x="1407.7915"
+         y="-433.39917"
+         inkscape:label="#rect9252"
+         ry="0"
+         transform="rotate(54.24164)">
+        <desc
+           id="desc10070-0-9-7-9">name = parking_line2; texture0 = decal_decoration_atlas.png; texture0_atlas_cell = 2 3 8 8;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#c1007b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.09835112;enable-background:new"
+         id="decal_template_parking_line-3-7-6-2-3"
+         width="0.46679688"
+         height="12.688965"
+         x="1415.5543"
+         y="-433.423"
+         inkscape:label="#rect9252"
+         ry="0"
+         transform="rotate(54.24164)">
+        <desc
+           id="desc10070-0-9-7-8-6">name = parking_line2; texture0 = decal_decoration_atlas.png; texture0_atlas_cell = 2 3 8 8;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#c1007b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.09835112;enable-background:new"
+         id="decal_template_parking_line-3-7-6-4-3"
+         width="0.46679688"
+         height="12.688965"
+         x="1423.3171"
+         y="-433.44684"
+         inkscape:label="#rect9252"
+         ry="0"
+         transform="rotate(54.24164)">
+        <desc
+           id="desc10070-0-9-7-0-0">name = parking_line2; texture0 = decal_decoration_atlas.png; texture0_atlas_cell = 2 3 8 8;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#c1007b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.09835112;enable-background:new"
+         id="decal_template_parking_line-3-7-6-2-0-1"
+         width="0.46679688"
+         height="12.688965"
+         x="1431.08"
+         y="-433.47067"
+         inkscape:label="#rect9252"
+         ry="0"
+         transform="rotate(54.24164)">
+        <desc
+           id="desc10070-0-9-7-8-4-9">name = parking_line2; texture0 = decal_decoration_atlas.png; texture0_atlas_cell = 2 3 8 8;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#c1007b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.09835112;enable-background:new"
+         id="decal_template_parking_line-3-7-6-3-4"
+         width="0.46679688"
+         height="12.688965"
+         x="1438.8428"
+         y="-433.49451"
+         inkscape:label="#rect9252"
+         ry="0"
+         transform="rotate(54.24164)">
+        <desc
+           id="desc10070-0-9-7-3-9">name = parking_line2; texture0 = decal_decoration_atlas.png; texture0_atlas_cell = 2 3 8 8;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#c1007b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.09835112;enable-background:new"
+         id="decal_template_parking_line-3-7-6-2-6-3"
+         width="0.46679688"
+         height="12.688965"
+         x="1446.6056"
+         y="-433.51834"
+         inkscape:label="#rect9252"
+         ry="0"
+         transform="rotate(54.24164)">
+        <desc
+           id="desc10070-0-9-7-8-9-7">name = parking_line2; texture0 = decal_decoration_atlas.png; texture0_atlas_cell = 2 3 8 8;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#c1007b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.09835112;enable-background:new"
+         id="decal_template_parking_line-3-7-6-4-9-3"
+         width="0.46679688"
+         height="12.688965"
+         x="1454.3684"
+         y="-433.54218"
+         inkscape:label="#rect9252"
+         ry="0"
+         transform="rotate(54.24164)">
+        <desc
+           id="desc10070-0-9-7-0-4-2">name = parking_line2; texture0 = decal_decoration_atlas.png; texture0_atlas_cell = 2 3 8 8;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#c1007b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.09835112;enable-background:new"
+         id="decal_template_parking_line-3-7-6-2-0-2-4"
+         width="0.46679688"
+         height="12.688965"
+         x="1462.1312"
+         y="-433.56601"
+         inkscape:label="#rect9252"
+         ry="0"
+         transform="rotate(54.24164)">
+        <desc
+           id="desc10070-0-9-7-8-4-0-0">name = parking_line2; texture0 = decal_decoration_atlas.png; texture0_atlas_cell = 2 3 8 8;</desc>
+      </rect>
     </g>
     <g
        inkscape:label="spawnpoints"
@@ -32476,10 +32697,10 @@ merge = 1;</desc>
          id="spawn4_4-8-5"
          width="5.7888808"
          height="6.6684999"
-         x="1359.8717"
-         y="280.07925"
+         x="1368.6411"
+         y="-255.48593"
          inkscape:label=""
-         transform="rotate(24.847964)">
+         transform="rotate(47.015609)">
         <desc
            id="desc9788-45-3-6-1-6-7-2-09-4-7-2-82-2-4-4-2-4-7-5-1-5-4-3-6-4-3-3">type = vehicle; key = deco_pickup_red.vehicle;</desc>
       </rect>
