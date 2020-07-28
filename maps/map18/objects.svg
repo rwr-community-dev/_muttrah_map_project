@@ -30,11 +30,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="10.24"
-     inkscape:cx="1185.9359"
-     inkscape:cy="1140.2317"
+     inkscape:zoom="3.6203868"
+     inkscape:cx="1256.9374"
+     inkscape:cy="1199.8271"
      inkscape:document-units="px"
-     inkscape:current-layer="layer14"
+     inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:window-width="1673"
      inkscape:window-height="921"
@@ -27348,18 +27348,6 @@ separator_depth = 0.0;</desc>
         <desc
            id="desc17475">height=4; material = BuildingWhite1; offset = 0 -0.2 0;</desc>
       </path>
-      <rect
-         transform="rotate(-38.38889)"
-         inkscape:label="#mesh"
-         y="720.29694"
-         x="1147.1023"
-         height="2.25"
-         width="6"
-         id="mesh8-4-4-8-4"
-         style="display:inline;opacity:0.79775277;fill:#552200;fill-opacity:1;fill-rule:nonzero;stroke:none;enable-background:new">
-        <desc
-           id="desc8739-3-3-8-0-0-9-1-6-2-1-0-6-0">template = enclosure;</desc>
-      </rect>
       <path
          sodipodi:nodetypes="cccc"
          inkscape:label="#path8894"
