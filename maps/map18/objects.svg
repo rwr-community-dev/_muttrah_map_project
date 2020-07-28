@@ -30,11 +30,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="7.2407735"
-     inkscape:cx="1133.3429"
-     inkscape:cy="1177.8122"
+     inkscape:zoom="2.56"
+     inkscape:cx="1334.5789"
+     inkscape:cy="875.34925"
      inkscape:document-units="px"
-     inkscape:current-layer="layer6"
+     inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:window-width="1673"
      inkscape:window-height="921"
@@ -27773,6 +27773,156 @@ offset = 0 0 23.5;
         <desc
            id="desc7160-0-8">#name = barell_blue; static_object_type_key=fuel_barrel.static_object; mesh_name = barell.mesh; texture0 = world_atlas1.png; texture0_atlas_cell = 9 16 32 32; collision_model_type = 0; collision_model_size = 1.2 1.4 1.2; penetrability = 0.4; offset = 0 1.3 0;</desc>
       </rect>
+      <rect
+         style="display:inline;fill:#0000ff;fill-opacity:1;fill-rule:nonzero;stroke:#ff00ff;stroke-width:1.00000131;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:7;stroke-opacity:1;enable-background:new"
+         id="rect16633-4-8-2-6-1-8-3-7-8-3-93"
+         width="8.753686"
+         height="8.7430058"
+         x="1270.4127"
+         y="225.95053"
+         inkscape:label="#mesh"
+         transform="rotate(-0.18360578)">
+        <desc
+           id="desc16653-2-1-1-4-9-5-8-9-0-1">template = ww2_plane_broken;</desc>
+      </rect>
+      <rect
+         inkscape:label="#mesh"
+         y="-1261.3735"
+         x="295.51224"
+         height="3.5088625"
+         width="14.724792"
+         id="rect4-7-2-7-52-4-5-6-7-9-12-80-7-3-0"
+         style="display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
+         transform="rotate(86.564489)">
+        <desc
+           id="desc6099-8-8-7-8-1-8-5-1-6-6-3-0-27-9-2">mesh_name = container.mesh;
+texture0 = alpha.png;
+collision_model_type = 1;
+collision_model_size = 9 1.0 1.4; 
+walkable = 0;
+see_through =0;
+penetrability = 0.1;
+alpha_blend = 1;</desc>
+      </rect>
+      <rect
+         inkscape:label="#mesh"
+         y="246.46205"
+         x="1263.1191"
+         height="3.5088625"
+         width="14.724792"
+         id="rect4-7-2-7-52-4-5-6-7-9-12-3-7-4-2-40"
+         style="display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
+         transform="rotate(-1.0972801)">
+        <desc
+           id="desc6099-8-8-7-8-1-8-5-1-6-6-3-4-2-3-9-57">mesh_name = container.mesh;
+texture0 = alpha.png;
+collision_model_type = 1;
+collision_model_size = 10 0.5 2; 
+walkable = 1;
+see_through =0;
+penetrability = 0.1;
+alpha_blend = 1;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#0000ff;fill-opacity:1;fill-rule:nonzero;stroke:#ff00ff;stroke-width:1.00000131;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:7;stroke-opacity:1;enable-background:new"
+         id="rect16633-4-8-2-6-1-8-3-7-8-3-4"
+         width="8.753686"
+         height="8.7430058"
+         x="465.77689"
+         y="1283.891"
+         inkscape:label="#mesh"
+         transform="rotate(-62.859126)">
+        <desc
+           id="desc16653-2-1-1-4-9-5-8-9-0-4">template = ww2_plane_broken;</desc>
+      </rect>
+      <rect
+         inkscape:label="#mesh"
+         y="-398.02066"
+         x="1306.1055"
+         height="3.5088625"
+         width="14.724792"
+         id="rect4-7-2-7-52-4-5-6-7-9-12-80-7-3-41"
+         style="display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
+         transform="rotate(23.888969)">
+        <desc
+           id="desc6099-8-8-7-8-1-8-5-1-6-6-3-0-27-9-4">mesh_name = container.mesh;
+texture0 = alpha.png;
+collision_model_type = 1;
+collision_model_size = 9 1.0 1.4; 
+walkable = 0;
+see_through =0;
+penetrability = 0.1;
+alpha_blend = 1;</desc>
+      </rect>
+      <rect
+         inkscape:label="#mesh"
+         y="1291.4373"
+         x="441.71561"
+         height="3.5088625"
+         width="14.724792"
+         id="rect4-7-2-7-52-4-5-6-7-9-12-3-7-4-2-42"
+         style="display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
+         transform="rotate(-63.7728)">
+        <desc
+           id="desc6099-8-8-7-8-1-8-5-1-6-6-3-4-2-3-9-579">mesh_name = container.mesh;
+texture0 = alpha.png;
+collision_model_type = 1;
+collision_model_size = 10 0.5 2; 
+walkable = 1;
+see_through =0;
+penetrability = 0.1;
+alpha_blend = 1;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#0000ff;fill-opacity:1;fill-rule:nonzero;stroke:#ff00ff;stroke-width:1.00000131;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:7;stroke-opacity:1;enable-background:new"
+         id="rect16633-4-8-2-6-1-8-3-7-8-3-5"
+         width="8.753686"
+         height="8.7430058"
+         x="972.9649"
+         y="911.03314"
+         inkscape:label="#mesh"
+         transform="rotate(-34.247235)">
+        <desc
+           id="desc16653-2-1-1-4-9-5-8-9-0-3">template = ww2_plane_broken;</desc>
+      </rect>
+      <rect
+         inkscape:label="#mesh"
+         y="-925.54248"
+         x="962.61871"
+         height="3.5088625"
+         width="14.724792"
+         id="rect4-7-2-7-52-4-5-6-7-9-12-80-7-3-2"
+         style="display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
+         transform="rotate(52.50086)">
+        <desc
+           id="desc6099-8-8-7-8-1-8-5-1-6-6-3-0-27-9-1">mesh_name = container.mesh;
+texture0 = alpha.png;
+collision_model_type = 1;
+collision_model_size = 9 1.0 1.4; 
+walkable = 0;
+see_through =0;
+penetrability = 0.1;
+alpha_blend = 1;</desc>
+      </rect>
+      <rect
+         inkscape:label="#mesh"
+         y="926.71429"
+         x="954.78467"
+         height="3.5088625"
+         width="14.724792"
+         id="rect4-7-2-7-52-4-5-6-7-9-12-3-7-4-2-9"
+         style="display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
+         transform="rotate(-35.160909)">
+        <desc
+           id="desc6099-8-8-7-8-1-8-5-1-6-6-3-4-2-3-9-6">mesh_name = container.mesh;
+texture0 = alpha.png;
+collision_model_type = 1;
+collision_model_size = 10 0.5 2; 
+walkable = 1;
+see_through =0;
+penetrability = 0.1;
+alpha_blend = 1;</desc>
+      </rect>
     </g>
     <g
        style="display:inline;opacity:0.44900004"
@@ -32673,10 +32823,10 @@ merge = 1;</desc>
          id="spawn3_4-9-4"
          width="5.7888808"
          height="6.6684999"
-         x="810.44293"
-         y="-1073.4402"
+         x="1283.3325"
+         y="-394.13019"
          inkscape:label=""
-         transform="rotate(91.025901)">
+         transform="rotate(55.166579)">
         <desc
            id="desc9788-45-3-6-1-6-7-2-09-4-7-2-82-2-4-7-1-4-7-2-5-3">type = vehicle; key = deco_car3_green.vehicle;</desc>
       </rect>
@@ -32739,6 +32889,90 @@ merge = 1;</desc>
          transform="rotate(-103.62644)">
         <desc
            id="desc9788-45-3-6-1-6-7-2-09-4-7-2-82-2-4-2-6-7-2-3-2-9-1-8-7-9">type = vehicle; key = deco_van_sky.vehicle;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3.99999921, 3.99999921;stroke-dashoffset:6.99999857;stroke-opacity:1;enable-background:new"
+         id="spawn3_2-4-5"
+         width="5.7888808"
+         height="6.6684999"
+         x="-715.57434"
+         y="1222.4205"
+         inkscape:label=""
+         transform="rotate(-85.993406)">
+        <desc
+           id="desc9788-45-3-6-1-6-7-2-09-4-7-2-82-2-4-7-1-4-7-1-6-9-9-6">type = vehicle; key = deco_car3_black.vehicle;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3.99999921, 3.99999921;stroke-dashoffset:6.99999857;stroke-opacity:1;enable-background:new"
+         id="spawn3_2-4-1"
+         width="5.7888808"
+         height="6.6684999"
+         x="1460.9272"
+         y="-425.53619"
+         inkscape:label=""
+         transform="rotate(54.04507)">
+        <desc
+           id="desc9788-45-3-6-1-6-7-2-09-4-7-2-82-2-4-7-1-4-7-1-6-9-9-8">type = vehicle; key = deco_car3_black.vehicle;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3.99999921, 3.99999921;stroke-dashoffset:6.99999857;stroke-opacity:1;enable-background:new"
+         id="spawn3_2-4-1-8"
+         width="5.7888808"
+         height="6.6684999"
+         x="1452.931"
+         y="-425.53979"
+         inkscape:label=""
+         transform="rotate(54.04507)">
+        <desc
+           id="desc9788-45-3-6-1-6-7-2-09-4-7-2-82-2-4-7-1-4-7-1-6-9-9-8-8">type = vehicle; key = deco_car3_black.vehicle;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3.99999921, 3.99999921;stroke-dashoffset:6.99999857;stroke-opacity:1;enable-background:new"
+         id="spawn3_2-4-1-6"
+         width="5.7888808"
+         height="6.6684999"
+         x="1445.1681"
+         y="-425.5426"
+         inkscape:label=""
+         transform="rotate(54.04507)">
+        <desc
+           id="desc9788-45-3-6-1-6-7-2-09-4-7-2-82-2-4-7-1-4-7-1-6-9-9-8-6">type = vehicle; key = deco_car3_black.vehicle;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3.99999921, 3.99999921;stroke-dashoffset:6.99999857;stroke-opacity:1;enable-background:new"
+         id="spawn3_2-4-1-65"
+         width="5.7888808"
+         height="6.6684999"
+         x="1437.4053"
+         y="-425.54538"
+         inkscape:label=""
+         transform="rotate(54.04507)">
+        <desc
+           id="desc9788-45-3-6-1-6-7-2-09-4-7-2-82-2-4-7-1-4-7-1-6-9-9-8-4">type = vehicle; key = deco_car3_black.vehicle;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3.99999921, 3.99999921;stroke-dashoffset:6.99999857;stroke-opacity:1;enable-background:new"
+         id="spawn3_2-4-1-65-9"
+         width="5.7888808"
+         height="6.6684999"
+         x="-1427.9019"
+         y="418.88168"
+         inkscape:label=""
+         transform="rotate(-125.95493)">
+        <desc
+           id="desc9788-45-3-6-1-6-7-2-09-4-7-2-82-2-4-7-1-4-7-1-6-9-9-8-4-2">type = vehicle; key = deco_car3_black.vehicle;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3.99999921, 3.99999921;stroke-dashoffset:6.99999857;stroke-opacity:1;enable-background:new"
+         id="spawn3_2-4-1-65-8"
+         width="5.7888808"
+         height="6.6684999"
+         x="-1419.9055"
+         y="418.88525"
+         inkscape:label=""
+         transform="rotate(-125.95493)">
+        <desc
+           id="desc9788-45-3-6-1-6-7-2-09-4-7-2-82-2-4-7-1-4-7-1-6-9-9-8-4-21">type = vehicle; key = deco_car3_black.vehicle;</desc>
       </rect>
     </g>
   </g>
