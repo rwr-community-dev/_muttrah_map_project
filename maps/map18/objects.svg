@@ -30,11 +30,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="20.48"
-     inkscape:cx="1171.2306"
-     inkscape:cy="1275.1414"
+     inkscape:zoom="5.12"
+     inkscape:cx="1060.2956"
+     inkscape:cy="1239.8724"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer14"
      showgrid="true"
      inkscape:window-width="1673"
      inkscape:window-height="921"
@@ -30576,6 +30576,171 @@ merge = 1;</desc>
         <desc
            id="desc6971-7-4">template = tennis_court;</desc>
       </rect>
+      <rect
+         style="display:inline;fill:#c1007b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.09835112;enable-background:new"
+         id="decal_template_parking_line-3"
+         width="0.46679688"
+         height="12.688965"
+         x="1089.4897"
+         y="855.55725"
+         inkscape:label="#rect9252"
+         ry="0"
+         transform="rotate(-1.6434852)">
+        <desc
+           id="desc10070-0">name = parking_line2; texture0 = decal_decoration_atlas.png; texture0_atlas_cell = 2 3 8 8;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#c1007b;fill-opacity:1;fill-rule:nonzero;stroke:none;enable-background:new"
+         id="decal_template_parking_line-9-2-64-8-6-5-8-1"
+         width="1.0897752"
+         height="12.74959"
+         x="1077.8579"
+         y="689.10583"
+         inkscape:label="#rect9252"
+         transform="rotate(0.32684039)">
+        <desc
+           id="desc10070-7-6-0-0-5-3-1-9">template = parking_line;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#c10000;fill-opacity:1;fill-rule:nonzero;stroke:none;enable-background:new"
+         id="decal_template_roadline-9-9"
+         width="20"
+         height="20"
+         x="1093.3162"
+         y="721.20496"
+         inkscape:label="#rect9252">
+        <desc
+           id="desc10070-8-5">name = roadline; texture0 = decal_decoration_atlas.png; texture0_atlas_cell = 0 2 4 4;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#c10000;fill-opacity:1;fill-rule:nonzero;stroke:none;enable-background:new"
+         id="decal_template_roadline-9-2-64-8-6-5-8-9-2-8-8-7"
+         width="20"
+         height="20"
+         x="1055.9675"
+         y="720.96753"
+         inkscape:label="#rect10970">
+        <desc
+           id="desc11688-6-3">template = roadline;</desc>
+      </rect>
+      <rect
+         ry="7.1001334"
+         rx="7.1001334"
+         transform="rotate(-88.846228)"
+         inkscape:label="#rect10748"
+         y="1112.2692"
+         x="-669.15686"
+         height="14.200267"
+         width="14.200267"
+         id="decal_template20-8"
+         style="display:inline;fill:#c83737;fill-opacity:1;stroke:none;stroke-width:3.55006671;enable-background:new">
+        <desc
+           id="desc8011-6-0-5-4-6-7">name = manhole; texture0 = decal_decoration_atlas.png; texture0_atlas_cell = 4 7 8 8;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#c1007b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.09835112;enable-background:new"
+         id="decal_template_parking_line-3-3"
+         width="0.46679688"
+         height="12.688965"
+         x="1081.2864"
+         y="855.13025"
+         inkscape:label="#rect9252"
+         ry="0"
+         transform="rotate(-1.6434852)">
+        <desc
+           id="desc10070-0-7">name = parking_line2; texture0 = decal_decoration_atlas.png; texture0_atlas_cell = 2 3 8 8;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#c1007b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.09835112;enable-background:new"
+         id="decal_template_parking_line-3-3-1"
+         width="0.46679688"
+         height="12.688965"
+         x="1073.1093"
+         y="855.31287"
+         inkscape:label="#rect9252"
+         ry="0"
+         transform="rotate(-1.6434852)">
+        <desc
+           id="desc10070-0-7-1">name = parking_line2; texture0 = decal_decoration_atlas.png; texture0_atlas_cell = 2 3 8 8;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#c1007b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.09835112;enable-background:new"
+         id="decal_template_parking_line-3-3-4"
+         width="0.46679688"
+         height="12.688965"
+         x="1064.943"
+         y="854.62781"
+         inkscape:label="#rect9252"
+         ry="0"
+         transform="rotate(-1.6434852)">
+        <desc
+           id="desc10070-0-7-6">name = parking_line2; texture0 = decal_decoration_atlas.png; texture0_atlas_cell = 2 3 8 8;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#c1007b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.09835112;enable-background:new"
+         id="decal_template_parking_line-3-3-1-7"
+         width="0.46679688"
+         height="12.688965"
+         x="1056.7659"
+         y="854.81042"
+         inkscape:label="#rect9252"
+         ry="0"
+         transform="rotate(-1.6434852)">
+        <desc
+           id="desc10070-0-7-1-9">name = parking_line2; texture0 = decal_decoration_atlas.png; texture0_atlas_cell = 2 3 8 8;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#c1007b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.09835112;enable-background:new"
+         id="decal_template_parking_line-3-3-1-5"
+         width="0.46679688"
+         height="12.688965"
+         x="1048.4674"
+         y="855.02698"
+         inkscape:label="#rect9252"
+         ry="0"
+         transform="rotate(-1.6434852)">
+        <desc
+           id="desc10070-0-7-1-0">name = parking_line2; texture0 = decal_decoration_atlas.png; texture0_atlas_cell = 2 3 8 8;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#c1007b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.09835112;enable-background:new"
+         id="decal_template_parking_line-3-3-4-3"
+         width="0.46679688"
+         height="12.688965"
+         x="1040.3011"
+         y="854.34192"
+         inkscape:label="#rect9252"
+         ry="0"
+         transform="rotate(-1.6434852)">
+        <desc
+           id="desc10070-0-7-6-0">name = parking_line2; texture0 = decal_decoration_atlas.png; texture0_atlas_cell = 2 3 8 8;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#c1007b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.09835112;enable-background:new"
+         id="decal_template_parking_line-3-3-1-7-1"
+         width="0.46679688"
+         height="12.688965"
+         x="1032.1241"
+         y="854.52454"
+         inkscape:label="#rect9252"
+         ry="0"
+         transform="rotate(-1.6434852)">
+        <desc
+           id="desc10070-0-7-1-9-4">name = parking_line2; texture0 = decal_decoration_atlas.png; texture0_atlas_cell = 2 3 8 8;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#c1007b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.09835112;enable-background:new"
+         id="decal_template_parking_line-3-3-1-7-1-1"
+         width="0.46679688"
+         height="12.688965"
+         x="1023.9894"
+         y="854.7478"
+         inkscape:label="#rect9252"
+         ry="0"
+         transform="rotate(-1.6434852)">
+        <desc
+           id="desc10070-0-7-1-9-4-1">name = parking_line2; texture0 = decal_decoration_atlas.png; texture0_atlas_cell = 2 3 8 8;</desc>
+      </rect>
     </g>
     <g
        inkscape:label="spawnpoints"
@@ -31747,6 +31912,612 @@ merge = 1;</desc>
          style="display:inline;fill:#007cff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:11.99999956, 11.99999956;stroke-dashoffset:4.5999999;stroke-opacity:1;enable-background:new">
         <desc
            id="desc7082-7-40-4-7">type = vehicle; tag = jeep;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3.99999925, 3.99999925;stroke-dashoffset:6.99999952;stroke-opacity:1;enable-background:new"
+         id="spawn2_5-38"
+         width="5.7888808"
+         height="6.6684999"
+         x="980.57043"
+         y="592.9267"
+         inkscape:label=""
+         transform="rotate(0.13538089)">
+        <desc
+           id="desc9788-45-3-6-1-6-7-2-09-4-7-2-82-2-4-4-2-4-7-5-1-4-9-3-5">type = vehicle; key = deco_car2_red.vehicle;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#a5a5a5;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:4.00000109, 4.00000109;stroke-dashoffset:7.00000238;stroke-opacity:1;enable-background:new"
+         id="spawn2_6-5"
+         width="5.7888808"
+         height="6.6684999"
+         x="983.30841"
+         y="602.8338"
+         inkscape:label=""
+         transform="rotate(-0.43963025)">
+        <desc
+           id="desc9788-45-3-6-1-6-7-2-09-4-7-2-82-2-4-4-2-4-7-5-1-7-0-2-9-3">type = vehicle; key = deco_car2_grey.vehicle;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3.99999908, 3.99999908;stroke-dashoffset:6.99999809;stroke-opacity:1;enable-background:new"
+         id="spawn2_3-7"
+         width="5.7888808"
+         height="6.6684999"
+         x="951.51752"
+         y="611.22198"
+         inkscape:label=""
+         transform="rotate(-0.95383315)">
+        <desc
+           id="desc9788-45-3-6-1-6-7-2-09-4-7-2-82-2-4-2-6-7-0-8">type = vehicle; key = deco_car2_white.vehicle;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#36f8ff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3.99999917, 3.99999917;stroke-dashoffset:6.99999857;stroke-opacity:1;enable-background:new"
+         id="spawn3_5-2"
+         width="5.7888808"
+         height="6.6684999"
+         x="1015.8125"
+         y="591.21899"
+         inkscape:label=""
+         transform="rotate(1.0259014)">
+        <desc
+           id="desc9788-45-3-6-1-6-7-2-09-4-7-2-82-2-4-7-1-4-6-9">type = vehicle; key = deco_car3_sky.vehicle;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#1acc00;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:4.0000009, 4.0000009;stroke-dashoffset:7.00000191;stroke-opacity:1;enable-background:new"
+         id="spawn4_5-4"
+         width="5.7888808"
+         height="6.6684999"
+         x="1019.5301"
+         y="612.97382"
+         inkscape:label=""
+         transform="rotate(0.59434092)">
+        <desc
+           id="desc9788-45-3-6-1-6-7-2-09-4-7-2-82-2-4-4-2-4-7-5-1-5-4-3-0-8">type = vehicle; key = deco_pickup_green.vehicle;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:4.0000012, 4.0000012;stroke-dashoffset:7.00000238;stroke-opacity:1;enable-background:new"
+         id="spawn2_8-0"
+         width="5.7888808"
+         height="6.6684999"
+         x="1023.173"
+         y="564.37433"
+         inkscape:label=""
+         transform="rotate(1.7389028)">
+        <desc
+           id="desc9788-45-3-6-1-6-7-2-09-4-7-2-82-2-4-4-2-4-7-5-1-7-0-2-6-0-2">type = vehicle; key = deco_car2_blue.vehicle;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#333333;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:4.00000123, 4.00000123;stroke-dashoffset:7.00000238;stroke-opacity:1;enable-background:new"
+         id="spawn_2_9-8"
+         width="5.7888808"
+         height="6.6684999"
+         x="1031.9407"
+         y="564.10815"
+         inkscape:label=""
+         transform="rotate(1.7389028)">
+        <desc
+           id="desc9788-45-3-6-1-6-7-2-09-4-7-2-82-2-4-4-2-4-7-5-1-7-0-2-6-9-8-1">type = vehicle; key = deco_car2_black.vehicle;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#aa8800;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:4.0000012, 4.0000012;stroke-dashoffset:7.00000238;stroke-opacity:1;enable-background:new"
+         id="spawn2_7-8"
+         width="5.7888808"
+         height="6.6684999"
+         x="1014.4059"
+         y="564.64044"
+         inkscape:label=""
+         transform="rotate(1.7389028)">
+        <desc
+           id="desc9788-45-3-6-1-6-7-2-09-4-7-2-82-2-4-4-2-4-7-5-1-7-0-2-6-9-5-13-4">type = vehicle; key = deco_car2_brown.vehicle;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#008000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:4.00000125, 4.00000125;stroke-dashoffset:7.00000238;stroke-opacity:1;enable-background:new"
+         id="spawn2_1-3"
+         width="5.7888808"
+         height="6.6684999"
+         x="945.8941"
+         y="592.35669"
+         inkscape:label=""
+         transform="rotate(0.17481829)">
+        <desc
+           id="desc9788-45-3-6-1-6-7-2-09-4-7-2-82-2-4-4-2-4-7-5-1-7-0-2-6-9-5-9-7-4">type = vehicle; key = deco_car2_green.vehicle;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#d2d2d2;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:4.00000128, 4.00000128;stroke-dashoffset:7.00000238;stroke-opacity:1;enable-background:new"
+         id="spawn2_4-7"
+         width="5.7888808"
+         height="6.6684999"
+         x="988.10272"
+         y="565.43903"
+         inkscape:label=""
+         transform="rotate(1.7389028)">
+        <desc
+           id="desc9788-45-3-6-1-6-7-2-09-4-7-2-82-2-4-4-2-4-7-5-1-7-0-2-6-9-5-9-3-9-2">type = vehicle; key = deco_car2_silver.vehicle;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3.99999912, 3.99999912;stroke-dashoffset:6.99999809;stroke-opacity:1;enable-background:new"
+         id="spawn1_8-3"
+         width="5.7888808"
+         height="6.6684999"
+         x="1002.0932"
+         y="659.26477"
+         inkscape:label=""
+         transform="rotate(-0.95383315)">
+        <desc
+           id="desc9788-45-3-6-1-6-7-2-09-4-7-2-82-2-4-2-6-7-2-66-0">type = vehicle; key = deco_car1_white.vehicle;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3.99999911, 3.99999911;stroke-dashoffset:6.99999809;stroke-opacity:1;enable-background:new"
+         id="spawn1_7-8"
+         width="5.7888808"
+         height="6.6684999"
+         x="992.98529"
+         y="659.11316"
+         inkscape:label=""
+         transform="rotate(-0.95383315)">
+        <desc
+           id="desc9788-45-3-6-1-6-7-2-09-4-7-2-82-2-4-2-6-7-2-6-0-1">type = vehicle; key = deco_car1_blue.vehicle;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#333333;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3.99999909, 3.99999909;stroke-dashoffset:6.99999809;stroke-opacity:1;enable-background:new"
+         id="spawn1_6-9"
+         width="5.7888808"
+         height="6.6684999"
+         x="983.87787"
+         y="658.96143"
+         inkscape:label=""
+         transform="rotate(-0.95383315)">
+        <desc
+           id="desc9788-45-3-6-1-6-7-2-09-4-7-2-82-2-4-2-6-7-2-6-4-8-4">type = vehicle; key = deco_car1_black.vehicle;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#c87137;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3.99999907, 3.99999907;stroke-dashoffset:6.99999809;stroke-opacity:1;enable-background:new"
+         id="spawn1_5-24"
+         width="5.7888808"
+         height="6.6684999"
+         x="974.77045"
+         y="658.80994"
+         inkscape:label=""
+         transform="rotate(-0.95383315)">
+        <desc
+           id="desc9788-45-3-6-1-6-7-2-09-4-7-2-82-2-4-2-6-7-2-6-4-4-2-1">type = vehicle; key = deco_car1_brown.vehicle;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#008000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3.99999905, 3.99999905;stroke-dashoffset:6.99999809;stroke-opacity:1;enable-background:new"
+         id="spawn1_4-4"
+         width="5.7888808"
+         height="6.6684999"
+         x="965.66254"
+         y="658.65833"
+         inkscape:label=""
+         transform="rotate(-0.95383315)">
+        <desc
+           id="desc9788-45-3-6-1-6-7-2-09-4-7-2-82-2-4-2-6-7-2-6-4-4-7-0-0">type = vehicle; key = deco_car1_green.vehicle;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#ff00ff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3.99999903, 3.99999903;stroke-dashoffset:6.99999809;stroke-opacity:1;enable-background:new"
+         id="spawn1_3-1"
+         width="5.7888808"
+         height="6.6684999"
+         x="956.55511"
+         y="658.50659"
+         inkscape:label=""
+         transform="rotate(-0.95383315)">
+        <desc
+           id="desc9788-45-3-6-1-6-7-2-09-4-7-2-82-2-4-2-6-7-2-6-4-4-7-9-5-6">type = vehicle; key = deco_car1_pink.vehicle;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#ffff00;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3.99999901, 3.99999901;stroke-dashoffset:6.99999809;stroke-opacity:1;enable-background:new"
+         id="spawn1_2-7"
+         width="5.7888808"
+         height="6.6684999"
+         x="947.4472"
+         y="658.35498"
+         inkscape:label=""
+         transform="rotate(-0.95383315)">
+        <desc
+           id="desc9788-45-3-6-1-6-7-2-09-4-7-2-82-2-4-2-6-7-2-6-4-4-7-9-6-9-3">type = vehicle; key = deco_car1_yellow.vehicle;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#ffff00;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3.99999912, 3.99999912;stroke-dashoffset:6.99999809;stroke-opacity:1;enable-background:new"
+         id="spawn5_7-4"
+         width="5.7888808"
+         height="6.6684999"
+         x="1001.7621"
+         y="670.29016"
+         inkscape:label=""
+         transform="rotate(-0.95383315)">
+        <desc
+           id="desc9788-45-3-6-1-6-7-2-09-4-7-2-82-2-4-2-6-7-2-3-8-1">type = vehicle; key = deco_van_yellow.vehicle;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#a0892c;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3.99999909, 3.99999909;stroke-dashoffset:6.99999809;stroke-opacity:1;enable-background:new"
+         id="spawn5_6-0"
+         width="5.7888808"
+         height="6.6684999"
+         x="992.74359"
+         y="670.14001"
+         inkscape:label=""
+         transform="rotate(-0.95383315)">
+        <desc
+           id="desc9788-45-3-6-1-6-7-2-09-4-7-2-82-2-4-2-6-7-2-3-2-9-17">type = vehicle; key = deco_van_brown.vehicle;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:4.0000009, 4.0000009;stroke-dashoffset:7.00000191;stroke-opacity:1;enable-background:new"
+         id="spawn4_4-8"
+         width="5.7888808"
+         height="6.6684999"
+         x="999.68781"
+         y="630.81726"
+         inkscape:label=""
+         transform="rotate(-0.41456838)">
+        <desc
+           id="desc9788-45-3-6-1-6-7-2-09-4-7-2-82-2-4-4-2-4-7-5-1-5-4-3-6-4-3">type = vehicle; key = deco_pickup_red.vehicle;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#00ff00;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3.99999915, 3.99999915;stroke-dashoffset:6.99999809;stroke-opacity:1;enable-background:new"
+         id="spawn3_4-9"
+         width="5.7888808"
+         height="6.6684999"
+         x="1006.9365"
+         y="591.37805"
+         inkscape:label=""
+         transform="rotate(1.0259014)">
+        <desc
+           id="desc9788-45-3-6-1-6-7-2-09-4-7-2-82-2-4-7-1-4-7-2-5">type = vehicle; key = deco_car3_green.vehicle;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#e9ddaf;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:4.00000111, 4.00000111;stroke-dashoffset:7.00000238;stroke-opacity:1;enable-background:new"
+         id="spawn4_3-6"
+         width="5.7888808"
+         height="6.6684999"
+         x="994.35284"
+         y="625.24011"
+         inkscape:label=""
+         transform="rotate(-0.09726192)">
+        <desc
+           id="desc9788-45-3-6-1-6-7-2-09-4-7-2-82-2-4-4-2-4-7-5-1-5-4-3-6-7-2-4">type = vehicle; key = deco_pickup_khaki.vehicle;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#ffff00;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:4.00000118, 4.00000118;stroke-dashoffset:7.00000238;stroke-opacity:1;enable-background:new"
+         id="spawn4_2-0"
+         width="5.7888808"
+         height="6.6684999"
+         x="991.21747"
+         y="616.17584"
+         inkscape:label=""
+         transform="rotate(0.42579464)">
+        <desc
+           id="desc9788-45-3-6-1-6-7-2-09-4-7-2-82-2-4-4-2-4-7-5-1-5-4-3-6-7-5-8-9">type = vehicle; key = deco_pickup_yellow.vehicle;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3.99999923, 3.99999923;stroke-dashoffset:6.99999857;stroke-opacity:1;enable-background:new"
+         id="spawn3_3-8"
+         width="5.7888808"
+         height="6.6684999"
+         x="992.34674"
+         y="601.04663"
+         inkscape:label=""
+         transform="rotate(0.47999757)">
+        <desc
+           id="desc9788-45-3-6-1-6-7-2-09-4-7-2-82-2-4-7-1-4-7-1-7-5">type = vehicle; key = deco_car3_blue.vehicle;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3.99999921, 3.99999921;stroke-dashoffset:6.99999857;stroke-opacity:1;enable-background:new"
+         id="spawn3_2-4"
+         width="5.7888808"
+         height="6.6684999"
+         x="983.46979"
+         y="601.12097"
+         inkscape:label=""
+         transform="rotate(0.47999757)">
+        <desc
+           id="desc9788-45-3-6-1-6-7-2-09-4-7-2-82-2-4-7-1-4-7-1-6-9-9">type = vehicle; key = deco_car3_black.vehicle;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#f8ea00;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3.99999909, 3.99999909;stroke-dashoffset:6.99999809;stroke-opacity:1;enable-background:new"
+         id="spawn2_2-4"
+         width="5.7888808"
+         height="6.6684999"
+         x="942.74701"
+         y="611.07599"
+         inkscape:label=""
+         transform="rotate(-0.95383315)">
+        <desc
+           id="desc9788-45-3-6-1-6-7-2-09-4-7-2-82-2-4-2-6-7-8-8">type = vehicle; key = deco_car2_yellow.vehicle;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:4.00000074, 4.00000074;stroke-dashoffset:7.00000143;stroke-opacity:1;enable-background:new"
+         id="spawn4_1-9"
+         width="5.7888808"
+         height="6.6684999"
+         x="993.9082"
+         y="597.52856"
+         inkscape:label=""
+         transform="rotate(1.5076196)">
+        <desc
+           id="desc9788-45-3-6-1-6-7-2-09-4-7-2-82-2-4-4-2-4-7-5-1-5-4-3-6-7-5-8-6-0">type = vehicle; key = deco_pickup_blue.vehicle;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#008000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3.99999905, 3.99999905;stroke-dashoffset:6.99999809;stroke-opacity:1;enable-background:new"
+         id="spawn5_5-2"
+         width="5.7888808"
+         height="6.6684999"
+         x="983.72552"
+         y="669.98987"
+         inkscape:label=""
+         transform="rotate(-0.95383315)">
+        <desc
+           id="desc9788-45-3-6-1-6-7-2-09-4-7-2-82-2-4-2-6-7-2-3-2-9-9-0">type = vehicle; key = deco_van_green.vehicle;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#36f8ff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3.99999905, 3.99999905;stroke-dashoffset:6.99999809;stroke-opacity:1;enable-background:new"
+         id="spawn5_4-2"
+         width="5.7888808"
+         height="6.6684999"
+         x="974.70746"
+         y="669.83972"
+         inkscape:label=""
+         transform="rotate(-0.95383315)">
+        <desc
+           id="desc9788-45-3-6-1-6-7-2-09-4-7-2-82-2-4-2-6-7-2-3-2-9-1-8">type = vehicle; key = deco_van_sky.vehicle;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#e9ddaf;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3.99999905, 3.99999905;stroke-dashoffset:6.99999809;stroke-opacity:1;enable-background:new"
+         id="spawn5_3-3"
+         width="5.7888808"
+         height="6.6684999"
+         x="965.68939"
+         y="669.68958"
+         inkscape:label=""
+         transform="rotate(-0.95383315)">
+        <desc
+           id="desc9788-45-3-6-1-6-7-2-09-4-7-2-82-2-4-2-6-7-2-3-2-9-8-3">type = vehicle; key = deco_van_khaki.vehicle;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3.99999905, 3.99999905;stroke-dashoffset:6.99999809;stroke-opacity:1;enable-background:new"
+         id="spawn5_2-2"
+         width="5.7888808"
+         height="6.6684999"
+         x="956.67133"
+         y="669.53955"
+         inkscape:label=""
+         transform="rotate(-0.95383315)">
+        <desc
+           id="desc9788-45-3-6-1-6-7-2-09-4-7-2-82-2-4-2-6-7-2-3-2-9-5-4">type = vehicle; key = deco_van_blue.vehicle;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3.99999906, 3.99999906;stroke-dashoffset:6.99999809;stroke-opacity:1;enable-background:new"
+         id="spawn5_1-6"
+         width="5.7888808"
+         height="6.6684999"
+         x="947.65326"
+         y="669.3894"
+         inkscape:label=""
+         transform="rotate(-0.95383315)">
+        <desc
+           id="desc9788-45-3-6-1-6-7-2-09-4-7-2-82-2-4-2-6-7-2-3-2-9-2-8">type = vehicle; key = deco_van_red.vehicle;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#ffff00;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3.9999992, 3.9999992;stroke-dashoffset:6.99999857;stroke-opacity:1;enable-background:new"
+         id="spawn3_1-5"
+         width="5.7888808"
+         height="6.6684999"
+         x="965.9837"
+         y="614.89893"
+         inkscape:label=""
+         transform="rotate(-0.32678538)">
+        <desc
+           id="desc9788-45-3-6-1-6-7-2-09-4-7-2-82-2-4-7-1-4-7-1-6-9-7-3">type = vehicle; key = deco_car3_yellow.vehicle;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3.99999897, 3.99999897;stroke-dashoffset:6.99999809;stroke-opacity:1;enable-background:new"
+         id="spawn1_1-4"
+         width="5.7888808"
+         height="6.6684999"
+         x="938.33978"
+         y="658.20337"
+         inkscape:label=""
+         transform="rotate(-0.95383315)">
+        <desc
+           id="desc9788-45-3-6-1-6-7-2-09-4-7-2-82-2-4-2-6-7-2-6-4-4-7-9-6-9-0-2">type = vehicle; key = deco_car1_red.vehicle;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3.99999918, 3.99999918;stroke-dashoffset:6.99999857;stroke-opacity:1;enable-background:new"
+         id="spawn3_6-5"
+         width="5.7888808"
+         height="6.6684999"
+         x="1008.6057"
+         y="618.03381"
+         inkscape:label=""
+         transform="rotate(-0.48987056)">
+        <desc
+           id="desc9788-45-3-6-1-6-7-2-09-4-7-2-82-2-4-7-1-4-6-7-4">type = vehicle; key = deco_car3_red.vehicle;</desc>
+      </rect>
+      <text
+         id="text25051-1"
+         y="627.93958"
+         x="883.72601"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
+         xml:space="preserve"><tspan
+           id="tspan25055-0"
+           y="627.93958"
+           x="883.72601"
+           sodipodi:role="line"
+           style="font-size:8px;line-height:1.25;font-family:sans-serif">cars</tspan></text>
+      <text
+         id="text25051-2-1"
+         y="647.95477"
+         x="917.69769"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
+         xml:space="preserve"><tspan
+           y="647.95477"
+           x="917.69769"
+           id="tspan43277-2"
+           sodipodi:role="line"
+           style="font-size:8px;line-height:1.25;font-family:sans-serif">car1</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
+         x="917.94769"
+         y="660.20483"
+         id="text43279-6"><tspan
+           y="660.20483"
+           x="917.94769"
+           id="tspan43283-1"
+           sodipodi:role="line"
+           style="font-size:8px;line-height:1.25;font-family:sans-serif">van</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
+         x="917.69769"
+         y="629.45471"
+         id="text43285-8"><tspan
+           y="629.45471"
+           x="917.69769"
+           id="tspan43297-1"
+           sodipodi:role="line"
+           style="font-size:8px;line-height:1.25;font-family:sans-serif">pick-up</tspan></text>
+      <text
+         id="text43289-6"
+         y="615.70471"
+         x="917.69769"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
+         xml:space="preserve"><tspan
+           y="615.70471"
+           x="917.69769"
+           id="tspan43299-9"
+           sodipodi:role="line"
+           style="font-size:8px;line-height:1.25;font-family:sans-serif">car3</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:Sans;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
+         x="917.69769"
+         y="602.20471"
+         id="text43293-9"><tspan
+           y="602.20471"
+           x="917.69769"
+           id="tspan43301-2"
+           sodipodi:role="line"
+           style="font-size:8px;line-height:1.25;font-family:sans-serif">car2</tspan></text>
+      <rect
+         style="display:inline;fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3.99999906, 3.99999906;stroke-dashoffset:6.99999809;stroke-opacity:1;enable-background:new"
+         id="spawn5_1-6-4"
+         width="5.7888808"
+         height="6.6684999"
+         x="1005.8508"
+         y="935.97552"
+         inkscape:label=""
+         transform="rotate(-5.8841707)">
+        <desc
+           id="desc9788-45-3-6-1-6-7-2-09-4-7-2-82-2-4-2-6-7-2-3-2-9-2-8-4">type = vehicle; key = deco_van_red.vehicle;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3.99999923, 3.99999923;stroke-dashoffset:6.99999857;stroke-opacity:1;enable-background:new"
+         id="spawn3_3-8-8"
+         width="5.7888808"
+         height="6.6684999"
+         x="-1117.6085"
+         y="-826.12671"
+         inkscape:label=""
+         transform="rotate(-179.52)">
+        <desc
+           id="desc9788-45-3-6-1-6-7-2-09-4-7-2-82-2-4-7-1-4-7-1-7-5-2">type = vehicle; key = deco_car3_blue.vehicle;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#ffff00;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3.99999901, 3.99999901;stroke-dashoffset:6.99999809;stroke-opacity:1;enable-background:new"
+         id="spawn1_2-7-9"
+         width="5.7888808"
+         height="6.6684999"
+         x="1065.6959"
+         y="846.27087"
+         inkscape:label=""
+         transform="rotate(-0.95383315)">
+        <desc
+           id="desc9788-45-3-6-1-6-7-2-09-4-7-2-82-2-4-2-6-7-2-6-4-4-7-9-6-9-3-3">type = vehicle; key = deco_car1_yellow.vehicle;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#333333;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:4.00000123, 4.00000123;stroke-dashoffset:7.00000238;stroke-opacity:1;enable-background:new"
+         id="spawn_2_9-8-8"
+         width="5.7888808"
+         height="6.6684999"
+         x="-674.86517"
+         y="-1176.2339"
+         inkscape:label=""
+         transform="rotate(157.81116)">
+        <desc
+           id="desc9788-45-3-6-1-6-7-2-09-4-7-2-82-2-4-4-2-4-7-5-1-7-0-2-6-9-8-1-5">type = vehicle; key = deco_car2_black.vehicle;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#00ff00;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3.99999915, 3.99999915;stroke-dashoffset:6.99999809;stroke-opacity:1;enable-background:new"
+         id="spawn3_4-9-4"
+         width="5.7888808"
+         height="6.6684999"
+         x="810.44293"
+         y="-1073.4402"
+         inkscape:label=""
+         transform="rotate(91.025901)">
+        <desc
+           id="desc9788-45-3-6-1-6-7-2-09-4-7-2-82-2-4-7-1-4-7-2-5-3">type = vehicle; key = deco_car3_green.vehicle;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#e9ddaf;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:4.00000111, 4.00000111;stroke-dashoffset:7.00000238;stroke-opacity:1;enable-background:new"
+         id="spawn4_3-6-4"
+         width="5.7888808"
+         height="6.6684999"
+         x="-1092.8832"
+         y="-837.19049"
+         inkscape:label=""
+         transform="rotate(179.90274)">
+        <desc
+           id="desc9788-45-3-6-1-6-7-2-09-4-7-2-82-2-4-4-2-4-7-5-1-5-4-3-6-7-2-4-4">type = vehicle; key = deco_pickup_khaki.vehicle;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:4.0000009, 4.0000009;stroke-dashoffset:7.00000191;stroke-opacity:1;enable-background:new"
+         id="spawn4_4-8-5"
+         width="5.7888808"
+         height="6.6684999"
+         x="1359.8717"
+         y="280.07925"
+         inkscape:label=""
+         transform="rotate(24.847964)">
+        <desc
+           id="desc9788-45-3-6-1-6-7-2-09-4-7-2-82-2-4-4-2-4-7-5-1-5-4-3-6-4-3-3">type = vehicle; key = deco_pickup_red.vehicle;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#ff00ff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3.99999903, 3.99999903;stroke-dashoffset:6.99999809;stroke-opacity:1;enable-background:new"
+         id="spawn1_3-1-3"
+         width="5.7888808"
+         height="6.6684999"
+         x="1057.1614"
+         y="842.63123"
+         inkscape:label=""
+         transform="rotate(-0.95383315)">
+        <desc
+           id="desc9788-45-3-6-1-6-7-2-09-4-7-2-82-2-4-2-6-7-2-6-4-4-7-9-5-6-6">type = vehicle; key = deco_car1_pink.vehicle;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#36f8ff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3.99999905, 3.99999905;stroke-dashoffset:6.99999809;stroke-opacity:1;enable-background:new"
+         id="spawn5_4-2-2"
+         width="5.7888808"
+         height="6.6684999"
+         x="1028.7758"
+         y="-875.03723"
+         inkscape:label=""
+         transform="rotate(76.37356)">
+        <desc
+           id="desc9788-45-3-6-1-6-7-2-09-4-7-2-82-2-4-2-6-7-2-3-2-9-1-8-7">type = vehicle; key = deco_van_sky.vehicle;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#36f8ff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3.99999905, 3.99999905;stroke-dashoffset:6.99999809;stroke-opacity:1;enable-background:new"
+         id="spawn5_4-2-2-9"
+         width="5.7888808"
+         height="6.6684999"
+         x="-1033.9772"
+         y="856.63507"
+         inkscape:label=""
+         transform="rotate(-103.62644)">
+        <desc
+           id="desc9788-45-3-6-1-6-7-2-09-4-7-2-82-2-4-2-6-7-2-3-2-9-1-8-7-9">type = vehicle; key = deco_van_sky.vehicle;</desc>
       </rect>
     </g>
   </g>
