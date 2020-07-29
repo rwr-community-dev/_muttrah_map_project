@@ -30,11 +30,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.6203868"
-     inkscape:cx="1256.9374"
-     inkscape:cy="1199.8271"
+     inkscape:zoom="20.48"
+     inkscape:cx="1172.9309"
+     inkscape:cy="1272.1942"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer8"
      showgrid="true"
      inkscape:window-width="1673"
      inkscape:window-height="921"
@@ -42,14 +42,14 @@
      inkscape:window-y="381"
      inkscape:window-maximized="0"
      inkscape:snap-bbox="true"
-     inkscape:object-nodes="false"
+     inkscape:object-nodes="true"
      inkscape:snap-global="true"
      showguides="true"
      inkscape:guide-bbox="true"
      borderlayer="true"
      inkscape:showpageshadow="false"
      inkscape:object-paths="true"
-     inkscape:bbox-paths="false"
+     inkscape:bbox-paths="true"
      inkscape:bbox-nodes="true"
      inkscape:snap-bbox-edge-midpoints="true"
      inkscape:snap-bbox-midpoints="true"
@@ -57,10 +57,10 @@
      inkscape:snap-others="true"
      inkscape:snap-grids="false"
      inkscape:snap-to-guides="true"
-     inkscape:snap-smooth-nodes="false"
+     inkscape:snap-smooth-nodes="true"
      inkscape:document-rotation="0"
      inkscape:snap-midpoints="true"
-     inkscape:snap-intersection-paths="false"
+     inkscape:snap-intersection-paths="true"
      inkscape:snap-object-midpoints="true"
      inkscape:snap-center="true">
     <inkscape:grid
@@ -199,16 +199,6 @@
        position="1487.5713,1152.724"
        orientation="-3.7206462,4.7071001"
        id="guide7138"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="1179.8405,1270.5965"
-       orientation="-0.67713656,-1.8818837"
-       id="guide7148"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="1177.2815,1269.3917"
-       orientation="0.67713656,1.8818837"
-       id="guide7152"
        inkscape:locked="false" />
   </sodipodi:namedview>
   <defs
@@ -27547,10 +27537,10 @@ offset = 0 0 23.5;
          id="rect16633-4-8-7-6-9-7-2-8-8-1-8-5-3-3-43"
          width="2"
          height="2"
-         x="-1024.8845"
-         y="620.97821"
+         x="-860.09857"
+         y="846.11145"
          inkscape:label="#mesh"
-         transform="rotate(-160.69477)"
+         transform="rotate(-147.04955)"
          ry="1">
         <title
            id="title12411-5-3-6-7">barell_blue</title>
@@ -27563,10 +27553,10 @@ offset = 0 0 23.5;
          id="rect16633-4-8-7-6-9-7-2-8-8-1-8-5-3-3-4-5"
          width="2"
          height="2"
-         x="-1026.9"
-         y="621.01056"
+         x="-858.08319"
+         y="846.0791"
          inkscape:label="#mesh"
-         transform="rotate(-160.69477)"
+         transform="rotate(-147.04955)"
          ry="1">
         <title
            id="title12411-5-3-6-9-8">barell_blue</title>
@@ -27579,10 +27569,10 @@ offset = 0 0 23.5;
          id="rect16633-4-8-7-6-9-7-2-8-8-1-8-5-3-3-4-1-4"
          width="2"
          height="2"
-         x="-1025.8689"
-         y="623.12469"
+         x="-859.1142"
+         y="843.96497"
          inkscape:label="#mesh"
-         transform="rotate(-160.69477)"
+         transform="rotate(-147.04955)"
          ry="1">
         <title
            id="title12411-5-3-6-9-1-2">barell_blue</title>
@@ -27591,10 +27581,10 @@ offset = 0 0 23.5;
       </rect>
       <rect
          ry="1"
-         transform="rotate(-160.69477)"
+         transform="rotate(-147.04955)"
          inkscape:label="#mesh"
-         y="621.8465"
-         x="-1025.8774"
+         y="845.24316"
+         x="-859.10565"
          height="2"
          width="2"
          id="rect7162-2"
@@ -27611,10 +27601,10 @@ offset = 0 0 23.5;
          id="rect16633-4-8-7-6-9-7-2-8-8-1-8-5-3-3-6"
          width="2"
          height="2"
-         x="1012.6559"
-         y="-651.98871"
+         x="829.46869"
+         y="-867.59332"
          inkscape:label="#mesh"
-         transform="rotate(20.796059)"
+         transform="rotate(34.441286)"
          ry="1">
         <title
            id="title12411-5-3-6-8">barell_blue</title>
@@ -27627,10 +27617,10 @@ offset = 0 0 23.5;
          id="rect16633-4-8-7-6-9-7-2-8-8-1-8-5-3-3-4-9"
          width="2"
          height="2"
-         x="1010.6404"
-         y="-651.95636"
+         x="831.48419"
+         y="-867.62567"
          inkscape:label="#mesh"
-         transform="rotate(20.796059)"
+         transform="rotate(34.441286)"
          ry="1">
         <title
            id="title12411-5-3-6-9-6">barell_blue</title>
@@ -27643,10 +27633,10 @@ offset = 0 0 23.5;
          id="rect16633-4-8-7-6-9-7-2-8-8-1-8-5-3-3-4-1-5"
          width="2"
          height="2"
-         x="1011.6714"
-         y="-649.84222"
+         x="830.45319"
+         y="-869.73981"
          inkscape:label="#mesh"
-         transform="rotate(20.796059)"
+         transform="rotate(34.441286)"
          ry="1">
         <title
            id="title12411-5-3-6-9-1-4">barell_blue</title>
@@ -27655,10 +27645,10 @@ offset = 0 0 23.5;
       </rect>
       <rect
          ry="1"
-         transform="rotate(20.796059)"
+         transform="rotate(34.441286)"
          inkscape:label="#mesh"
-         y="-651.12042"
-         x="1011.663"
+         y="-868.46161"
+         x="830.46149"
          height="2"
          width="2"
          id="rect7162-7"
@@ -27675,10 +27665,10 @@ offset = 0 0 23.5;
          id="rect16633-4-8-7-6-9-7-2-8-8-1-8-5-3-3-43-8"
          width="2"
          height="2"
-         x="-1033.6552"
-         y="621.06232"
+         x="-851.32794"
+         y="846.02734"
          inkscape:label="#mesh"
-         transform="rotate(-160.69477)"
+         transform="rotate(-147.04955)"
          ry="1">
         <title
            id="title12411-5-3-6-7-6">barell_blue</title>
@@ -27691,10 +27681,10 @@ offset = 0 0 23.5;
          id="rect16633-4-8-7-6-9-7-2-8-8-1-8-5-3-3-4-5-5"
          width="2"
          height="2"
-         x="-1035.6707"
-         y="621.09467"
+         x="-849.31244"
+         y="845.995"
          inkscape:label="#mesh"
-         transform="rotate(-160.69477)"
+         transform="rotate(-147.04955)"
          ry="1">
         <title
            id="title12411-5-3-6-9-8-2">barell_blue</title>
@@ -27707,10 +27697,10 @@ offset = 0 0 23.5;
          id="rect16633-4-8-7-6-9-7-2-8-8-1-8-5-3-3-4-1-4-8"
          width="2"
          height="2"
-         x="-1034.6395"
-         y="623.2088"
+         x="-850.34357"
+         y="843.88086"
          inkscape:label="#mesh"
-         transform="rotate(-160.69477)"
+         transform="rotate(-147.04955)"
          ry="1">
         <title
            id="title12411-5-3-6-9-1-2-2">barell_blue</title>
@@ -27719,10 +27709,10 @@ offset = 0 0 23.5;
       </rect>
       <rect
          ry="1"
-         transform="rotate(-160.69477)"
+         transform="rotate(-147.04955)"
          inkscape:label="#mesh"
-         y="621.9306"
-         x="-1034.6481"
+         y="845.15906"
+         x="-850.33502"
          height="2"
          width="2"
          id="rect7162-2-0"
@@ -29335,6 +29325,16 @@ merge = 1;</desc>
         <desc
            id="desc16653-2-9-3-3-2-2-3-7-6-0-8-5">template = barbwire;</desc>
       </rect>
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:label=""
+         inkscape:connector-curvature="0"
+         id="wall126-9-8-88-6-5-5-7-5-4-19-9-0-5-6-6-9-9-7-2-8-2-0-9-2-2-2-0"
+         d="m 1191.5124,781.682 -25.3097,-14.59403"
+         style="display:inline;opacity:0.75170133;fill:#999999;fill-opacity:1;stroke:#999999;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new">
+        <desc
+           id="desc11325-6-6-1-4-5-6-7-0-9-7-5-3-5-9-2-8-1-7-8-8-2-6-2-5-3-08-5">template = SecurityFence2; merge = 1; separator_at_end = 0;</desc>
+      </path>
     </g>
     <g
        style="display:inline"
