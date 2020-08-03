@@ -30,11 +30,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="90.509668"
-     inkscape:cx="1295.7489"
-     inkscape:cy="1223.7594"
+     inkscape:zoom="5.6568543"
+     inkscape:cx="1259.7645"
+     inkscape:cy="1408.3872"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer12"
      showgrid="true"
      inkscape:window-width="1673"
      inkscape:window-height="921"
@@ -406,6 +406,11 @@
        position="1044.946,1209.3929"
        orientation="-18.1215,-27.5503"
        id="guide7832"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1251.7024,1465.9207"
+       orientation="-0.9727567,0.2318284"
+       id="guide7842"
        inkscape:locked="false" />
   </sodipodi:namedview>
   <defs
@@ -26460,19 +26465,19 @@ separator_depth = 0.0;</desc>
            id="desc6851-7-7-1-7-9-8">template = armory;</desc>
       </rect>
       <rect
-         transform="rotate(14.422049)"
+         transform="rotate(14.42993)"
          inkscape:label="#ladder"
-         y="-694.67633"
-         x="1080.0385"
+         y="-681.8457"
+         x="1080.2367"
          height="2.25"
          width="6"
          id="rect7651-13-5-8-6-4-4-7-3-9-0-3-2-7-41-1-8"
          style="display:inline;opacity:0.79775277;fill:#2cffe7;fill-opacity:1;fill-rule:nonzero;stroke:none;enable-background:new" />
       <rect
-         transform="rotate(103.28278)"
+         transform="rotate(103.29067)"
          inkscape:label="#rect6406"
-         y="-1145.2814"
-         x="-699.26178"
+         y="-1145.2242"
+         x="-686.42975"
          height="53.45335"
          width="25.585327"
          id="buildingrect6406-7-4-1-3-8-0-0-7-5-10-5-2-1-8-5-8-7-7-9-1-7-3"
@@ -32564,10 +32569,10 @@ merge = 1;</desc>
            id="desc10092-79-1-9">template = obelisk;</desc>
       </rect>
       <rect
-         transform="rotate(-76.223141)"
+         transform="rotate(-76.21526)"
          inkscape:label="#mesh"
-         y="1372.9548"
-         x="-304.03024"
+         y="1373.1451"
+         x="-316.82864"
          height="3.6170266"
          width="3.5137532"
          id="rect1000000-61-6-06-5-8-1-1-4-04-1-7"
@@ -32578,10 +32583,10 @@ merge = 1;</desc>
            id="desc7569-86-7-2-8-1-4-1-1-21-8-4">template = pipe;</desc>
       </rect>
       <rect
-         transform="rotate(-76.223141)"
+         transform="rotate(-76.21526)"
          inkscape:label="#mesh"
-         y="1373.0215"
-         x="-294.22128"
+         y="1373.2118"
+         x="-307.01968"
          height="3.6170266"
          width="3.5137532"
          id="rect1000000-61-6-06-5-8-1-1-4-04-2-2"
@@ -32592,10 +32597,10 @@ merge = 1;</desc>
            id="desc7569-86-7-2-8-1-4-1-1-21-6-7">template = pipe;</desc>
       </rect>
       <rect
-         transform="rotate(-76.223141)"
+         transform="rotate(-76.21526)"
          inkscape:label="#mesh"
-         y="1332.9097"
-         x="-294.99814"
+         y="1333.1"
+         x="-307.79654"
          height="3.6170266"
          width="3.5137532"
          id="rect1000000-61-6-06-5-8-1-1-4-04-6-7"
@@ -32606,10 +32611,10 @@ merge = 1;</desc>
            id="desc7569-86-7-2-8-1-4-1-1-21-0-9">template = pipe;</desc>
       </rect>
       <rect
-         transform="rotate(-76.223141)"
+         transform="rotate(-76.21526)"
          inkscape:label="#mesh"
-         y="1332.7697"
-         x="-304.69516"
+         y="1332.96"
+         x="-317.49356"
          height="3.6170266"
          width="3.5137532"
          id="rect1000000-61-6-06-5-8-1-1-4-04-38-3"
@@ -32624,10 +32629,10 @@ merge = 1;</desc>
          id="rect9322-1-3-77-1-6-7"
          width="6.3042655"
          height="10.138712"
-         x="-351.90781"
-         y="1346.2327"
+         x="-364.70526"
+         y="1345.9854"
          inkscape:label="#mesh"
-         transform="rotate(-78.182362)">
+         transform="rotate(-78.174481)">
         <title
            id="title10541-9-9-5-6">ventilator</title>
         <desc
@@ -32638,10 +32643,10 @@ merge = 1;</desc>
          id="rect9322-1-3-77-1-6-7-6"
          width="6.3042655"
          height="10.138712"
-         x="368.39481"
-         y="-1347.9224"
+         x="381.18301"
+         y="-1347.3765"
          inkscape:label="#mesh"
-         transform="rotate(100.47954)">
+         transform="rotate(100.48743)">
         <title
            id="title10541-9-9-5-6-1">ventilator</title>
         <desc
@@ -32652,10 +32657,10 @@ merge = 1;</desc>
          id="buildingrect6406-7-4-1-3-8-0-0-7-5-10-5-2-1-8-5-8-7-7-99-1"
          width="15.300471"
          height="12.526563"
-         x="305.19864"
-         y="-1349.3094"
+         x="317.99838"
+         y="-1349.3658"
          inkscape:label="#rect6406"
-         transform="rotate(103.17713)">
+         transform="rotate(103.18502)">
         <desc
            id="desc11871-6">height=2; material = BuildingFactory1; roof_type = flat;</desc>
       </rect>
@@ -32892,10 +32897,10 @@ merge = 1;</desc>
            id="desc16653-2-9-3-3-8-7-0-7-4-60-8-53">name = cannon; mesh_name = cannon.mesh; texture0 = world_atlas1.png; texture0_atlas_cell = 2 5 8 8; collision_model_type = 1; collision_model_size = 1.8 1.6 3.8; collision_model_offset = 0 0 0; walkable = 1; #alpha_blend = 1;</desc>
       </rect>
       <rect
-         transform="rotate(-179.00568)"
+         transform="rotate(103.40459)"
          inkscape:label="#mesh_template"
-         y="-737.63062"
-         x="-1251.0883"
+         y="-1377.3436"
+         x="253.64488"
          width="44.800003"
          id="rect10286-6-6-8-0-2-0-3-1-7-95-2-3-4"
          style="display:inline;fill:#800080;fill-opacity:1;stroke:none;enable-background:new"
@@ -33024,6 +33029,20 @@ texture0 = world_atlas1.png;
 texture0_atlas_cell = 11 16 32 32; 
 collision_model_type = 0;
 collision_model_size =0.4 8.5 0.4;</desc>
+      </rect>
+      <rect
+         transform="rotate(-90.298912)"
+         inkscape:label=""
+         y="1100.6368"
+         x="-618.30634"
+         height="7"
+         width="7"
+         id="spawn44-9-1"
+         style="display:inline;fill:#0000ff;stroke:#ffff00;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:new"
+         inkscape:transform-center-x="823.84675"
+         inkscape:transform-center-y="-220.37463">
+        <desc
+           id="desc14261-6-2">type = vehicle; key = water_tower.vehicle;</desc>
       </rect>
     </g>
     <g
