@@ -31,7 +31,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="5.12"
-     inkscape:cx="899.85306"
+     inkscape:cx="865.57572"
      inkscape:cy="1096.3251"
      inkscape:document-units="px"
      inkscape:current-layer="layer14"
@@ -34024,10 +34024,10 @@ merge = 1;</desc>
          id="spawn1-70-3-9-5-9"
          width="5.7888808"
          height="6.6684999"
-         x="139.76331"
-         y="-1294.6632"
+         x="104.67262"
+         y="1291.39"
          inkscape:label=""
-         transform="rotate(129.11608)">
+         transform="rotate(-39.830526)">
         <desc
            id="desc9788-45-3-6-1-6-7-2-09-4-7-2-82-2-4-2-6-4-0-7-0-5-4-5-7">type = vehicle; key = rubber_boat.vehicle;</desc>
       </rect>
@@ -34036,10 +34036,10 @@ merge = 1;</desc>
          id="spawn1-70-3-9-5-0"
          width="5.7888808"
          height="6.6684999"
-         x="898.55579"
-         y="997.19208"
+         x="-862.67712"
+         y="-1039.8859"
          inkscape:label=""
-         transform="rotate(0.11717167)">
+         transform="rotate(177.77358)">
         <desc
            id="desc9788-45-3-6-1-6-7-2-09-4-7-2-82-2-4-2-6-4-0-7-0-5-4-5-1">type = vehicle; key = rubber_boat.vehicle;</desc>
       </rect>
@@ -34048,10 +34048,10 @@ merge = 1;</desc>
          id="spawn1-70-3-9-5-6"
          width="5.7888808"
          height="6.6684999"
-         x="868.36951"
-         y="-951.54822"
+         x="-1013.3995"
+         y="794.84491"
          inkscape:label=""
-         transform="rotate(95.976494)">
+         transform="rotate(-93.140686)">
         <desc
            id="desc9788-45-3-6-1-6-7-2-09-4-7-2-82-2-4-2-6-4-0-7-0-5-4-5-2">type = vehicle; key = rubber_boat.vehicle;</desc>
       </rect>
