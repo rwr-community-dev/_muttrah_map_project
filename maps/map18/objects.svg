@@ -30,11 +30,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.12"
-     inkscape:cx="865.57572"
-     inkscape:cy="1096.3251"
+     inkscape:zoom="90.509668"
+     inkscape:cx="1295.7489"
+     inkscape:cy="1223.7594"
      inkscape:document-units="px"
-     inkscape:current-layer="layer14"
+     inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:window-width="1673"
      inkscape:window-height="921"
@@ -199,6 +199,213 @@
        position="1487.5713,1152.724"
        orientation="-3.7206462,4.7071001"
        id="guide7138"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1520.211,1170.4141"
+       orientation="1,0"
+       id="guide7628"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="1420.2109,1178.4141"
+       orientation="0,-8"
+       id="guide7630"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1412.2109,1178.4141"
+       orientation="8,0"
+       id="guide7632"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1412.2109,1170.4141"
+       orientation="0,8"
+       id="guide7634"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1464.0038,1149.8875"
+       orientation="-8,0"
+       id="guide7642"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1464.0038,1157.8875"
+       orientation="0,-8"
+       id="guide7644"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1460.0038,1153.8875"
+       orientation="-0.62122637,0.78363116"
+       id="guide7646"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1456.0038,1149.8875"
+       orientation="0,8"
+       id="guide7648"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1440.5029,1211.7877"
+       orientation="58.99409,47.1626"
+       id="guide7758"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1487.6655,1152.7936"
+       orientation="73.97724,-93.7179"
+       id="guide7760"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1241.3843,1281.8119"
+       orientation="-0.45241,-28.339"
+       id="guide7766"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1213.0453,1282.2643"
+       orientation="15.9463,-21.5329"
+       id="guide7768"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1191.5124,1266.318"
+       orientation="25.77761,-7.0656"
+       id="guide7770"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1184.4468,1240.5404"
+       orientation="70.19385,51.5267"
+       id="guide7772"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1235.9735,1170.3465"
+       orientation="70.12145,51.2371"
+       id="guide7774"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1287.2106,1100.2251"
+       orientation="41.26475,-55.1714"
+       id="guide7776"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1232.0392,1058.9603"
+       orientation="41.26474,-55.4859"
+       id="guide7778"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1176.5533,1017.6956"
+       orientation="-3.6834,-19.889"
+       id="guide7780"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1156.6643,1021.379"
+       orientation="-14.8784,-12.3027"
+       id="guide7782"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1144.3616,1036.2574"
+       orientation="-20.6825,1.271"
+       id="guide7784"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1145.6326,1056.9399"
+       orientation="-41.88699,55.3238"
+       id="guide7786"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1200.9564,1098.8269"
+       orientation="-111.64449,-80.992"
+       id="guide7788"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1119.9644,1210.4714"
+       orientation="1.07849,-75.0184"
+       id="guide7790"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1044.946,1209.3929"
+       orientation="-18.1215,-27.5503"
+       id="guide7792"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1440.5029,1211.7877"
+       orientation="58.99409,47.1626"
+       id="guide7798"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1487.6655,1152.7936"
+       orientation="73.97724,-93.7179"
+       id="guide7800"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1319.6822,1190.9446"
+       orientation="-99.88842,-75.0264"
+       id="guide7804"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1241.3843,1281.8119"
+       orientation="-0.45241,-28.339"
+       id="guide7806"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1213.0453,1282.2643"
+       orientation="15.9463,-21.5329"
+       id="guide7808"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1191.5124,1266.318"
+       orientation="25.77761,-7.0656"
+       id="guide7810"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1184.4468,1240.5404"
+       orientation="70.19385,51.5267"
+       id="guide7812"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1235.9735,1170.3465"
+       orientation="70.12145,51.2371"
+       id="guide7814"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1287.2106,1100.2251"
+       orientation="41.26475,-55.1714"
+       id="guide7816"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1232.0392,1058.9603"
+       orientation="41.26474,-55.4859"
+       id="guide7818"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1176.5533,1017.6956"
+       orientation="-3.6834,-19.889"
+       id="guide7820"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1156.6643,1021.379"
+       orientation="-14.8784,-12.3027"
+       id="guide7822"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1144.3616,1036.2574"
+       orientation="-20.6825,1.271"
+       id="guide7824"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1145.6326,1056.9399"
+       orientation="-41.88699,55.3238"
+       id="guide7826"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1200.9564,1098.8269"
+       orientation="-111.64449,-80.992"
+       id="guide7828"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1119.9644,1210.4714"
+       orientation="1.07849,-75.0184"
+       id="guide7830"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1044.946,1209.3929"
+       orientation="-18.1215,-27.5503"
+       id="guide7832"
        inkscape:locked="false" />
   </sodipodi:namedview>
   <defs
@@ -19925,7 +20132,8 @@ separator_depth = 0.0;</desc>
        style="display:inline"
        inkscape:label="other"
        id="layer16"
-       inkscape:groupmode="layer">
+       inkscape:groupmode="layer"
+       sodipodi:insensitive="true">
       <g
          id="g7955">
         <path
@@ -20117,7 +20325,7 @@ separator_depth = 0.0;</desc>
            inkscape:label="#path47537_platform"
            inkscape:connector-curvature="0"
            id="path47537-1"
-           d="m 2175.0769,1355.7576 -60.6673,-29.0028 -67.3327,-35.3917 -127.8028,-61.5346 -60.7457,-22.0894 -67.057,-16.567 -63.9014,-7.1002 h -64.4931 l -64.0986,11.8336 -64.1547,29.0405 -62.3236,41.0231 -62.3236,22.8783 -65.4792,14.9892 -63.9013,6.3113 -64.6903,-3.1556 -63.1125,-8.678 -66.2681,-18.9338 -63.1125,-26.0339 -71.63189,-38.7124 -51.90636,-52.7181 -52.0678,-65.4792 -44.1787,-59.9569 -35.5008,-59.16787 -21.95395,-34.11434 23.39643,-41.13532 32.3452,-16.567 25.15913,-18.66972 18.5954,-18.72416 19.29022,-19.42379 22.55151,-42.46558 7.21725,-39.54442 45.97753,-16.51281 38.71252,19.96497 27.08921,3.32654 48.2578,38.04616 6.3902,1.21816 47.749,-11.70748 122.4505,170.47101 -53.9339,40.07364 -1.0343,1.98968 1.2051,1.25878 2.819,-0.78717 8.23,-5.84326 51.0664,-37.78189 -121.74,-171.25799 45.2628,-12.61904 19.7771,-73.70183 104.6742,18.26751 121.5621,151.03986 5.5483,-4.27717 -2.3051,-3.08479"
+           d="m 2175.0769,1355.7576 -60.6673,-29.0028 -67.3327,-35.3917 -127.8028,-61.5346 -60.7457,-22.0894 -67.057,-16.567 -63.9014,-7.1002 h -64.4931 l -64.0986,11.8336 -64.1547,29.0405 -62.3236,41.0231 -62.3236,22.8783 -65.4792,14.9892 -63.9013,6.3113 -64.6903,-3.1556 -63.1125,-8.678 -66.2681,-18.9338 -63.1125,-26.0339 -71.63189,-38.7124 -51.90636,-52.7181 -52.0678,-65.4792 -44.1787,-59.9569 -35.5008,-59.16787 -21.95395,-34.11434 23.39643,-41.13532 32.3452,-16.567 25.15913,-18.66972 18.5954,-18.72416 19.29022,-19.42379 22.55151,-42.46558 7.21725,-39.54442 45.97753,-16.51281 38.71252,19.96497 27.08921,3.32654 48.2578,38.04616 6.3902,1.21816 47.749,-11.70748 122.4505,170.47101 -27.1761,19.56583 -1.0343,1.98968 1.2051,1.25878 2.819,-0.78717 8.23,-5.84326 24.3086,-17.27408 -121.74,-171.25799 45.2628,-12.61904 19.7771,-73.70183 104.6742,18.26751 121.5621,151.03986 5.5483,-4.27717 -2.3051,-3.08479"
            style="fill:none;stroke:#0000ff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1">
           <desc
              id="desc47543-7">type = start;</desc>
@@ -28949,6 +29157,94 @@ alpha_blend = 1;</desc>
         <title
            id="title9786-13-5-7-8-6-8">venus</title>
       </rect>
+      <rect
+         style="display:inline;fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:#4d4d4d;enable-background:new"
+         id="rect31262-2-3"
+         width="8"
+         height="8"
+         x="-1451.0284"
+         y="115.6013"
+         rx="4"
+         ry="4"
+         inkscape:label="#mesh"
+         inkscape:transform-center-x="-517.2114"
+         inkscape:transform-center-y="668.11811"
+         transform="scale(-1)">
+        <title
+           id="title31266-60-1">small_oil_tank</title>
+        <desc
+           id="desc31264-5-4">name = small_oil_tank; mesh_name = small_oil_tank.mesh; texture0 = big_oil_tank.png; collision_model_type = 0; collision_model_size = 4 10 4; walkable = 0;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:#4d4d4d;enable-background:new"
+         id="rect31262-2-8"
+         width="8"
+         height="8"
+         x="-1464.0038"
+         y="125.8875"
+         rx="4"
+         ry="4"
+         inkscape:label="#mesh"
+         inkscape:transform-center-x="-517.2114"
+         inkscape:transform-center-y="668.11811"
+         transform="scale(-1)">
+        <title
+           id="title31266-60-7">small_oil_tank</title>
+        <desc
+           id="desc31264-5-0">name = small_oil_tank; mesh_name = small_oil_tank.mesh; texture0 = big_oil_tank.png; collision_model_type = 0; collision_model_size = 4 10 4; walkable = 0;</desc>
+      </rect>
+      <rect
+         transform="rotate(53.089398)"
+         inkscape:label="#mesh"
+         y="-1158.3928"
+         x="586.78662"
+         height="5.8959785"
+         width="33.053493"
+         id="rect10286-1-50"
+         style="display:inline;fill:#d94e4e;fill-opacity:1;stroke:none;enable-background:new">
+        <desc
+           id="desc10288-9">mesh_name = container.mesh; texture0 = alpha.png; collision_model_type = 1; collision_model_size = 19.4 3.0 4.8; walkable = 1; texture0 = alpha.png; alpha_blend = 1:</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#008000;fill-opacity:1;stroke:none;enable-background:new"
+         id="rect47101"
+         width="5.4511342"
+         height="32.925579"
+         x="1152.7239"
+         y="586.84174"
+         inkscape:label="#mesh"
+         transform="rotate(-36.910163)">
+        <desc
+           id="desc47103">name = dock_crane; mesh_name = dock_crane.mesh; 
+texture0 = world_atlas1.png; texture0_atlas_cell = 4 5 8 8;
+collision_model_type = -1; </desc>
+      </rect>
+      <rect
+         transform="rotate(53.089673)"
+         inkscape:label="#mesh"
+         y="-1158.3958"
+         x="644.31836"
+         height="5.8959785"
+         width="33.053493"
+         id="rect10286-1-50-3"
+         style="display:inline;fill:#d94e4e;fill-opacity:1;stroke:none;enable-background:new">
+        <desc
+           id="desc10288-9-7">mesh_name = container.mesh; texture0 = alpha.png; collision_model_type = 1; collision_model_size = 19.4 3.0 4.8; walkable = 1; texture0 = alpha.png; alpha_blend = 1:</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#008000;fill-opacity:1;stroke:none;enable-background:new"
+         id="rect47101-0"
+         width="5.4511342"
+         height="32.925579"
+         x="1152.7234"
+         y="644.38013"
+         inkscape:label="#mesh"
+         transform="rotate(-36.910224)">
+        <desc
+           id="desc47103-9">name = dock_crane; mesh_name = dock_crane.mesh; 
+texture0 = world_atlas1.png; texture0_atlas_cell = 4 5 8 8;
+collision_model_type = -1; </desc>
+      </rect>
     </g>
     <g
        style="display:inline;opacity:0.44900004"
@@ -32148,6 +32444,34 @@ merge = 1;</desc>
         <desc
            id="desc10070-0-9-7-8-4-0-0">name = parking_line2; texture0 = decal_decoration_atlas.png; texture0_atlas_cell = 2 3 8 8;</desc>
       </rect>
+      <rect
+         ry="7.1001334"
+         rx="7.1001334"
+         transform="rotate(-88.846228)"
+         inkscape:label="#rect10748"
+         y="1457.8457"
+         x="-882.17847"
+         height="14.200267"
+         width="14.200267"
+         id="decal_template20-8-1"
+         style="display:inline;fill:#c83737;fill-opacity:1;stroke:none;stroke-width:3.55006671;enable-background:new">
+        <desc
+           id="desc8011-6-0-5-4-6-7-4">name = manhole; texture0 = decal_decoration_atlas.png; texture0_atlas_cell = 4 7 8 8;</desc>
+      </rect>
+      <rect
+         ry="7.1001334"
+         rx="7.1001334"
+         transform="rotate(-88.846228)"
+         inkscape:label="#rect10748"
+         y="1470.6113"
+         x="-871.63306"
+         height="14.200267"
+         width="14.200267"
+         id="decal_template20-8-8"
+         style="display:inline;fill:#c83737;fill-opacity:1;stroke:none;stroke-width:3.55006671;enable-background:new">
+        <desc
+           id="desc8011-6-0-5-4-6-7-7">name = manhole; texture0 = decal_decoration_atlas.png; texture0_atlas_cell = 4 7 8 8;</desc>
+      </rect>
     </g>
     <g
        inkscape:label="spawnpoints"
@@ -32519,6 +32843,187 @@ merge = 1;</desc>
          ry="0">
         <desc
            id="desc6462-7-9-9-40-3-942-7-8-43-59-21-5-2-0-3-5-8-9-0-0-4-07-9-63-1">height=1; material=BuildingRoofStory1; roof_type=flat;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#00ffff;stroke:none;enable-background:new"
+         id="rect96339"
+         width="5.199378"
+         height="14.509892"
+         x="97.509521"
+         y="-1325.5234"
+         inkscape:label="#mesh"
+         transform="rotate(120.29814)">
+        <desc
+           id="desc96343">mesh_name = podium.mesh; texture0 = podium.png; collision_model_type = 1; collision_model_size = 2.0 0.7 6; walkable = 1;</desc>
+        <title
+           id="title96341">podium</title>
+      </rect>
+      <rect
+         style="display:inline;fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:#4d4d4d;enable-background:new"
+         id="rect31262-2"
+         width="8"
+         height="8"
+         x="-1109.8113"
+         y="-688.46185"
+         rx="4"
+         ry="4"
+         inkscape:label="#mesh"
+         inkscape:transform-center-x="-517.2114"
+         inkscape:transform-center-y="668.11811"
+         transform="scale(-1)">
+        <title
+           id="title31266-60">small_oil_tank</title>
+        <desc
+           id="desc31264-5">name = small_oil_tank; mesh_name = small_oil_tank.mesh; texture0 = big_oil_tank.png; collision_model_type = 0; collision_model_size = 4 10 4; walkable = 0;</desc>
+      </rect>
+      <rect
+         ry="0"
+         transform="rotate(-179.48342)"
+         inkscape:label="#mesh_template"
+         y="-749.5083"
+         x="-1079.3015"
+         height="7.1772113"
+         width="2.8776152"
+         id="rect16633-4-8-7-6-9-7-2-8-8-1-85-4-0"
+         style="display:inline;fill:#ffff6a;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.00000942;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:7;stroke-opacity:1;enable-background:new">
+        <title
+           id="title12409-6-8-1">cannon</title>
+        <desc
+           id="desc16653-2-9-3-3-8-7-0-7-4-60-8-53">name = cannon; mesh_name = cannon.mesh; texture0 = world_atlas1.png; texture0_atlas_cell = 2 5 8 8; collision_model_type = 1; collision_model_size = 1.8 1.6 3.8; collision_model_offset = 0 0 0; walkable = 1; #alpha_blend = 1;</desc>
+      </rect>
+      <rect
+         transform="rotate(-179.00568)"
+         inkscape:label="#mesh_template"
+         y="-737.63062"
+         x="-1251.0883"
+         width="44.800003"
+         id="rect10286-6-6-8-0-2-0-3-1-7-95-2-3-4"
+         style="display:inline;fill:#800080;fill-opacity:1;stroke:none;enable-background:new"
+         height="49.600002">
+        <title
+           id="title49658-82-9-3-6-9-7-6-4-77-8-0">big_oil_tank</title>
+        <desc
+           id="desc10288-1-3-4-4-3-1-8-4-18-3-9-9-9">name = big_oil_tank; 
+mesh_name = big_oil_tank.mesh; 
+texture0 = big_oil_tank.png; 
+collision_model_type = 0; 
+collision_model_size = 16 7 16; 
+walkable = 0;</desc>
+      </rect>
+      <rect
+         transform="rotate(-38.32399)"
+         inkscape:label="#mesh_template"
+         y="1574.3619"
+         x="534.25116"
+         height="7.4386048"
+         width="14.233747"
+         id="rect5814-8-9-12-61-4-0"
+         style="display:inline;fill:#e6e6e6;fill-opacity:1;stroke:#000000;stroke-width:1;enable-background:new">
+        <desc
+           id="desc46349-1">name = radar_dish;
+mesh_name = radar_dish.mesh;
+texture0 = world_atlas1.png; 
+texture0_atlas_cell = 6 8 16 16;
+collision_model_type = 1;
+collision_model_size = 3.0 6 3.0;
+</desc>
+      </rect>
+      <rect
+         inkscape:label=""
+         y="531.48358"
+         x="1012.4543"
+         height="4.4408946"
+         width="4.4408946"
+         id="post_template1_4-3"
+         style="display:inline;fill:#ff6600;fill-opacity:1;fill-rule:evenodd;stroke:#00ff00;enable-background:new">
+        <desc
+           id="desc11579-5">name = post1_4;
+mesh_template = post1_4;
+cord_offset1 = -0.5 0 0;
+cord_offset2 = -1.5 0 0;
+cord_offset3 = +0.5 0 0;
+cord_offset4 = +1.5 0 0;
+</desc>
+      </rect>
+      <rect
+         inkscape:label="#mesh_template"
+         y="538.88519"
+         x="1020.0673"
+         height="4.4408946"
+         width="4.4408946"
+         id="mesh55-1-6"
+         style="display:inline;fill:#ff6600;fill-opacity:1;fill-rule:evenodd;stroke:#00ffff;enable-background:new">
+        <desc
+           id="desc11579-7-0">name = post1_3;
+mesh_name = post1_3.mesh;
+texture0 = world_atlas1.png; 
+texture0_atlas_cell = 11 16 32 32; 
+collision_model_type = 0;
+collision_model_size =0.4 8.5 0.4;</desc>
+      </rect>
+      <rect
+         inkscape:label="#mesh_template"
+         y="538.77948"
+         x="1012.1371"
+         height="4.4408946"
+         width="4.4408946"
+         id="mesh999-5"
+         style="display:inline;fill:#ff6600;fill-opacity:1;fill-rule:evenodd;stroke:#00ffff;enable-background:new">
+        <desc
+           id="desc11579-0-3">name = post1_4;
+mesh_name = post1_4.mesh;
+texture0 = world_atlas1.png; 
+texture0_atlas_cell = 11 16 32 32; 
+collision_model_type = 0;
+collision_model_size =0.4 10.0 0.4;</desc>
+      </rect>
+      <rect
+         inkscape:label=""
+         y="531.16644"
+         x="1019.7502"
+         height="4.4408946"
+         width="4.4408946"
+         id="post_template1_1-17"
+         style="display:inline;fill:#ff6600;fill-opacity:1;fill-rule:evenodd;stroke:#00ff00;enable-background:new">
+        <desc
+           id="desc11579-4-5">name = post1_3;
+mesh_template = post1_3;
+cord_offset1 = 0 +0.6 0;
+cord_offset2 = -0.5 0 0;
+cord_offset3 = +0.5 0 0;
+
+</desc>
+      </rect>
+      <rect
+         inkscape:label=""
+         y="531.15887"
+         x="1026.8053"
+         height="4.4408946"
+         width="4.4408946"
+         id="post_template1_1-1-9"
+         style="display:inline;fill:#ff6600;fill-opacity:1;fill-rule:evenodd;stroke:#00ff00;enable-background:new">
+        <desc
+           id="desc11579-4-7-3">name = post1_1;
+mesh_template = post1_1;
+cord_offset1 = 0 0 0;
+
+</desc>
+      </rect>
+      <rect
+         inkscape:label="#mesh_template"
+         y="538.82379"
+         x="1027.7721"
+         height="4.4408946"
+         width="4.4408946"
+         id="mesh55-1-1-4"
+         style="display:inline;fill:#ff6600;fill-opacity:1;fill-rule:evenodd;stroke:#00ffff;enable-background:new">
+        <desc
+           id="desc11579-7-1-3">name = post1_1;
+mesh_name = post1_1.mesh;
+texture0 = world_atlas1.png; 
+texture0_atlas_cell = 11 16 32 32; 
+collision_model_type = 0;
+collision_model_size =0.4 8.5 0.4;</desc>
       </rect>
     </g>
     <g
@@ -33030,7 +33535,7 @@ merge = 1;</desc>
          height="3.442385"
          width="3.8320143"
          id="generic_node4878-8-6-42-7-1-8-6-62-7-4-9-2-9-1-17-1-6-8-41-52-4"
-         style="display:inline;enable-background:new;fill:#0000ff;fill-opacity:1;stroke:none"
+         style="display:inline;fill:#0000ff;fill-opacity:1;stroke:none;enable-background:new"
          transform="rotate(-64.382934)">
         <desc
            id="desc5002-4-7-1-8-13-7-7">tag = random_crate;</desc>
