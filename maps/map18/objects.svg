@@ -30,11 +30,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.6568542"
-     inkscape:cx="1389.1884"
-     inkscape:cy="1223.5533"
+     inkscape:zoom="4"
+     inkscape:cx="1261.6025"
+     inkscape:cy="1096.137"
      inkscape:document-units="px"
-     inkscape:current-layer="layer12"
+     inkscape:current-layer="layer18"
      showgrid="true"
      inkscape:window-width="1673"
      inkscape:window-height="921"
@@ -111,6 +111,26 @@
        position="1447.0284,1143.6013"
        orientation="0,8"
        id="guide7654"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1379.1924,1145.61"
+       orientation="14.61213,11.576898"
+       id="guide9194"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1390.7693,1130.9979"
+       orientation="-16.172642,20.412787"
+       id="guide9196"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1411.1821,1147.1706"
+       orientation="-14.61213,-11.576898"
+       id="guide9198"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1399.6052,1161.7827"
+       orientation="16.172642,-20.412787"
+       id="guide9200"
        inkscape:locked="false" />
   </sodipodi:namedview>
   <defs
@@ -17664,6 +17684,40 @@ texture0_atlas_cell = 11 16 32 32;
 collision_model_type = 0;
 collision_model_size =0.4 10.0 0.4;</desc>
     </rect>
+    <rect
+       inkscape:label="#mesh_template"
+       y="1043.0797"
+       x="-1045.3451"
+       height="32"
+       width="24"
+       id="rect5611"
+       style="display:inline;fill:#008080;fill-opacity:1;stroke:none;enable-background:new">
+      <title
+         id="title5613-5">military_camp</title>
+      <desc
+         id="desc5615-3">name = military_house; 
+mesh_name = military_house.mesh; 
+texture0 = wall1.png;
+texture1 = roof1.png; 
+texture2 = roof2.png;
+texture3 = windoor_atlas.png;
+collision_model_type = -1; 
+collision_model_size = 18 6 25; 
+backline = 1;</desc>
+    </rect>
+    <rect
+       inkscape:label="#mesh"
+       y="1041.4532"
+       x="-1080.9484"
+       height="32"
+       width="24"
+       id="rect5617"
+       style="display:inline;fill:#008080;fill-opacity:1;stroke:none;enable-background:new">
+      <title
+         id="title5619">military_house</title>
+      <desc
+         id="desc5621">template =military_house; </desc>
+    </rect>
   </g>
   <g
      style="display:inline"
@@ -29348,10 +29402,10 @@ collision_model_type = -1; </desc>
          id="rect11831-6-4-3-6-6-5-8"
          width="6"
          height="16"
-         x="90.588821"
-         y="1222.2021"
+         x="1218.1409"
+         y="595.49377"
          inkscape:label="#mesh"
-         transform="rotate(-98.290936)">
+         transform="rotate(-38.40863)">
         <desc
            id="desc11833-1-2-2-7-8-3-9">mesh_name = trunks.mesh; texture0 = trunks.png; collision_model_type = 1; collision_model_size = 3 1.7 8;</desc>
       </rect>
@@ -29360,12 +29414,26 @@ collision_model_type = -1; </desc>
          id="rect11831-6-4-3-6-6-5-8-6"
          width="6"
          height="16"
-         x="85.423721"
-         y="1245.3877"
+         x="1206.6941"
+         y="635.01685"
          inkscape:label="#mesh"
-         transform="rotate(-98.290936)">
+         transform="rotate(-38.374228)">
         <desc
            id="desc11833-1-2-2-7-8-3-9-7">mesh_name = trunks.mesh; texture0 = trunks.png; collision_model_type = 1; collision_model_size = 3 1.7 8;</desc>
+      </rect>
+      <rect
+         transform="rotate(89.83359)"
+         inkscape:label="#rect"
+         y="-1232.9766"
+         x="-284.01138"
+         height="32"
+         width="24"
+         id="buildingrect5617-4"
+         style="display:inline;fill:#008080;fill-opacity:1;stroke:none;enable-background:new">
+        <title
+           id="title5619-5">military_house</title>
+        <desc
+           id="desc5621-5">template = military_house; </desc>
       </rect>
     </g>
     <g
@@ -32595,6 +32663,20 @@ merge = 1;</desc>
         <desc
            id="desc8011-6-0-5-4-6-7-7">name = manhole; texture0 = decal_decoration_atlas.png; texture0_atlas_cell = 4 7 8 8;</desc>
       </rect>
+      <rect
+         transform="rotate(7.753672)"
+         inkscape:label="#rect10748"
+         y="731.07526"
+         x="1512.4773"
+         height="14.700922"
+         width="14.125881"
+         id="decal_template3-5"
+         style="display:inline;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:1;enable-background:new">
+        <desc
+           id="desc8011-5">name = helipad; 
+texture0 = decal_decoration_atlas.png;
+texture0_atlas_cell = 1 2 4 4;</desc>
+      </rect>
     </g>
     <g
        inkscape:label="spawnpoints"
@@ -32793,8 +32875,8 @@ merge = 1;</desc>
          id="rect1000000-61-6-06-5-8-1-1-4-0"
          width="4"
          height="4"
-         x="1183.3314"
-         y="822.17303"
+         x="1188.5989"
+         y="817.51318"
          inkscape:label="#mesh"
          transform="rotate(0.55420551)">
         <desc
@@ -32807,8 +32889,8 @@ merge = 1;</desc>
          id="rect1000000-61-6-06-5-8-1-1-4-2"
          width="4"
          height="4"
-         x="1189.4573"
-         y="817.51086"
+         x="1184.0099"
+         y="820.92242"
          inkscape:label="#mesh"
          transform="rotate(0.55420551)">
         <desc
@@ -33372,13 +33454,107 @@ collision_model_size =0.4 8.5 0.4;</desc>
         <desc
            id="desc7569-86-7-2-83-7-9-4-6">name = factorychimney; mesh_name = chimney.mesh; texture0 = chimney.png; collision_model_type = 0; collision_model_size = 2.2 11.0 2.2;</desc>
       </rect>
+      <rect
+         style="display:inline;fill:#ff6600;fill-opacity:1;fill-rule:nonzero;stroke:none;enable-background:new"
+         id="rect11831-6-4-3-6-6-5-8-6-6"
+         width="6"
+         height="16"
+         x="645.3197"
+         y="1425.7908"
+         inkscape:label="#mesh"
+         transform="rotate(-38.374228)">
+        <desc
+           id="desc11833-1-2-2-7-8-3-9-7-8">mesh_name = trunks.mesh; texture0 = trunks.png; collision_model_type = 1; collision_model_size = 3 1.7 8;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#ff6600;fill-opacity:1;fill-rule:nonzero;stroke:none;enable-background:new"
+         id="rect11831-6-4-3-6-6-5-8-6-9"
+         width="6"
+         height="16"
+         x="645.3114"
+         y="1443.2698"
+         inkscape:label="#mesh"
+         transform="rotate(-38.374228)">
+        <desc
+           id="desc11833-1-2-2-7-8-3-9-7-9">mesh_name = trunks.mesh; texture0 = trunks.png; collision_model_type = 1; collision_model_size = 3 1.7 8;</desc>
+      </rect>
+      <rect
+         transform="rotate(89.994867)"
+         inkscape:label="#mesh"
+         y="-1466.4821"
+         x="823.67413"
+         height="1.5191746"
+         width="2.6240289"
+         id="mesh923-5-7-9-3-5-19-96-6-2"
+         style="display:inline;fill:#855e00;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.79999995;stroke-dasharray:5.99999974, 1.99999996;stroke-dashoffset:1.5999999;stroke-opacity:1;enable-background:new">
+        <desc
+           id="desc6925-5-6-2-1-5-8-5-9-9">template = chairset_chair;</desc>
+      </rect>
+      <rect
+         transform="rotate(179.3458)"
+         inkscape:label="#mesh"
+         y="-845.42316"
+         x="-1454.5055"
+         height="1.5191746"
+         width="2.6240289"
+         id="mesh923-5-7-7-9-17-65-4-4-0"
+         style="display:inline;fill:#855e00;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.79999995;stroke-dasharray:5.99999977, 1.99999986;stroke-dashoffset:1.5999999;stroke-opacity:1;enable-background:new">
+        <desc
+           id="desc6925-5-6-9-8-11-0-3-4-4">template = chairset_chair;</desc>
+      </rect>
+      <rect
+         transform="rotate(-1.4053119)"
+         inkscape:label="#mesh"
+         y="856.53613"
+         x="1440.8467"
+         height="1.5191746"
+         width="2.6240289"
+         id="mesh923-5-7-1-2-6-52-2-3-3-4"
+         style="display:inline;fill:#855e00;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.79999995;stroke-dasharray:6.00000014, 1.99999997;stroke-dashoffset:1.60000002;stroke-opacity:1;enable-background:new">
+        <desc
+           id="desc6925-5-6-8-3-5-76-8-2-5-3">template = chairset_chair;</desc>
+      </rect>
+      <rect
+         transform="rotate(-92.707776)"
+         inkscape:label="#mesh"
+         y="1420.939"
+         x="-894.3454"
+         height="2.4131792"
+         width="2.6240289"
+         id="mesh923-5-7-1-2-3-0-14-60-4-7-4"
+         style="display:inline;fill:#855e00;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:2.79999995;stroke-dasharray:none;stroke-dashoffset:1.60000002;stroke-opacity:1;enable-background:new">
+        <desc
+           id="desc6925-5-6-8-3-8-2-2-2-6-0-2">template = chairset_table;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:new"
+         id="rect9036-2-2-4-2-8-3-5-7-6-4-5"
+         width="2.8208899"
+         height="2.8208899"
+         x="1461.2629"
+         y="823.35529"
+         inkscape:label="#mesh">
+        <desc
+           id="desc9040-4-3-2-0-7-3-1-6-0-5-1">template = parasol_blue;</desc>
+      </rect>
+      <rect
+         transform="rotate(-90.159438)"
+         inkscape:label="#mesh"
+         y="1456.6323"
+         x="-830.21844"
+         height="1.5191746"
+         width="2.6240289"
+         id="mesh923-5-7-1-2-6-52-2-3-3-4-5"
+         style="display:inline;fill:#855e00;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.79999995;stroke-dasharray:6.00000014, 1.99999997;stroke-dashoffset:1.60000002;stroke-opacity:1;enable-background:new">
+        <desc
+           id="desc6925-5-6-8-3-5-76-8-2-5-3-7">template = chairset_chair;</desc>
+      </rect>
     </g>
     <g
        style="display:inline"
        inkscape:label="walls"
        id="layer3"
-       inkscape:groupmode="layer"
-       sodipodi:insensitive="true">
+       inkscape:groupmode="layer">
       <path
          sodipodi:nodetypes="cccc"
          inkscape:label=""
@@ -33408,6 +33584,17 @@ collision_model_size =0.4 8.5 0.4;</desc>
          style="display:inline;fill:none;stroke:#000000;stroke-width:2;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new">
         <desc
            id="desc26973-5-8-8-0">template = SandbagWall1;</desc>
+      </path>
+      <path
+         style="display:inline;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+         d="m 1178.614,846.44211 -13.6542,-18.6085 15.0527,-10.71847 4.8,6.57236"
+         id="path30280-2"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccc"
+         inkscape:label="#wall30280">
+        <desc
+           id="desc30282-3">template = SandbagWall1; 
+height = 0.9; </desc>
       </path>
     </g>
     <g
@@ -33852,6 +34039,30 @@ collision_model_size =0.4 8.5 0.4;</desc>
         <desc
            id="desc15000-83-7-3">name = concrete_pipes; mesh_name = concrete_pipes.mesh; texture0 = concrete.png; collision_model_type = 1; collision_model_size = 0.6 0.3 5.0; walkable = 1; texture0 = alpha.png; alpha_blend = 1;</desc>
       </rect>
+      <g
+         id="g9323"
+         transform="translate(-3.0569366,-6.4213351)">
+        <path
+           style="fill:none;stroke:#ff0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 1267.5957,955.12222 1.2328,-6.27114 -4.3601,-5.87788 -6.1686,-0.32119"
+           id="path7943-7-8-7-9-1"
+           inkscape:connector-curvature="0"
+           inkscape:label="#path7943_platform"
+           sodipodi:nodetypes="cccc">
+          <desc
+             id="desc7945-4-9-3-2-6">type = deck_end; height = 7.0; wall_height = 1.0; wall_template = StoneWallCastle1; top_material = pavement; separator_height = 0.3;</desc>
+        </path>
+        <path
+           style="display:inline;fill:none;stroke:#0000ff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new"
+           d="m 1262.1463,958.34887 -6.341,-0.4989 -4.1186,-5.89363 1.7517,-5.84718"
+           id="path7943-1-0-5-6-5-6"
+           inkscape:connector-curvature="0"
+           inkscape:label="#path7943_platform"
+           sodipodi:nodetypes="cccc">
+          <desc
+             id="desc7945-3-9-9-1-5-0">type = deck_start;</desc>
+        </path>
+      </g>
     </g>
     <g
        inkscape:label="crates"
