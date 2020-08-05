@@ -30,11 +30,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2"
-     inkscape:cx="956.22695"
-     inkscape:cy="1174.8282"
+     inkscape:zoom="11.313708"
+     inkscape:cx="1362.4493"
+     inkscape:cy="1273.5292"
      inkscape:document-units="px"
-     inkscape:current-layer="layer16"
+     inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:window-width="1673"
      inkscape:window-height="921"
@@ -72,6 +72,11 @@
        empspacing="1"
        id="grid44571"
        type="xygrid" />
+    <sodipodi:guide
+       position="1348.3561,1301.5475"
+       orientation="0.78452056,0.6201028"
+       id="guide7721"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <defs
      id="defs4">
@@ -17633,7 +17638,7 @@ collision_model_size =0.4 10.0 0.4;</desc>
        id="rect5611"
        style="display:inline;fill:#008080;fill-opacity:1;stroke:none;enable-background:new">
       <title
-         id="title5613-5">military_camp</title>
+         id="title5613-5">military_house</title>
       <desc
          id="desc5615-3">name = military_house; 
 mesh_name = military_house.mesh; 
@@ -17657,6 +17662,24 @@ backline = 1;</desc>
          id="title5619">military_house</title>
       <desc
          id="desc5621">template =military_house; </desc>
+    </rect>
+    <rect
+       style="display:inline;fill:#0000ff;fill-opacity:1;fill-rule:nonzero;stroke:#ff00ff;stroke-width:1.00000131;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:7;stroke-opacity:1;enable-background:new"
+       id="rect16633-4-8-2-6-1-8-3-7-8"
+       width="8.753686"
+       height="8.7430058"
+       x="-1113.0782"
+       y="-1742.4662"
+       inkscape:label="#mesh_template"
+       transform="rotate(-90.183606)">
+      <desc
+         id="desc16653-2-1-1-4-9-5-8-9">name = ww2_plane_broken;
+mesh_name = ww2_plane_broken.mesh;
+texture0 = world_atlas1.png; 
+texture0_atlas_cell = 5 1 8 8; 
+collision_model_type = -1; 
+collision_model_size = 8.6 3.0 4.4; collision_model_offset = 0 0 -1;
+walkable = 0;</desc>
     </rect>
   </g>
   <g
@@ -19900,7 +19923,8 @@ backline = 1;</desc>
        style="display:inline"
        inkscape:label="other"
        id="layer16"
-       inkscape:groupmode="layer">
+       inkscape:groupmode="layer"
+       sodipodi:insensitive="true">
       <g
          id="g7955">
         <path
@@ -29175,10 +29199,10 @@ collision_model_type = -1; </desc>
          id="rect14012-1-6-0-8"
          width="4.4000001"
          height="5"
-         x="1266.8461"
-         y="-542.06244"
+         x="630.68384"
+         y="-1231.8009"
          inkscape:label="#mesh"
-         transform="rotate(11.932227)">
+         transform="rotate(51.67668)">
         <desc
            id="desc14014-7-7-5-8">name = contruction_bricks; mesh_name = construction_bricks.mesh; texture0 = mortar_ammunition_crates.png; collision_model_type = 1; collision_model_size = 2.2 2 2.5; walkable = 1;</desc>
       </rect>
@@ -29187,10 +29211,10 @@ collision_model_type = -1; </desc>
          id="rect14012-1-6-0-3"
          width="4.4000001"
          height="5"
-         x="645.38416"
-         y="-1235.203"
+         x="608.21246"
+         y="-1237.4325"
          inkscape:label="#mesh"
-         transform="rotate(51.393585)">
+         transform="rotate(51.677427)">
         <desc
            id="desc14014-7-7-5-9">name = contruction_bricks; mesh_name = construction_bricks.mesh; texture0 = mortar_ammunition_crates.png; collision_model_type = 1; collision_model_size = 2.2 2 2.5; walkable = 1;</desc>
       </rect>
@@ -29199,10 +29223,10 @@ collision_model_type = -1; </desc>
          id="rect14012-1-6-0-5"
          width="4.4000001"
          height="5"
-         x="315.10846"
-         y="1344.3864"
+         x="-612.60986"
+         y="1227.4338"
          inkscape:label="#mesh"
-         transform="rotate(-87.25373)">
+         transform="rotate(-128.32245)">
         <desc
            id="desc14014-7-7-5-35">name = contruction_bricks; mesh_name = construction_bricks.mesh; texture0 = mortar_ammunition_crates.png; collision_model_type = 1; collision_model_size = 2.2 2 2.5; walkable = 1;</desc>
       </rect>
@@ -29211,36 +29235,12 @@ collision_model_type = -1; </desc>
          id="rect14012-1-6-0-6"
          width="4.4000001"
          height="5"
-         x="1391.9962"
-         y="-70.904961"
+         x="602.0199"
+         y="-1230.4927"
          inkscape:label="#mesh"
-         transform="rotate(-7.531755)">
+         transform="rotate(51.966132)">
         <desc
            id="desc14014-7-7-5-6">name = contruction_bricks; mesh_name = construction_bricks.mesh; texture0 = mortar_ammunition_crates.png; collision_model_type = 1; collision_model_size = 2.2 2 2.5; walkable = 1;</desc>
-      </rect>
-      <rect
-         style="display:inline;fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:#00ff00;stroke-width:1;enable-background:new"
-         id="rect14012-1-6-0-4"
-         width="4.4000001"
-         height="5"
-         x="705.07031"
-         y="-1203.4795"
-         inkscape:label="#mesh"
-         transform="rotate(49.651162)">
-        <desc
-           id="desc14014-7-7-5-63">name = contruction_bricks; mesh_name = construction_bricks.mesh; texture0 = mortar_ammunition_crates.png; collision_model_type = 1; collision_model_size = 2.2 2 2.5; walkable = 1;</desc>
-      </rect>
-      <rect
-         style="display:inline;fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:#00ff00;stroke-width:1;enable-background:new"
-         id="rect14012-1-6-0-63"
-         width="4.4000001"
-         height="5"
-         x="1243.5615"
-         y="648.66064"
-         inkscape:label="#mesh"
-         transform="rotate(-37.125104)">
-        <desc
-           id="desc14014-7-7-5-1">name = contruction_bricks; mesh_name = construction_bricks.mesh; texture0 = mortar_ammunition_crates.png; collision_model_type = 1; collision_model_size = 2.2 2 2.5; walkable = 1;</desc>
       </rect>
       <rect
          style="display:inline;fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:#00ff00;stroke-width:1;enable-background:new"
@@ -29357,8 +29357,8 @@ collision_model_type = -1; </desc>
          id="rect11831-6-4-3-6-6-5-8"
          width="6"
          height="16"
-         x="1218.1409"
-         y="595.49377"
+         x="1206.1962"
+         y="654.37909"
          inkscape:label="#mesh"
          transform="rotate(-38.40863)">
         <desc
@@ -29379,8 +29379,8 @@ collision_model_type = -1; </desc>
       <rect
          transform="rotate(89.83359)"
          inkscape:label="#rect"
-         y="-1232.9766"
-         x="-284.01138"
+         y="-1232.778"
+         x="-292.19778"
          height="32"
          width="24"
          id="buildingrect5617-4"
@@ -29390,13 +29390,72 @@ collision_model_type = -1; </desc>
         <desc
            id="desc5621-5">template = military_house; </desc>
       </rect>
+      <rect
+         style="display:inline;fill:#ff6600;fill-opacity:1;fill-rule:nonzero;stroke:none;enable-background:new"
+         id="rect11831-6-4-3-6-6-5-8-7"
+         width="6"
+         height="16"
+         x="1206.2281"
+         y="673.15039"
+         inkscape:label="#mesh"
+         transform="rotate(-38.40863)">
+        <desc
+           id="desc11833-1-2-2-7-8-3-9-0">mesh_name = trunks.mesh; texture0 = trunks.png; collision_model_type = 1; collision_model_size = 3 1.7 8;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:#00ff00;stroke-width:1;enable-background:new"
+         id="rect14012-1-6-0-8-7"
+         width="4.4000001"
+         height="5"
+         x="649.15631"
+         y="-1240.5188"
+         inkscape:label="#mesh"
+         transform="rotate(51.67668)">
+        <desc
+           id="desc14014-7-7-5-8-6">name = contruction_bricks; mesh_name = construction_bricks.mesh; texture0 = mortar_ammunition_crates.png; collision_model_type = 1; collision_model_size = 2.2 2 2.5; walkable = 1;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:#00ff00;stroke-width:1;enable-background:new"
+         id="rect14012-1-6-0-8-7-1"
+         width="4.4000001"
+         height="5"
+         x="637.89838"
+         y="-1223.5503"
+         inkscape:label="#mesh"
+         transform="rotate(51.67668)">
+        <desc
+           id="desc14014-7-7-5-8-6-1">name = contruction_bricks; mesh_name = construction_bricks.mesh; texture0 = mortar_ammunition_crates.png; collision_model_type = 1; collision_model_size = 2.2 2 2.5; walkable = 1;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:#00ff00;stroke-width:1;enable-background:new"
+         id="rect14012-1-6-0-8-7-0"
+         width="4.4000001"
+         height="5"
+         x="650.4035"
+         y="-1229.2648"
+         inkscape:label="#mesh"
+         transform="rotate(51.67668)">
+        <desc
+           id="desc14014-7-7-5-8-6-12">name = contruction_bricks; mesh_name = construction_bricks.mesh; texture0 = mortar_ammunition_crates.png; collision_model_type = 1; collision_model_size = 2.2 2 2.5; walkable = 1;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:#00ff00;stroke-width:1;enable-background:new"
+         id="rect14012-1-6-0-8-7-08"
+         width="4.4000001"
+         height="5"
+         x="636.95795"
+         y="-1240.5879"
+         inkscape:label="#mesh"
+         transform="rotate(51.67668)">
+        <desc
+           id="desc14014-7-7-5-8-6-3">name = contruction_bricks; mesh_name = construction_bricks.mesh; texture0 = mortar_ammunition_crates.png; collision_model_type = 1; collision_model_size = 2.2 2 2.5; walkable = 1;</desc>
+      </rect>
     </g>
     <g
        style="display:inline;opacity:0.44900004"
        inkscape:label="walls"
        id="layer8"
-       inkscape:groupmode="layer"
-       sodipodi:insensitive="true">
+       inkscape:groupmode="layer">
       <path
          inkscape:label=""
          id="wall10582-1"
@@ -32364,8 +32423,8 @@ texture0_atlas_cell = 1 2 4 4;</desc>
        style="display:inline">
       <rect
          inkscape:label="#spawnrect10748"
-         y="955.72076"
-         x="1247.536"
+         y="714.50171"
+         x="1197.8489"
          height="2.0679491"
          width="2.2977724"
          id="rect10748-1-0-1-7-76-86-1-8-76-9-4-7-6"
@@ -33138,8 +33197,8 @@ collision_model_size =0.4 8.5 0.4;</desc>
          id="rect11831-6-4-3-6-6-5-8-6-6"
          width="6"
          height="16"
-         x="645.3197"
-         y="1425.7908"
+         x="645.43805"
+         y="1423.5587"
          inkscape:label="#mesh"
          transform="rotate(-38.374228)">
         <desc
