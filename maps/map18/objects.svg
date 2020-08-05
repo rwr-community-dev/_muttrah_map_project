@@ -30,9 +30,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8284271"
-     inkscape:cx="1219.2978"
-     inkscape:cy="867.91081"
+     inkscape:zoom="2"
+     inkscape:cx="956.22695"
+     inkscape:cy="1174.8282"
      inkscape:document-units="px"
      inkscape:current-layer="layer16"
      showgrid="true"
@@ -20435,22 +20435,6 @@ backline = 1;</desc>
              id="desc7945-3-9-7-6-96-0-1-94">type = start; mode = dock;</desc>
         </path>
       </g>
-      <rect
-         style="display:inline;fill:#816153;fill-opacity:1;fill-rule:nonzero;stroke:none;enable-background:new"
-         id="rect10536"
-         width="11.718749"
-         height="48.437496"
-         x="54.64888"
-         y="1220.6543"
-         inkscape:label="#mesh"
-         transform="rotate(-41.643518)">
-        <title
-           id="title10538">footbridge</title>
-        <desc
-           id="desc10540">name = footbridge.mesh; 
-texture0 = world_atlas1.png; texture0_atlas_cell = 7 9 16 16;
-collision_model_type = 1; collision_model_size = 4 3 22; collision_model_offset = 0 0 11; walkable = 1;</desc>
-      </rect>
       <g
          transform="translate(-27.125503,222.84665)"
          style="display:inline;enable-background:new"
@@ -26366,8 +26350,8 @@ collision_model_type = 1; collision_model_size = 4 3 22; collision_model_offset 
       </rect>
       <rect
          inkscape:label="#rect"
-         y="-777.17041"
-         x="466.60022"
+         y="-778.14374"
+         x="446.37692"
          height="52"
          width="52"
          id="buildingrect64-2-4-23-36-8-2-14-3-1-6"
@@ -29055,7 +29039,7 @@ collision_model_type = -1; </desc>
          inkscape:label="post"
          inkscape:connector-curvature="0"
          id="path6989-17-4-5-8-8-0-0-6-8-12-03-8-3-4-1-8-9-0-1-9-3-0-5"
-         d="m 1298.1049,-467.96607 -87.3946,-18.34281 -23.1711,124.34854 -4.6795,25.06661 -12.3953,70.04735 -26.5184,15.60828 -27.4253,6.72371 -57.3019,12.56478 -53.3856,-41.33981 -38.66311,15.35333 -55.01379,-4.7334 -19.7226,44.1787 -24.4561,38.6564 22.91316,26.17798 9.2594,56.46485"
+         d="m 1298.1049,-467.96607 -87.3946,-18.34281 -23.1711,124.34854 -4.6795,25.06661 -12.3953,70.04735 -26.5184,15.60828 -27.4253,6.72371 -57.3019,12.56478 -53.3856,-41.33981 -38.66311,15.35333 -55.01379,-4.7334 -19.7226,44.1787 -24.4561,38.6564 22.91316,26.17798 -1.3472,40.55495"
          style="display:inline;fill:none;stroke:#9d7b00;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new">
         <desc
            id="desc103044-4-0">post_template = post1_4;</desc>
@@ -30637,289 +30621,13 @@ merge = 1;</desc>
       </rect>
       <rect
          style="display:inline;fill:#cccccc;fill-opacity:1;enable-background:new"
-         id="use9624-1-80-2-2-2-2-7-9-48-9-3"
-         width="2"
-         height="3.4000001"
-         x="-1191.8152"
-         y="1380.7856"
-         inkscape:label="#mesh"
-         transform="rotate(-91.652819)">
-        <desc
-           id="desc5775-4-9-6-4-3-8-9-35">template = rock_s4;</desc>
-      </rect>
-      <rect
-         style="display:inline;fill:#cccccc;fill-opacity:1;enable-background:new"
-         id="use9624-1-80-2-2-2-5-1-1-2-0-73"
-         width="3.5999999"
-         height="3.8"
-         x="-1699.5671"
-         y="679.43866"
-         inkscape:label="#mesh"
-         transform="rotate(-118.64415)">
-        <desc
-           id="desc5775-4-9-6-3-7-3-2-5-3">template = rock_s2;</desc>
-      </rect>
-      <rect
-         style="display:inline;fill:#cccccc;fill-opacity:1;enable-background:new"
-         id="use9624-18-1-4-1-1-9-7-1-7"
-         width="3.5"
-         height="5.4000001"
-         x="1795.4631"
-         y="260.16092"
-         inkscape:label="#mesh"
-         transform="rotate(31.399789)">
-        <desc
-           id="desc5775-4-7-9-4-7-6-3-4-5">template = rock_s1;</desc>
-      </rect>
-      <rect
-         style="display:inline;fill:#cccccc;fill-opacity:1;enable-background:new"
-         id="use9624-18-1-4-00-4-3-4-0-19"
-         width="3.5999999"
-         height="3.4000001"
-         x="-1450.6152"
-         y="1101.7185"
-         inkscape:label="#mesh"
-         transform="rotate(-103.22284)">
-        <desc
-           id="desc5775-4-7-9-9-0-0-8-9-4">template = rock_s3;</desc>
-      </rect>
-      <rect
-         style="display:inline;fill:#cccccc;fill-opacity:1;enable-background:new"
-         id="use9624-1-80-2-2-2-5-5-2-3-9-9-2"
-         width="5"
-         height="5.5999999"
-         x="-1557.0599"
-         y="924.78101"
-         inkscape:label="#mesh"
-         transform="rotate(-109.73093)">
-        <desc
-           id="desc5775-4-9-6-3-9-7-8-8-0-01">template = rock_m2;</desc>
-      </rect>
-      <rect
-         style="display:inline;fill:#cccccc;fill-opacity:1;enable-background:new"
-         id="use9624-1-80-2-2-2-5-5-7-4-2-8-5-59"
-         width="5"
-         height="7.1999998"
-         x="372.45422"
-         y="1763.0049"
-         inkscape:label="#mesh"
-         transform="rotate(-38.133749)">
-        <desc
-           id="desc5775-4-9-6-3-9-0-2-4-5-1-2-0">template = rock_m1;</desc>
-      </rect>
-      <rect
-         style="display:inline;fill:#cccccc;fill-opacity:1;enable-background:new"
-         id="use9624-18-1-4-0-4-9-2-3-5-3"
-         width="5"
-         height="5"
-         x="-1797.2817"
-         y="233.30379"
-         inkscape:label="#mesh"
-         transform="rotate(-133.52452)">
-        <desc
-           id="desc5775-4-7-9-2-80-4-2-4-2-75">template = rock_m3;</desc>
-      </rect>
-      <rect
-         style="display:inline;fill:#cccccc;fill-opacity:1;enable-background:new"
-         id="use9624-18-1-4-0-7-8-4-6-2-0"
-         width="3.2"
-         height="4.1999998"
-         x="-616.70331"
-         y="1713.1307"
-         inkscape:label="#mesh"
-         transform="rotate(-70.390816)">
-        <desc
-           id="desc5775-4-7-9-2-1-8-3-5-2-2">template = rock_m4;</desc>
-      </rect>
-      <rect
-         style="display:inline;fill:#cccccc;fill-opacity:1;enable-background:new"
-         id="use9624-1-80-2-2-0-2-1-7-3"
-         width="4.5999999"
-         height="4.8000002"
-         x="-190.44443"
-         y="-1804.7894"
-         inkscape:label="#mesh"
-         transform="rotate(135.22329)">
-        <desc
-           id="desc5775-4-9-9-1-1-7-5-3">template = rock_b4;</desc>
-      </rect>
-      <rect
-         style="display:inline;fill:#cccccc;fill-opacity:1;enable-background:new"
-         id="use9624-50-2-3-0-4-9"
-         width="8"
-         height="10"
-         x="-1761.9448"
-         y="-368.95706"
-         inkscape:label="#mesh"
-         transform="rotate(-151.57434)">
-        <desc
-           id="desc5775-4-9-61-1-3-4-0-59">template = rock_b1;</desc>
-      </rect>
-      <rect
-         style="display:inline;fill:#cccccc;fill-opacity:1;enable-background:new"
-         id="use9624-18-9-7-2-1-8-9-3"
-         width="6.4000001"
-         height="7.5999999"
-         x="-1714.28"
-         y="558.48193"
-         inkscape:label="#mesh"
-         transform="rotate(-122.17348)">
-        <desc
-           id="desc5775-4-5-6-4-6-0-1-94">template = rock_b2;</desc>
-      </rect>
-      <rect
-         style="display:inline;fill:#cccccc;fill-opacity:1;enable-background:new"
-         id="use9624-18-9-7-7-5-5-8-8-85"
-         width="6.8000002"
-         height="6.5999999"
-         x="989.44916"
-         y="-1508.8354"
-         inkscape:label="#mesh"
-         transform="rotate(95.821147)">
-        <desc
-           id="desc5775-4-5-6-6-5-8-6-9-73">template = rock_b3;</desc>
-      </rect>
-      <rect
-         style="display:inline;fill:#cccccc;fill-opacity:1;enable-background:new"
-         id="use9624-18-9-0-9-2-5-24-8-93"
-         width="10.486447"
-         height="10.68864"
-         x="-1202.7061"
-         y="1323.4965"
-         inkscape:label="#mesh"
-         transform="rotate(-92.32095)">
-        <desc
-           id="desc5775-4-5-9-5-9-2-55-3-3">template = rock_h1;</desc>
-      </rect>
-      <rect
-         style="display:inline;fill:#cccccc;fill-opacity:1;enable-background:new"
-         id="use9624-18-9-0-9-2-5-1-1-5-6"
-         width="10.486447"
-         height="10.68864"
-         x="-1795.8905"
-         y="48.336597"
-         inkscape:label="#mesh"
-         transform="rotate(-138.99932)">
-        <desc
-           id="desc5775-4-5-9-5-9-2-95-1-0-9">template = rock_h2;</desc>
-      </rect>
-      <rect
-         style="display:inline;fill:#cccccc;fill-opacity:1;enable-background:new"
-         id="use9624-18-17-5-17-4-97"
-         width="2.603924"
-         height="2.7171383"
-         x="-1690.6741"
-         y="655.10925"
-         inkscape:label="#mesh"
-         transform="rotate(-118.63302)">
-        <desc
-           id="desc5775-4-4-1-1-2-8">template = stone_1;</desc>
-      </rect>
-      <rect
-         style="display:inline;fill:#cccccc;fill-opacity:1;enable-background:new"
-         id="use9624-18-17-5-4-1-6-217"
-         width="2.603924"
-         height="2.7171383"
-         x="-1700.0695"
-         y="667.41278"
-         inkscape:label="#mesh"
-         transform="rotate(-118.63302)">
-        <desc
-           id="desc5775-4-4-1-3-5-4-07">template = stone_2;</desc>
-      </rect>
-      <rect
-         style="display:inline;fill:#cccccc;fill-opacity:1;enable-background:new"
-         id="use9624-18-17-5-5-2-0-63"
-         width="2.603924"
-         height="2.7171383"
-         x="-1705.9438"
-         y="680.59619"
-         inkscape:label="#mesh"
-         transform="rotate(-118.63302)">
-        <desc
-           id="desc5775-4-4-1-0-7-8-8">template = stone_3;</desc>
-      </rect>
-      <rect
-         style="display:inline;fill:#cccccc;fill-opacity:1;enable-background:new"
-         id="use9624-18-17-5-8-6-2-96"
-         width="2.603924"
-         height="2.7171383"
-         x="-1700.032"
-         y="690.28998"
-         inkscape:label="#mesh"
-         transform="rotate(-118.63302)">
-        <desc
-           id="desc5775-4-4-1-09-1-6-6">template = stone_4;</desc>
-      </rect>
-      <rect
-         style="display:inline;fill:#cccccc;fill-opacity:1;enable-background:new"
-         id="use9624-18-17-5-1-4-9-5"
-         width="2.603924"
-         height="2.7171383"
-         x="-1691.054"
-         y="699.35187"
-         inkscape:label="#mesh"
-         transform="rotate(-118.63302)">
-        <desc
-           id="desc5775-4-4-1-30-2-8-9">template = stone_5;</desc>
-      </rect>
-      <rect
-         transform="rotate(-93.041308)"
-         inkscape:label="#mesh"
-         y="1329.9907"
-         x="-1205.7932"
-         height="10.68864"
-         width="10.486447"
-         id="use9624-18-9-0-9-2-5-1-1-1-0-53"
-         style="display:inline;fill:#cccccc;fill-opacity:1;enable-background:new">
-        <desc
-           id="desc5775-4-5-9-5-9-2-95-1-9-6-5">template = rock_h3;</desc>
-      </rect>
-      <rect
-         transform="rotate(-45.463189)"
-         inkscape:label="#mesh"
-         y="1789.2456"
-         x="180.95435"
-         height="10.68864"
-         width="10.486447"
-         id="use9624-18-9-0-9-2-5-1-1-1-1-8-5"
-         style="display:inline;fill:#cccccc;fill-opacity:1;enable-background:new">
-        <desc
-           id="desc5775-4-5-9-5-9-2-95-1-9-61-7-2">template = rock_h4;</desc>
-      </rect>
-      <rect
-         style="display:inline;fill:#cccccc;fill-opacity:1;enable-background:new"
-         id="use9624-1-80-2-2-2-5-5-7-4-2-8-5-5-7"
-         width="5"
-         height="7.1999998"
-         x="381.58411"
-         y="1772.4008"
-         inkscape:label="#mesh"
-         transform="rotate(-38.927505)">
-        <desc
-           id="desc5775-4-9-6-3-9-0-2-4-5-1-2-6-0">template = rock_m1;</desc>
-      </rect>
-      <rect
-         style="display:inline;fill:#cccccc;fill-opacity:1;enable-background:new"
-         id="use9624-50-2-3-0-4-4-3"
-         width="8"
-         height="10"
-         x="800.80029"
-         y="-1635.7638"
-         inkscape:label="#mesh"
-         transform="rotate(102.26106)">
-        <desc
-           id="desc5775-4-9-61-1-3-4-0-0-1">template = rock_b1;</desc>
-      </rect>
-      <rect
-         style="display:inline;fill:#cccccc;fill-opacity:1;enable-background:new"
          id="use9624-1-80-2-2-2-2-7-9-48-9-3-0"
          width="2"
          height="3.4000001"
-         x="830.92004"
-         y="1299.683"
+         x="964.94714"
+         y="1198.9568"
          inkscape:label="#mesh"
-         transform="rotate(-14.369812)">
+         transform="rotate(-8.1669605)">
         <desc
            id="desc5775-4-9-6-4-3-8-9-35-3">template = rock_s4;</desc>
       </rect>
@@ -30928,10 +30636,10 @@ merge = 1;</desc>
          id="use9624-1-80-2-2-2-5-1-1-2-0-73-0"
          width="3.5999999"
          height="3.8"
-         x="138.82831"
-         y="1524.4327"
+         x="303.97141"
+         y="1495.5071"
          inkscape:label="#mesh"
-         transform="rotate(-41.361152)">
+         transform="rotate(-35.1583)">
         <desc
            id="desc5775-4-9-6-3-7-3-2-5-3-1">template = rock_s2;</desc>
       </rect>
@@ -30940,10 +30648,10 @@ merge = 1;</desc>
          id="use9624-18-1-4-1-1-9-7-1-7-6"
          width="3.5"
          height="5.4000001"
-         x="624.26733"
-         y="-1391.0017"
+         x="466.74243"
+         y="-1448.4021"
          inkscape:label="#mesh"
-         transform="rotate(108.68281)">
+         transform="rotate(114.88566)">
         <desc
            id="desc5775-4-7-9-4-7-6-3-4-5-2">template = rock_s1;</desc>
       </rect>
@@ -30952,10 +30660,10 @@ merge = 1;</desc>
          id="use9624-18-1-4-00-4-3-4-0-19-4"
          width="3.5999999"
          height="3.4000001"
-         x="547.28473"
-         y="1427.9547"
+         x="698.79034"
+         y="1356.1566"
          inkscape:label="#mesh"
-         transform="rotate(-25.939842)">
+         transform="rotate(-19.73699)">
         <desc
            id="desc5775-4-7-9-9-0-0-8-9-4-7">template = rock_s3;</desc>
       </rect>
@@ -30964,10 +30672,10 @@ merge = 1;</desc>
          id="use9624-1-80-2-2-2-5-5-2-3-9-9-2-4"
          width="5"
          height="5.5999999"
-         x="390.98831"
-         y="1475.3635"
+         x="549.65546"
+         y="1421.2006"
          inkscape:label="#mesh"
-         transform="rotate(-32.447932)">
+         transform="rotate(-26.24508)">
         <desc
            id="desc5775-4-9-6-3-9-7-8-8-0-01-5">template = rock_m2;</desc>
       </rect>
@@ -30976,10 +30684,10 @@ merge = 1;</desc>
          id="use9624-1-80-2-2-2-5-5-7-4-2-8-5-59-3"
          width="5"
          height="7.1999998"
-         x="1509.8713"
-         y="88.394737"
+         x="1508.5684"
+         y="-79.257385"
          inkscape:label="#mesh"
-         transform="rotate(39.149268)">
+         transform="rotate(45.35212)">
         <desc
            id="desc5775-4-9-6-3-9-0-2-4-5-1-2-0-6">template = rock_m1;</desc>
       </rect>
@@ -30988,10 +30696,10 @@ merge = 1;</desc>
          id="use9624-18-1-4-0-4-9-2-3-5-3-4"
          width="5"
          height="5"
-         x="-236.93694"
-         y="1523.0161"
+         x="-69.904007"
+         y="1537.4698"
          inkscape:label="#mesh"
-         transform="rotate(-56.241522)">
+         transform="rotate(-50.03867)">
         <desc
            id="desc5775-4-7-9-2-80-4-2-4-2-75-4">template = rock_m3;</desc>
       </rect>
@@ -31000,10 +30708,10 @@ merge = 1;</desc>
          id="use9624-18-1-4-0-7-8-4-6-2-0-5"
          width="3.2"
          height="4.1999998"
-         x="1238.9377"
-         y="904.0379"
+         x="1327.3148"
+         y="761.56549"
          inkscape:label="#mesh"
-         transform="rotate(6.8921983)">
+         transform="rotate(13.09505)">
         <desc
            id="desc5775-4-7-9-2-1-8-3-5-2-2-2">template = rock_m4;</desc>
       </rect>
@@ -31012,10 +30720,10 @@ merge = 1;</desc>
          id="use9624-1-80-2-2-0-2-1-7-3-3"
          width="4.5999999"
          height="4.8000002"
-         x="-1513.9473"
-         y="-273.00128"
+         x="-1532.0472"
+         y="-106.32404"
          inkscape:label="#mesh"
-         transform="rotate(-147.49371)">
+         transform="rotate(-141.29086)">
         <desc
            id="desc5775-4-9-9-1-1-7-5-3-7">template = rock_b4;</desc>
       </rect>
@@ -31024,10 +30732,10 @@ merge = 1;</desc>
          id="use9624-50-2-3-0-4-9-6"
          width="8"
          height="10"
-         x="-677.99799"
-         y="1340.7488"
+         x="-523.66345"
+         y="1406.2457"
          inkscape:label="#mesh"
-         transform="rotate(-74.291342)">
+         transform="rotate(-68.08849)">
         <desc
            id="desc5775-4-9-61-1-3-4-0-59-0">template = rock_b1;</desc>
       </rect>
@@ -31036,10 +30744,10 @@ merge = 1;</desc>
          id="use9624-18-9-7-2-1-8-9-3-9"
          width="6.4000001"
          height="7.5999999"
-         x="69.385246"
-         y="1515.8607"
+         x="235.99579"
+         y="1497.1559"
          inkscape:label="#mesh"
-         transform="rotate(-44.890482)">
+         transform="rotate(-38.68763)">
         <desc
            id="desc5775-4-5-6-4-6-0-1-94-5">template = rock_b2;</desc>
       </rect>
@@ -31048,10 +30756,10 @@ merge = 1;</desc>
          id="use9624-18-9-7-7-5-5-8-8-85-7"
          width="6.8000002"
          height="6.5999999"
-         x="-1005.5516"
-         y="-1165.313"
+         x="-1125.3376"
+         y="-1048.0094"
          inkscape:label="#mesh"
-         transform="rotate(173.10415)">
+         transform="rotate(179.307)">
         <desc
            id="desc5775-4-5-6-6-5-8-6-9-73-1">template = rock_b3;</desc>
       </rect>
@@ -31060,10 +30768,10 @@ merge = 1;</desc>
          id="use9624-18-9-0-9-2-5-24-8-93-6"
          width="10.486447"
          height="10.68864"
-         x="820.8371"
-         y="1265.9862"
+         x="956.0296"
+         y="1166.8297"
          inkscape:label="#mesh"
-         transform="rotate(-15.037942)">
+         transform="rotate(-8.8350905)">
         <desc
            id="desc5775-4-5-9-5-9-2-55-3-3-0">template = rock_h1;</desc>
       </rect>
@@ -31072,10 +30780,10 @@ merge = 1;</desc>
          id="use9624-18-9-0-9-2-5-1-1-5-6-4"
          width="10.486447"
          height="10.68864"
-         x="-365.71216"
-         y="1481.035"
+         x="-200.82005"
+         y="1511.3588"
          inkscape:label="#mesh"
-         transform="rotate(-61.716322)">
+         transform="rotate(-55.51347)">
         <desc
            id="desc5775-4-5-9-5-9-2-95-1-0-9-8">template = rock_h2;</desc>
       </rect>
@@ -31084,10 +30792,10 @@ merge = 1;</desc>
          id="use9624-18-17-5-17-4-97-3"
          width="2.603924"
          height="2.7171383"
-         x="148.7083"
-         y="1500.5134"
+         x="313.84576"
+         y="1471.556"
          inkscape:label="#mesh"
-         transform="rotate(-41.350022)">
+         transform="rotate(-35.14717)">
         <desc
            id="desc5775-4-4-1-1-2-8-3">template = stone_1;</desc>
       </rect>
@@ -31096,10 +30804,10 @@ merge = 1;</desc>
          id="use9624-18-17-5-4-1-6-217-3"
          width="2.603924"
          height="2.7171383"
-         x="139.31291"
-         y="1512.8169"
+         x="304.45038"
+         y="1483.8595"
          inkscape:label="#mesh"
-         transform="rotate(-41.350022)">
+         transform="rotate(-35.14717)">
         <desc
            id="desc5775-4-4-1-3-5-4-07-7">template = stone_2;</desc>
       </rect>
@@ -31108,10 +30816,10 @@ merge = 1;</desc>
          id="use9624-18-17-5-5-2-0-63-6"
          width="2.603924"
          height="2.7171383"
-         x="130.71759"
-         y="1524.2366"
+         x="296.37341"
+         y="1496.7142"
          inkscape:label="#mesh"
-         transform="rotate(-41.350022)">
+         transform="rotate(-35.14717)">
         <desc
            id="desc5775-4-4-1-0-7-8-8-2">template = stone_3;</desc>
       </rect>
@@ -31120,10 +30828,10 @@ merge = 1;</desc>
          id="use9624-18-17-5-8-6-2-96-5"
          width="2.603924"
          height="2.7171383"
-         x="139.35039"
-         y="1535.6941"
+         x="304.48785"
+         y="1506.7367"
          inkscape:label="#mesh"
-         transform="rotate(-41.350022)">
+         transform="rotate(-35.14717)">
         <desc
            id="desc5775-4-4-1-09-1-6-6-5">template = stone_4;</desc>
       </rect>
@@ -31132,18 +30840,18 @@ merge = 1;</desc>
          id="use9624-18-17-5-1-4-9-5-9"
          width="2.603924"
          height="2.7171383"
-         x="148.32841"
-         y="1544.756"
+         x="313.46588"
+         y="1515.7986"
          inkscape:label="#mesh"
-         transform="rotate(-41.350022)">
+         transform="rotate(-35.14717)">
         <desc
            id="desc5775-4-4-1-30-2-8-9-5">template = stone_5;</desc>
       </rect>
       <rect
-         transform="rotate(-15.758302)"
+         transform="rotate(-9.5554505)"
          inkscape:label="#mesh"
-         y="1297.9253"
-         x="818.31238"
+         y="1200.4764"
+         x="954.74054"
          height="10.68864"
          width="10.486447"
          id="use9624-18-9-0-9-2-5-1-1-1-0-53-3"
@@ -31152,10 +30860,10 @@ merge = 1;</desc>
            id="desc5775-4-5-9-5-9-2-95-1-9-6-5-6">template = rock_h3;</desc>
       </rect>
       <rect
-         transform="rotate(31.819828)"
+         transform="rotate(38.02268)"
          inkscape:label="#mesh"
-         y="273.42358"
-         x="1522.7146"
+         y="106.97517"
+         x="1542.8103"
          height="10.68864"
          width="10.486447"
          id="use9624-18-9-0-9-2-5-1-1-1-1-8-5-1"
@@ -31168,10 +30876,10 @@ merge = 1;</desc>
          id="use9624-1-80-2-2-2-5-5-7-4-2-8-5-5-7-8"
          width="5"
          height="7.1999998"
-         x="1542.0903"
-         y="113.70842"
+         x="1543.1101"
+         y="-53.945667"
          inkscape:label="#mesh"
-         transform="rotate(38.355508)">
+         transform="rotate(44.55836)">
         <desc
            id="desc5775-4-9-6-3-9-0-2-4-5-1-2-6-0-8">template = rock_m1;</desc>
       </rect>
@@ -31180,10 +30888,10 @@ merge = 1;</desc>
          id="use9624-50-2-3-0-4-4-3-1"
          width="8"
          height="10"
-         x="-1143.0819"
-         y="-1070.6478"
+         x="-1248.9553"
+         y="-940.64862"
          inkscape:label="#mesh"
-         transform="rotate(179.54406)">
+         transform="rotate(-174.25309)">
         <desc
            id="desc5775-4-9-61-1-3-4-0-0-1-4">template = rock_b1;</desc>
       </rect>
@@ -32793,8 +32501,8 @@ texture0_atlas_cell = 1 2 4 4;</desc>
       </rect>
       <rect
          inkscape:label="#rect"
-         y="-140.04771"
-         x="1271.715"
+         y="-141.02106"
+         x="1251.4917"
          height="20"
          width="30"
          id="buildingrect64-2-4-23-36-8-2-14-3-1-6-6"
@@ -32805,8 +32513,8 @@ texture0_atlas_cell = 1 2 4 4;</desc>
       </rect>
       <rect
          inkscape:label="#rect"
-         y="-1316.7148"
-         x="-165.04781"
+         y="-1296.4916"
+         x="-166.02115"
          height="20"
          width="30"
          id="buildingrect64-2-4-23-36-8-2-14-3-1-6-6-0"
@@ -32817,8 +32525,8 @@ texture0_atlas_cell = 1 2 4 4;</desc>
       </rect>
       <rect
          inkscape:label="#rect"
-         y="-1316.7148"
-         x="-125.0478"
+         y="-1296.4916"
+         x="-126.02113"
          height="20"
          width="30"
          id="buildingrect64-2-4-23-36-8-2-14-3-1-6-6-8"
@@ -32829,8 +32537,8 @@ texture0_atlas_cell = 1 2 4 4;</desc>
       </rect>
       <rect
          inkscape:label="#rect"
-         y="-140.04771"
-         x="1311.715"
+         y="-141.02106"
+         x="1291.4917"
          height="20"
          width="30"
          id="buildingrect64-2-4-23-36-8-2-14-3-1-6-6-3"
@@ -35181,8 +34889,8 @@ height = 0.9; </desc>
          id="spawn1-70-3-9-5-9"
          width="5.7888808"
          height="6.6684999"
-         x="104.67262"
-         y="1291.39"
+         x="106.52328"
+         y="1271.228"
          inkscape:label=""
          transform="rotate(-39.830526)">
         <desc
@@ -35193,8 +34901,8 @@ height = 0.9; </desc>
          id="spawn1-70-3-9-5-0"
          width="5.7888808"
          height="6.6684999"
-         x="-862.67712"
-         y="-1039.8859"
+         x="-851.84039"
+         y="-1022.7834"
          inkscape:label=""
          transform="rotate(177.77358)">
         <desc
@@ -35205,8 +34913,8 @@ height = 0.9; </desc>
          id="spawn1-70-3-9-5-6"
          width="5.7888808"
          height="6.6684999"
-         x="-1013.3995"
-         y="794.84491"
+         x="-996.12628"
+         y="784.28253"
          inkscape:label=""
          transform="rotate(-93.140686)">
         <desc
