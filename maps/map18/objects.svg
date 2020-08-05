@@ -30,11 +30,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="4"
-     inkscape:cx="1257.8707"
-     inkscape:cy="894.69096"
+     inkscape:zoom="22.627417"
+     inkscape:cx="1281.0401"
+     inkscape:cy="906.07568"
      inkscape:document-units="px"
-     inkscape:current-layer="layer19"
+     inkscape:current-layer="layer16"
      showgrid="true"
      inkscape:window-width="1673"
      inkscape:window-height="921"
@@ -20714,7 +20714,7 @@ collision_model_type = 1; collision_model_size = 4 3 22; collision_model_offset 
          id="g7745-1">
         <path
            style="fill:none;stroke:#ff0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           d="m 1334.8787,952.07128 -11.6682,-17.68495 23.8588,-17.94054 -30.8952,-3.68391 -2.0214,-3.06334 8.7685,-29.85334 -25.8804,14.87703 -11.8056,-17.89319"
+           d="m 1334.8787,952.07128 -11.6682,-17.68495 23.8588,-17.94054 -29.4572,-2.63785 -3.855,-5.84282 9.1641,-28.11992 -25.8804,14.87703 -11.8056,-17.89319"
            id="path7943-7-8-7-9-1-6"
            inkscape:connector-curvature="0"
            inkscape:label="#path7943_platform"
@@ -20724,7 +20724,7 @@ collision_model_type = 1; collision_model_size = 4 3 22; collision_model_offset 
         </path>
         <path
            style="display:inline;fill:none;stroke:#0000ff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new"
-           d="m 1296.388,977.75111 -11.7991,-17.88332 -25.8804,14.8771 8.2472,-29.50953 -1.6774,-2.5423 -30.7179,-4.54875 23.859,-17.94033 -11.8077,-17.90685"
+           d="m 1296.388,977.75111 -11.7991,-17.88332 -25.8804,14.8771 9.1641,-28.11981 -3.8518,-5.83794 -29.4604,-2.64283 23.859,-17.94033 -11.8077,-17.90685"
            id="path7943-1-0-5-6-5-6-5"
            inkscape:connector-curvature="0"
            inkscape:label="#path7943_platform"
