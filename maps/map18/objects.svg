@@ -30,11 +30,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="4"
-     inkscape:cx="1163.2275"
-     inkscape:cy="1096.137"
+     inkscape:zoom="5.6568542"
+     inkscape:cx="1271.9726"
+     inkscape:cy="901.97338"
      inkscape:document-units="px"
-     inkscape:current-layer="layer18"
+     inkscape:current-layer="layer16"
      showgrid="true"
      inkscape:window-width="1673"
      inkscape:window-height="921"
@@ -131,6 +131,203 @@
        position="1399.6052,1161.7827"
        orientation="16.172642,-20.412787"
        id="guide9200"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1234.1379,1078.0264"
+       orientation="-0.80083474,-0.59888539"
+       id="guide7737"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1228.0015,1086.0656"
+       orientation="0.59888384,-0.80083591"
+       id="guide7739"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="1265.4509,1114.0711"
+       orientation="-0.80083463,-0.59888555"
+       id="guide7741"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1272.6174,1104.488"
+       orientation="-0.59888503,0.80083501"
+       id="guide7743"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1270.83,1094.3833"
+       orientation="-0.59888819,0.80083265"
+       id="guide7745"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1251.7558,1098.2252"
+       orientation="-0.59888374,0.80083598"
+       id="guide7789"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1231.78,1069.499"
+       orientation="-0.59888555,0.80083462"
+       id="guide7791"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1242.6326,1091.4026"
+       orientation="0.8008346,0.59888558"
+       id="guide7793"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1237.1794,1134.8656"
+       orientation="-0.80083432,-0.59888596"
+       id="guide7795"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1276.9883,917.5126"
+       orientation="15.1604,10.0025"
+       id="guide7880"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1286.9908,902.3522"
+       orientation="17.7928,-3.6471"
+       id="guide7882"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1283.3437,884.5594"
+       orientation="10.0026,-15.1604"
+       id="guide7884"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1268.1833,874.5568"
+       orientation="-3.6472,-17.7929"
+       id="guide7886"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1250.3904,878.204"
+       orientation="-15.1604,-10.0025"
+       id="guide7888"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1246.2702,922.06181"
+       orientation="-17.7928,3.6471"
+       id="guide7890"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1244.035,911.1572"
+       orientation="-10.0026,15.1604"
+       id="guide7892"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1259.1954,921.1598"
+       orientation="3.6472,17.7929"
+       id="guide7894"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1246.6139,923.73876"
+       orientation="0.83469337,0.55071497"
+       id="guide7952"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1237.809,880.78294"
+       orientation="-0.55071477,0.8346935"
+       id="guide11657"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1275.7636,881.75651"
+       orientation="1.3335334,-2.0211991"
+       id="guide11718"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1273.7424,880.42297"
+       orientation="3.0634742,2.0211988"
+       id="guide11720"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1275.7636,877.3595"
+       orientation="-1.3335334,2.0211991"
+       id="guide11722"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1277.7848,878.69303"
+       orientation="-3.0634742,-2.0211988"
+       id="guide11724"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1251.6152,918.35703"
+       orientation="1.3335641,-2.0212154"
+       id="guide11804"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1249.594,917.02346"
+       orientation="3.0634603,2.0212198"
+       id="guide11806"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1251.6152,913.96"
+       orientation="-1.3335641,2.0212154"
+       id="guide11808"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1253.6364,915.29357"
+       orientation="-3.0634603,-2.0212198"
+       id="guide11810"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1233.3151,906.28292"
+       orientation="1.3335641,-2.0212154"
+       id="guide11812"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1231.2939,904.94935"
+       orientation="3.0634603,2.0212198"
+       id="guide11814"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1233.3151,901.88589"
+       orientation="-1.3335641,2.0212154"
+       id="guide11816"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1235.3363,903.21946"
+       orientation="-3.0634603,-2.0212198"
+       id="guide11818"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1294.0636,893.83079"
+       orientation="1.3335641,-2.0212154"
+       id="guide11820"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1292.0423,892.49722"
+       orientation="3.0634603,2.0212198"
+       id="guide11822"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1294.0636,889.43376"
+       orientation="-1.3335641,2.0212154"
+       id="guide11824"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1296.0848,890.76733"
+       orientation="-3.0634603,-2.0212198"
+       id="guide11826"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1237.809,882.98145"
+       orientation="1.3335641,-2.0212154"
+       id="guide11830"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1235.7878,881.64789"
+       orientation="3.0634603,2.0212198"
+       id="guide11832"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1237.809,878.58443"
+       orientation="-1.3335641,2.0212154"
+       id="guide11834"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1239.8302,879.91799"
+       orientation="-3.0634603,-2.0212198"
+       id="guide11836"
        inkscape:locked="false" />
   </sodipodi:namedview>
   <defs
@@ -20495,6 +20692,47 @@ backline = 1;</desc>
              id="desc7945-3-9-7-6-96-0-1-94">type = start; mode = dock;</desc>
         </path>
       </g>
+      <rect
+         style="display:inline;fill:#816153;fill-opacity:1;fill-rule:nonzero;stroke:none;enable-background:new"
+         id="rect10536"
+         width="11.718749"
+         height="48.437496"
+         x="54.64888"
+         y="1220.6543"
+         inkscape:label="#mesh"
+         transform="rotate(-41.643518)">
+        <title
+           id="title10538">footbridge</title>
+        <desc
+           id="desc10540">name = footbridge.mesh; 
+texture0 = world_atlas1.png; texture0_atlas_cell = 7 9 16 16;
+collision_model_type = 1; collision_model_size = 4 3 22; collision_model_offset = 0 0 11; walkable = 1;</desc>
+      </rect>
+      <g
+         transform="translate(-27.125503,222.84665)"
+         style="display:inline;enable-background:new"
+         id="g7745-1">
+        <path
+           style="fill:none;stroke:#ff0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 1339.9421,959.7455 -16.7316,-25.35917 23.8588,-17.94054 -30.8952,-3.68391 -2.0214,-3.06334 8.7685,-29.85334 -25.8804,14.87703 -16.7316,-25.35918"
+           id="path7943-7-8-7-9-1-6"
+           inkscape:connector-curvature="0"
+           inkscape:label="#path7943_platform"
+           sodipodi:nodetypes="cccccccc">
+          <desc
+             id="desc7945-4-9-3-2-6-3">type = deck_end; height = 4.0; wall_height = 1.0; wall_template = StoneWallCastle1; top_material = pavement; separator_height = 1.0;</desc>
+        </path>
+        <path
+           style="display:inline;fill:none;stroke:#0000ff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new"
+           d="m 1301.3205,985.227 -16.7316,-25.35921 -25.8804,14.8771 8.2472,-29.50953 -1.6774,-2.5423 -30.7179,-4.54875 23.859,-17.94033 -16.7317,-25.35937"
+           id="path7943-1-0-5-6-5-6-5"
+           inkscape:connector-curvature="0"
+           inkscape:label="#path7943_platform"
+           sodipodi:nodetypes="cccccccc">
+          <desc
+             id="desc7945-3-9-9-1-5-0-2">type = deck_start;</desc>
+        </path>
+      </g>
     </g>
     <g
        transform="translate(0,1024)"
@@ -26828,10 +27066,10 @@ backline = 1;</desc>
            id="desc6778-0-6-8-0-31-2">template = concrete_barrier;</desc>
       </rect>
       <rect
-         transform="rotate(-126.14528)"
+         transform="rotate(-126.79026)"
          inkscape:label="#rect"
-         y="1055.7013"
-         x="-660.81433"
+         y="1048.4272"
+         x="-672.75598"
          height="17.486217"
          width="41.219261"
          id="buildingrect6881"
@@ -27383,16 +27621,6 @@ backline = 1;</desc>
         <desc
            id="desc17475">height=4; material = BuildingWhite1; offset = 0 -0.2 0;</desc>
       </path>
-      <path
-         sodipodi:nodetypes="cccc"
-         inkscape:label="#path8894"
-         inkscape:connector-curvature="0"
-         id="wallpath8894-6-0"
-         d="m 1323.6338,-89.307999 12.2777,6.13254 6.4013,-5.00781 7.9878,10.21404"
-         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;stroke:#0000c7;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:new">
-        <desc
-           id="desc8896-1-4">template = PlatformFence1;</desc>
-      </path>
       <rect
          transform="rotate(-38.38908)"
          inkscape:label="#rect27318"
@@ -27773,22 +28001,22 @@ offset = 0 0 23.5;
          id="rect16633-4-8-2-6-1-8-3-7-8-3-93"
          width="8.753686"
          height="8.7430058"
-         x="1270.4127"
-         y="225.95053"
+         x="1271.0497"
+         y="-164.80104"
          inkscape:label="#mesh"
-         transform="rotate(-0.18360578)">
+         transform="rotate(17.783435)">
         <desc
            id="desc16653-2-1-1-4-9-5-8-9-0-1">template = ww2_plane_broken;</desc>
       </rect>
       <rect
          inkscape:label="#mesh"
-         y="-1261.3735"
-         x="295.51224"
+         y="-1284.1753"
+         x="-94.573982"
          height="3.5088625"
          width="14.724792"
          id="rect4-7-2-7-52-4-5-6-7-9-12-80-7-3-0"
          style="display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
-         transform="rotate(86.564489)">
+         transform="rotate(104.53153)">
         <desc
            id="desc6099-8-8-7-8-1-8-5-1-6-6-3-0-27-9-2">mesh_name = container.mesh;
 texture0 = alpha.png;
@@ -27801,13 +28029,13 @@ alpha_blend = 1;</desc>
       </rect>
       <rect
          inkscape:label="#mesh"
-         y="246.46205"
-         x="1263.1191"
+         y="-144.22964"
+         x="1269.9868"
          height="3.5088625"
          width="14.724792"
          id="rect4-7-2-7-52-4-5-6-7-9-12-3-7-4-2-40"
          style="display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
-         transform="rotate(-1.0972801)">
+         transform="rotate(16.869761)">
         <desc
            id="desc6099-8-8-7-8-1-8-5-1-6-6-3-4-2-3-9-57">mesh_name = container.mesh;
 texture0 = alpha.png;
@@ -27823,22 +28051,22 @@ alpha_blend = 1;</desc>
          id="rect16633-4-8-2-6-1-8-3-7-8-3-4"
          width="8.753686"
          height="8.7430058"
-         x="465.77689"
-         y="1283.891"
+         x="66.20182"
+         y="1367.9926"
          inkscape:label="#mesh"
-         transform="rotate(-62.859126)">
+         transform="rotate(-80.016463)">
         <desc
            id="desc16653-2-1-1-4-9-5-8-9-0-4">template = ww2_plane_broken;</desc>
       </rect>
       <rect
          inkscape:label="#mesh"
-         y="-398.02066"
-         x="1306.1055"
+         y="5.6817231"
+         x="1367.4053"
          height="3.5088625"
          width="14.724792"
          id="rect4-7-2-7-52-4-5-6-7-9-12-80-7-3-41"
          style="display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
-         transform="rotate(23.888969)">
+         transform="rotate(6.7316319)">
         <desc
            id="desc6099-8-8-7-8-1-8-5-1-6-6-3-0-27-9-4">mesh_name = container.mesh;
 texture0 = alpha.png;
@@ -27851,13 +28079,13 @@ alpha_blend = 1;</desc>
       </rect>
       <rect
          inkscape:label="#mesh"
-         y="1291.4373"
-         x="441.71561"
+         y="1369.1565"
+         x="40.850327"
          height="3.5088625"
          width="14.724792"
          id="rect4-7-2-7-52-4-5-6-7-9-12-3-7-4-2-42"
          style="display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
-         transform="rotate(-63.7728)">
+         transform="rotate(-80.930137)">
         <desc
            id="desc6099-8-8-7-8-1-8-5-1-6-6-3-4-2-3-9-579">mesh_name = container.mesh;
 texture0 = alpha.png;
@@ -27873,8 +28101,8 @@ alpha_blend = 1;</desc>
          id="rect16633-4-8-2-6-1-8-3-7-8-3-5"
          width="8.753686"
          height="8.7430058"
-         x="972.9649"
-         y="911.03314"
+         x="968.06885"
+         y="936.33698"
          inkscape:label="#mesh"
          transform="rotate(-34.247235)">
         <desc
@@ -27882,8 +28110,8 @@ alpha_blend = 1;</desc>
       </rect>
       <rect
          inkscape:label="#mesh"
-         y="-925.54248"
-         x="962.61871"
+         y="-919.21887"
+         x="987.60413"
          height="3.5088625"
          width="14.724792"
          id="rect4-7-2-7-52-4-5-6-7-9-12-80-7-3-2"
@@ -27901,8 +28129,8 @@ alpha_blend = 1;</desc>
       </rect>
       <rect
          inkscape:label="#mesh"
-         y="926.71429"
-         x="954.78467"
+         y="951.93689"
+         x="949.48572"
          height="3.5088625"
          width="14.724792"
          id="rect4-7-2-7-52-4-5-6-7-9-12-3-7-4-2-9"
@@ -30669,8 +30897,8 @@ merge = 1;</desc>
          id="use9624-1-80-2-2-2-2-7-9-48-9-3"
          width="2"
          height="3.4000001"
-         x="-1220.5034"
-         y="1268.2635"
+         x="-1159.281"
+         y="1356.7219"
          inkscape:label="#mesh"
          transform="rotate(-91.652819)">
         <desc
@@ -30681,8 +30909,8 @@ merge = 1;</desc>
          id="use9624-1-80-2-2-2-5-1-1-2-0-73"
          width="3.5999999"
          height="3.8"
-         x="-1674.0618"
-         y="566.15271"
+         x="-1659.6553"
+         y="672.7619"
          inkscape:label="#mesh"
          transform="rotate(-118.64415)">
         <desc
@@ -30693,8 +30921,8 @@ merge = 1;</desc>
          id="use9624-18-1-4-1-1-9-7-1-7"
          width="3.5"
          height="5.4000001"
-         x="1716.7972"
-         y="345.57709"
+         x="1757.5492"
+         y="246.0163"
          inkscape:label="#mesh"
          transform="rotate(31.399789)">
         <desc
@@ -30705,8 +30933,8 @@ merge = 1;</desc>
          id="use9624-18-1-4-00-4-3-4-0-19"
          width="3.5999999"
          height="3.4000001"
-         x="-1456.1526"
-         y="985.72894"
+         x="-1413.9158"
+         y="1084.6689"
          inkscape:label="#mesh"
          transform="rotate(-103.22284)">
         <desc
@@ -30717,8 +30945,8 @@ merge = 1;</desc>
          id="use9624-1-80-2-2-2-5-5-2-3-9-9-2"
          width="5"
          height="5.5999999"
-         x="-1549.4148"
-         y="808.91125"
+         x="-1518.6644"
+         y="912.00098"
          inkscape:label="#mesh"
          transform="rotate(-109.73093)">
         <desc
@@ -30729,8 +30957,8 @@ merge = 1;</desc>
          id="use9624-1-80-2-2-2-5-5-7-4-2-8-5-59"
          width="5"
          height="7.1999998"
-         x="264.92358"
-         y="1719.171"
+         x="372.44904"
+         y="1722.5383"
          inkscape:label="#mesh"
          transform="rotate(-38.133749)">
         <desc
@@ -30741,8 +30969,8 @@ merge = 1;</desc>
          id="use9624-18-1-4-0-4-9-2-3-5-3"
          width="5"
          height="5"
-         x="-1743.5397"
-         y="130.36679"
+         x="-1756.9938"
+         y="237.10037"
          inkscape:label="#mesh"
          transform="rotate(-133.52452)">
         <desc
@@ -30753,8 +30981,8 @@ merge = 1;</desc>
          id="use9624-18-1-4-0-7-8-4-6-2-0"
          width="3.2"
          height="4.1999998"
-         x="-684.2431"
-         y="1618.6711"
+         x="-595.10999"
+         y="1678.907"
          inkscape:label="#mesh"
          transform="rotate(-70.390816)">
         <desc
@@ -30765,8 +30993,8 @@ merge = 1;</desc>
          id="use9624-1-80-2-2-0-2-1-7-3"
          width="4.5999999"
          height="4.8000002"
-         x="-88.706444"
-         y="-1748.8107"
+         x="-195.12051"
+         y="-1764.594"
          inkscape:label="#mesh"
          transform="rotate(135.22329)">
         <desc
@@ -30777,8 +31005,8 @@ merge = 1;</desc>
          id="use9624-50-2-3-0-4-9"
          width="8"
          height="10"
-         x="-1678.953"
-         y="-450.17664"
+         x="-1724.8157"
+         y="-352.86435"
          inkscape:label="#mesh"
          transform="rotate(-151.57434)">
         <desc
@@ -30789,8 +31017,8 @@ merge = 1;</desc>
          id="use9624-18-9-7-2-1-8-9-3"
          width="6.4000001"
          height="7.5999999"
-         x="-1681.8491"
-         y="446.9809"
+         x="-1674.0328"
+         y="554.27478"
          inkscape:label="#mesh"
          transform="rotate(-122.17348)">
         <desc
@@ -30801,8 +31029,8 @@ merge = 1;</desc>
          id="use9624-18-9-7-7-5-5-8-8-85"
          width="6.8000002"
          height="6.5999999"
-         x="1032.53"
-         y="-1401.001"
+         x="960.32147"
+         y="-1480.7443"
          inkscape:label="#mesh"
          transform="rotate(95.821147)">
         <desc
@@ -30813,8 +31041,8 @@ merge = 1;</desc>
          id="use9624-18-9-0-9-2-5-24-8-93"
          width="10.486447"
          height="10.68864"
-         x="-1230.0802"
-         y="1210.6475"
+         x="-1169.8934"
+         y="1299.8137"
          inkscape:label="#mesh"
          transform="rotate(-92.32095)">
         <desc
@@ -30825,8 +31053,8 @@ merge = 1;</desc>
          id="use9624-18-9-0-9-2-5-1-1-5-6"
          width="10.486447"
          height="10.68864"
-         x="-1732.5724"
-         y="-49.003399"
+         x="-1756.1484"
+         y="55.959652"
          inkscape:label="#mesh"
          transform="rotate(-138.99932)">
         <desc
@@ -30837,8 +31065,8 @@ merge = 1;</desc>
          id="use9624-18-17-5-17-4-97"
          width="2.603924"
          height="2.7171383"
-         x="-1665.1904"
-         y="541.8183"
+         x="-1650.7634"
+         y="648.42468"
          inkscape:label="#mesh"
          transform="rotate(-118.63302)">
         <desc
@@ -30849,8 +31077,8 @@ merge = 1;</desc>
          id="use9624-18-17-5-4-1-6-217"
          width="2.603924"
          height="2.7171383"
-         x="-1674.5858"
-         y="554.12183"
+         x="-1660.1588"
+         y="660.72821"
          inkscape:label="#mesh"
          transform="rotate(-118.63302)">
         <desc
@@ -30861,8 +31089,8 @@ merge = 1;</desc>
          id="use9624-18-17-5-5-2-0-63"
          width="2.603924"
          height="2.7171383"
-         x="-1680.4602"
-         y="567.30524"
+         x="-1666.0332"
+         y="673.91162"
          inkscape:label="#mesh"
          transform="rotate(-118.63302)">
         <desc
@@ -30873,8 +31101,8 @@ merge = 1;</desc>
          id="use9624-18-17-5-8-6-2-96"
          width="2.603924"
          height="2.7171383"
-         x="-1674.5483"
-         y="576.99902"
+         x="-1660.1213"
+         y="683.60541"
          inkscape:label="#mesh"
          transform="rotate(-118.63302)">
         <desc
@@ -30885,8 +31113,8 @@ merge = 1;</desc>
          id="use9624-18-17-5-1-4-9-5"
          width="2.603924"
          height="2.7171383"
-         x="-1665.5703"
-         y="586.06091"
+         x="-1651.1433"
+         y="692.6673"
          inkscape:label="#mesh"
          transform="rotate(-118.63302)">
         <desc
@@ -30895,8 +31123,8 @@ merge = 1;</desc>
       <rect
          transform="rotate(-93.041308)"
          inkscape:label="#mesh"
-         y="1216.8064"
-         x="-1231.7465"
+         y="1306.7223"
+         x="-1172.6855"
          height="10.68864"
          width="10.486447"
          id="use9624-18-9-0-9-2-5-1-1-1-0-53"
@@ -30907,8 +31135,8 @@ merge = 1;</desc>
       <rect
          transform="rotate(-45.463189)"
          inkscape:label="#mesh"
-         y="1732.0519"
-         x="79.894341"
+         y="1749.109"
+         x="186.11168"
          height="10.68864"
          width="10.486447"
          id="use9624-18-9-0-9-2-5-1-1-1-1-8-5"
@@ -30921,8 +31149,8 @@ merge = 1;</desc>
          id="use9624-1-80-2-2-2-5-5-7-4-2-8-5-5-7"
          width="5"
          height="7.1999998"
-         x="274.67099"
-         y="1727.0815"
+         x="382.1395"
+         y="1731.938"
          inkscape:label="#mesh"
          transform="rotate(-38.927505)">
         <desc
@@ -30933,8 +31161,8 @@ merge = 1;</desc>
          id="use9624-50-2-3-0-4-4-3"
          width="8"
          height="10"
-         x="855.70416"
-         y="-1533.4417"
+         x="775.00714"
+         y="-1604.5828"
          inkscape:label="#mesh"
          transform="rotate(102.26106)">
         <desc
@@ -30945,8 +31173,8 @@ merge = 1;</desc>
          id="use9624-1-80-2-2-2-2-7-9-48-9-3-0"
          width="2"
          height="3.4000001"
-         x="1170.1534"
-         y="-1209.3387"
+         x="1097.9016"
+         y="-1274.2537"
          inkscape:label="#mesh"
          transform="rotate(88.347181)">
         <desc
@@ -30957,8 +31185,8 @@ merge = 1;</desc>
          id="use9624-1-80-2-2-2-5-1-1-2-0-73-0"
          width="3.5999999"
          height="3.8"
-         x="1580.6671"
-         y="-556.56384"
+         x="1545.7473"
+         y="-647.19989"
          inkscape:label="#mesh"
          transform="rotate(61.355843)">
         <desc
@@ -30969,8 +31197,8 @@ merge = 1;</desc>
          id="use9624-18-1-4-1-1-9-7-1-7-6"
          width="3.5"
          height="5.4000001"
-         x="-1663.7405"
-         y="-306.89383"
+         x="-1678.7435"
+         y="-210.92924"
          inkscape:label="#mesh"
          transform="rotate(-148.6002)">
         <desc
@@ -30981,8 +31209,8 @@ merge = 1;</desc>
          id="use9624-18-1-4-00-4-3-4-0-19-4"
          width="3.5999999"
          height="3.4000001"
-         x="1382.848"
-         y="-962.04608"
+         x="1325.084"
+         y="-1040.1333"
          inkscape:label="#mesh"
          transform="rotate(76.777153)">
         <desc
@@ -30993,8 +31221,8 @@ merge = 1;</desc>
          id="use9624-1-80-2-2-2-5-5-2-3-9-9-2-4"
          width="5"
          height="5.5999999"
-         x="1492.0582"
-         y="-804.52991"
+         x="1443.5172"
+         y="-888.66113"
          inkscape:label="#mesh"
          transform="rotate(70.269063)">
         <desc
@@ -31005,8 +31233,8 @@ merge = 1;</desc>
          id="use9624-1-80-2-2-2-5-5-7-4-2-8-5-59-3"
          width="5"
          height="7.1999998"
-         x="-305.82712"
-         y="-1676.1193"
+         x="-400.98004"
+         y="-1656.6202"
          inkscape:label="#mesh"
          transform="rotate(141.86626)">
         <desc
@@ -31017,8 +31245,8 @@ merge = 1;</desc>
          id="use9624-18-1-4-0-4-9-2-3-5-3-4"
          width="5"
          height="5"
-         x="1690.3545"
-         y="-118.87857"
+         x="1679.8812"
+         y="-215.44257"
          inkscape:label="#mesh"
          transform="rotate(46.475473)">
         <desc
@@ -31029,8 +31257,8 @@ merge = 1;</desc>
          id="use9624-18-1-4-0-7-8-4-6-2-0-5"
          width="3.2"
          height="4.1999998"
-         x="645.22522"
-         y="-1557.2168"
+         x="554.35095"
+         y="-1591.5122"
          inkscape:label="#mesh"
          transform="rotate(109.60919)">
         <desc
@@ -31041,8 +31269,8 @@ merge = 1;</desc>
          id="use9624-1-80-2-2-0-2-1-7-3-3"
          width="4.5999999"
          height="4.8000002"
-         x="85.438095"
-         y="1689.7103"
+         x="182.2079"
+         y="1681.3497"
          inkscape:label="#mesh"
          transform="rotate(-44.776717)">
         <desc
@@ -31053,8 +31281,8 @@ merge = 1;</desc>
          id="use9624-50-2-3-0-4-9-6"
          width="8"
          height="10"
-         x="1663.1776"
-         y="376.81506"
+         x="1683.1394"
+         y="281.75818"
          inkscape:label="#mesh"
          transform="rotate(28.425653)">
         <desc
@@ -31065,8 +31293,8 @@ merge = 1;</desc>
          id="use9624-18-9-7-2-1-8-9-3-9"
          width="6.4000001"
          height="7.5999999"
-         x="1635.8209"
-         y="-473.24695"
+         x="1606.547"
+         y="-565.86078"
          inkscape:label="#mesh"
          transform="rotate(57.826513)">
         <desc
@@ -31077,8 +31305,8 @@ merge = 1;</desc>
          id="use9624-18-9-7-7-5-5-8-8-85-7"
          width="6.8000002"
          height="6.5999999"
-         x="-1015.5402"
-         y="1366.5183"
+         x="-935.45831"
+         y="1421.4835"
          inkscape:label="#mesh"
          transform="rotate(-84.178853)">
         <desc
@@ -31089,8 +31317,8 @@ merge = 1;</desc>
          id="use9624-18-9-0-9-2-5-24-8-93-6"
          width="10.486447"
          height="10.68864"
-         x="1189.3047"
-         y="-1238.9094"
+         x="1117.8146"
+         y="-1304.6625"
          inkscape:label="#mesh"
          transform="rotate(87.67905)">
         <desc
@@ -31101,8 +31329,8 @@ merge = 1;</desc>
          id="use9624-18-9-0-9-2-5-1-1-5-6-4"
          width="10.486447"
          height="10.68864"
-         x="1709.4373"
-         y="30.509073"
+         x="1708.2247"
+         y="-66.613655"
          inkscape:label="#mesh"
          transform="rotate(41.000673)">
         <desc
@@ -31113,8 +31341,8 @@ merge = 1;</desc>
          id="use9624-18-17-5-17-4-97-3"
          width="2.603924"
          height="2.7171383"
-         x="1589.3204"
-         y="-581.53033"
+         x="1554.3831"
+         y="-672.15961"
          inkscape:label="#mesh"
          transform="rotate(61.366973)">
         <desc
@@ -31125,8 +31353,8 @@ merge = 1;</desc>
          id="use9624-18-17-5-4-1-6-217-3"
          width="2.603924"
          height="2.7171383"
-         x="1579.925"
-         y="-569.22687"
+         x="1544.9877"
+         y="-659.85614"
          inkscape:label="#mesh"
          transform="rotate(61.366973)">
         <desc
@@ -31137,8 +31365,8 @@ merge = 1;</desc>
          id="use9624-18-17-5-5-2-0-63-6"
          width="2.603924"
          height="2.7171383"
-         x="1574.0507"
-         y="-556.0434"
+         x="1539.1133"
+         y="-646.67267"
          inkscape:label="#mesh"
          transform="rotate(61.366973)">
         <desc
@@ -31149,8 +31377,8 @@ merge = 1;</desc>
          id="use9624-18-17-5-8-6-2-96-5"
          width="2.603924"
          height="2.7171383"
-         x="1579.9625"
-         y="-546.34967"
+         x="1545.0251"
+         y="-636.97894"
          inkscape:label="#mesh"
          transform="rotate(61.366973)">
         <desc
@@ -31161,8 +31389,8 @@ merge = 1;</desc>
          id="use9624-18-17-5-1-4-9-5-9"
          width="2.603924"
          height="2.7171383"
-         x="1588.9406"
-         y="-537.28778"
+         x="1554.0032"
+         y="-627.91705"
          inkscape:label="#mesh"
          transform="rotate(61.366973)">
         <desc
@@ -31171,8 +31399,8 @@ merge = 1;</desc>
       <rect
          transform="rotate(86.958692)"
          inkscape:label="#mesh"
-         y="-1202.1396"
-         x="1218.2433"
+         y="-1268.7864"
+         x="1147.5854"
          height="10.68864"
          width="10.486447"
          id="use9624-18-9-0-9-2-5-1-1-1-0-53-3"
@@ -31183,8 +31411,8 @@ merge = 1;</desc>
       <rect
          transform="rotate(134.53682)"
          inkscape:label="#mesh"
-         y="-1708.3088"
-         x="-53.041046"
+         y="-1701.1083"
+         x="-149.90407"
          height="10.68864"
          width="10.486447"
          id="use9624-18-9-0-9-2-5-1-1-1-1-8-5-1"
@@ -31197,8 +31425,8 @@ merge = 1;</desc>
          id="use9624-1-80-2-2-2-5-5-7-4-2-8-5-5-7-8"
          width="5"
          height="7.1999998"
-         x="-248.98923"
-         y="-1675.7896"
+         x="-344.40317"
+         y="-1657.6106"
          inkscape:label="#mesh"
          transform="rotate(141.0725)">
         <desc
@@ -31209,8 +31437,8 @@ merge = 1;</desc>
          id="use9624-50-2-3-0-4-4-3-1"
          width="8"
          height="10"
-         x="-869.03442"
-         y="1446.3282"
+         x="-783.29291"
+         y="1491.9646"
          inkscape:label="#mesh"
          transform="rotate(-77.738943)">
         <desc
@@ -32685,8 +32913,8 @@ texture0_atlas_cell = 1 2 4 4;</desc>
        style="display:inline">
       <rect
          inkscape:label="#spawnrect10748"
-         y="811.47101"
-         x="1015.9585"
+         y="955.72076"
+         x="1247.536"
          height="2.0679491"
          width="2.2977724"
          id="rect10748-1-0-1-7-76-86-1-8-76-9-4-7-6"
@@ -33297,8 +33525,8 @@ collision_model_size =0.4 8.5 0.4;</desc>
       <rect
          transform="rotate(0.55420551)"
          inkscape:label="#mesh_template"
-         y="909.70959"
-         x="1252.1792"
+         y="908.51154"
+         x="1251.0686"
          height="4.4000001"
          width="4.4000001"
          id="rect1000000-61-6-06-2-1-1-7"
@@ -34043,23 +34271,48 @@ height = 0.9; </desc>
          id="g7745">
         <path
            style="fill:none;stroke:#ff0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-           d="m 1264.5388,948.70088 1.2328,-6.27114 -4.3601,-5.87788 -6.1686,-0.32119"
+           d="m 1270.83,953.61673 1.7874,-10.10476 -7.1665,-9.58308"
            id="path7943-7-8-7-9-1"
            inkscape:connector-curvature="0"
            inkscape:label="#path7943_platform"
-           sodipodi:nodetypes="cccc">
+           sodipodi:nodetypes="ccc">
           <desc
-             id="desc7945-4-9-3-2-6">type = deck_end; height = 7.0; wall_height = 7.5; wall_template = StoneWallCastle1; top_material = pavement; separator_height = 0.3;</desc>
+             id="desc7945-4-9-3-2-6">type = deck_end; height = 7.0; wall_height = 7.8; wall_template = StoneWallCastle1; top_material = pavement; separator_height = 0.3;</desc>
         </path>
         <path
            style="display:inline;fill:none;stroke:#0000ff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new"
-           d="m 1259.0894,951.92753 -6.341,-0.4989 -4.1186,-5.89363 1.7517,-5.84718"
+           d="m 1246.4347,972.17828 -11.1868,-0.7204 -7.2464,-9.52345"
            id="path7943-1-0-5-6-5-6"
+           inkscape:connector-curvature="0"
+           inkscape:label="#path7943_platform"
+           sodipodi:nodetypes="ccc">
+          <desc
+             id="desc7945-3-9-9-1-5-0">type = deck_start;</desc>
+        </path>
+      </g>
+      <g
+         transform="translate(14.373403,202.13583)"
+         style="display:inline;enable-background:new"
+         id="g7745-4">
+        <path
+           style="fill:none;stroke:#ff0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 1268.9703,961.30477 3.6471,-17.7928 -10.0025,-15.1604 -17.7929,-3.6472"
+           id="path7943-7-8-7-9-1-3"
            inkscape:connector-curvature="0"
            inkscape:label="#path7943_platform"
            sodipodi:nodetypes="cccc">
           <desc
-             id="desc7945-3-9-9-1-5-0">type = deck_start;</desc>
+             id="desc7945-4-9-3-2-6-4">type = deck_end; height = 7.0; wall_height = 7.8; wall_template = StoneWallCastle1; top_material = pavement; separator_height = 0.3;</desc>
+        </path>
+        <path
+           style="display:inline;fill:none;stroke:#0000ff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new"
+           d="m 1253.8099,971.30737 -17.7929,-3.6472 -10.0025,-15.1604 3.6471,-17.7928"
+           id="path7943-1-0-5-6-5-6-26"
+           inkscape:connector-curvature="0"
+           inkscape:label="#path7943_platform"
+           sodipodi:nodetypes="cccc">
+          <desc
+             id="desc7945-3-9-9-1-5-0-5">type = deck_start;</desc>
         </path>
       </g>
     </g>
@@ -34253,6 +34506,15 @@ height = 0.9; </desc>
          width="6"
          id="rect7651-13-5-8-6-4-4-7-3-9-0-3-2-0-9-1-5-6-5-5-5-9"
          style="display:inline;opacity:0.79775277;fill:#2cffe7;fill-opacity:1;fill-rule:nonzero;stroke:none;enable-background:new" />
+      <rect
+         transform="rotate(-175.67794)"
+         inkscape:label="#ladder"
+         y="-878.92358"
+         x="-1312.9811"
+         height="2.25"
+         width="6"
+         id="rect7651-13-5-8-6-4-4-7-3-9-0-3-2-0-9-1-5-6-5-5-9-1"
+         style="display:inline;opacity:0.79775277;fill:#2cffe7;fill-opacity:1;fill-rule:nonzero;stroke:none;enable-background:new" />
     </g>
     <g
        inkscape:groupmode="layer"
@@ -34390,6 +34652,31 @@ height = 0.9; </desc>
         <desc
            id="desc10894-2">mesh_name = container.mesh; texture0 = alpha.png; collision_model_type = 1; collision_model_size = 3.5 4.0 1.2; walkable = 0; texture0 = alpha.png; alpha_blend = 1:</desc>
       </rect>
+      <g
+         transform="translate(7.4224732,-5.5506864)"
+         style="display:inline;enable-background:new"
+         id="g7745-7">
+        <path
+           style="fill:none;stroke:#ff0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 1258.6967,958.37194 -6.6127,-8.84257"
+           id="path7943-7-8-7-9-1-2"
+           inkscape:connector-curvature="0"
+           inkscape:label="#path7943_platform"
+           sodipodi:nodetypes="cc">
+          <desc
+             id="desc7945-4-9-3-2-6-8">type = deck_end; height = 4.0; wall_height = 4.8; wall_template = StoneWallCastle1; top_material = pavement; separator_height = 0.7;</desc>
+        </path>
+        <path
+           style="display:inline;fill:none;stroke:#0000ff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new"
+           d="m 1241.8228,970.99066 -6.6127,-8.84261"
+           id="path7943-1-0-5-6-5-6-2"
+           inkscape:connector-curvature="0"
+           inkscape:label="#path7943_platform"
+           sodipodi:nodetypes="cc">
+          <desc
+             id="desc7945-3-9-9-1-5-0-9">type = deck_start;</desc>
+        </path>
+      </g>
     </g>
     <g
        inkscape:label="vehicles"
@@ -35208,6 +35495,20 @@ height = 0.9; </desc>
 key = prison_hatch.vehicle; 
 </desc>
       </rect>
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer27"
+       inkscape:label="ladders">
+      <rect
+         transform="rotate(-126.78915)"
+         inkscape:label="#ladder"
+         y="419.04691"
+         x="-1517.9762"
+         height="2.25"
+         width="6"
+         id="rect7651-13-5-8-6-4-4-7-3-9-0-3-2-0-9-1-5-6-5-5-9-1-9"
+         style="display:inline;opacity:0.79775277;fill:#2cffe7;fill-opacity:1;fill-rule:nonzero;stroke:none;enable-background:new" />
     </g>
   </g>
   <g
