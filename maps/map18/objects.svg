@@ -30,11 +30,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="11.313708"
-     inkscape:cx="1388.8139"
-     inkscape:cy="1322.6593"
+     inkscape:zoom="5.6568542"
+     inkscape:cx="1372.6733"
+     inkscape:cy="1187.1877"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer12"
      showgrid="true"
      inkscape:window-width="1673"
      inkscape:window-height="921"
@@ -91,6 +91,11 @@
        position="1410.4317,1293.361"
        orientation="-3.4656647,-2.7109746"
        id="guide7869"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1421.9769,1169.1769"
+       orientation="-0.62010776,0.78451664"
+       id="guide8067"
        inkscape:locked="false" />
   </sodipodi:namedview>
   <defs
@@ -29566,8 +29571,8 @@ alpha_blend = 1;</desc>
          id="rect14012-1-6-0-8-7-08-5-1"
          width="4.4000001"
          height="5"
-         x="654.7608"
-         y="-1268.58"
+         x="654.76068"
+         y="-1263.58"
          inkscape:label="#mesh"
          transform="rotate(51.67668)">
         <desc
@@ -29578,8 +29583,8 @@ alpha_blend = 1;</desc>
          id="rect14012-1-6-0-8-7-08-5-8"
          width="4.4000001"
          height="5"
-         x="654.78613"
-         y="-1278.5798"
+         x="654.78619"
+         y="-1283.5798"
          inkscape:label="#mesh"
          transform="rotate(51.67668)">
         <desc
@@ -33316,8 +33321,8 @@ collision_model_size =0.4 8.5 0.4;</desc>
       <rect
          transform="rotate(0.55420551)"
          inkscape:label="#mesh_template"
-         y="856.81573"
-         x="1423.7885"
+         y="862.82788"
+         x="1428.2108"
          height="4.4000001"
          width="4.4000001"
          id="rect1000000-61-6-06-2-1-1-7-4"
@@ -33421,6 +33426,42 @@ collision_model_size =0.4 8.5 0.4;</desc>
          style="display:inline;fill:#855e00;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:2.79999995;stroke-dasharray:6.00000014, 1.99999997;stroke-dashoffset:1.60000002;stroke-opacity:1;enable-background:new">
         <desc
            id="desc6925-5-6-8-3-5-76-8-2-5-3-7">template = chairset_chair;</desc>
+      </rect>
+      <rect
+         transform="rotate(-128.32384)"
+         inkscape:label="#mesh"
+         y="561.43646"
+         x="-1596.42"
+         height="17.6"
+         width="10.6"
+         id="rect39769-1"
+         style="display:inline;opacity:0.95999995;fill:#d94e4e;fill-opacity:1;stroke:#000000;stroke-width:1;enable-background:new">
+        <title
+           id="title39771-1">crane_collision</title>
+        <desc
+           id="desc39773-9">mesh_name = container.mesh; 
+texture0 = alpha.png; 
+collision_model_type = 1; 
+collision_model_size = 5.8 1.8 8.8; 
+walkable = 1; 
+texture0 = alpha.png; 
+alpha_blend = 1; 
+penetrability = 0.0; 
+see_through = 0;</desc>
+      </rect>
+      <rect
+         transform="rotate(0.55420551)"
+         inkscape:label="#mesh_template"
+         y="855.24152"
+         x="1437.6199"
+         height="4.4000001"
+         width="4.4000001"
+         id="rect1000000-61-6-06-2-1-1-7-4-7"
+         style="display:inline;fill:#aa0000;fill-opacity:1;stroke:#000000;stroke-width:0.99999976;stroke-opacity:1;enable-background:new"
+         rx="2.2"
+         ry="2.2">
+        <desc
+           id="desc7569-86-7-2-83-7-9-4-6-28">name = factorychimney; mesh_name = chimney.mesh; texture0 = chimney.png; collision_model_type = 0; collision_model_size = 2.2 11.0 2.2;</desc>
       </rect>
     </g>
     <g
