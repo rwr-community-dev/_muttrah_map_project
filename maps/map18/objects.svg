@@ -30,11 +30,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="11.313708"
-     inkscape:cx="1367.8092"
-     inkscape:cy="1313.9656"
+     inkscape:zoom="2.828427"
+     inkscape:cx="1236.3847"
+     inkscape:cy="1268.3342"
      inkscape:document-units="px"
-     inkscape:current-layer="layer24"
+     inkscape:current-layer="layer2"
      showgrid="true"
      inkscape:window-width="1673"
      inkscape:window-height="921"
@@ -33169,8 +33169,8 @@ collision_model_size =0.4 8.5 0.4;</desc>
          id="rect11831-6-4-3-6-6-5-8-6-6"
          width="6"
          height="16"
-         x="645.40649"
-         y="1413.3291"
+         x="645.42639"
+         y="1412.7346"
          inkscape:label="#mesh"
          transform="rotate(-38.374228)">
         <desc
@@ -33295,6 +33295,18 @@ see_through = 0;</desc>
         <desc
            id="desc7569-86-7-2-83-7-9-4-6-28">name = factorychimney; mesh_name = chimney.mesh; texture0 = chimney.png; collision_model_type = 0; collision_model_size = 2.2 11.0 2.2;</desc>
       </rect>
+      <rect
+         inkscape:label="#rect"
+         y="-143.74446"
+         x="1273.8282"
+         height="25.446884"
+         width="25.326542"
+         id="buildingrect64-2-4-23-36-8-2-14-3-1-6-9"
+         style="display:inline;fill:#b4754b;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:4.17003727;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:new"
+         transform="rotate(52.658446)">
+        <desc
+           id="desc9346-0-2-5-7-2-4-8-0-5-79-7-8-0-04">height=3; material = BuildingDesert; roof_type = flat; offset = 0 0.01 0; </desc>
+      </rect>
     </g>
     <g
        style="display:inline"
@@ -33340,6 +33352,17 @@ see_through = 0;</desc>
          inkscape:label="#wall30280">
         <desc
            id="desc30282-3">template = SandbagWall1; 
+height = 0.9; </desc>
+      </path>
+      <path
+         style="display:inline;fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+         d="m 1204.8129,883.20558 -10.4723,-14.76361 5.6261,-4.03341"
+         id="path30280-2-8"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccc"
+         inkscape:label="#wall30280">
+        <desc
+           id="desc30282-3-3">template = SandbagWall1; 
 height = 0.9; </desc>
       </path>
     </g>
@@ -34177,8 +34200,8 @@ height = 0.9; </desc>
          id="rect9322-1-3-77-1-6-7"
          width="6.3042655"
          height="10.138712"
-         x="274.57834"
-         y="-1348.7236"
+         x="275.27612"
+         y="-1348.7605"
          inkscape:label="#mesh"
          transform="rotate(103.29152)">
         <title
