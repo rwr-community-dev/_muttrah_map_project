@@ -31,8 +31,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="11.313708"
-     inkscape:cx="1362.4493"
-     inkscape:cy="1273.5292"
+     inkscape:cx="1388.8139"
+     inkscape:cy="1322.6593"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -76,6 +76,21 @@
        position="1348.3561,1301.5475"
        orientation="0.78452056,0.6201028"
        id="guide7721"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1403.7825,1293.746"
+       orientation="3.4656647,2.7109746"
+       id="guide7865"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1406.4934,1290.2803"
+       orientation="-3.0806358,3.9382335"
+       id="guide7867"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1410.4317,1293.361"
+       orientation="-3.4656647,-2.7109746"
+       id="guide7869"
        inkscape:locked="false" />
   </sodipodi:namedview>
   <defs
@@ -27749,75 +27764,25 @@ offset = 0 0 23.5;
       </rect>
       <rect
          style="display:inline;fill:#0000ff;fill-opacity:1;fill-rule:nonzero;stroke:#ff00ff;stroke-width:1.00000131;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:7;stroke-opacity:1;enable-background:new"
-         id="rect16633-4-8-2-6-1-8-3-7-8-3-93"
-         width="8.753686"
-         height="8.7430058"
-         x="1271.0497"
-         y="-164.80104"
-         inkscape:label="#mesh"
-         transform="rotate(17.783435)">
-        <desc
-           id="desc16653-2-1-1-4-9-5-8-9-0-1">template = ww2_plane_broken;</desc>
-      </rect>
-      <rect
-         inkscape:label="#mesh"
-         y="-1284.1753"
-         x="-94.573982"
-         height="3.5088625"
-         width="14.724792"
-         id="rect4-7-2-7-52-4-5-6-7-9-12-80-7-3-0"
-         style="display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
-         transform="rotate(104.53153)">
-        <desc
-           id="desc6099-8-8-7-8-1-8-5-1-6-6-3-0-27-9-2">mesh_name = container.mesh;
-texture0 = alpha.png;
-collision_model_type = 1;
-collision_model_size = 9 1.0 1.4; 
-walkable = 0;
-see_through =0;
-penetrability = 0.1;
-alpha_blend = 1;</desc>
-      </rect>
-      <rect
-         inkscape:label="#mesh"
-         y="-144.22964"
-         x="1269.9868"
-         height="3.5088625"
-         width="14.724792"
-         id="rect4-7-2-7-52-4-5-6-7-9-12-3-7-4-2-40"
-         style="display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
-         transform="rotate(16.869761)">
-        <desc
-           id="desc6099-8-8-7-8-1-8-5-1-6-6-3-4-2-3-9-57">mesh_name = container.mesh;
-texture0 = alpha.png;
-collision_model_type = 1;
-collision_model_size = 10 0.5 2; 
-walkable = 1;
-see_through =0;
-penetrability = 0.1;
-alpha_blend = 1;</desc>
-      </rect>
-      <rect
-         style="display:inline;fill:#0000ff;fill-opacity:1;fill-rule:nonzero;stroke:#ff00ff;stroke-width:1.00000131;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:7;stroke-opacity:1;enable-background:new"
          id="rect16633-4-8-2-6-1-8-3-7-8-3-4"
          width="8.753686"
          height="8.7430058"
-         x="66.20182"
-         y="1367.9926"
+         x="-34.123222"
+         y="1365.8311"
          inkscape:label="#mesh"
-         transform="rotate(-80.016463)">
+         transform="rotate(-88.378851)">
         <desc
            id="desc16653-2-1-1-4-9-5-8-9-0-4">template = ww2_plane_broken;</desc>
       </rect>
       <rect
          inkscape:label="#mesh"
-         y="5.6817231"
-         x="1367.4053"
+         y="105.72261"
+         x="1359.5563"
          height="3.5088625"
          width="14.724792"
          id="rect4-7-2-7-52-4-5-6-7-9-12-80-7-3-41"
          style="display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
-         transform="rotate(6.7316319)">
+         transform="rotate(-1.6307557)">
         <desc
            id="desc6099-8-8-7-8-1-8-5-1-6-6-3-0-27-9-4">mesh_name = container.mesh;
 texture0 = alpha.png;
@@ -27830,65 +27795,15 @@ alpha_blend = 1;</desc>
       </rect>
       <rect
          inkscape:label="#mesh"
-         y="1369.1565"
-         x="40.850327"
+         y="1365.3955"
+         x="-59.427505"
          height="3.5088625"
          width="14.724792"
          id="rect4-7-2-7-52-4-5-6-7-9-12-3-7-4-2-42"
          style="display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
-         transform="rotate(-80.930137)">
+         transform="rotate(-89.292525)">
         <desc
            id="desc6099-8-8-7-8-1-8-5-1-6-6-3-4-2-3-9-579">mesh_name = container.mesh;
-texture0 = alpha.png;
-collision_model_type = 1;
-collision_model_size = 10 0.5 2; 
-walkable = 1;
-see_through =0;
-penetrability = 0.1;
-alpha_blend = 1;</desc>
-      </rect>
-      <rect
-         style="display:inline;fill:#0000ff;fill-opacity:1;fill-rule:nonzero;stroke:#ff00ff;stroke-width:1.00000131;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:7;stroke-opacity:1;enable-background:new"
-         id="rect16633-4-8-2-6-1-8-3-7-8-3-5"
-         width="8.753686"
-         height="8.7430058"
-         x="968.06885"
-         y="936.33698"
-         inkscape:label="#mesh"
-         transform="rotate(-34.247235)">
-        <desc
-           id="desc16653-2-1-1-4-9-5-8-9-0-3">template = ww2_plane_broken;</desc>
-      </rect>
-      <rect
-         inkscape:label="#mesh"
-         y="-919.21887"
-         x="987.60413"
-         height="3.5088625"
-         width="14.724792"
-         id="rect4-7-2-7-52-4-5-6-7-9-12-80-7-3-2"
-         style="display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
-         transform="rotate(52.50086)">
-        <desc
-           id="desc6099-8-8-7-8-1-8-5-1-6-6-3-0-27-9-1">mesh_name = container.mesh;
-texture0 = alpha.png;
-collision_model_type = 1;
-collision_model_size = 9 1.0 1.4; 
-walkable = 0;
-see_through =0;
-penetrability = 0.1;
-alpha_blend = 1;</desc>
-      </rect>
-      <rect
-         inkscape:label="#mesh"
-         y="951.93689"
-         x="949.48572"
-         height="3.5088625"
-         width="14.724792"
-         id="rect4-7-2-7-52-4-5-6-7-9-12-3-7-4-2-9"
-         style="display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
-         transform="rotate(-35.160909)">
-        <desc
-           id="desc6099-8-8-7-8-1-8-5-1-6-6-3-4-2-3-9-6">mesh_name = container.mesh;
 texture0 = alpha.png;
 collision_model_type = 1;
 collision_model_size = 10 0.5 2; 
@@ -29211,8 +29126,8 @@ collision_model_type = -1; </desc>
          id="rect14012-1-6-0-3"
          width="4.4000001"
          height="5"
-         x="608.21246"
-         y="-1237.4325"
+         x="654.76947"
+         y="-1283.5884"
          inkscape:label="#mesh"
          transform="rotate(51.677427)">
         <desc
@@ -29223,10 +29138,10 @@ collision_model_type = -1; </desc>
          id="rect14012-1-6-0-5"
          width="4.4000001"
          height="5"
-         x="-612.60986"
-         y="1227.4338"
+         x="654.76672"
+         y="-1278.5898"
          inkscape:label="#mesh"
-         transform="rotate(-128.32245)">
+         transform="rotate(51.67755)">
         <desc
            id="desc14014-7-7-5-35">name = contruction_bricks; mesh_name = construction_bricks.mesh; texture0 = mortar_ammunition_crates.png; collision_model_type = 1; collision_model_size = 2.2 2 2.5; walkable = 1;</desc>
       </rect>
@@ -29235,8 +29150,8 @@ collision_model_type = -1; </desc>
          id="rect14012-1-6-0-6"
          width="4.4000001"
          height="5"
-         x="602.0199"
-         y="-1230.4927"
+         x="648.34369"
+         y="-1276.8824"
          inkscape:label="#mesh"
          transform="rotate(51.966132)">
         <desc
@@ -29443,12 +29358,232 @@ collision_model_type = -1; </desc>
          id="rect14012-1-6-0-8-7-08"
          width="4.4000001"
          height="5"
-         x="636.95795"
-         y="-1240.5879"
+         x="595.85223"
+         y="-1278.4659"
          inkscape:label="#mesh"
          transform="rotate(51.67668)">
         <desc
-           id="desc14014-7-7-5-8-6-3">name = contruction_bricks; mesh_name = construction_bricks.mesh; texture0 = mortar_ammunition_crates.png; collision_model_type = 1; collision_model_size = 2.2 2 2.5; walkable = 1;</desc>
+           id="desc14014-7-7-5-8-6-3">name = contruction_bricks; mesh_name = construction_bricks.mesh; texture0 = mortar_ammunition_crates.png; collision_model_type = 1; collision_model_size = 2.2 2 2.5; walkable = 1; offset = 0 2 0; </desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:#00ff00;stroke-width:1;enable-background:new"
+         id="rect14012-1-6-0-3-6"
+         width="4.4000001"
+         height="5"
+         x="654.76947"
+         y="-1288.5884"
+         inkscape:label="#mesh"
+         transform="rotate(51.677427)">
+        <desc
+           id="desc14014-7-7-5-9-9">name = contruction_bricks; mesh_name = construction_bricks.mesh; texture0 = mortar_ammunition_crates.png; collision_model_type = 1; collision_model_size = 2.2 2 2.5; walkable = 1;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:#00ff00;stroke-width:1;enable-background:new"
+         id="rect14012-1-6-0-3-5"
+         width="4.4000001"
+         height="5"
+         x="654.74426"
+         y="-1268.5885"
+         inkscape:label="#mesh"
+         transform="rotate(51.677427)">
+        <desc
+           id="desc14014-7-7-5-9-1">name = contruction_bricks; mesh_name = construction_bricks.mesh; texture0 = mortar_ammunition_crates.png; collision_model_type = 1; collision_model_size = 2.2 2 2.5; walkable = 1;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:#00ff00;stroke-width:1;enable-background:new"
+         id="rect14012-1-6-0-3-9"
+         width="4.4000001"
+         height="5"
+         x="654.74426"
+         y="-1263.5885"
+         inkscape:label="#mesh"
+         transform="rotate(51.677427)">
+        <desc
+           id="desc14014-7-7-5-9-8">name = contruction_bricks; mesh_name = construction_bricks.mesh; texture0 = mortar_ammunition_crates.png; collision_model_type = 1; collision_model_size = 2.2 2 2.5; walkable = 1;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:#00ff00;stroke-width:1;enable-background:new"
+         id="rect14012-1-6-0-3-0"
+         width="4.4000001"
+         height="5"
+         x="654.74426"
+         y="-1258.5885"
+         inkscape:label="#mesh"
+         transform="rotate(51.677427)">
+        <desc
+           id="desc14014-7-7-5-9-3">name = contruction_bricks; mesh_name = construction_bricks.mesh; texture0 = mortar_ammunition_crates.png; collision_model_type = 1; collision_model_size = 2.2 2 2.5; walkable = 1;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:#00ff00;stroke-width:1;enable-background:new"
+         id="rect14012-1-6-0-8-7-08-1"
+         width="4.4000001"
+         height="5"
+         x="595.85223"
+         y="-1283.4659"
+         inkscape:label="#mesh"
+         transform="rotate(51.67668)">
+        <desc
+           id="desc14014-7-7-5-8-6-3-2">name = contruction_bricks; mesh_name = construction_bricks.mesh; texture0 = mortar_ammunition_crates.png; collision_model_type = 1; collision_model_size = 2.2 2 2.5; walkable = 1; offset = 0 2 0; </desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:#00ff00;stroke-width:1;enable-background:new"
+         id="rect14012-1-6-0-8-7-08-5"
+         width="4.4000001"
+         height="5"
+         x="654.77338"
+         y="-1273.5797"
+         inkscape:label="#mesh"
+         transform="rotate(51.67668)">
+        <desc
+           id="desc14014-7-7-5-8-6-3-1">name = contruction_bricks; mesh_name = construction_bricks.mesh; texture0 = mortar_ammunition_crates.png; collision_model_type = 1; collision_model_size = 2.2 2 2.5; walkable = 1; offset = 0 2.02 0; </desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:#00ff00;stroke-width:1;enable-background:new"
+         id="rect14012-1-6-0-8-7-08-2"
+         width="4.4000001"
+         height="5"
+         x="595.85223"
+         y="-1268.4659"
+         inkscape:label="#mesh"
+         transform="rotate(51.67668)">
+        <desc
+           id="desc14014-7-7-5-8-6-3-0">name = contruction_bricks; mesh_name = construction_bricks.mesh; texture0 = mortar_ammunition_crates.png; collision_model_type = 1; collision_model_size = 2.2 2 2.5; walkable = 1; offset = 0 2 0; </desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:#00ff00;stroke-width:1;enable-background:new"
+         id="rect14012-1-6-0-8-7-08-6"
+         width="4.4000001"
+         height="5"
+         x="595.85223"
+         y="-1263.4659"
+         inkscape:label="#mesh"
+         transform="rotate(51.67668)">
+        <desc
+           id="desc14014-7-7-5-8-6-3-8">name = contruction_bricks; mesh_name = construction_bricks.mesh; texture0 = mortar_ammunition_crates.png; collision_model_type = 1; collision_model_size = 2.2 2 2.5; walkable = 1; offset = 0 2 0; </desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#0000ff;fill-opacity:1;fill-rule:nonzero;stroke:#ff00ff;stroke-width:1.00000131;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:7;stroke-opacity:1;enable-background:new"
+         id="rect16633-4-8-2-6-1-8-3-7-8-3-4-4"
+         width="8.753686"
+         height="8.7430058"
+         x="-67.505341"
+         y="1407.8687"
+         inkscape:label="#mesh"
+         transform="rotate(-88.378851)">
+        <desc
+           id="desc16653-2-1-1-4-9-5-8-9-0-4-3">template = ww2_plane_broken;</desc>
+      </rect>
+      <rect
+         inkscape:label="#mesh"
+         y="141.43559"
+         x="1399.6326"
+         height="3.5088625"
+         width="14.724792"
+         id="rect4-7-2-7-52-4-5-6-7-9-12-80-7-3-41-9"
+         style="display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
+         transform="rotate(-1.6307557)">
+        <desc
+           id="desc6099-8-8-7-8-1-8-5-1-6-6-3-0-27-9-4-8">mesh_name = container.mesh;
+texture0 = alpha.png;
+collision_model_type = 1;
+collision_model_size = 9 1.0 1.4; 
+walkable = 0;
+see_through =0;
+penetrability = 0.1;
+alpha_blend = 1;</desc>
+      </rect>
+      <rect
+         inkscape:label="#mesh"
+         y="1406.8954"
+         x="-93.475723"
+         height="3.5088625"
+         width="14.724792"
+         id="rect4-7-2-7-52-4-5-6-7-9-12-3-7-4-2-42-7"
+         style="display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
+         transform="rotate(-89.292525)">
+        <desc
+           id="desc6099-8-8-7-8-1-8-5-1-6-6-3-4-2-3-9-579-0">mesh_name = container.mesh;
+texture0 = alpha.png;
+collision_model_type = 1;
+collision_model_size = 10 0.5 2; 
+walkable = 1;
+see_through =0;
+penetrability = 0.1;
+alpha_blend = 1;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#0000ff;fill-opacity:1;fill-rule:nonzero;stroke:#ff00ff;stroke-width:1.00000131;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:7;stroke-opacity:1;enable-background:new"
+         id="rect16633-4-8-2-6-1-8-3-7-8-3-4-0"
+         width="8.753686"
+         height="8.7430058"
+         x="-123.51122"
+         y="1355.4321"
+         inkscape:label="#mesh"
+         transform="rotate(-88.378851)">
+        <desc
+           id="desc16653-2-1-1-4-9-5-8-9-0-4-4">template = ww2_plane_broken;</desc>
+      </rect>
+      <rect
+         inkscape:label="#mesh"
+         y="194.37677"
+         x="1344.1034"
+         height="3.5088625"
+         width="14.724792"
+         id="rect4-7-2-7-52-4-5-6-7-9-12-80-7-3-41-0"
+         style="display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
+         transform="rotate(-1.6307557)">
+        <desc
+           id="desc6099-8-8-7-8-1-8-5-1-6-6-3-0-27-9-4-3">mesh_name = container.mesh;
+texture0 = alpha.png;
+collision_model_type = 1;
+collision_model_size = 9 1.0 1.4; 
+walkable = 0;
+see_through =0;
+penetrability = 0.1;
+alpha_blend = 1;</desc>
+      </rect>
+      <rect
+         inkscape:label="#mesh"
+         y="1353.5725"
+         x="-148.63832"
+         height="3.5088625"
+         width="14.724792"
+         id="rect4-7-2-7-52-4-5-6-7-9-12-3-7-4-2-42-9"
+         style="display:inline;fill:#000000;fill-opacity:1;stroke:none;enable-background:new"
+         transform="rotate(-89.292525)">
+        <desc
+           id="desc6099-8-8-7-8-1-8-5-1-6-6-3-4-2-3-9-579-5">mesh_name = container.mesh;
+texture0 = alpha.png;
+collision_model_type = 1;
+collision_model_size = 10 0.5 2; 
+walkable = 1;
+see_through =0;
+penetrability = 0.1;
+alpha_blend = 1;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:#00ff00;stroke-width:1;enable-background:new"
+         id="rect14012-1-6-0-8-7-08-5-1"
+         width="4.4000001"
+         height="5"
+         x="654.7608"
+         y="-1268.58"
+         inkscape:label="#mesh"
+         transform="rotate(51.67668)">
+        <desc
+           id="desc14014-7-7-5-8-6-3-1-1">name = contruction_bricks; mesh_name = construction_bricks.mesh; texture0 = mortar_ammunition_crates.png; collision_model_type = 1; collision_model_size = 2.2 2 2.5; walkable = 1; offset = 0 2.02 0; </desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:#00ff00;stroke-width:1;enable-background:new"
+         id="rect14012-1-6-0-8-7-08-5-8"
+         width="4.4000001"
+         height="5"
+         x="654.78613"
+         y="-1278.5798"
+         inkscape:label="#mesh"
+         transform="rotate(51.67668)">
+        <desc
+           id="desc14014-7-7-5-8-6-3-1-5">name = contruction_bricks; mesh_name = construction_bricks.mesh; texture0 = mortar_ammunition_crates.png; collision_model_type = 1; collision_model_size = 2.2 2 2.5; walkable = 1; offset = 0 2.02 0; </desc>
       </rect>
     </g>
     <g
@@ -33197,8 +33332,8 @@ collision_model_size =0.4 8.5 0.4;</desc>
          id="rect11831-6-4-3-6-6-5-8-6-6"
          width="6"
          height="16"
-         x="645.43805"
-         y="1423.5587"
+         x="645.40649"
+         y="1413.3291"
          inkscape:label="#mesh"
          transform="rotate(-38.374228)">
         <desc
@@ -33209,8 +33344,8 @@ collision_model_size =0.4 8.5 0.4;</desc>
          id="rect11831-6-4-3-6-6-5-8-6-9"
          width="6"
          height="16"
-         x="645.3114"
-         y="1443.2698"
+         x="645.4436"
+         y="1430.6188"
          inkscape:label="#mesh"
          transform="rotate(-38.374228)">
         <desc
