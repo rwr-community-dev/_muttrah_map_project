@@ -30,11 +30,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="7.9999996"
-     inkscape:cx="1163.0076"
-     inkscape:cy="1059.1449"
+     inkscape:zoom="11.313708"
+     inkscape:cx="865.25376"
+     inkscape:cy="1093.6418"
      inkscape:document-units="px"
-     inkscape:current-layer="layer12"
+     inkscape:current-layer="layer23"
      showgrid="true"
      inkscape:window-width="1673"
      inkscape:window-height="921"
@@ -34441,8 +34441,8 @@ height = 0.9; </desc>
       <rect
          transform="rotate(-89.772483)"
          inkscape:label="#mesh"
-         y="870.84387"
-         x="-957.63794"
+         y="872.84424"
+         x="-957.12897"
          height="4.412807"
          width="4.6944752"
          id="rect9322-1-4-7-0-4-0-0-3-9-2-3"
@@ -34683,8 +34683,8 @@ height = 0.9; </desc>
          id="rect10340-9-86-8-1-4-3-5"
          width="4.4683914"
          height="3.811275"
-         x="868.99359"
-         y="907.53406"
+         x="891.95398"
+         y="953.49353"
          inkscape:label="#mesh">
         <desc
            id="desc10349-8-98-8-7-0-5-67">template = streetlantern;</desc>
@@ -34694,8 +34694,8 @@ height = 0.9; </desc>
          id="rect10340-9-86-8-1-4-3-5-4"
          width="4.4683914"
          height="3.811275"
-         x="853.0929"
-         y="919.66541"
+         x="894.38843"
+         y="931.70819"
          inkscape:label="#mesh">
         <desc
            id="desc10349-8-98-8-7-0-5-67-0">template = streetlantern;</desc>
@@ -34705,8 +34705,8 @@ height = 0.9; </desc>
          id="rect10340-9-86-8-1-4-3-5-8"
          width="4.4683914"
          height="3.811275"
-         x="848.3811"
-         y="954.70526"
+         x="872.5918"
+         y="929.35803"
          inkscape:label="#mesh">
         <desc
            id="desc10349-8-98-8-7-0-5-67-9">template = streetlantern;</desc>
@@ -34716,55 +34716,11 @@ height = 0.9; </desc>
          id="rect10340-9-86-8-1-4-3-5-0"
          width="4.4683914"
          height="3.811275"
-         x="860.51239"
-         y="970.60596"
+         x="870.15729"
+         y="951.14337"
          inkscape:label="#mesh">
         <desc
            id="desc10349-8-98-8-7-0-5-67-92">template = streetlantern;</desc>
-      </rect>
-      <rect
-         style="display:inline;fill:#fbff00;fill-opacity:1;fill-rule:evenodd;stroke:none;enable-background:new"
-         id="rect10340-9-86-8-1-4-3-5-89"
-         width="4.4683914"
-         height="3.811275"
-         x="895.55243"
-         y="975.31775"
-         inkscape:label="#mesh">
-        <desc
-           id="desc10349-8-98-8-7-0-5-67-4">template = streetlantern;</desc>
-      </rect>
-      <rect
-         style="display:inline;fill:#fbff00;fill-opacity:1;fill-rule:evenodd;stroke:none;enable-background:new"
-         id="rect10340-9-86-8-1-4-3-5-83"
-         width="4.4683914"
-         height="3.811275"
-         x="911.45312"
-         y="963.18646"
-         inkscape:label="#mesh">
-        <desc
-           id="desc10349-8-98-8-7-0-5-67-5">template = streetlantern;</desc>
-      </rect>
-      <rect
-         style="display:inline;fill:#fbff00;fill-opacity:1;fill-rule:evenodd;stroke:none;enable-background:new"
-         id="rect10340-9-86-8-1-4-3-5-46"
-         width="4.4683914"
-         height="3.811275"
-         x="916.16479"
-         y="928.14636"
-         inkscape:label="#mesh">
-        <desc
-           id="desc10349-8-98-8-7-0-5-67-58">template = streetlantern;</desc>
-      </rect>
-      <rect
-         style="display:inline;fill:#fbff00;fill-opacity:1;fill-rule:evenodd;stroke:none;enable-background:new"
-         id="rect10340-9-86-8-1-4-3-5-6"
-         width="4.4683914"
-         height="3.811275"
-         x="904.03351"
-         y="912.24573"
-         inkscape:label="#mesh">
-        <desc
-           id="desc10349-8-98-8-7-0-5-67-6">template = streetlantern;</desc>
       </rect>
       <rect
          style="display:inline;fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:new"
