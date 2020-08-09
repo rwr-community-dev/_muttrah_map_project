@@ -30,11 +30,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="63.999997"
-     inkscape:cx="1377.8978"
-     inkscape:cy="1202.791"
+     inkscape:zoom="11.313708"
+     inkscape:cx="1357.1975"
+     inkscape:cy="1337.4086"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer18"
      showgrid="true"
      inkscape:window-width="1673"
      inkscape:window-height="921"
@@ -34283,6 +34283,42 @@ height = 0.9; </desc>
         <desc
            id="desc14014-7-7-5-9-3">name = contruction_bricks; mesh_name = construction_bricks.mesh; texture0 = mortar_ammunition_crates.png; collision_model_type = 1; collision_model_size = 2.2 2 2.5; walkable = 1;</desc>
       </rect>
+      <rect
+         inkscape:label="#mesh"
+         y="624.80609"
+         x="-1401.4615"
+         height="23.830687"
+         width="16.728558"
+         id="rect10487"
+         style="display:inline;fill:#d94e4e;fill-opacity:1;stroke:none;enable-background:new"
+         transform="rotate(-128.30783)">
+        <desc
+           id="desc10489">mesh_name = container.mesh; texture0 = alpha.png; collision_model_type = 1; collision_model_size = 8.0 8.0 13.8; walkable = 0; texture0 = alpha.png; alpha_blend = 1:</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#d94e4e;fill-opacity:1;stroke:none;enable-background:new"
+         id="rect10503"
+         width="10.176697"
+         height="30.568676"
+         x="-1397.6787"
+         y="621.41327"
+         inkscape:label="#mesh"
+         transform="rotate(-128.30783)">
+        <desc
+           id="desc10505">mesh_name = container.mesh; texture0 = alpha.png; collision_model_type = 1; collision_model_size = 3.0 7.0 17.0; walkable = 0; texture0 = alpha.png; alpha_blend = 1:</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#d94e4e;fill-opacity:1;stroke:none;enable-background:new"
+         id="rect10535-4"
+         width="7.625"
+         height="12.75"
+         x="-1383.9744"
+         y="630.45282"
+         inkscape:label="#mesh"
+         transform="rotate(-128.30756)">
+        <desc
+           id="desc10537-0">mesh_name = container.mesh; texture0 = alpha.png; collision_model_type = 1; collision_model_size = 2.5 14.0 9.4; walkable = 0; texture0 = alpha.png; alpha_blend = 1:</desc>
+      </rect>
     </g>
     <g
        inkscape:label="crates"
@@ -35025,18 +35061,6 @@ height = 0.9; </desc>
        inkscape:label="other"
        id="layer24"
        inkscape:groupmode="layer">
-      <rect
-         style="display:inline;fill:#d94e4e;fill-opacity:1;stroke:none;enable-background:new"
-         id="rect10535"
-         width="7.625"
-         height="12.75"
-         x="-1394.5227"
-         y="600.56549"
-         inkscape:label="#mesh"
-         transform="rotate(-129.523)">
-        <desc
-           id="desc10537">mesh_name = container.mesh; texture0 = alpha.png; collision_model_type = 1; collision_model_size = 2.5 14.0 9.4; walkable = 0; texture0 = alpha.png; alpha_blend = 1:</desc>
-      </rect>
       <rect
          transform="rotate(-38.323932)"
          inkscape:label="#mesh"
@@ -36047,6 +36071,114 @@ height = 0.9; </desc>
            id="desc21445">type = vehicle;
 key = prison_hatch.vehicle; 
 </desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:4.00000074, 4.00000074;stroke-dashoffset:7.00000143;stroke-opacity:1;enable-background:new"
+         id="spawn4_1-9-5"
+         width="5.7888808"
+         height="6.6684999"
+         x="600.18298"
+         y="1316.8403"
+         inkscape:label=""
+         transform="rotate(-38.444633)">
+        <desc
+           id="desc9788-45-3-6-1-6-7-2-09-4-7-2-82-2-4-4-2-4-7-5-1-5-4-3-6-7-5-8-6-0-7">type = vehicle; key = deco_pickup_blue.vehicle;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3.99999906, 3.99999906;stroke-dashoffset:6.99999809;stroke-opacity:1;enable-background:new"
+         id="spawn5_1-6-9"
+         width="5.7888808"
+         height="6.6684999"
+         x="-1409.5803"
+         y="650.55853"
+         inkscape:label=""
+         transform="rotate(-128.20258)">
+        <desc
+           id="desc9788-45-3-6-1-6-7-2-09-4-7-2-82-2-4-2-6-7-2-3-2-9-2-8-2">type = vehicle; key = deco_van_red.vehicle;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3.99999908, 3.99999908;stroke-dashoffset:6.99999809;stroke-opacity:1;enable-background:new"
+         id="spawn2_3-7-1"
+         width="5.7888808"
+         height="6.6684999"
+         x="-399.47119"
+         y="-1510.6156"
+         inkscape:label=""
+         transform="rotate(141.97108)">
+        <desc
+           id="desc9788-45-3-6-1-6-7-2-09-4-7-2-82-2-4-2-6-7-0-8-7">type = vehicle; key = deco_car2_white.vehicle;</desc>
+      </rect>
+      <rect
+         transform="rotate(-179.4298)"
+         inkscape:label=""
+         y="-814.39581"
+         x="-1141.7179"
+         height="7.3961515"
+         width="3.982286"
+         id="spawn1-3-7-1-7"
+         style="display:inline;fill:#007cff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:12, 12;stroke-dashoffset:4.5999999;stroke-opacity:1;enable-background:new">
+        <desc
+           id="desc7082-7-40-0-3">type = vehicle; tag = jeep;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#36f8ff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3.99999917, 3.99999917;stroke-dashoffset:6.99999857;stroke-opacity:1;enable-background:new"
+         id="spawn3_5-2-2"
+         width="5.7888808"
+         height="6.6684999"
+         x="1093.2516"
+         y="-1208.0128"
+         inkscape:label=""
+         transform="rotate(79.78031)">
+        <desc
+           id="desc9788-45-3-6-1-6-7-2-09-4-7-2-82-2-4-7-1-4-6-9-2">type = vehicle; key = deco_car3_sky.vehicle;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#ff00ff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3.99999903, 3.99999903;stroke-dashoffset:6.99999809;stroke-opacity:1;enable-background:new"
+         id="spawn1_3-1-9"
+         width="5.7888808"
+         height="6.6684999"
+         x="1637.652"
+         y="-11.438601"
+         inkscape:label=""
+         transform="rotate(32.45398)">
+        <desc
+           id="desc9788-45-3-6-1-6-7-2-09-4-7-2-82-2-4-2-6-7-2-6-4-4-7-9-5-6-63">type = vehicle; key = deco_car1_pink.vehicle;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3.99999912, 3.99999912;stroke-dashoffset:6.99999809;stroke-opacity:1;enable-background:new"
+         id="spawn1_8-3-7"
+         width="5.7888808"
+         height="6.6684999"
+         x="-1412.7653"
+         y="633.96973"
+         inkscape:label=""
+         transform="rotate(-128.49036)">
+        <desc
+           id="desc9788-45-3-6-1-6-7-2-09-4-7-2-82-2-4-2-6-7-2-66-0-6">type = vehicle; key = deco_car1_white.vehicle;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#333333;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:4.00000123, 4.00000123;stroke-dashoffset:7.00000238;stroke-opacity:1;enable-background:new"
+         id="spawn_2_9-8-2"
+         width="5.7888808"
+         height="6.6684999"
+         x="-1399.8055"
+         y="652.42639"
+         inkscape:label=""
+         transform="rotate(-127.34667)">
+        <desc
+           id="desc9788-45-3-6-1-6-7-2-09-4-7-2-82-2-4-4-2-4-7-5-1-7-0-2-6-9-8-1-2">type = vehicle; key = deco_car2_black.vehicle;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#ff00ff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3.99999903, 3.99999903;stroke-dashoffset:6.99999809;stroke-opacity:1;enable-background:new"
+         id="spawn1_3-1-2"
+         width="5.7888808"
+         height="6.6684999"
+         x="-1381.27"
+         y="681.37714"
+         inkscape:label=""
+         transform="rotate(-125.76029)">
+        <desc
+           id="desc9788-45-3-6-1-6-7-2-09-4-7-2-82-2-4-2-6-7-2-6-4-4-7-9-5-6-3">type = vehicle; key = deco_car1_pink.vehicle;</desc>
       </rect>
     </g>
     <g
