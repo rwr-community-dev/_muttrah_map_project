@@ -30,11 +30,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.828427"
-     inkscape:cx="1236.3847"
-     inkscape:cy="1268.3342"
+     inkscape:zoom="7.9999996"
+     inkscape:cx="1163.0076"
+     inkscape:cy="1059.1449"
      inkscape:document-units="px"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer12"
      showgrid="true"
      inkscape:window-width="1673"
      inkscape:window-height="921"
@@ -29005,10 +29005,10 @@ collision_model_type = -1; </desc>
          id="rect8111-3-89-7-5-1-8-2-1-6-6"
          width="3.3877919"
          height="10.269685"
-         x="-1145.3622"
-         y="124.29247"
+         x="-1148.8386"
+         y="87.852707"
          inkscape:label="#mesh"
-         transform="rotate(-174.7303)">
+         transform="rotate(-176.55582)">
         <title
            id="title10616-4-9-1">bench</title>
         <desc
@@ -29019,8 +29019,8 @@ collision_model_type = -1; </desc>
          id="rect8111-3-89-7-5-1-8-2-1-6-4"
          width="3.3877919"
          height="10.269685"
-         x="-213.39871"
-         y="-1153.3923"
+         x="-213.43254"
+         y="-1153.5769"
          inkscape:label="#mesh"
          transform="rotate(100.39966)">
         <title
@@ -33307,6 +33307,74 @@ see_through = 0;</desc>
         <desc
            id="desc9346-0-2-5-7-2-4-8-0-5-79-7-8-0-04">height=3; material = BuildingDesert; roof_type = flat; offset = 0 0.01 0; </desc>
       </rect>
+      <rect
+         y="938.75031"
+         x="868.33435"
+         height="4.5980916"
+         width="5.172853"
+         id="rect8341-153-95-064-8-1-8-9-5-5-9-7-5-0-4"
+         style="display:inline;fill:#008000;fill-opacity:1;enable-background:new"
+         transform="rotate(0.02615089)"
+         inkscape:label="#mesh">
+        <desc
+           id="desc4923-2-4-8-5-13-6-2-2-5">template = cypress;</desc>
+        <title
+           id="title4921-7-6-8-6-5-3-9-5-6">cypress</title>
+      </rect>
+      <rect
+         y="926.61176"
+         x="884.22949"
+         height="4.5980916"
+         width="5.172853"
+         id="rect8341-153-95-064-8-1-8-9-5-5-9-7-5-0-7"
+         style="display:inline;fill:#008000;fill-opacity:1;enable-background:new"
+         transform="rotate(0.02615089)"
+         inkscape:label="#mesh">
+        <desc
+           id="desc4923-2-4-8-5-13-6-2-2-52">template = cypress;</desc>
+        <title
+           id="title4921-7-6-8-6-5-3-9-5-7">cypress</title>
+      </rect>
+      <rect
+         y="954.64545"
+         x="880.4729"
+         height="4.5980916"
+         width="5.172853"
+         id="rect8341-153-95-064-8-1-8-9-5-5-9-7-5-0-5"
+         style="display:inline;fill:#008000;fill-opacity:1;enable-background:new"
+         transform="rotate(0.02615089)"
+         inkscape:label="#mesh">
+        <desc
+           id="desc4923-2-4-8-5-13-6-2-2-4">template = cypress;</desc>
+        <title
+           id="title4921-7-6-8-6-5-3-9-5-75">cypress</title>
+      </rect>
+      <rect
+         y="942.5069"
+         x="896.36804"
+         height="4.5980916"
+         width="5.172853"
+         id="rect8341-153-95-064-8-1-8-9-5-5-9-7-5-0-0"
+         style="display:inline;fill:#008000;fill-opacity:1;enable-background:new"
+         transform="rotate(0.02615089)"
+         inkscape:label="#mesh">
+        <desc
+           id="desc4923-2-4-8-5-13-6-2-2-51">template = cypress;</desc>
+        <title
+           id="title4921-7-6-8-6-5-3-9-5-67">cypress</title>
+      </rect>
+      <rect
+         transform="rotate(89.717397)"
+         inkscape:label="#mesh"
+         y="-1162.1136"
+         x="1012.3178"
+         height="4.412807"
+         width="4.6944752"
+         id="rect9322-1-4-7-0-4-0-0-4-3-7-3"
+         style="display:inline;fill:#ff8900;fill-opacity:1;fill-rule:nonzero;stroke:#13ce00;stroke-width:0.85699999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new">
+        <desc
+           id="desc10092-7-0-4-9-8-24-0-4-5-7-4">mesh_name = market_banana.mesh; texture0 = muttrah_banana.png; collision_model_type = 0; collision_model_offset = 0 0 0; collision_model_size = 1.8 3.6 1.8;</desc>
+      </rect>
     </g>
     <g
        style="display:inline"
@@ -34222,6 +34290,503 @@ height = 0.9; </desc>
            id="title10541-9-9-5-6-1">ventilator</title>
         <desc
            id="desc10092-7-8-3-8-0-3-5">template = ventilator;</desc>
+      </rect>
+      <rect
+         ry="7.5"
+         rx="7.5"
+         transform="rotate(-89.502238)"
+         style="display:inline;fill:#ffff00;fill-opacity:1;stroke:none;enable-background:new"
+         id="mesh7-2-5"
+         width="15"
+         height="15"
+         x="-943.11169"
+         y="885.16888"
+         inkscape:label="#mesh">
+        <desc
+           id="desc6851-7-1-8-8">template = world_statue;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#0e5500;fill-opacity:0.79607843;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:new"
+         id="rect9036-2-2-4-2-8-3-5-1-2"
+         width="2.8208899"
+         height="2.8208899"
+         x="893.07495"
+         y="959.26904"
+         inkscape:label="#mesh">
+        <desc
+           id="desc9040-4-3-2-0-7-3-1-7-4">template = parasol_green;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#0e5500;fill-opacity:0.79607843;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:new"
+         id="rect9036-2-2-4-2-8-3-5-1-2-8"
+         width="2.8208899"
+         height="2.8208899"
+         x="874.3396"
+         y="923.83948"
+         inkscape:label="#mesh">
+        <desc
+           id="desc9040-4-3-2-0-7-3-1-7-4-0">template = parasol_green;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#0e5500;fill-opacity:0.79607843;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:new"
+         id="rect9036-2-2-4-2-8-3-5-1-2-7"
+         width="2.8208899"
+         height="2.8208899"
+         x="909.32184"
+         y="946.40936"
+         inkscape:label="#mesh">
+        <desc
+           id="desc9040-4-3-2-0-7-3-1-7-4-5">template = parasol_green;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#ffff00;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:new"
+         id="rect9036-2-2-4-2-8-3-5-5-6-8"
+         width="2.8208899"
+         height="2.8208899"
+         x="908.3396"
+         y="928.83948"
+         inkscape:label="#mesh">
+        <desc
+           id="desc9040-4-3-2-0-7-3-1-5-0-5">template = parasol_yellow;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#ffff00;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:new"
+         id="rect9036-2-2-4-2-8-3-5-5-6-9"
+         width="2.8208899"
+         height="2.8208899"
+         x="855.5896"
+         y="937.33948"
+         inkscape:label="#mesh">
+        <desc
+           id="desc9040-4-3-2-0-7-3-1-5-0-3">template = parasol_yellow;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:new"
+         id="rect9036-2-2-4-2-8-3-5-53-7"
+         width="2.8208899"
+         height="2.8208899"
+         x="865.78558"
+         y="952.64191"
+         inkscape:label="#mesh">
+        <desc
+           id="desc9040-4-3-2-0-7-3-1-1-9">template = parasol_blue;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:new"
+         id="rect9036-2-2-4-2-8-3-5-53-5"
+         width="2.8208899"
+         height="2.8208899"
+         x="861.3396"
+         y="921.33948"
+         inkscape:label="#mesh">
+        <desc
+           id="desc9040-4-3-2-0-7-3-1-1-3">template = parasol_blue;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:new"
+         id="rect9036-2-2-4-2-8-3-5-53-2"
+         width="2.8208899"
+         height="2.8208899"
+         x="906.0896"
+         y="962.33948"
+         inkscape:label="#mesh">
+        <desc
+           id="desc9040-4-3-2-0-7-3-1-1-7">template = parasol_blue;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:new"
+         id="rect9036-2-2-4-2-8-8-9-4"
+         width="2.8208899"
+         height="2.8208899"
+         x="863.21503"
+         y="961.79126"
+         inkscape:label="#mesh">
+        <desc
+           id="desc9040-4-3-2-0-7-1-4-1">template = parasol_red;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:new"
+         id="rect9036-2-2-4-2-8-8-9-2"
+         width="2.8208899"
+         height="2.8208899"
+         x="898.3396"
+         y="925.83948"
+         inkscape:label="#mesh">
+        <desc
+           id="desc9040-4-3-2-0-7-1-4-6">template = parasol_red;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:new"
+         id="rect9036-2-2-4-2-8-8-9-0"
+         width="2.8208899"
+         height="2.8208899"
+         x="880.5896"
+         y="971.33948"
+         inkscape:label="#mesh">
+        <desc
+           id="desc9040-4-3-2-0-7-1-4-4">template = parasol_red;</desc>
+      </rect>
+      <rect
+         transform="rotate(179.7174)"
+         inkscape:label="#mesh"
+         y="-975.93604"
+         x="-896.28809"
+         height="4.412807"
+         width="4.6944752"
+         id="rect9322-1-4-7-0-4-0-0-4-3-5-0"
+         style="display:inline;fill:#ff8900;fill-opacity:1;fill-rule:nonzero;stroke:#13ce00;stroke-width:0.85699999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new">
+        <desc
+           id="desc10092-7-0-4-9-8-24-0-4-5-6-6">template = sunchair_green;</desc>
+      </rect>
+      <rect
+         transform="rotate(-89.772483)"
+         inkscape:label="#mesh"
+         y="870.84387"
+         x="-957.63794"
+         height="4.412807"
+         width="4.6944752"
+         id="rect9322-1-4-7-0-4-0-0-3-9-2-3"
+         style="display:inline;fill:#ff8900;fill-opacity:1;fill-rule:nonzero;stroke:#c7ce00;stroke-width:0.85699999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new">
+        <desc
+           id="desc10092-7-0-4-9-8-24-0-8-1-8-4">template = sunchair_yellow;</desc>
+      </rect>
+      <rect
+         transform="rotate(0.22751698)"
+         inkscape:label="#mesh"
+         y="946.62268"
+         x="911.31635"
+         height="4.412807"
+         width="4.6944752"
+         id="rect9322-1-4-7-0-4-0-0-3-9-2-0"
+         style="display:inline;fill:#ff8900;fill-opacity:1;fill-rule:nonzero;stroke:#c7ce00;stroke-width:0.85699999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new">
+        <desc
+           id="desc10092-7-0-4-9-8-24-0-8-1-8-8">template = sunchair_yellow;</desc>
+      </rect>
+      <rect
+         transform="rotate(0.271047)"
+         inkscape:label="#mesh"
+         y="953.2204"
+         x="860.93225"
+         height="4.412807"
+         width="4.6944752"
+         id="rect9322-1-4-7-0-4-0-0-8-0-6"
+         style="display:inline;fill:#ff8900;fill-opacity:1;fill-rule:nonzero;stroke:#0020ce;stroke-width:0.85699999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new">
+        <desc
+           id="desc10092-7-0-4-9-8-24-0-2-4-5">template = sunchair_blue;</desc>
+      </rect>
+      <rect
+         transform="rotate(-179.72895)"
+         inkscape:label="#mesh"
+         y="-925.34808"
+         x="-872.97406"
+         height="4.412807"
+         width="4.6944752"
+         id="rect9322-1-4-7-0-4-0-0-8-0-4"
+         style="display:inline;fill:#ff8900;fill-opacity:1;fill-rule:nonzero;stroke:#0020ce;stroke-width:0.85699999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new">
+        <desc
+           id="desc10092-7-0-4-9-8-24-0-2-4-3">template = sunchair_blue;</desc>
+      </rect>
+      <rect
+         transform="rotate(89.893682)"
+         inkscape:label="#mesh"
+         y="-900.88477"
+         x="932.72852"
+         height="4.412807"
+         width="4.6944752"
+         id="rect9322-1-4-7-0-4-0-7-6-1"
+         style="display:inline;fill:#ff8900;fill-opacity:1;fill-rule:nonzero;stroke:#ce0000;stroke-width:0.85699999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new">
+        <desc
+           id="desc10092-7-0-4-9-8-24-8-4-1">template = sunchair_red;</desc>
+      </rect>
+      <rect
+         transform="rotate(-0.10631754)"
+         inkscape:label="#mesh"
+         y="970.67108"
+         x="873.84906"
+         height="4.412807"
+         width="4.6944752"
+         id="rect9322-1-4-7-0-4-0-7-6-4"
+         style="display:inline;fill:#ff8900;fill-opacity:1;fill-rule:nonzero;stroke:#ce0000;stroke-width:0.85699999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new">
+        <desc
+           id="desc10092-7-0-4-9-8-24-8-4-4">template = sunchair_red;</desc>
+      </rect>
+      <rect
+         transform="rotate(-90.282603)"
+         inkscape:label="#mesh"
+         y="865.24158"
+         x="-927.38702"
+         height="4.412807"
+         width="4.6944752"
+         id="rect9322-1-4-7-0-4-0-0-4-3-5-5"
+         style="display:inline;fill:#ff8900;fill-opacity:1;fill-rule:nonzero;stroke:#13ce00;stroke-width:0.85699999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new">
+        <desc
+           id="desc10092-7-0-4-9-8-24-0-4-5-6-3">template = sunchair_green;</desc>
+      </rect>
+      <rect
+         transform="rotate(179.7174)"
+         inkscape:label="#mesh"
+         y="-931.91998"
+         x="-905.02258"
+         height="4.412807"
+         width="4.6944752"
+         id="rect9322-1-4-7-0-4-0-0-4-3-5-3"
+         style="display:inline;fill:#ff8900;fill-opacity:1;fill-rule:nonzero;stroke:#13ce00;stroke-width:0.85699999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new">
+        <desc
+           id="desc10092-7-0-4-9-8-24-0-4-5-6-06">template = sunchair_green;</desc>
+      </rect>
+      <rect
+         transform="rotate(89.717397)"
+         inkscape:label="#mesh"
+         y="-896.46912"
+         x="960.32526"
+         height="4.412807"
+         width="4.6944752"
+         id="rect9322-1-4-7-0-4-0-0-4-3-5-71"
+         style="display:inline;fill:#ff8900;fill-opacity:1;fill-rule:nonzero;stroke:#13ce00;stroke-width:0.85699999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new">
+        <desc
+           id="desc10092-7-0-4-9-8-24-0-4-5-6-4">template = sunchair_green;</desc>
+      </rect>
+      <rect
+         transform="rotate(90.227517)"
+         inkscape:label="#mesh"
+         y="-862.95221"
+         x="939.24225"
+         height="4.412807"
+         width="4.6944752"
+         id="rect9322-1-4-7-0-4-0-0-3-9-2-6"
+         style="display:inline;fill:#ff8900;fill-opacity:1;fill-rule:nonzero;stroke:#c7ce00;stroke-width:0.85699999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new">
+        <desc
+           id="desc10092-7-0-4-9-8-24-0-8-1-8-1">template = sunchair_yellow;</desc>
+      </rect>
+      <rect
+         transform="rotate(0.22751698)"
+         inkscape:label="#mesh"
+         y="913.27008"
+         x="886.7951"
+         height="4.412807"
+         width="4.6944752"
+         id="rect9322-1-4-7-0-4-0-0-3-9-2-1"
+         style="display:inline;fill:#ff8900;fill-opacity:1;fill-rule:nonzero;stroke:#c7ce00;stroke-width:0.85699999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new">
+        <desc
+           id="desc10092-7-0-4-9-8-24-0-8-1-8-7">template = sunchair_yellow;</desc>
+      </rect>
+      <rect
+         transform="rotate(90.271047)"
+         inkscape:label="#mesh"
+         y="-917.90607"
+         x="936.08142"
+         height="4.412807"
+         width="4.6944752"
+         id="rect9322-1-4-7-0-4-0-0-8-0-64"
+         style="display:inline;fill:#ff8900;fill-opacity:1;fill-rule:nonzero;stroke:#0020ce;stroke-width:0.85699999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new">
+        <desc
+           id="desc10092-7-0-4-9-8-24-0-2-4-7">template = sunchair_blue;</desc>
+      </rect>
+      <rect
+         transform="rotate(0.00494255)"
+         inkscape:label="#mesh_template"
+         y="536.35077"
+         x="1072.4727"
+         height="4.412807"
+         width="4.6944752"
+         id="rect9322-1-4-7-0-4-0-0-33-7"
+         style="display:inline;fill:#ff8900;fill-opacity:1;fill-rule:nonzero;stroke:#0020ce;stroke-width:0.85699999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new">
+        <desc
+           id="desc10092-7-0-4-9-8-24-0-0-5">base_template = sunchair_red; name = sunchair_blue; texture0 = world_atlas1.png; texture0_atlas_cell = 7 0 32 32;</desc>
+      </rect>
+      <rect
+         transform="rotate(0.07879261)"
+         inkscape:label="#mesh_template"
+         y="535.67017"
+         x="1064.4379"
+         height="4.412807"
+         width="4.6944752"
+         id="rect9322-1-4-7-0-4-0-8-3"
+         style="display:inline;fill:#ff8900;fill-opacity:1;fill-rule:nonzero;stroke:#ce0000;stroke-width:0.85699999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new">
+        <desc
+           id="desc10092-7-0-4-9-8-24-9-4">name = sunchair_red; mesh_name = sunchair.mesh; texture0 = world_atlas1.png; texture0_atlas_cell = 7 1 32 32; collision_model_type = 1; collision_model_size = 1.3 1.5 1.6; penetrability = 0.7; see_through = 1</desc>
+      </rect>
+      <rect
+         transform="rotate(0.57160307)"
+         inkscape:label="#mesh_template"
+         y="526.29736"
+         x="1088.1965"
+         height="4.412807"
+         width="4.6944752"
+         id="rect9322-1-4-7-0-4-0-0-3-7-1"
+         style="display:inline;fill:#ff8900;fill-opacity:1;fill-rule:nonzero;stroke:#c7ce00;stroke-width:0.85699999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new">
+        <desc
+           id="desc10092-7-0-4-9-8-24-0-8-9-0">base_template = sunchair_red; name = sunchair_yellow; texture0 = world_atlas1.png; texture0_atlas_cell = 6 1 32 32;</desc>
+      </rect>
+      <rect
+         transform="rotate(0.58718431)"
+         inkscape:label="#mesh_template"
+         y="525.90271"
+         x="1097.9155"
+         height="4.412807"
+         width="4.6944752"
+         id="rect9322-1-4-7-0-4-0-0-4-9-2"
+         style="display:inline;fill:#ff8900;fill-opacity:1;fill-rule:nonzero;stroke:#13ce00;stroke-width:0.85699999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new">
+        <desc
+           id="desc10092-7-0-4-9-8-24-0-4-6-0">base_template = sunchair_red; name = sunchair_green; texture0 = world_atlas1.png; texture0_atlas_cell = 6 0 32 32;</desc>
+      </rect>
+      <rect
+         transform="rotate(-0.10631754)"
+         inkscape:label="#mesh"
+         y="549.59583"
+         x="1062.3159"
+         height="4.412807"
+         width="4.6944752"
+         id="rect9322-1-4-7-0-4-0-7-6-16"
+         style="display:inline;fill:#ff8900;fill-opacity:1;fill-rule:nonzero;stroke:#ce0000;stroke-width:0.85699999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new">
+        <desc
+           id="desc10092-7-0-4-9-8-24-8-4-2">template = sunchair_red;</desc>
+      </rect>
+      <rect
+         transform="rotate(0.27104672)"
+         inkscape:label="#mesh"
+         y="542.5304"
+         x="1075.5009"
+         height="4.412807"
+         width="4.6944752"
+         id="rect9322-1-4-7-0-4-0-0-8-0-2"
+         style="display:inline;fill:#ff8900;fill-opacity:1;fill-rule:nonzero;stroke:#0020ce;stroke-width:0.85699999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new">
+        <desc
+           id="desc10092-7-0-4-9-8-24-0-2-4-53">template = sunchair_blue;</desc>
+      </rect>
+      <rect
+         transform="rotate(0.22751698)"
+         inkscape:label="#mesh"
+         y="543.30353"
+         x="1084.6654"
+         height="4.412807"
+         width="4.6944752"
+         id="rect9322-1-4-7-0-4-0-0-3-9-2-31"
+         style="display:inline;fill:#ff8900;fill-opacity:1;fill-rule:nonzero;stroke:#c7ce00;stroke-width:0.85699999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new">
+        <desc
+           id="desc10092-7-0-4-9-8-24-0-8-1-8-9">template = sunchair_yellow;</desc>
+      </rect>
+      <rect
+         transform="rotate(-0.28260341)"
+         inkscape:label="#mesh"
+         y="553.02148"
+         x="1089.3339"
+         height="4.412807"
+         width="4.6944752"
+         id="rect9322-1-4-7-0-4-0-0-4-3-5-53"
+         style="display:inline;fill:#ff8900;fill-opacity:1;fill-rule:nonzero;stroke:#13ce00;stroke-width:0.85699999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new">
+        <desc
+           id="desc10092-7-0-4-9-8-24-0-4-5-6-9">template = sunchair_green;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#fbff00;fill-opacity:1;fill-rule:evenodd;stroke:none;enable-background:new"
+         id="rect10340-9-86-8-1-4-3-5"
+         width="4.4683914"
+         height="3.811275"
+         x="868.99359"
+         y="907.53406"
+         inkscape:label="#mesh">
+        <desc
+           id="desc10349-8-98-8-7-0-5-67">template = streetlantern;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#fbff00;fill-opacity:1;fill-rule:evenodd;stroke:none;enable-background:new"
+         id="rect10340-9-86-8-1-4-3-5-4"
+         width="4.4683914"
+         height="3.811275"
+         x="853.0929"
+         y="919.66541"
+         inkscape:label="#mesh">
+        <desc
+           id="desc10349-8-98-8-7-0-5-67-0">template = streetlantern;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#fbff00;fill-opacity:1;fill-rule:evenodd;stroke:none;enable-background:new"
+         id="rect10340-9-86-8-1-4-3-5-8"
+         width="4.4683914"
+         height="3.811275"
+         x="848.3811"
+         y="954.70526"
+         inkscape:label="#mesh">
+        <desc
+           id="desc10349-8-98-8-7-0-5-67-9">template = streetlantern;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#fbff00;fill-opacity:1;fill-rule:evenodd;stroke:none;enable-background:new"
+         id="rect10340-9-86-8-1-4-3-5-0"
+         width="4.4683914"
+         height="3.811275"
+         x="860.51239"
+         y="970.60596"
+         inkscape:label="#mesh">
+        <desc
+           id="desc10349-8-98-8-7-0-5-67-92">template = streetlantern;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#fbff00;fill-opacity:1;fill-rule:evenodd;stroke:none;enable-background:new"
+         id="rect10340-9-86-8-1-4-3-5-89"
+         width="4.4683914"
+         height="3.811275"
+         x="895.55243"
+         y="975.31775"
+         inkscape:label="#mesh">
+        <desc
+           id="desc10349-8-98-8-7-0-5-67-4">template = streetlantern;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#fbff00;fill-opacity:1;fill-rule:evenodd;stroke:none;enable-background:new"
+         id="rect10340-9-86-8-1-4-3-5-83"
+         width="4.4683914"
+         height="3.811275"
+         x="911.45312"
+         y="963.18646"
+         inkscape:label="#mesh">
+        <desc
+           id="desc10349-8-98-8-7-0-5-67-5">template = streetlantern;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#fbff00;fill-opacity:1;fill-rule:evenodd;stroke:none;enable-background:new"
+         id="rect10340-9-86-8-1-4-3-5-46"
+         width="4.4683914"
+         height="3.811275"
+         x="916.16479"
+         y="928.14636"
+         inkscape:label="#mesh">
+        <desc
+           id="desc10349-8-98-8-7-0-5-67-58">template = streetlantern;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#fbff00;fill-opacity:1;fill-rule:evenodd;stroke:none;enable-background:new"
+         id="rect10340-9-86-8-1-4-3-5-6"
+         width="4.4683914"
+         height="3.811275"
+         x="904.03351"
+         y="912.24573"
+         inkscape:label="#mesh">
+        <desc
+           id="desc10349-8-98-8-7-0-5-67-6">template = streetlantern;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#0000ff;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:new"
+         id="rect9036-2-2-4-2-8-3-5-53-5-0"
+         width="2.8208899"
+         height="2.8208899"
+         x="1264.134"
+         y="941.73517"
+         inkscape:label="#mesh">
+        <desc
+           id="desc9040-4-3-2-0-7-3-1-1-3-7">template = parasol_blue;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;enable-background:new"
+         id="rect9036-2-2-4-2-8-8-9-2-9"
+         width="2.8208899"
+         height="2.8208899"
+         x="1235.7689"
+         y="911.72394"
+         inkscape:label="#mesh">
+        <desc
+           id="desc9040-4-3-2-0-7-1-4-6-3">template = parasol_red;</desc>
       </rect>
     </g>
     <g
