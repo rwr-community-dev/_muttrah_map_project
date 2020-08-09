@@ -30,11 +30,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="11.313708"
-     inkscape:cx="865.25376"
-     inkscape:cy="1093.6418"
+     inkscape:zoom="63.999997"
+     inkscape:cx="1377.8978"
+     inkscape:cy="1202.791"
      inkscape:document-units="px"
-     inkscape:current-layer="layer23"
+     inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:window-width="1673"
      inkscape:window-height="921"
@@ -27329,8 +27329,8 @@ walkable = 0;</desc>
          id="rect40641-5"
          width="42"
          height="42"
-         x="-1238.422"
-         y="-793.0769"
+         x="-1239.4086"
+         y="-801.5047"
          inkscape:label="#mesh"
          transform="rotate(141.67598)">
         <desc
@@ -27443,8 +27443,8 @@ walkable = 0;</desc>
       <rect
          transform="rotate(141.676)"
          inkscape:label="#mesh"
-         y="-796.92053"
-         x="-1203.6965"
+         y="-805.34833"
+         x="-1204.6831"
          height="2.25"
          width="6"
          id="mesh8-4-4-8-4-1"
@@ -27455,8 +27455,8 @@ walkable = 0;</desc>
       <rect
          transform="rotate(141.676)"
          inkscape:label="#mesh"
-         y="-796.92053"
-         x="-1220.7874"
+         y="-805.34833"
+         x="-1221.7739"
          height="2.25"
          width="6"
          id="mesh8-4-4-8-4-1-2"
@@ -27467,8 +27467,8 @@ walkable = 0;</desc>
       <rect
          transform="rotate(141.676)"
          inkscape:label="#mesh"
-         y="-796.92053"
-         x="-1237.3715"
+         y="-805.34833"
+         x="-1238.358"
          height="2.25"
          width="6"
          id="mesh8-4-4-8-4-1-4"
@@ -29205,8 +29205,8 @@ collision_model_type = -1; </desc>
          id="mesh_template11-7-1-4-1-76-9"
          width="12.288"
          height="6.1440001"
-         x="748.1543"
-         y="-1208.9844"
+         x="756.58209"
+         y="-1209.9706"
          inkscape:label="#mesh_template"
          transform="rotate(51.675369)">
         <desc
@@ -29217,8 +29217,8 @@ collision_model_type = -1; </desc>
          id="mesh_template11-7-7-2-7-8-2"
          width="12.288"
          height="6.1440001"
-         x="742.26764"
-         y="-1231.7844"
+         x="750.69543"
+         y="-1232.7706"
          inkscape:label="#mesh_template"
          transform="rotate(51.675369)">
         <desc
@@ -29229,8 +29229,8 @@ collision_model_type = -1; </desc>
          id="mesh_template11-7-1-5-6-61-6-08-7"
          width="12.288"
          height="6.1440001"
-         x="744.72552"
-         y="-1220.7681"
+         x="753.15332"
+         y="-1221.7543"
          inkscape:label="#mesh_template"
          transform="rotate(51.675369)">
         <desc
@@ -29422,6 +29422,281 @@ see_through =0;
 penetrability = 0.1;
 alpha_blend = 1;</desc>
       </rect>
+      <rect
+         transform="rotate(8.8033427)"
+         inkscape:label="#mesh"
+         y="-396.19238"
+         x="1326.7594"
+         height="16"
+         width="16"
+         id="rect7910"
+         style="display:inline;fill:#800080;fill-opacity:1;stroke:none;enable-background:new"
+         inkscape:transform-center-x="0.15862386"
+         inkscape:transform-center-y="0.0063049468">
+        <desc
+           id="desc7906">mesh_name = crane_base.mesh; texture0 = world_atlas1.png; texture0_atlas_cell = 3 1 8 8;</desc>
+        <title
+           id="title7908">crane</title>
+      </rect>
+      <rect
+         style="display:inline;opacity:0.97797361;fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:none;enable-background:new"
+         id="rect7914"
+         width="1"
+         height="6"
+         x="686.21094"
+         y="-1217.9111"
+         inkscape:label="#mesh"
+         transform="rotate(52.978929)"
+         inkscape:transform-center-x="-4.8726443"
+         inkscape:transform-center-y="-3.8794049">
+        <desc
+           id="desc7912">name = concrete_pipes; mesh_name = concrete_pipes.mesh; texture0 = concrete.png; collision_model_type = 1; collision_model_size = 0.5 0.9 3.0; walkable = 1; texture0 = alpha.png; alpha_blend = 1;</desc>
+      </rect>
+      <rect
+         style="display:inline;opacity:0.97797361;fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:none;enable-background:new"
+         id="rect7918"
+         width="1"
+         height="6"
+         x="1207.9584"
+         y="677.42657"
+         inkscape:label="#mesh"
+         transform="rotate(-37.021071)"
+         inkscape:transform-center-x="4.0632597"
+         inkscape:transform-center-y="-5.0115445">
+        <desc
+           id="desc7916">name = concrete_pipes; mesh_name = concrete_pipes.mesh; texture0 = concrete.png; collision_model_type = 1; collision_model_size = 0.5 0.9 3.0; walkable = 1; texture0 = alpha.png; alpha_blend = 1;</desc>
+      </rect>
+      <rect
+         inkscape:transform-center-y="5.0161153"
+         inkscape:transform-center-x="-3.6964433"
+         transform="rotate(142.97893)"
+         inkscape:label="#mesh"
+         y="-696.10504"
+         x="-1209.116"
+         height="6"
+         width="1"
+         id="rect7922"
+         style="display:inline;opacity:0.97797361;fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:none;enable-background:new">
+        <desc
+           id="desc7920">name = concrete_pipes; mesh_name = concrete_pipes.mesh; texture0 = concrete.png; collision_model_type = 1; collision_model_size = 0.5 0.9 3.0; walkable = 1; texture0 = alpha.png; alpha_blend = 1;</desc>
+      </rect>
+      <rect
+         style="display:inline;opacity:0.97797361;fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:none;enable-background:new"
+         id="rect7926"
+         width="1"
+         height="6"
+         x="-687.39215"
+         y="1199.2384"
+         inkscape:label="#mesh"
+         transform="rotate(-127.02107)"
+         inkscape:transform-center-x="5.1364385"
+         inkscape:transform-center-y="3.8958008">
+        <desc
+           id="desc7924">name = concrete_pipes; mesh_name = concrete_pipes.mesh; texture0 = concrete.png; collision_model_type = 1; collision_model_size = 0.5 0.9 3.0; walkable = 1; texture0 = alpha.png; alpha_blend = 1;</desc>
+      </rect>
+      <g
+         transform="rotate(-82.021071,658.2113,-756.36253)"
+         inkscape:transform-center-y="0.036699654"
+         inkscape:transform-center-x="0.068444101"
+         id="g7936">
+        <path
+           sodipodi:nodetypes="cc"
+           inkscape:label="#path7483_platform"
+           inkscape:connector-curvature="0"
+           id="path7930"
+           d="m 182.01085,32.564847 0.065,9.0442"
+           style="display:inline;fill:none;stroke:#ff0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new">
+          <desc
+             id="desc7928">type = deck_end; height =0.7; wall_template = BrickWall1; wall_height = 0; top_material = none; climbable = 1; separator_height = 0; #no_collision_side1; #no_collision_side2;</desc>
+        </path>
+        <path
+           sodipodi:nodetypes="cc"
+           inkscape:label="#path743_platform"
+           inkscape:connector-curvature="0"
+           id="path7934"
+           d="m 191.34905,32.238847 0.067,9.3777"
+           style="display:inline;fill:none;stroke:#0000ff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new">
+          <desc
+             id="desc7932">type = deck_start;</desc>
+        </path>
+      </g>
+      <rect
+         style="display:inline;opacity:0.79775277;fill:#2cffe7;fill-opacity:1;fill-rule:nonzero;stroke:none;enable-background:new"
+         id="rect7938"
+         width="3.1491213"
+         height="1.0750006"
+         x="-426.72345"
+         y="1320.8672"
+         inkscape:label="#ladder"
+         transform="rotate(-115.18603)" />
+      <rect
+         style="display:inline;fill:#ffff00;fill-opacity:1;stroke:none;enable-background:new"
+         id="rect7944"
+         width="5.2584629"
+         height="4.8828583"
+         x="-1331.0924"
+         y="-412.03149"
+         inkscape:label="#mesh"
+         transform="rotate(155.4557)"
+         inkscape:transform-center-x="0.037376701"
+         inkscape:transform-center-y="0.089902749">
+        <desc
+           id="desc7940">mesh_name = crane.mesh; texture0 = world_atlas1.png; texture0_atlas_cell = 3 1 8 8;</desc>
+        <title
+           id="title7942">crane</title>
+      </rect>
+      <rect
+         transform="rotate(65.432009)"
+         inkscape:label="#mesh"
+         y="-1329.7407"
+         x="408.42538"
+         height="2.9987612"
+         width="2.998677"
+         id="rect7950"
+         style="display:inline;fill:#d94e4e;fill-opacity:1;stroke:none;enable-background:new"
+         inkscape:transform-center-x="0.17312366"
+         inkscape:transform-center-y="-0.083960511">
+        <title
+           id="title7946">crane_collision</title>
+        <desc
+           id="desc7948">mesh_name = container.mesh; texture0 = alpha.png; collision_model_type = 1; collision_model_size = 1.5 18.5 1.5; walkable = 1; texture0 = alpha.png; alpha_blend = 1; penetrability = 0.8; see_through = 1;</desc>
+      </rect>
+      <rect
+         inkscape:transform-center-y="0.10093827"
+         inkscape:transform-center-x="-0.12242912"
+         style="display:inline;fill:#800080;fill-opacity:1;stroke:none;enable-background:new"
+         id="rect8037"
+         width="16"
+         height="16"
+         x="-619.80542"
+         y="1214.2094"
+         inkscape:label="#mesh"
+         transform="rotate(-129.41033)">
+        <desc
+           id="desc8033">mesh_name = crane_base.mesh; texture0 = world_atlas1.png; texture0_atlas_cell = 3 1 8 8;</desc>
+        <title
+           id="title8035">crane</title>
+      </rect>
+      <rect
+         inkscape:transform-center-y="-0.3543101"
+         inkscape:transform-center-x="6.2183443"
+         transform="rotate(-85.234737)"
+         inkscape:label="#mesh"
+         y="1293.5648"
+         x="412.34283"
+         height="6"
+         width="1"
+         id="rect8041"
+         style="display:inline;opacity:0.97797361;fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:none;enable-background:new">
+        <desc
+           id="desc8039">name = concrete_pipes; mesh_name = concrete_pipes.mesh; texture0 = concrete.png; collision_model_type = 1; collision_model_size = 0.5 0.9 3.0; walkable = 1; texture0 = alpha.png; alpha_blend = 1;</desc>
+      </rect>
+      <rect
+         inkscape:transform-center-y="6.4442641"
+         inkscape:transform-center-x="0.30984383"
+         transform="rotate(-175.23474)"
+         inkscape:label="#mesh"
+         y="403.55847"
+         x="-1303.5176"
+         height="6"
+         width="1"
+         id="rect8045"
+         style="display:inline;opacity:0.97797361;fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:none;enable-background:new">
+        <desc
+           id="desc8043">name = concrete_pipes; mesh_name = concrete_pipes.mesh; texture0 = concrete.png; collision_model_type = 1; collision_model_size = 0.5 0.9 3.0; walkable = 1; texture0 = alpha.png; alpha_blend = 1;</desc>
+      </rect>
+      <rect
+         style="display:inline;opacity:0.97797361;fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:none;enable-background:new"
+         id="rect8049"
+         width="1"
+         height="6"
+         x="1302.36"
+         y="-422.23697"
+         inkscape:label="#mesh"
+         transform="rotate(4.7652643)"
+         inkscape:transform-center-x="-0.58624147"
+         inkscape:transform-center-y="-6.2033332">
+        <desc
+           id="desc8047">name = concrete_pipes; mesh_name = concrete_pipes.mesh; texture0 = concrete.png; collision_model_type = 1; collision_model_size = 0.5 0.9 3.0; walkable = 1; texture0 = alpha.png; alpha_blend = 1;</desc>
+      </rect>
+      <rect
+         inkscape:transform-center-y="0.51783723"
+         inkscape:transform-center-x="-6.4258184"
+         transform="rotate(94.765264)"
+         inkscape:label="#mesh"
+         y="-1312.2375"
+         x="-413.52408"
+         height="6"
+         width="1"
+         id="rect8053"
+         style="display:inline;opacity:0.97797361;fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:none;enable-background:new">
+        <desc
+           id="desc8051">name = concrete_pipes; mesh_name = concrete_pipes.mesh; texture0 = concrete.png; collision_model_type = 1; collision_model_size = 0.5 0.9 3.0; walkable = 1; texture0 = alpha.png; alpha_blend = 1;</desc>
+      </rect>
+      <rect
+         transform="rotate(106.6003)"
+         inkscape:label="#ladder"
+         y="-1193.3922"
+         x="-673.72668"
+         height="1.0750006"
+         width="3.1491213"
+         id="rect8065"
+         style="display:inline;opacity:0.79775277;fill:#2cffe7;fill-opacity:1;fill-rule:nonzero;stroke:none;enable-background:new" />
+      <rect
+         inkscape:transform-center-y="-0.042133179"
+         inkscape:transform-center-x="-0.087845072"
+         transform="rotate(17.242034)"
+         inkscape:label="#mesh"
+         y="-687.21942"
+         x="1180.2408"
+         height="4.8828583"
+         width="5.2584629"
+         id="rect8071"
+         style="display:inline;fill:#ffff00;fill-opacity:1;stroke:none;enable-background:new">
+        <desc
+           id="desc8067">mesh_name = crane.mesh; texture0 = world_atlas1.png; texture0_atlas_cell = 3 1 8 8;</desc>
+        <title
+           id="title8069">crane</title>
+      </rect>
+      <rect
+         inkscape:transform-center-y="0.17800099"
+         inkscape:transform-center-x="-0.073174775"
+         style="display:inline;fill:#d94e4e;fill-opacity:1;stroke:none;enable-background:new"
+         id="rect8077"
+         width="2.998677"
+         height="2.9987612"
+         x="682.5741"
+         y="1181.7068"
+         inkscape:label="#mesh"
+         transform="rotate(-72.781657)">
+        <title
+           id="title8073">crane_collision</title>
+        <desc
+           id="desc8075">mesh_name = container.mesh; texture0 = alpha.png; collision_model_type = 1; collision_model_size = 1.5 18.5 1.5; walkable = 1; texture0 = alpha.png; alpha_blend = 1; penetrability = 0.8; see_through = 1;</desc>
+      </rect>
+      <g
+         id="g8130">
+        <path
+           style="display:inline;fill:none;stroke:#ff0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new"
+           d="m 1339.2025,-302.92991 -5.8914,-6.8624"
+           id="path8057"
+           inkscape:connector-curvature="0"
+           inkscape:label="#path7483_platform"
+           sodipodi:nodetypes="cc">
+          <desc
+             id="desc8055">type = deck_end; height =0.7; wall_template = BrickWall1; wall_height = 0; top_material = none; climbable = 1; separator_height = 0; #no_collision_side1; #no_collision_side2;</desc>
+        </path>
+        <path
+           style="display:inline;fill:none;stroke:#0000ff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new"
+           d="m 1332.2843,-296.6493 -6.1084,-7.1157"
+           id="path8061"
+           inkscape:connector-curvature="0"
+           inkscape:label="#path743_platform"
+           sodipodi:nodetypes="cc">
+          <desc
+             id="desc8059">type = deck_start;</desc>
+        </path>
+      </g>
     </g>
     <g
        style="display:inline;opacity:0.44900004"
@@ -32350,8 +32625,8 @@ merge = 1;</desc>
          rx="7.1001334"
          transform="rotate(-88.846228)"
          inkscape:label="#rect10748"
-         y="1457.8456"
-         x="-882.17847"
+         y="1463.9653"
+         x="-888.05634"
          height="14.200267"
          width="14.200267"
          id="decal_template20-8-1"
@@ -32364,8 +32639,8 @@ merge = 1;</desc>
          rx="7.1001334"
          transform="rotate(-88.846228)"
          inkscape:label="#rect10748"
-         y="1470.6113"
-         x="-871.63306"
+         y="1476.7311"
+         x="-877.51093"
          height="14.200267"
          width="14.200267"
          id="decal_template20-8-8"
@@ -32904,7 +33179,7 @@ collision_model_size =0.4 8.5 0.4;</desc>
          width="8"
          height="8"
          x="379.6907"
-         y="1658.7115"
+         y="1667.1967"
          rx="4"
          ry="4"
          inkscape:label="#mesh"
@@ -32919,8 +33194,8 @@ collision_model_size =0.4 8.5 0.4;</desc>
          id="rect31262-2-8"
          width="8"
          height="8"
-         x="274.30026"
-         y="1685.2594"
+         x="273.68457"
+         y="1693.7222"
          rx="4"
          ry="4"
          inkscape:label="#mesh"
@@ -33153,8 +33428,8 @@ collision_model_size =0.4 8.5 0.4;</desc>
       <rect
          transform="rotate(0.55420551)"
          inkscape:label="#mesh_template"
-         y="862.82788"
-         x="1428.2108"
+         y="868.76947"
+         x="1434.2683"
          height="4.4000001"
          width="4.4000001"
          id="rect1000000-61-6-06-2-1-1-7-4"
@@ -33262,8 +33537,8 @@ collision_model_size =0.4 8.5 0.4;</desc>
       <rect
          transform="rotate(-128.32384)"
          inkscape:label="#mesh"
-         y="561.43646"
-         x="-1596.42"
+         y="562.42285"
+         x="-1604.848"
          height="17.6"
          width="10.6"
          id="rect39769-1"
@@ -33284,8 +33559,8 @@ see_through = 0;</desc>
       <rect
          transform="rotate(0.55420551)"
          inkscape:label="#mesh_template"
-         y="855.24152"
-         x="1437.6199"
+         y="861.18311"
+         x="1443.6774"
          height="4.4000001"
          width="4.4000001"
          id="rect1000000-61-6-06-2-1-1-7-4-7"
@@ -34858,6 +35133,102 @@ height = 0.9; </desc>
          transform="rotate(51.67668)">
         <desc
            id="desc14014-7-7-5-8-6-3-1-1-5">name = contruction_bricks; mesh_name = construction_bricks.mesh; texture0 = mortar_ammunition_crates.png; collision_model_type = 1; collision_model_size = 2.2 2 2.5; walkable = 1;</desc>
+      </rect>
+      <rect
+         inkscape:label="#mesh"
+         y="-1474.9111"
+         x="339.96249"
+         height="0.27143928"
+         width="3.012603"
+         id="rect4-7-2-7-52-4-5-8-5-8-1-8"
+         style="display:inline;fill:#ff0000;fill-opacity:1;stroke:none;enable-background:new"
+         transform="rotate(105.38193)">
+        <desc
+           id="desc6099-8-8-7-8-1-8-5-5-1-2-1-9">mesh_name = container.mesh; texture0 = alpha.png; collision_model_type = 1; collision_model_size = 1.5 1.2 0.13; walkable = 0; texture0 = alpha.png; alpha_blend = 1; penetrability = 0.8; see_through = 1;</desc>
+      </rect>
+      <rect
+         inkscape:label="#mesh"
+         y="-1487.8079"
+         x="294.60306"
+         height="0.27144927"
+         width="1.0109661"
+         id="rect4-7-2-7-52-4-5-8-5-7-4-3-3"
+         style="display:inline;fill:#ff0000;fill-opacity:1;stroke:none;enable-background:new"
+         transform="rotate(107.21526)">
+        <desc
+           id="desc6099-8-8-7-8-1-8-5-5-1-1-5-8-4">mesh_name = container.mesh; texture0 = alpha.png; collision_model_type = 1; collision_model_size = 0.5 1.2 0.13; walkable = 0; texture0 = alpha.png; alpha_blend = 1; penetrability = 0.8; see_through = 1;</desc>
+      </rect>
+      <rect
+         inkscape:label="#mesh"
+         y="-250.0125"
+         x="-1495.6168"
+         height="0.27143928"
+         width="3.012603"
+         id="rect4-7-2-7-52-4-5-8-5-1-5-7-4"
+         style="display:inline;fill:#ff0000;fill-opacity:1;stroke:none;enable-background:new"
+         transform="rotate(-161.13642)">
+        <desc
+           id="desc6099-8-8-7-8-1-8-5-5-1-5-1-4-6">mesh_name = container.mesh; texture0 = alpha.png; collision_model_type = 1; collision_model_size = 1.5 1.2 0.13; walkable = 0; texture0 = alpha.png; alpha_blend = 1; penetrability = 0.8; see_through = 1;</desc>
+      </rect>
+      <rect
+         inkscape:label="#mesh"
+         y="-292.22012"
+         x="-1488.48"
+         height="0.27143928"
+         width="3.012603"
+         id="rect4-7-2-7-52-4-5-8-5-1-2-7-2-0"
+         style="display:inline;fill:#ff0000;fill-opacity:1;stroke:none;enable-background:new"
+         transform="rotate(-162.65394)">
+        <desc
+           id="desc6099-8-8-7-8-1-8-5-5-1-5-7-1-7-6">mesh_name = container.mesh; texture0 = alpha.png; collision_model_type = 1; collision_model_size = 1.5 1.2 0.13; walkable = 0; texture0 = alpha.png; alpha_blend = 1; penetrability = 0.8; see_through = 1;</desc>
+      </rect>
+      <rect
+         inkscape:label="#mesh"
+         y="867.37927"
+         x="-1366.516"
+         height="0.27143928"
+         width="3.012603"
+         id="rect4-7-2-7-52-4-5-8-5-8-1-8-8"
+         style="display:inline;fill:#ff0000;fill-opacity:1;stroke:none;enable-background:new"
+         transform="rotate(-116.10661)">
+        <desc
+           id="desc6099-8-8-7-8-1-8-5-5-1-2-1-9-7">mesh_name = container.mesh; texture0 = alpha.png; collision_model_type = 1; collision_model_size = 1.5 1.2 0.13; walkable = 0; texture0 = alpha.png; alpha_blend = 1; penetrability = 0.8; see_through = 1;</desc>
+      </rect>
+      <rect
+         inkscape:label="#mesh"
+         y="907.87756"
+         x="-1336.067"
+         height="0.27144927"
+         width="1.0109661"
+         id="rect4-7-2-7-52-4-5-8-5-7-4-3-3-2"
+         style="display:inline;fill:#ff0000;fill-opacity:1;stroke:none;enable-background:new"
+         transform="rotate(-114.27328)">
+        <desc
+           id="desc6099-8-8-7-8-1-8-5-5-1-1-5-8-4-5">mesh_name = container.mesh; texture0 = alpha.png; collision_model_type = 1; collision_model_size = 0.5 1.2 0.13; walkable = 0; texture0 = alpha.png; alpha_blend = 1; penetrability = 0.8; see_through = 1;</desc>
+      </rect>
+      <rect
+         inkscape:label="#mesh"
+         y="1311.0718"
+         x="945.98309"
+         height="0.27143928"
+         width="3.012603"
+         id="rect4-7-2-7-52-4-5-8-5-1-5-7-4-8"
+         style="display:inline;fill:#ff0000;fill-opacity:1;stroke:none;enable-background:new"
+         transform="rotate(-22.624962)">
+        <desc
+           id="desc6099-8-8-7-8-1-8-5-5-1-5-1-4-6-5">mesh_name = container.mesh; texture0 = alpha.png; collision_model_type = 1; collision_model_size = 1.5 1.2 0.13; walkable = 0; texture0 = alpha.png; alpha_blend = 1; penetrability = 0.8; see_through = 1;</desc>
+      </rect>
+      <rect
+         inkscape:label="#mesh"
+         y="1332.9764"
+         x="910.92188"
+         height="0.27143928"
+         width="3.012603"
+         id="rect4-7-2-7-52-4-5-8-5-1-2-7-2-0-1"
+         style="display:inline;fill:#ff0000;fill-opacity:1;stroke:none;enable-background:new"
+         transform="rotate(-24.142482)">
+        <desc
+           id="desc6099-8-8-7-8-1-8-5-5-1-5-7-1-7-6-6">mesh_name = container.mesh; texture0 = alpha.png; collision_model_type = 1; collision_model_size = 1.5 1.2 0.13; walkable = 0; texture0 = alpha.png; alpha_blend = 1; penetrability = 0.8; see_through = 1;</desc>
       </rect>
     </g>
     <g
