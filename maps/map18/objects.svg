@@ -30,9 +30,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="7.9999997"
-     inkscape:cx="1311.3354"
-     inkscape:cy="1229.4102"
+     inkscape:zoom="3.9999998"
+     inkscape:cx="1285.5649"
+     inkscape:cy="1272.6743"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -28532,7 +28532,7 @@ alpha_blend = 1;</desc>
          inkscape:label="#mesh_template"
          transform="rotate(52.826693)">
         <desc
-           id="desc7569-9-3-1-9-3-1-7-2-8">name = container_red; mesh_name = container.mesh; texture0 = world_atlas1.png; texture0_rect = 0.125 0.125 0.25 0.3125; collision_model_type = 1; collision_model_size = 6.0 9.0 3.0; walkable = 1; backline = 1;</desc>
+           id="desc7569-9-3-1-9-3-1-7-2-8">name = container_red; mesh_name = container.mesh; texture0 = world_atlas1.png; texture0_rect = 0.125 0.125 0.25 0.3125; collision_model_type = 1; collision_model_size = 6.0 6.0 3.0; walkable = 1; backline = 1;</desc>
       </rect>
       <rect
          style="display:inline;fill:#008000;fill-opacity:1;stroke:none;enable-background:new"
@@ -28556,7 +28556,7 @@ alpha_blend = 1;</desc>
          inkscape:label="#mesh_template"
          transform="rotate(52.826693)">
         <desc
-           id="desc7569-9-3-1-9-3-7-0-3-8">name = container_blue; mesh_name = container.mesh; texture0 = world_atlas1.png; texture0_rect = 0 0.125 0.125 0.3125; collision_model_type = 1; collision_model_size = 6.0 3.0 3.0; walkable = 1; backline = 1;</desc>
+           id="desc7569-9-3-1-9-3-7-0-3-8">name = container_blue; mesh_name = container.mesh; texture0 = world_atlas1.png; texture0_rect = 0 0.125 0.125 0.3125; collision_model_type = 1; collision_model_size = 6.0 9.0 3.0; walkable = 1; backline = 1;</desc>
       </rect>
       <rect
          style="display:inline;fill:#d94e4e;fill-opacity:1;stroke:none;enable-background:new"
@@ -28568,7 +28568,7 @@ alpha_blend = 1;</desc>
          inkscape:label="#mesh_template"
          transform="rotate(52.826693)">
         <desc
-           id="desc7569-9-3-1-9-3-1-7-2-1-3">name = container_red; mesh_name = container.mesh; texture0 = world_atlas1.png; texture0_rect = 0.125 0.125 0.25 0.3125; collision_model_type = 1; collision_model_size = 6.0 9.0 3.0; walkable = 1; backline = 1;</desc>
+           id="desc7569-9-3-1-9-3-1-7-2-1-3">name = container_red; mesh_name = container.mesh; texture0 = world_atlas1.png; texture0_rect = 0.125 0.125 0.25 0.3125; collision_model_type = 1; collision_model_size = 6.0 6.0 3.0; walkable = 1; backline = 1;</desc>
       </rect>
       <rect
          style="display:inline;fill:#008000;fill-opacity:1;stroke:none;enable-background:new"
@@ -28580,7 +28580,7 @@ alpha_blend = 1;</desc>
          inkscape:label="#mesh_template"
          transform="rotate(52.826693)">
         <desc
-           id="desc7569-9-3-1-9-3-1-3-3-4-1-6">name = container_green; mesh_name = container.mesh; texture0 = world_atlas1.png; texture0_rect = 0 0.3125 0.125 0.5; collision_model_type = 1; collision_model_size = 6.0 3.0 3.0; walkable = 1; backline = 1;</desc>
+           id="desc7569-9-3-1-9-3-1-3-3-4-1-6">name = container_green; mesh_name = container.mesh; texture0 = world_atlas1.png; texture0_rect = 0 0.3125 0.125 0.5; collision_model_type = 1; collision_model_size = 6.0 9.0 3.0; walkable = 1; backline = 1;</desc>
       </rect>
       <rect
          style="display:inline;fill:#4e7fd9;fill-opacity:1;stroke:none;enable-background:new"
@@ -28616,7 +28616,7 @@ alpha_blend = 1;</desc>
          inkscape:label="#mesh_template"
          transform="rotate(52.826693)">
         <desc
-           id="desc7569-9-3-1-9-3-1-3-3-4-9">name = container_green; mesh_name = container.mesh; texture0 = world_atlas1.png; texture0_rect = 0 0.3125 0.125 0.5; collision_model_type = 1; collision_model_size = 6.0 6.0 3.0; walkable = 1; backline = 1;</desc>
+           id="desc7569-9-3-1-9-3-1-3-3-4-9">name = container_green; mesh_name = container.mesh; texture0 = world_atlas1.png; texture0_rect = 0 0.3125 0.125 0.5; collision_model_type = 1; collision_model_size = 6.0 3.0 3.0; walkable = 1; backline = 1;</desc>
       </rect>
       <rect
          style="display:inline;fill:#4e7fd9;fill-opacity:1;stroke:none;enable-background:new"
@@ -28628,7 +28628,7 @@ alpha_blend = 1;</desc>
          inkscape:label="#mesh_template"
          transform="rotate(52.826693)">
         <desc
-           id="desc7569-9-3-1-9-3-7-0-3-4">name = container_blue; mesh_name = container.mesh; texture0 = world_atlas1.png; texture0_rect = 0 0.125 0.125 0.3125; collision_model_type = 1; collision_model_size = 6.0 3.0 3.0; walkable = 1; backline = 1;</desc>
+           id="desc7569-9-3-1-9-3-7-0-3-4">name = container_blue; mesh_name = container.mesh; texture0 = world_atlas1.png; texture0_rect = 0 0.125 0.125 0.3125; collision_model_type = 1; collision_model_size = 6.0 6.0 3.0; walkable = 1; backline = 1;</desc>
       </rect>
       <rect
          style="display:inline;fill:#d94e4e;fill-opacity:1;stroke:none;enable-background:new"
@@ -28640,7 +28640,7 @@ alpha_blend = 1;</desc>
          inkscape:label="#mesh_template"
          transform="rotate(52.826693)">
         <desc
-           id="desc7569-9-3-1-9-3-1-7-2-1-4">name = container_red; mesh_name = container.mesh; texture0 = world_atlas1.png; texture0_rect = 0.125 0.125 0.25 0.3125; collision_model_type = 1; collision_model_size = 6.0 3.0 3.0; walkable = 1; backline = 1;</desc>
+           id="desc7569-9-3-1-9-3-1-7-2-1-4">name = container_red; mesh_name = container.mesh; texture0 = world_atlas1.png; texture0_rect = 0.125 0.125 0.25 0.3125; collision_model_type = 1; collision_model_size = 6.0 6.0 3.0; walkable = 1; backline = 1;</desc>
       </rect>
       <rect
          style="display:inline;fill:#008000;fill-opacity:1;stroke:none;enable-background:new"
@@ -28652,7 +28652,7 @@ alpha_blend = 1;</desc>
          inkscape:label="#mesh_template"
          transform="rotate(52.826693)">
         <desc
-           id="desc7569-9-3-1-9-3-1-3-3-4-1-2">name = container_green; mesh_name = container.mesh; texture0 = world_atlas1.png; texture0_rect = 0 0.3125 0.125 0.5; collision_model_type = 1; collision_model_size = 6.0 6.0 3.0; walkable = 1; backline = 1;</desc>
+           id="desc7569-9-3-1-9-3-1-3-3-4-1-2">name = container_green; mesh_name = container.mesh; texture0 = world_atlas1.png; texture0_rect = 0 0.3125 0.125 0.5; collision_model_type = 1; collision_model_size = 6.0 3.0 3.0; walkable = 1; backline = 1;</desc>
       </rect>
       <rect
          style="display:inline;fill:#4e7fd9;fill-opacity:1;stroke:none;enable-background:new"
@@ -28664,7 +28664,7 @@ alpha_blend = 1;</desc>
          inkscape:label="#mesh_template"
          transform="rotate(52.826693)">
         <desc
-           id="desc7569-9-3-1-9-3-7-0-5">name = container_blue; mesh_name = container.mesh; texture0 = world_atlas1.png; texture0_rect = 0 0.125 0.125 0.3125; collision_model_type = 1; collision_model_size = 6.0 6.0 3.0; walkable = 1; backline = 1;</desc>
+           id="desc7569-9-3-1-9-3-7-0-5">name = container_blue; mesh_name = container.mesh; texture0 = world_atlas1.png; texture0_rect = 0 0.125 0.125 0.3125; collision_model_type = 1; collision_model_size = 6.0 3.0 3.0; walkable = 1; backline = 1;</desc>
       </rect>
       <rect
          style="display:inline;fill:#d94e4e;fill-opacity:1;stroke:none;enable-background:new"
@@ -28688,7 +28688,7 @@ alpha_blend = 1;</desc>
          inkscape:label="#mesh_template"
          transform="rotate(52.826693)">
         <desc
-           id="desc7569-9-3-1-9-3-1-3-3-4-73">name = container_green; mesh_name = container.mesh; texture0 = world_atlas1.png; texture0_rect = 0 0.3125 0.125 0.5; collision_model_type = 1; collision_model_size = 6.0 3.0 3.0; walkable = 1; backline = 1;</desc>
+           id="desc7569-9-3-1-9-3-1-3-3-4-73">name = container_green; mesh_name = container.mesh; texture0 = world_atlas1.png; texture0_rect = 0 0.3125 0.125 0.5; collision_model_type = 1; collision_model_size = 6.0 6.0 3.0; walkable = 1; backline = 1;</desc>
       </rect>
       <rect
          style="display:inline;fill:#4e7fd9;fill-opacity:1;stroke:none;enable-background:new"
@@ -28700,7 +28700,7 @@ alpha_blend = 1;</desc>
          inkscape:label="#mesh_template"
          transform="rotate(52.826693)">
         <desc
-           id="desc7569-9-3-1-9-3-7-0-3-0">name = container_blue; mesh_name = container.mesh; texture0 = world_atlas1.png; texture0_rect = 0 0.125 0.125 0.3125; collision_model_type = 1; collision_model_size = 6.0 6.0 3.0; walkable = 1; backline = 1;</desc>
+           id="desc7569-9-3-1-9-3-7-0-3-0">name = container_blue; mesh_name = container.mesh; texture0 = world_atlas1.png; texture0_rect = 0 0.125 0.125 0.3125; collision_model_type = 1; collision_model_size = 6.0 3.0 3.0; walkable = 1; backline = 1;</desc>
       </rect>
       <rect
          style="display:inline;fill:#d94e4e;fill-opacity:1;stroke:none;enable-background:new"
@@ -28712,7 +28712,7 @@ alpha_blend = 1;</desc>
          inkscape:label="#mesh_template"
          transform="rotate(52.826693)">
         <desc
-           id="desc7569-9-3-1-9-3-1-7-2-1-5">name = container_red; mesh_name = container.mesh; texture0 = world_atlas1.png; texture0_rect = 0.125 0.125 0.25 0.3125; collision_model_type = 1; collision_model_size = 6.0 3.0 3.0; walkable = 1; backline = 1;</desc>
+           id="desc7569-9-3-1-9-3-1-7-2-1-5">name = container_red; mesh_name = container.mesh; texture0 = world_atlas1.png; texture0_rect = 0.125 0.125 0.25 0.3125; collision_model_type = 1; collision_model_size = 6.0 6.0 3.0; walkable = 1; backline = 1;</desc>
       </rect>
       <rect
          style="display:inline;fill:#008000;fill-opacity:1;stroke:none;enable-background:new"
@@ -28736,7 +28736,7 @@ alpha_blend = 1;</desc>
          inkscape:label="#mesh_template"
          transform="rotate(52.826693)">
         <desc
-           id="desc7569-9-3-1-9-3-7-0-8">name = container_blue; mesh_name = container.mesh; texture0 = world_atlas1.png; texture0_rect = 0 0.125 0.125 0.3125; collision_model_type = 1; collision_model_size = 6.0 3.0 3.0; walkable = 1; backline = 1;</desc>
+           id="desc7569-9-3-1-9-3-7-0-8">name = container_blue; mesh_name = container.mesh; texture0 = world_atlas1.png; texture0_rect = 0 0.125 0.125 0.3125; collision_model_type = 1; collision_model_size = 6.0 6.0 3.0; walkable = 1; backline = 1;</desc>
       </rect>
       <rect
          style="display:inline;fill:#d94e4e;fill-opacity:1;stroke:none;enable-background:new"
@@ -28748,7 +28748,7 @@ alpha_blend = 1;</desc>
          inkscape:label="#mesh_template"
          transform="rotate(52.826693)">
         <desc
-           id="desc7569-9-3-1-9-3-1-7-2-76">name = container_red; mesh_name = container.mesh; texture0 = world_atlas1.png; texture0_rect = 0.125 0.125 0.25 0.3125; collision_model_type = 1; collision_model_size = 6.0 9.0 3.0; walkable = 1; backline = 1;</desc>
+           id="desc7569-9-3-1-9-3-1-7-2-76">name = container_red; mesh_name = container.mesh; texture0 = world_atlas1.png; texture0_rect = 0.125 0.125 0.25 0.3125; collision_model_type = 1; collision_model_size = 6.0 3.0 3.0; walkable = 1; backline = 1;</desc>
       </rect>
       <rect
          style="display:inline;fill:#008000;fill-opacity:1;stroke:none;enable-background:new"
@@ -28760,7 +28760,7 @@ alpha_blend = 1;</desc>
          inkscape:label="#mesh_template"
          transform="rotate(52.826693)">
         <desc
-           id="desc7569-9-3-1-9-3-1-3-3-4-0">name = container_green; mesh_name = container.mesh; texture0 = world_atlas1.png; texture0_rect = 0 0.3125 0.125 0.5; collision_model_type = 1; collision_model_size = 6.0 3.0 3.0; walkable = 1; backline = 1;</desc>
+           id="desc7569-9-3-1-9-3-1-3-3-4-0">name = container_green; mesh_name = container.mesh; texture0 = world_atlas1.png; texture0_rect = 0 0.3125 0.125 0.5; collision_model_type = 1; collision_model_size = 6.0 6.0 3.0; walkable = 1; backline = 1;</desc>
       </rect>
       <rect
          style="display:inline;fill:#4e7fd9;fill-opacity:1;stroke:none;enable-background:new"
@@ -28772,7 +28772,7 @@ alpha_blend = 1;</desc>
          inkscape:label="#mesh_template"
          transform="rotate(52.826693)">
         <desc
-           id="desc7569-9-3-1-9-3-7-0-3-3">name = container_blue; mesh_name = container.mesh; texture0 = world_atlas1.png; texture0_rect = 0 0.125 0.125 0.3125; collision_model_type = 1; collision_model_size = 6.0 6.0 3.0; walkable = 1; backline = 1;</desc>
+           id="desc7569-9-3-1-9-3-7-0-3-3">name = container_blue; mesh_name = container.mesh; texture0 = world_atlas1.png; texture0_rect = 0 0.125 0.125 0.3125; collision_model_type = 1; collision_model_size = 6.0 3.0 3.0; walkable = 1; backline = 1;</desc>
       </rect>
       <rect
          style="display:inline;fill:#d94e4e;fill-opacity:1;stroke:none;enable-background:new"
@@ -28784,7 +28784,7 @@ alpha_blend = 1;</desc>
          inkscape:label="#mesh_template"
          transform="rotate(52.826693)">
         <desc
-           id="desc7569-9-3-1-9-3-1-7-2-1-47">name = container_red; mesh_name = container.mesh; texture0 = world_atlas1.png; texture0_rect = 0.125 0.125 0.25 0.3125; collision_model_type = 1; collision_model_size = 6.0 9.0 3.0; walkable = 1; backline = 1;</desc>
+           id="desc7569-9-3-1-9-3-1-7-2-1-47">name = container_red; mesh_name = container.mesh; texture0 = world_atlas1.png; texture0_rect = 0.125 0.125 0.25 0.3125; collision_model_type = 1; collision_model_size = 6.0 3.0 3.0; walkable = 1; backline = 1;</desc>
       </rect>
       <rect
          style="display:inline;fill:#008000;fill-opacity:1;stroke:none;enable-background:new"
@@ -28796,7 +28796,7 @@ alpha_blend = 1;</desc>
          inkscape:label="#mesh_template"
          transform="rotate(52.826693)">
         <desc
-           id="desc7569-9-3-1-9-3-1-3-3-4-1-4">name = container_green; mesh_name = container.mesh; texture0 = world_atlas1.png; texture0_rect = 0 0.3125 0.125 0.5; collision_model_type = 1; collision_model_size = 6.0 6.0 3.0; walkable = 1; backline = 1;</desc>
+           id="desc7569-9-3-1-9-3-1-3-3-4-1-4">name = container_green; mesh_name = container.mesh; texture0 = world_atlas1.png; texture0_rect = 0 0.3125 0.125 0.5; collision_model_type = 1; collision_model_size = 6.0 3.0 3.0; walkable = 1; backline = 1;</desc>
       </rect>
       <rect
          style="display:inline;fill:#4e7fd9;fill-opacity:1;stroke:none;enable-background:new"
@@ -28808,7 +28808,7 @@ alpha_blend = 1;</desc>
          inkscape:label="#mesh_template"
          transform="rotate(52.826693)">
         <desc
-           id="desc7569-9-3-1-9-3-7-0-4">name = container_blue; mesh_name = container.mesh; texture0 = world_atlas1.png; texture0_rect = 0 0.125 0.125 0.3125; collision_model_type = 1; collision_model_size = 6.0 3.0 3.0; walkable = 1; backline = 1;</desc>
+           id="desc7569-9-3-1-9-3-7-0-4">name = container_blue; mesh_name = container.mesh; texture0 = world_atlas1.png; texture0_rect = 0 0.125 0.125 0.3125; collision_model_type = 1; collision_model_size = 6.0 9.0 3.0; walkable = 1; backline = 1;</desc>
       </rect>
       <rect
          style="display:inline;fill:#d94e4e;fill-opacity:1;stroke:none;enable-background:new"
@@ -28820,7 +28820,7 @@ alpha_blend = 1;</desc>
          inkscape:label="#mesh_template"
          transform="rotate(52.826693)">
         <desc
-           id="desc7569-9-3-1-9-3-1-7-2-78">name = container_red; mesh_name = container.mesh; texture0 = world_atlas1.png; texture0_rect = 0.125 0.125 0.25 0.3125; collision_model_type = 1; collision_model_size = 6.0 3.0 3.0; walkable = 1; backline = 1;</desc>
+           id="desc7569-9-3-1-9-3-1-7-2-78">name = container_red; mesh_name = container.mesh; texture0 = world_atlas1.png; texture0_rect = 0.125 0.125 0.25 0.3125; collision_model_type = 1; collision_model_size = 6.0 9.0 3.0; walkable = 1; backline = 1;</desc>
       </rect>
       <rect
          style="display:inline;fill:#008000;fill-opacity:1;stroke:none;enable-background:new"
@@ -28832,7 +28832,7 @@ alpha_blend = 1;</desc>
          inkscape:label="#mesh_template"
          transform="rotate(52.826693)">
         <desc
-           id="desc7569-9-3-1-9-3-1-3-3-4-19">name = container_green; mesh_name = container.mesh; texture0 = world_atlas1.png; texture0_rect = 0 0.3125 0.125 0.5; collision_model_type = 1; collision_model_size = 6.0 3.0 3.0; walkable = 1; backline = 1;</desc>
+           id="desc7569-9-3-1-9-3-1-3-3-4-19">name = container_green; mesh_name = container.mesh; texture0 = world_atlas1.png; texture0_rect = 0 0.3125 0.125 0.5; collision_model_type = 1; collision_model_size = 6.0 6.0 3.0; walkable = 1; backline = 1;</desc>
       </rect>
       <rect
          style="display:inline;fill:#4e7fd9;fill-opacity:1;stroke:none;enable-background:new"
@@ -28844,7 +28844,7 @@ alpha_blend = 1;</desc>
          inkscape:label="#mesh_template"
          transform="rotate(52.826693)">
         <desc
-           id="desc7569-9-3-1-9-3-7-0-3-9">name = container_blue; mesh_name = container.mesh; texture0 = world_atlas1.png; texture0_rect = 0 0.125 0.125 0.3125; collision_model_type = 1; collision_model_size = 6.0 3.0 3.0; walkable = 1; backline = 1;</desc>
+           id="desc7569-9-3-1-9-3-7-0-3-9">name = container_blue; mesh_name = container.mesh; texture0 = world_atlas1.png; texture0_rect = 0 0.125 0.125 0.3125; collision_model_type = 1; collision_model_size = 6.0 6.0 3.0; walkable = 1; backline = 1;</desc>
       </rect>
       <rect
          style="display:inline;fill:#d94e4e;fill-opacity:1;stroke:none;enable-background:new"
@@ -28856,7 +28856,7 @@ alpha_blend = 1;</desc>
          inkscape:label="#mesh_template"
          transform="rotate(52.826693)">
         <desc
-           id="desc7569-9-3-1-9-3-1-7-2-1-54">name = container_red; mesh_name = container.mesh; texture0 = world_atlas1.png; texture0_rect = 0.125 0.125 0.25 0.3125; collision_model_type = 1; collision_model_size = 6.0 3.0 3.0; walkable = 1; backline = 1;</desc>
+           id="desc7569-9-3-1-9-3-1-7-2-1-54">name = container_red; mesh_name = container.mesh; texture0 = world_atlas1.png; texture0_rect = 0.125 0.125 0.25 0.3125; collision_model_type = 1; collision_model_size = 6.0 6.0 3.0; walkable = 1; backline = 1;</desc>
       </rect>
       <rect
          style="display:inline;fill:#008000;fill-opacity:1;stroke:none;enable-background:new"
@@ -28868,7 +28868,7 @@ alpha_blend = 1;</desc>
          inkscape:label="#mesh_template"
          transform="rotate(52.826693)">
         <desc
-           id="desc7569-9-3-1-9-3-1-3-3-4-1-7">name = container_green; mesh_name = container.mesh; texture0 = world_atlas1.png; texture0_rect = 0 0.3125 0.125 0.5; collision_model_type = 1; collision_model_size = 6.0 3.0 3.0; walkable = 1; backline = 1;</desc>
+           id="desc7569-9-3-1-9-3-1-3-3-4-1-7">name = container_green; mesh_name = container.mesh; texture0 = world_atlas1.png; texture0_rect = 0 0.3125 0.125 0.5; collision_model_type = 1; collision_model_size = 6.0 6.0 3.0; walkable = 1; backline = 1;</desc>
       </rect>
       <rect
          style="display:inline;fill:#563a16;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.95515919;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
@@ -30155,6 +30155,270 @@ alpha_blend = 1;</desc>
          transform="rotate(103.40369)">
         <desc
            id="desc14014-7-7-5-8-6-1-59-0">name = contruction_bricks; mesh_name = construction_bricks.mesh; texture0 = mortar_ammunition_crates.png; collision_model_type = 1; collision_model_size = 2.2 2 2.5; walkable = 1;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill-opacity:1;stroke:none;enable-background:new"
+         id="mesh_template11-7-7-6-3-4-5"
+         width="12.288"
+         height="6.1440001"
+         x="-624.3858"
+         y="1200.3284"
+         inkscape:label="#mesh_template"
+         transform="rotate(-127.17267)">
+        <desc
+           id="desc7569-9-3-1-9-3-7-7-5-0-3">name = container_black; mesh_name = container.mesh; texture0 = docks_container_atlas.png; texture0_atlas_cell = 1 0 12 1;  offset = 0 3.0 0;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill-opacity:1;stroke:none;enable-background:new"
+         id="mesh_template11-7-7-6-3-4-5-2"
+         width="12.288"
+         height="6.1440001"
+         x="-624.38586"
+         y="1169.608"
+         inkscape:label="#mesh_template"
+         transform="rotate(-127.17267)">
+        <desc
+           id="desc7569-9-3-1-9-3-7-7-5-0-3-0">name = container_black; mesh_name = container.mesh; texture0 = docks_container_atlas.png; texture0_atlas_cell = 1 0 12 1;  offset = 0 3.0 0;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill-opacity:1;stroke:none;enable-background:new"
+         id="mesh_template11-7-7-6-3-4-5-9"
+         width="12.288"
+         height="6.1440001"
+         x="-673.53796"
+         y="1169.6086"
+         inkscape:label="#mesh_template"
+         transform="rotate(-127.17267)">
+        <desc
+           id="desc7569-9-3-1-9-3-7-7-5-0-3-8">name = container_black; mesh_name = container.mesh; texture0 = docks_container_atlas.png; texture0_atlas_cell = 1 0 12 1;  offset = 0 3.0 0;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill-opacity:1;stroke:none;enable-background:new"
+         id="mesh_template11-7-7-6-3-4-5-5"
+         width="12.288"
+         height="6.1440001"
+         x="-673.53802"
+         y="1200.3289"
+         inkscape:label="#mesh_template"
+         transform="rotate(-127.17267)">
+        <desc
+           id="desc7569-9-3-1-9-3-7-7-5-0-3-7">name = container_black; mesh_name = container.mesh; texture0 = docks_container_atlas.png; texture0_atlas_cell = 1 0 12 1;  offset = 0 3.0 0;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#636363;fill-opacity:0.43317231;stroke:none;enable-background:new"
+         id="mesh_template11-7-7-6-3-6"
+         width="12.288"
+         height="6.1440001"
+         x="-629.24164"
+         y="1179.3501"
+         inkscape:label="#mesh_template"
+         transform="rotate(-127.40771)">
+        <desc
+           id="desc7569-9-3-1-9-3-7-7-5-08">name = container_white; mesh_name = container.mesh; texture0 = docks_container_atlas.png; texture0_atlas_cell = 0 0 12 1;  offset = 0 3.0 0;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#636363;fill-opacity:0.43317231;stroke:none;enable-background:new"
+         id="mesh_template11-7-7-6-3-6-7"
+         width="12.288"
+         height="6.1440001"
+         x="-629.26691"
+         y="1185.494"
+         inkscape:label="#mesh_template"
+         transform="rotate(-127.40771)">
+        <desc
+           id="desc7569-9-3-1-9-3-7-7-5-08-8">name = container_white; mesh_name = container.mesh; texture0 = docks_container_atlas.png; texture0_atlas_cell = 0 0 12 1;  offset = 0 3.0 0;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#636363;fill-opacity:0.43317231;stroke:none;enable-background:new"
+         id="mesh_template11-7-7-6-3-6-9"
+         width="12.288"
+         height="6.1440001"
+         x="-641.47919"
+         y="1167.0118"
+         inkscape:label="#mesh_template"
+         transform="rotate(-127.40771)">
+        <desc
+           id="desc7569-9-3-1-9-3-7-7-5-08-6">name = container_white; mesh_name = container.mesh; texture0 = docks_container_atlas.png; texture0_atlas_cell = 0 0 12 1;  offset = 0 3.0 0;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#636363;fill-opacity:0.43317231;stroke:none;enable-background:new"
+         id="mesh_template11-7-7-6-3-6-5"
+         width="12.288"
+         height="6.1440001"
+         x="-641.60522"
+         y="1197.7317"
+         inkscape:label="#mesh_template"
+         transform="rotate(-127.40771)">
+        <desc
+           id="desc7569-9-3-1-9-3-7-7-5-08-2">name = container_white; mesh_name = container.mesh; texture0 = docks_container_atlas.png; texture0_atlas_cell = 0 0 12 1;  offset = 0 3.0 0;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#636363;fill-opacity:0.43317231;stroke:none;enable-background:new"
+         id="mesh_template11-7-7-6-3-6-94"
+         width="12.288"
+         height="6.1440001"
+         x="-678.36823"
+         y="1173.005"
+         inkscape:label="#mesh_template"
+         transform="rotate(-127.40771)">
+        <desc
+           id="desc7569-9-3-1-9-3-7-7-5-08-85">name = container_white; mesh_name = container.mesh; texture0 = docks_container_atlas.png; texture0_atlas_cell = 0 0 12 1;  offset = 0 3.0 0;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#636363;fill-opacity:0.43317231;stroke:none;enable-background:new"
+         id="mesh_template11-7-7-6-3-6-1"
+         width="12.288"
+         height="6.1440001"
+         x="-678.39349"
+         y="1179.1489"
+         inkscape:label="#mesh_template"
+         transform="rotate(-127.40771)">
+        <desc
+           id="desc7569-9-3-1-9-3-7-7-5-08-07">name = container_white; mesh_name = container.mesh; texture0 = docks_container_atlas.png; texture0_atlas_cell = 0 0 12 1;  offset = 0 3.0 0;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#636363;fill-opacity:0.43317231;stroke:none;enable-background:new"
+         id="mesh_template11-7-7-6-3-6-2-1"
+         width="12.288"
+         height="6.1440001"
+         x="-666.05505"
+         y="1166.9113"
+         inkscape:label="#mesh_template"
+         transform="rotate(-127.40771)">
+        <desc
+           id="desc7569-9-3-1-9-3-7-7-5-08-0-8">name = container_white; mesh_name = container.mesh; texture0 = docks_container_atlas.png; texture0_atlas_cell = 0 0 12 1;  offset = 0 3.0 0;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#636363;fill-opacity:0.43317231;stroke:none;enable-background:new"
+         id="mesh_template11-7-7-6-3-6-2-2"
+         width="12.288"
+         height="6.1440001"
+         x="-678.41864"
+         y="1185.293"
+         inkscape:label="#mesh_template"
+         transform="rotate(-127.40771)">
+        <desc
+           id="desc7569-9-3-1-9-3-7-7-5-08-0-2">name = container_white; mesh_name = container.mesh; texture0 = docks_container_atlas.png; texture0_atlas_cell = 0 0 12 1;  offset = 0 3.0 0;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#636363;fill-opacity:0.43317231;stroke:none;enable-background:new"
+         id="mesh_template11-7-7-6-3-6-2-6"
+         width="12.288"
+         height="6.1440001"
+         x="-678.44385"
+         y="1191.437"
+         inkscape:label="#mesh_template"
+         transform="rotate(-127.40771)">
+        <desc
+           id="desc7569-9-3-1-9-3-7-7-5-08-0-28">name = container_white; mesh_name = container.mesh; texture0 = docks_container_atlas.png; texture0_atlas_cell = 0 0 12 1;  offset = 0 3.0 0;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#636363;fill-opacity:0.43317231;stroke:none;enable-background:new"
+         id="mesh_template11-7-7-6-3-6-2-0"
+         width="12.288"
+         height="6.1440001"
+         x="-666.18109"
+         y="1197.6312"
+         inkscape:label="#mesh_template"
+         transform="rotate(-127.40771)">
+        <desc
+           id="desc7569-9-3-1-9-3-7-7-5-08-0-1">name = container_white; mesh_name = container.mesh; texture0 = docks_container_atlas.png; texture0_atlas_cell = 0 0 12 1;  offset = 0 3.0 0;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#636363;fill-opacity:0.43317231;stroke:none;enable-background:new"
+         id="mesh_template11-7-7-6-3-6-2-07"
+         width="12.288"
+         height="6.1440001"
+         x="-629.21649"
+         y="1173.2061"
+         inkscape:label="#mesh_template"
+         transform="rotate(-127.40771)">
+        <desc
+           id="desc7569-9-3-1-9-3-7-7-5-08-0-4">name = container_white; mesh_name = container.mesh; texture0 = docks_container_atlas.png; texture0_atlas_cell = 0 0 12 1;  offset = 0 3.0 0;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#636363;fill-opacity:0.43317231;stroke:none;enable-background:new"
+         id="mesh_template11-7-7-6-3-6-2-3"
+         width="12.288"
+         height="6.1440001"
+         x="-629.29218"
+         y="1191.6379"
+         inkscape:label="#mesh_template"
+         transform="rotate(-127.40771)">
+        <desc
+           id="desc7569-9-3-1-9-3-7-7-5-08-0-22">name = container_white; mesh_name = container.mesh; texture0 = docks_container_atlas.png; texture0_atlas_cell = 0 0 12 1;  offset = 0 3.0 0;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill-opacity:1;stroke:none;enable-background:new"
+         id="mesh_template11-7-7-6-3-4-5-2-7"
+         width="12.288"
+         height="6.1440001"
+         x="-648.96185"
+         y="1169.6084"
+         inkscape:label="#mesh_template"
+         transform="rotate(-127.17267)">
+        <desc
+           id="desc7569-9-3-1-9-3-7-7-5-0-3-0-9">name = container_black; mesh_name = container.mesh; texture0 = docks_container_atlas.png; texture0_atlas_cell = 1 0 12 1;  offset = 0 3.0 0;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill-opacity:1;stroke:none;enable-background:new"
+         id="mesh_template11-7-7-6-3-4-5-2-6"
+         width="12.288"
+         height="6.1440001"
+         x="-648.96185"
+         y="1200.3286"
+         inkscape:label="#mesh_template"
+         transform="rotate(-127.17267)">
+        <desc
+           id="desc7569-9-3-1-9-3-7-7-5-0-3-0-5">name = container_black; mesh_name = container.mesh; texture0 = docks_container_atlas.png; texture0_atlas_cell = 1 0 12 1;  offset = 0 3.0 0;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill-opacity:1;stroke:none;enable-background:new"
+         id="mesh_template11-7-7-6-3-4-5-2-0"
+         width="12.288"
+         height="6.1440001"
+         x="-624.38586"
+         y="1169.6082"
+         inkscape:label="#mesh_template"
+         transform="rotate(-127.17267)">
+        <desc
+           id="desc7569-9-3-1-9-3-7-7-5-0-3-0-2">name = container_black; mesh_name = container.mesh; texture0 = docks_container_atlas.png; texture0_atlas_cell = 1 0 12 1;  offset = 0 6.0 0;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill-opacity:1;stroke:none;enable-background:new"
+         id="mesh_template11-7-7-6-3-4-5-2-0-7"
+         width="12.288"
+         height="6.1440001"
+         x="-624.3858"
+         y="1200.3284"
+         inkscape:label="#mesh_template"
+         transform="rotate(-127.17267)">
+        <desc
+           id="desc7569-9-3-1-9-3-7-7-5-0-3-0-2-4">name = container_black; mesh_name = container.mesh; texture0 = docks_container_atlas.png; texture0_atlas_cell = 1 0 12 1;  offset = 0 6.0 0;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill-opacity:1;stroke:none;enable-background:new"
+         id="mesh_template11-7-7-6-3-4-5-2-0-6"
+         width="12.288"
+         height="6.1440001"
+         x="-673.53796"
+         y="1169.6086"
+         inkscape:label="#mesh_template"
+         transform="rotate(-127.17267)">
+        <desc
+           id="desc7569-9-3-1-9-3-7-7-5-0-3-0-2-42">name = container_black; mesh_name = container.mesh; texture0 = docks_container_atlas.png; texture0_atlas_cell = 1 0 12 1;  offset = 0 6.0 0;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill-opacity:1;stroke:none;enable-background:new"
+         id="mesh_template11-7-7-6-3-4-5-2-0-2"
+         width="12.288"
+         height="6.1440001"
+         x="-673.53802"
+         y="1200.3289"
+         inkscape:label="#mesh_template"
+         transform="rotate(-127.17267)">
+        <desc
+           id="desc7569-9-3-1-9-3-7-7-5-0-3-0-2-5">name = container_black; mesh_name = container.mesh; texture0 = docks_container_atlas.png; texture0_atlas_cell = 1 0 12 1;  offset = 0 6.0 0;</desc>
       </rect>
     </g>
     <g
@@ -34344,150 +34608,6 @@ see_through = 0;</desc>
         <desc
            id="desc7569-9-3-1-9-3-7-7-5-0">name = container_black; mesh_name = container.mesh; texture0 = docks_container_atlas.png; texture0_atlas_cell = 1 0 12 1;</desc>
       </rect>
-      <rect
-         style="display:inline;fill-opacity:1;stroke:none;enable-background:new"
-         id="mesh_template11-7-7-6-3-4-5"
-         width="12.288"
-         height="6.1440001"
-         x="-1440.3278"
-         y="575.46381"
-         inkscape:label="#mesh_template"
-         transform="rotate(-127.17267)">
-        <desc
-           id="desc7569-9-3-1-9-3-7-7-5-0-3">name = container_black; mesh_name = container.mesh; texture0 = docks_container_atlas.png; texture0_atlas_cell = 1 0 12 1;  offset = 0 3.0 0;</desc>
-      </rect>
-      <rect
-         style="display:inline;fill-opacity:1;stroke:none;enable-background:new"
-         id="mesh_template11-7-7-6-3-4-5-2"
-         width="12.288"
-         height="6.1440001"
-         x="-1440.3276"
-         y="557.0318"
-         inkscape:label="#mesh_template"
-         transform="rotate(-127.17267)">
-        <desc
-           id="desc7569-9-3-1-9-3-7-7-5-0-3-0">name = container_black; mesh_name = container.mesh; texture0 = docks_container_atlas.png; texture0_atlas_cell = 1 0 12 1;  offset = 0 3.0 0;</desc>
-      </rect>
-      <rect
-         style="display:inline;fill-opacity:1;stroke:none;enable-background:new"
-         id="mesh_template11-7-7-6-3-4-5-9"
-         width="12.288"
-         height="6.1440001"
-         x="-1477.1918"
-         y="557.03217"
-         inkscape:label="#mesh_template"
-         transform="rotate(-127.17267)">
-        <desc
-           id="desc7569-9-3-1-9-3-7-7-5-0-3-8">name = container_black; mesh_name = container.mesh; texture0 = docks_container_atlas.png; texture0_atlas_cell = 1 0 12 1;  offset = 0 3.0 0;</desc>
-      </rect>
-      <rect
-         style="display:inline;fill-opacity:1;stroke:none;enable-background:new"
-         id="mesh_template11-7-7-6-3-4-5-5"
-         width="12.288"
-         height="6.1440001"
-         x="-1477.1918"
-         y="575.46429"
-         inkscape:label="#mesh_template"
-         transform="rotate(-127.17267)">
-        <desc
-           id="desc7569-9-3-1-9-3-7-7-5-0-3-7">name = container_black; mesh_name = container.mesh; texture0 = docks_container_atlas.png; texture0_atlas_cell = 1 0 12 1;  offset = 0 3.0 0;</desc>
-      </rect>
-      <rect
-         style="display:inline;fill:#636363;fill-opacity:0.43317231;stroke:none;enable-background:new"
-         id="mesh_template11-7-7-6-3-6"
-         width="12.288"
-         height="6.1440001"
-         x="-1442.6384"
-         y="557.28784"
-         inkscape:label="#mesh_template"
-         transform="rotate(-127.40771)">
-        <desc
-           id="desc7569-9-3-1-9-3-7-7-5-08">name = container_white; mesh_name = container.mesh; texture0 = docks_container_atlas.png; texture0_atlas_cell = 0 0 12 1;  offset = 0 3.0 0;</desc>
-      </rect>
-      <rect
-         style="display:inline;fill:#636363;fill-opacity:0.43317231;stroke:none;enable-background:new"
-         id="mesh_template11-7-7-6-3-6-7"
-         width="12.288"
-         height="6.1440001"
-         x="-1442.6637"
-         y="563.43176"
-         inkscape:label="#mesh_template"
-         transform="rotate(-127.40771)">
-        <desc
-           id="desc7569-9-3-1-9-3-7-7-5-08-8">name = container_white; mesh_name = container.mesh; texture0 = docks_container_atlas.png; texture0_atlas_cell = 0 0 12 1;  offset = 0 3.0 0;</desc>
-      </rect>
-      <rect
-         style="display:inline;fill:#636363;fill-opacity:0.43317231;stroke:none;enable-background:new"
-         id="mesh_template11-7-7-6-3-6-9"
-         width="12.288"
-         height="6.1440001"
-         x="-1454.9011"
-         y="551.09344"
-         inkscape:label="#mesh_template"
-         transform="rotate(-127.40771)">
-        <desc
-           id="desc7569-9-3-1-9-3-7-7-5-08-6">name = container_white; mesh_name = container.mesh; texture0 = docks_container_atlas.png; texture0_atlas_cell = 0 0 12 1;  offset = 0 3.0 0;</desc>
-      </rect>
-      <rect
-         style="display:inline;fill:#636363;fill-opacity:0.43317231;stroke:none;enable-background:new"
-         id="mesh_template11-7-7-6-3-6-5"
-         width="12.288"
-         height="6.1440001"
-         x="-1454.9767"
-         y="569.52545"
-         inkscape:label="#mesh_template"
-         transform="rotate(-127.40771)">
-        <desc
-           id="desc7569-9-3-1-9-3-7-7-5-08-2">name = container_white; mesh_name = container.mesh; texture0 = docks_container_atlas.png; texture0_atlas_cell = 0 0 12 1;  offset = 0 3.0 0;</desc>
-      </rect>
-      <rect
-         style="display:inline;fill:#636363;fill-opacity:0.43317231;stroke:none;enable-background:new"
-         id="mesh_template11-7-7-6-3-6-2"
-         width="12.288"
-         height="6.1440001"
-         x="-1467.1892"
-         y="551.04321"
-         inkscape:label="#mesh_template"
-         transform="rotate(-127.40771)">
-        <desc
-           id="desc7569-9-3-1-9-3-7-7-5-08-0">name = container_white; mesh_name = container.mesh; texture0 = docks_container_atlas.png; texture0_atlas_cell = 0 0 12 1;  offset = 0 3.0 0;</desc>
-      </rect>
-      <rect
-         style="display:inline;fill:#636363;fill-opacity:0.43317231;stroke:none;enable-background:new"
-         id="mesh_template11-7-7-6-3-6-94"
-         width="12.288"
-         height="6.1440001"
-         x="-1479.5022"
-         y="557.13696"
-         inkscape:label="#mesh_template"
-         transform="rotate(-127.40771)">
-        <desc
-           id="desc7569-9-3-1-9-3-7-7-5-08-85">name = container_white; mesh_name = container.mesh; texture0 = docks_container_atlas.png; texture0_atlas_cell = 0 0 12 1;  offset = 0 3.0 0;</desc>
-      </rect>
-      <rect
-         style="display:inline;fill:#636363;fill-opacity:0.43317231;stroke:none;enable-background:new"
-         id="mesh_template11-7-7-6-3-6-1"
-         width="12.288"
-         height="6.1440001"
-         x="-1479.5275"
-         y="563.28094"
-         inkscape:label="#mesh_template"
-         transform="rotate(-127.40771)">
-        <desc
-           id="desc7569-9-3-1-9-3-7-7-5-08-07">name = container_white; mesh_name = container.mesh; texture0 = docks_container_atlas.png; texture0_atlas_cell = 0 0 12 1;  offset = 0 3.0 0;</desc>
-      </rect>
-      <rect
-         style="display:inline;fill:#636363;fill-opacity:0.43317231;stroke:none;enable-background:new"
-         id="mesh_template11-7-7-6-3-6-78"
-         width="12.288"
-         height="6.1440001"
-         x="-1467.2648"
-         y="569.47516"
-         inkscape:label="#mesh_template"
-         transform="rotate(-127.40771)">
-        <desc
-           id="desc7569-9-3-1-9-3-7-7-5-08-4">name = container_white; mesh_name = container.mesh; texture0 = docks_container_atlas.png; texture0_atlas_cell = 0 0 12 1;  offset = 0 3.0 0;</desc>
-      </rect>
     </g>
     <g
        style="display:inline"
@@ -35979,54 +36099,6 @@ height = 0.9; </desc>
          inkscape:label="#mesh">
         <desc
            id="desc9040-4-3-2-0-7-1-4-6-3">template = parasol_red;</desc>
-      </rect>
-      <rect
-         style="display:inline;fill:#636363;fill-opacity:0.43317231;stroke:none;enable-background:new"
-         id="mesh_template11-7-7-6-3-6-18"
-         width="12.288"
-         height="6.1440001"
-         x="-1442.6132"
-         y="551.1438"
-         inkscape:label="#mesh_template"
-         transform="rotate(-127.40771)">
-        <desc
-           id="desc7569-9-3-1-9-3-7-7-5-08-06">name = container_white; mesh_name = container.mesh; texture0 = docks_container_atlas.png; texture0_atlas_cell = 0 0 12 1;  offset = 0 6.0 0;</desc>
-      </rect>
-      <rect
-         style="display:inline;fill:#636363;fill-opacity:0.43317231;stroke:none;enable-background:new"
-         id="mesh_template11-7-7-6-3-6-0"
-         width="12.288"
-         height="6.1440001"
-         x="-1442.689"
-         y="569.57562"
-         inkscape:label="#mesh_template"
-         transform="rotate(-127.40771)">
-        <desc
-           id="desc7569-9-3-1-9-3-7-7-5-08-41">name = container_white; mesh_name = container.mesh; texture0 = docks_container_atlas.png; texture0_atlas_cell = 0 0 12 1;  offset = 0 6.0 0;</desc>
-      </rect>
-      <rect
-         style="display:inline;fill:#636363;fill-opacity:0.43317231;stroke:none;enable-background:new"
-         id="mesh_template11-7-7-6-3-6-98"
-         width="12.288"
-         height="6.1440001"
-         x="-1479.5526"
-         y="569.42493"
-         inkscape:label="#mesh_template"
-         transform="rotate(-127.40771)">
-        <desc
-           id="desc7569-9-3-1-9-3-7-7-5-08-5">name = container_white; mesh_name = container.mesh; texture0 = docks_container_atlas.png; texture0_atlas_cell = 0 0 12 1;  offset = 0 6.0 0;</desc>
-      </rect>
-      <rect
-         style="display:inline;fill:#636363;fill-opacity:0.43317231;stroke:none;enable-background:new"
-         id="mesh_template11-7-7-6-3-6-52"
-         width="12.288"
-         height="6.1440001"
-         x="-1479.4771"
-         y="550.99292"
-         inkscape:label="#mesh_template"
-         transform="rotate(-127.40771)">
-        <desc
-           id="desc7569-9-3-1-9-3-7-7-5-08-57">name = container_white; mesh_name = container.mesh; texture0 = docks_container_atlas.png; texture0_atlas_cell = 0 0 12 1;  offset = 0 6.0 0;</desc>
       </rect>
     </g>
     <g
