@@ -30,11 +30,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.656854"
-     inkscape:cx="1150.2597"
-     inkscape:cy="1215.0887"
+     inkscape:zoom="15.999999"
+     inkscape:cx="1437.4909"
+     inkscape:cy="1232.9631"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer12"
      showgrid="true"
      inkscape:window-width="1673"
      inkscape:window-height="921"
@@ -131,6 +131,31 @@
        position="1383.5758,1336.2807"
        orientation="3.6967527,-4.7258882"
        id="guide8080"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1443.339,1233.3105"
+       orientation="-0.79302673,-0.60918684"
+       id="guide8518"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1443.339,1233.3105"
+       orientation="-0.82442851,0.56596611"
+       id="guide8520"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1436.2666,1230.8017"
+       orientation="-0.33431561,0.94246118"
+       id="guide8522"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1443.339,1233.3105"
+       orientation="0.2835001,0.95897221"
+       id="guide8524"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1443.339,1233.3105"
+       orientation="1,0"
+       id="guide8526"
        inkscape:locked="false" />
   </sodipodi:namedview>
   <defs
@@ -33797,8 +33822,8 @@ collision_model_size =0.4 8.5 0.4;</desc>
       <rect
          transform="rotate(89.994867)"
          inkscape:label="#mesh"
-         y="-1466.4821"
-         x="823.67413"
+         y="-1464.076"
+         x="820.07336"
          height="1.5191746"
          width="2.6240289"
          id="mesh923-5-7-9-3-5-19-96-6-2"
@@ -33809,8 +33834,8 @@ collision_model_size =0.4 8.5 0.4;</desc>
       <rect
          transform="rotate(179.3458)"
          inkscape:label="#mesh"
-         y="-845.42316"
-         x="-1454.5055"
+         y="-841.79535"
+         x="-1452.1405"
          height="1.5191746"
          width="2.6240289"
          id="mesh923-5-7-7-9-17-65-4-4-0"
@@ -33821,8 +33846,8 @@ collision_model_size =0.4 8.5 0.4;</desc>
       <rect
          transform="rotate(-1.4053119)"
          inkscape:label="#mesh"
-         y="856.53613"
-         x="1440.8467"
+         y="852.87762"
+         x="1438.5294"
          height="1.5191746"
          width="2.6240289"
          id="mesh923-5-7-1-2-6-52-2-3-3-4"
@@ -33833,8 +33858,8 @@ collision_model_size =0.4 8.5 0.4;</desc>
       <rect
          transform="rotate(-92.707776)"
          inkscape:label="#mesh"
-         y="1420.939"
-         x="-894.3454"
+         y="1418.7054"
+         x="-890.63513"
          height="2.4131792"
          width="2.6240289"
          id="mesh923-5-7-1-2-3-0-14-60-4-7-4"
@@ -33847,8 +33872,8 @@ collision_model_size =0.4 8.5 0.4;</desc>
          id="rect9036-2-2-4-2-8-3-5-7-6-4-5"
          width="2.8208899"
          height="2.8208899"
-         x="1461.2629"
-         y="823.35529"
+         x="1458.8567"
+         y="819.7547"
          inkscape:label="#mesh">
         <desc
            id="desc9040-4-3-2-0-7-3-1-6-0-5-1">template = parasol_blue;</desc>
@@ -33856,8 +33881,8 @@ collision_model_size =0.4 8.5 0.4;</desc>
       <rect
          transform="rotate(-90.159438)"
          inkscape:label="#mesh"
-         y="1456.6323"
-         x="-830.21844"
+         y="1454.2361"
+         x="-826.61115"
          height="1.5191746"
          width="2.6240289"
          id="mesh923-5-7-1-2-6-52-2-3-3-4-5"
@@ -33968,18 +33993,6 @@ see_through = 0;</desc>
            id="desc4923-2-4-8-5-13-6-2-2-51">template = cypress;</desc>
         <title
            id="title4921-7-6-8-6-5-3-9-5-67">cypress</title>
-      </rect>
-      <rect
-         transform="rotate(89.717397)"
-         inkscape:label="#mesh"
-         y="-1162.1136"
-         x="1012.3178"
-         height="4.412807"
-         width="4.6944752"
-         id="rect9322-1-4-7-0-4-0-0-4-3-7-3"
-         style="display:inline;fill:#ff8900;fill-opacity:1;fill-rule:nonzero;stroke:#13ce00;stroke-width:0.85699999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new">
-        <desc
-           id="desc10092-7-0-4-9-8-24-0-4-5-7-4">mesh_name = market_banana.mesh; texture0 = muttrah_banana.png; collision_model_type = 0; collision_model_offset = 0 0 0; collision_model_size = 1.8 3.6 1.8;</desc>
       </rect>
       <rect
          style="display:inline;opacity:0.97797361;fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:none;enable-background:new"
@@ -34128,6 +34141,92 @@ see_through = 0;</desc>
          transform="rotate(51.952148)">
         <desc
            id="desc15000-83-7-3-6-9-6">name = concrete_pipes; mesh_name = concrete_pipes.mesh; texture0 = concrete.png; collision_model_type = 1; collision_model_size = 0.6 0.3 5.0; walkable = 1; texture0 = alpha.png; alpha_blend = 1;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#00ffff;stroke:none;enable-background:new"
+         id="rect96339-7"
+         width="5.199378"
+         height="14.509892"
+         x="-284.71967"
+         y="-1519.8914"
+         inkscape:label="#mesh"
+         transform="rotate(141.58034)">
+        <desc
+           id="desc96343-2">mesh_name = podium.mesh; texture0 = podium.png; collision_model_type = 1; collision_model_size = 2.0 0.7 6; walkable = 1;</desc>
+        <title
+           id="title96341-2">podium</title>
+      </rect>
+      <rect
+         transform="rotate(89.717397)"
+         inkscape:label="#mesh"
+         y="-1420.3225"
+         x="839.28796"
+         height="4.412807"
+         width="4.6944752"
+         id="rect9322-1-4-7-0-4-0-0-4-3-7-3"
+         style="display:inline;fill:#ff8900;fill-opacity:1;fill-rule:nonzero;stroke:#13ce00;stroke-width:0.85699999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new">
+        <desc
+           id="desc10092-7-0-4-9-8-24-0-4-5-7-4">mesh_name = market_banana.mesh; texture0 = muttrah_banana.png; collision_model_type = 0; collision_model_offset = 0 0 0; collision_model_size = 1.8 3.6 1.8;</desc>
+      </rect>
+      <rect
+         transform="rotate(17.193057)"
+         inkscape:label="#mesh"
+         y="351.05521"
+         x="1627.9496"
+         height="4.412807"
+         width="4.6944752"
+         id="rect9322-1-4-7-0-4-0-0-4-3-7-3-9"
+         style="display:inline;fill:#ff8900;fill-opacity:1;fill-rule:nonzero;stroke:#13ce00;stroke-width:0.85699999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new">
+        <desc
+           id="desc10092-7-0-4-9-8-24-0-4-5-7-4-5">mesh_name = market_banana.mesh; texture0 = muttrah_banana.png; collision_model_type = 0; collision_model_offset = 0 0 0; collision_model_size = 1.8 3.6 1.8;</desc>
+      </rect>
+      <rect
+         transform="rotate(86.147723)"
+         inkscape:label="#mesh"
+         y="-1403.9888"
+         x="907.74615"
+         height="4.412807"
+         width="4.6944752"
+         id="rect9322-1-4-7-0-4-0-0-4-3-7-3-8"
+         style="display:inline;fill:#ff8900;fill-opacity:1;fill-rule:nonzero;stroke:#13ce00;stroke-width:0.85699999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new">
+        <desc
+           id="desc10092-7-0-4-9-8-24-0-4-5-7-4-7">mesh_name = market_banana.mesh; texture0 = muttrah_banana.png; collision_model_type = 0; collision_model_offset = 0 0 0; collision_model_size = 1.8 3.6 1.8;</desc>
+      </rect>
+      <rect
+         transform="rotate(158.14974)"
+         inkscape:label="#mesh"
+         y="-1308.0309"
+         x="-1059.5188"
+         height="4.412807"
+         width="4.6944752"
+         id="rect9322-1-4-7-0-4-0-0-4-3-7-3-83"
+         style="display:inline;fill:#ff8900;fill-opacity:1;fill-rule:nonzero;stroke:#13ce00;stroke-width:0.85699999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new">
+        <desc
+           id="desc10092-7-0-4-9-8-24-0-4-5-7-4-4">mesh_name = market_banana.mesh; texture0 = muttrah_banana.png; collision_model_type = 0; collision_model_offset = 0 0 0; collision_model_size = 1.8 3.6 1.8;</desc>
+      </rect>
+      <rect
+         transform="rotate(-129.85124)"
+         inkscape:label="#mesh"
+         y="592.53784"
+         x="-1576.1398"
+         height="4.412807"
+         width="4.6944752"
+         id="rect9322-1-4-7-0-4-0-0-4-3-7-3-4"
+         style="display:inline;fill:#ff8900;fill-opacity:1;fill-rule:nonzero;stroke:#13ce00;stroke-width:0.85699999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new">
+        <desc
+           id="desc10092-7-0-4-9-8-24-0-4-5-7-4-77">mesh_name = market_banana.mesh; texture0 = muttrah_banana.png; collision_model_type = 0; collision_model_offset = 0 0 0; collision_model_size = 1.8 3.6 1.8;</desc>
+      </rect>
+      <rect
+         transform="rotate(-57.852127)"
+         inkscape:label="#mesh"
+         y="1671.2097"
+         x="71.747993"
+         height="4.412807"
+         width="4.6944752"
+         id="rect9322-1-4-7-0-4-0-0-4-3-7-3-2"
+         style="display:inline;fill:#ff8900;fill-opacity:1;fill-rule:nonzero;stroke:#13ce00;stroke-width:0.85699999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new">
+        <desc
+           id="desc10092-7-0-4-9-8-24-0-4-5-7-4-6">mesh_name = market_banana.mesh; texture0 = muttrah_banana.png; collision_model_type = 0; collision_model_offset = 0 0 0; collision_model_size = 1.8 3.6 1.8;</desc>
       </rect>
     </g>
     <g
@@ -36658,6 +36757,18 @@ key = prison_hatch.vehicle;
          transform="rotate(-125.76029)">
         <desc
            id="desc9788-45-3-6-1-6-7-2-09-4-7-2-82-2-4-2-6-7-2-6-4-4-7-9-5-6-3">type = vehicle; key = deco_car1_pink.vehicle;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#a0892c;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3.99999909, 3.99999909;stroke-dashoffset:6.99999809;stroke-opacity:1;enable-background:new"
+         id="spawn5_6-0-0"
+         width="5.7888808"
+         height="6.6684999"
+         x="-1321.1744"
+         y="-270.24707"
+         inkscape:label=""
+         transform="rotate(-166.72169)">
+        <desc
+           id="desc9788-45-3-6-1-6-7-2-09-4-7-2-82-2-4-2-6-7-2-3-2-9-17-1">type = vehicle; key = deco_van_brown.vehicle;</desc>
       </rect>
     </g>
     <g
