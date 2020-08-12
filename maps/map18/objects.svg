@@ -30,11 +30,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4142135"
-     inkscape:cx="1165.3824"
-     inkscape:cy="1145.528"
+     inkscape:zoom="5.656854"
+     inkscape:cx="1150.2597"
+     inkscape:cy="1215.0887"
      inkscape:document-units="px"
-     inkscape:current-layer="layer19"
+     inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:window-width="1673"
      inkscape:window-height="921"
@@ -50,7 +50,7 @@
      inkscape:showpageshadow="false"
      inkscape:object-paths="true"
      inkscape:bbox-paths="true"
-     inkscape:bbox-nodes="true"
+     inkscape:bbox-nodes="false"
      inkscape:snap-bbox-edge-midpoints="true"
      inkscape:snap-bbox-midpoints="true"
      inkscape:snap-nodes="true"
@@ -78,17 +78,12 @@
        id="guide7721"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="1403.7825,1293.746"
-       orientation="3.4656647,2.7109746"
-       id="guide7865"
-       inkscape:locked="false" />
-    <sodipodi:guide
        position="1406.4934,1290.2803"
        orientation="-3.0806358,3.9382335"
        id="guide7867"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="1410.4317,1293.361"
+       position="1410.292,1289.509"
        orientation="-3.4656647,-2.7109746"
        id="guide7869"
        inkscape:locked="false" />
@@ -96,6 +91,46 @@
        position="1421.9769,1169.1769"
        orientation="-0.62010776,0.78451664"
        id="guide8067"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1390.407,1317.8095"
+       orientation="12.60236,9.8580182"
+       id="guide8062"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1400.265,1305.2071"
+       orientation="-3.6967568,4.725885"
+       id="guide8064"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1404.9909,1308.9039"
+       orientation="-12.60236,-9.8580182"
+       id="guide8066"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1395.1329,1321.5062"
+       orientation="3.6967568,-4.725885"
+       id="guide8068"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1378.8499,1332.584"
+       orientation="12.602369,9.8580072"
+       id="guide8074"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1388.7079,1319.9816"
+       orientation="-3.6967527,4.7258882"
+       id="guide8076"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1393.4338,1323.6784"
+       orientation="-12.602369,-9.8580072"
+       id="guide8078"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="1383.5758,1336.2807"
+       orientation="3.6967527,-4.7258882"
+       id="guide8080"
        inkscape:locked="false" />
   </sodipodi:namedview>
   <defs
@@ -29697,6 +29732,302 @@ alpha_blend = 1;</desc>
              id="desc8059">type = deck_start;</desc>
         </path>
       </g>
+      <rect
+         style="display:inline;opacity:0.97797361;fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:none;enable-background:new"
+         id="rect14998-5-8-5-1-2"
+         width="2"
+         height="10"
+         x="598.36096"
+         y="-1244.6208"
+         inkscape:label="#mesh"
+         transform="rotate(51.952148)">
+        <desc
+           id="desc15000-6-0-2-1-8">name = concrete_pipes; mesh_name = concrete_pipes.mesh; texture0 = concrete.png; collision_model_type = 1; collision_model_size = 1.0 2.0 5.0; walkable = 1; texture0 = alpha.png; alpha_blend = 1;</desc>
+      </rect>
+      <rect
+         transform="rotate(-128.06643)"
+         inkscape:label="#mesh"
+         y="1234.4224"
+         x="-611.74567"
+         height="10.000001"
+         width="11.000001"
+         id="rect10286-6-6-8-0-2-0-3-7-5-3-2-5"
+         style="display:inline;fill:#00ff00;fill-opacity:1;stroke:none;enable-background:new">
+        <title
+           id="title49658-82-9-3-6-9-9-3-2-3-5">crane_collision</title>
+        <desc
+           id="desc10288-1-3-4-4-3-1-8-4-4-5-6-2">name = concrete_pipes; mesh_name = concrete_pipes.mesh; texture0 = concrete.png; collision_model_type = 1; collision_model_size = 6.0 3.2 5.0; walkable = 1;</desc>
+      </rect>
+      <rect
+         style="display:inline;opacity:0.97797361;fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:none;enable-background:new"
+         id="rect14998-7-7-7-4-8-1"
+         width="2"
+         height="10"
+         x="611.3645"
+         y="-1244.6208"
+         inkscape:label="#mesh"
+         transform="rotate(51.952148)">
+        <desc
+           id="desc15000-8-9-0-7-1-5">name = concrete_pipes; mesh_name = concrete_pipes.mesh; texture0 = concrete.png; collision_model_type = 1; collision_model_size = 1.0 2.0 5.0; walkable = 1; texture0 = alpha.png; alpha_blend = 1;</desc>
+      </rect>
+      <rect
+         style="display:inline;opacity:0.97797361;fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:none;enable-background:new"
+         id="rect14998-3-8-9-5-3-4"
+         width="1.2"
+         height="10"
+         x="601.33777"
+         y="-1244.6173"
+         inkscape:label="#mesh"
+         transform="rotate(51.952148)">
+        <desc
+           id="desc15000-83-73-7-7-4-6">name = concrete_pipes; mesh_name = concrete_pipes.mesh; texture0 = concrete.png; collision_model_type = 1; collision_model_size = 0.6 0.3 5.0; walkable = 1; texture0 = alpha.png; alpha_blend = 1;</desc>
+      </rect>
+      <rect
+         style="display:inline;opacity:0.97797361;fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:none;enable-background:new"
+         id="rect14998-3-7-6-5-4-9-2"
+         width="1.2"
+         height="10"
+         x="605.26282"
+         y="-1244.619"
+         inkscape:label="#mesh"
+         transform="rotate(51.952148)">
+        <desc
+           id="desc15000-83-1-5-7-3-8-9-5">name = concrete_pipes; mesh_name = concrete_pipes.mesh; texture0 = concrete.png; collision_model_type = 1; collision_model_size = 0.6 0.3 5.0; walkable = 1; texture0 = alpha.png; alpha_blend = 1;</desc>
+      </rect>
+      <rect
+         style="display:inline;opacity:0.97797361;fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:none;enable-background:new"
+         id="rect14998-3-0-3-1-4-5-2"
+         width="1.2"
+         height="10"
+         x="609.19556"
+         y="-1244.6173"
+         inkscape:label="#mesh"
+         transform="rotate(51.952148)">
+        <desc
+           id="desc15000-83-7-3-6-9-6-9">name = concrete_pipes; mesh_name = concrete_pipes.mesh; texture0 = concrete.png; collision_model_type = 1; collision_model_size = 0.6 0.3 5.0; walkable = 1; texture0 = alpha.png; alpha_blend = 1;</desc>
+      </rect>
+      <rect
+         style="display:inline;opacity:0.97797361;fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:none;enable-background:new"
+         id="rect14998-5-8-5-1-9"
+         width="2"
+         height="10"
+         x="657.14496"
+         y="-1233.0985"
+         inkscape:label="#mesh"
+         transform="rotate(51.952148)">
+        <desc
+           id="desc15000-6-0-2-1-9">name = concrete_pipes; mesh_name = concrete_pipes.mesh; texture0 = concrete.png; collision_model_type = 1; collision_model_size = 1.0 2.0 5.0; walkable = 1; texture0 = alpha.png; alpha_blend = 1;</desc>
+      </rect>
+      <rect
+         transform="rotate(-128.06643)"
+         inkscape:label="#mesh"
+         y="1222.8811"
+         x="-670.52594"
+         height="10.000001"
+         width="11.000001"
+         id="rect10286-6-6-8-0-2-0-3-7-5-3-2-1"
+         style="display:inline;fill:#00ff00;fill-opacity:1;stroke:none;enable-background:new">
+        <title
+           id="title49658-82-9-3-6-9-9-3-2-3-8">crane_collision</title>
+        <desc
+           id="desc10288-1-3-4-4-3-1-8-4-4-5-6-9">name = concrete_pipes; mesh_name = concrete_pipes.mesh; texture0 = concrete.png; collision_model_type = 1; collision_model_size = 6.0 3.2 5.0; walkable = 1;</desc>
+      </rect>
+      <rect
+         style="display:inline;opacity:0.97797361;fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:none;enable-background:new"
+         id="rect14998-7-7-7-4-8-4"
+         width="2"
+         height="10"
+         x="670.1485"
+         y="-1233.0985"
+         inkscape:label="#mesh"
+         transform="rotate(51.952148)">
+        <desc
+           id="desc15000-8-9-0-7-1-4">name = concrete_pipes; mesh_name = concrete_pipes.mesh; texture0 = concrete.png; collision_model_type = 1; collision_model_size = 1.0 2.0 5.0; walkable = 1; texture0 = alpha.png; alpha_blend = 1;</desc>
+      </rect>
+      <rect
+         style="display:inline;opacity:0.97797361;fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:none;enable-background:new"
+         id="rect14998-3-8-9-5-3-1"
+         width="1.2"
+         height="10"
+         x="660.12177"
+         y="-1233.095"
+         inkscape:label="#mesh"
+         transform="rotate(51.952148)">
+        <desc
+           id="desc15000-83-73-7-7-4-2">name = concrete_pipes; mesh_name = concrete_pipes.mesh; texture0 = concrete.png; collision_model_type = 1; collision_model_size = 0.6 0.3 5.0; walkable = 1; texture0 = alpha.png; alpha_blend = 1;</desc>
+      </rect>
+      <rect
+         style="display:inline;opacity:0.97797361;fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:none;enable-background:new"
+         id="rect14998-3-7-6-5-4-9-0"
+         width="1.2"
+         height="10"
+         x="664.04681"
+         y="-1233.0967"
+         inkscape:label="#mesh"
+         transform="rotate(51.952148)">
+        <desc
+           id="desc15000-83-1-5-7-3-8-9-6">name = concrete_pipes; mesh_name = concrete_pipes.mesh; texture0 = concrete.png; collision_model_type = 1; collision_model_size = 0.6 0.3 5.0; walkable = 1; texture0 = alpha.png; alpha_blend = 1;</desc>
+      </rect>
+      <rect
+         style="display:inline;opacity:0.97797361;fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:none;enable-background:new"
+         id="rect14998-3-0-3-1-4-5-21"
+         width="1.2"
+         height="10"
+         x="667.97955"
+         y="-1233.095"
+         inkscape:label="#mesh"
+         transform="rotate(51.952148)">
+        <desc
+           id="desc15000-83-7-3-6-9-6-8">name = concrete_pipes; mesh_name = concrete_pipes.mesh; texture0 = concrete.png; collision_model_type = 1; collision_model_size = 0.6 0.3 5.0; walkable = 1; texture0 = alpha.png; alpha_blend = 1;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:#00ff00;stroke-width:1;enable-background:new"
+         id="rect14012-1-6-0-8-7-1-2"
+         width="4.4000001"
+         height="5"
+         x="-307.73456"
+         y="-1109.4845"
+         inkscape:label="#mesh"
+         transform="rotate(96.646855)">
+        <desc
+           id="desc14014-7-7-5-8-6-1-9">name = contruction_bricks; mesh_name = construction_bricks.mesh; texture0 = mortar_ammunition_crates.png; collision_model_type = 1; collision_model_size = 2.2 2 2.5; walkable = 1;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:#00ff00;stroke-width:1;enable-background:new"
+         id="rect14012-1-6-0-8-7-1-9"
+         width="4.4000001"
+         height="5"
+         x="1057.4753"
+         y="-464.19534"
+         inkscape:label="#mesh"
+         transform="rotate(14.819168)">
+        <desc
+           id="desc14014-7-7-5-8-6-1-2">name = contruction_bricks; mesh_name = construction_bricks.mesh; texture0 = mortar_ammunition_crates.png; collision_model_type = 1; collision_model_size = 2.2 2 2.5; walkable = 1;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:#00ff00;stroke-width:1;enable-background:new"
+         id="rect14012-1-6-0-8-7-1-4"
+         width="4.4000001"
+         height="5"
+         x="574.01251"
+         y="-1000.8765"
+         inkscape:label="#mesh"
+         transform="rotate(51.67668)">
+        <desc
+           id="desc14014-7-7-5-8-6-1-5">name = contruction_bricks; mesh_name = construction_bricks.mesh; texture0 = mortar_ammunition_crates.png; collision_model_type = 1; collision_model_size = 2.2 2 2.5; walkable = 1;</desc>
+      </rect>
+      <rect
+         rx="1"
+         style="display:inline;fill:#6a6a6a;fill-opacity:1;fill-rule:nonzero;stroke:#008eff;stroke-width:1.00000119;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:7;stroke-opacity:1;enable-background:new"
+         id="rect16633-4-8-7-6-9-7-2-8-8-1-8-5-3-3-0"
+         width="2"
+         height="2"
+         x="-1202.7977"
+         y="174.18228"
+         inkscape:label="#mesh"
+         transform="rotate(-179.77602)"
+         ry="1">
+        <title
+           id="title12411-5-3-6-2">barell_blue</title>
+        <desc
+           id="desc16653-2-9-3-3-8-7-0-7-4-6-1-5-0-08">template = barell_blue;</desc>
+      </rect>
+      <rect
+         rx="1"
+         style="display:inline;fill:#6a6a6a;fill-opacity:1;fill-rule:nonzero;stroke:#008eff;stroke-width:1.00000119;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:7;stroke-opacity:1;enable-background:new"
+         id="rect16633-4-8-7-6-9-7-2-8-8-1-8-5-3-3-4-4"
+         width="2"
+         height="2"
+         x="-1204.8132"
+         y="174.21463"
+         inkscape:label="#mesh"
+         transform="rotate(-179.77602)"
+         ry="1">
+        <title
+           id="title12411-5-3-6-9-2">barell_blue</title>
+        <desc
+           id="desc16653-2-9-3-3-8-7-0-7-4-6-1-5-0-5-5">template = barell_blue;</desc>
+      </rect>
+      <rect
+         rx="1"
+         style="display:inline;fill:#6a6a6a;fill-opacity:1;fill-rule:nonzero;stroke:#008eff;stroke-width:1.00000119;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:7;stroke-opacity:1;enable-background:new"
+         id="rect16633-4-8-7-6-9-7-2-8-8-1-8-5-3-3-4-1-1"
+         width="2"
+         height="2"
+         x="-1203.7821"
+         y="176.32877"
+         inkscape:label="#mesh"
+         transform="rotate(-179.77602)"
+         ry="1">
+        <title
+           id="title12411-5-3-6-9-1-5">barell_blue</title>
+        <desc
+           id="desc16653-2-9-3-3-8-7-0-7-4-6-1-5-0-5-9-9">template = barell_blue;</desc>
+      </rect>
+      <rect
+         ry="1"
+         transform="rotate(-179.77602)"
+         inkscape:label="#mesh"
+         y="175.05057"
+         x="-1203.7906"
+         height="2"
+         width="2"
+         id="rect7162-73"
+         style="display:inline;fill:#6a6a6a;fill-opacity:1;fill-rule:nonzero;stroke:#008eff;stroke-width:1.00000119;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:7;stroke-opacity:1;enable-background:new"
+         rx="1">
+        <title
+           id="title7158-70">barell</title>
+        <desc
+           id="desc7160-8">#name = barell_blue; static_object_type_key=fuel_barrel.static_object; mesh_name = barell.mesh; texture0 = world_atlas1.png; texture0_atlas_cell = 9 16 32 32; collision_model_type = 0; collision_model_size = 1.2 1.4 1.2; penetrability = 0.4; offset = 0 1.3 0;</desc>
+      </rect>
+      <rect
+         rx="1"
+         style="display:inline;fill:#6a6a6a;fill-opacity:1;fill-rule:nonzero;stroke:#ff0000;stroke-width:1.00000119;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:7;stroke-opacity:1;enable-background:new"
+         id="rect16633-4-8-7-6-9-7-2-8-8-4-8-2"
+         width="2"
+         height="2"
+         x="-1159.7982"
+         y="216.14497"
+         inkscape:label="#mesh"
+         transform="rotate(-179.77602)"
+         ry="1">
+        <title
+           id="title12407-6-5-6">barell_red</title>
+        <desc
+           id="desc16653-2-9-3-3-8-7-0-7-8-0-0">#name = barell_red; static_object_type_key=fuel_barrel.static_object; mesh_name = barell.mesh; texture0 = world_atlas1.png; texture0_atlas_cell = 10 16 32 32; collision_model_type = 0; collision_model_size = 1.2 1.4 1.2; penetrability = 0.4;</desc>
+      </rect>
+      <rect
+         rx="1"
+         style="display:inline;fill:#6a6a6a;fill-opacity:1;fill-rule:nonzero;stroke:#008e00;stroke-width:1.00000119;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:7;stroke-opacity:1;enable-background:new"
+         id="rect16633-4-8-7-6-9-7-2-8-8-1-9-9-8"
+         width="2"
+         height="2"
+         x="-1166.6937"
+         y="215.81837"
+         inkscape:label="#mesh"
+         transform="rotate(-179.77602)"
+         ry="1">
+        <title
+           id="title12409-8-2-0">barell_green</title>
+        <desc
+           id="desc16653-2-9-3-3-8-7-0-7-4-3-1-2">#name = barell_green; static_object_type_key=fuel_barrel.static_object; mesh_name = barell.mesh; texture0 = world_atlas1.png; texture0_atlas_cell = 8 16 32 32; collision_model_type = 0; collision_model_size = 1.2 1.4 1.2; penetrability = 0.4;</desc>
+      </rect>
+      <rect
+         rx="1"
+         style="display:inline;fill:#6a6a6a;fill-opacity:1;fill-rule:nonzero;stroke:#008eff;stroke-width:1.00000119;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:7;stroke-opacity:1;enable-background:new"
+         id="rect16633-4-8-7-6-9-7-2-8-8-1-8-5-3-8"
+         width="2"
+         height="2"
+         x="-1172.2067"
+         y="216.12648"
+         inkscape:label="#mesh"
+         transform="rotate(-179.77602)"
+         ry="1">
+        <title
+           id="title12411-5-3-3">barell_blue</title>
+        <desc
+           id="desc16653-2-9-3-3-8-7-0-7-4-6-1-5-1">#name = barell_blue; static_object_type_key=fuel_barrel.static_object; mesh_name = barell.mesh; texture0 = world_atlas1.png; texture0_atlas_cell = 9 16 32 32; collision_model_type = 0; collision_model_size = 1.2 1.4 1.2; penetrability = 0.4;</desc>
+      </rect>
     </g>
     <g
        style="display:inline;opacity:0.44900004"
@@ -32670,8 +33001,8 @@ texture0_atlas_cell = 1 2 4 4;</desc>
        style="display:inline">
       <rect
          inkscape:label="#spawnrect10748"
-         y="743.5072"
-         x="1351.0659"
+         y="777.2572"
+         x="1375.0659"
          height="2.0679491"
          width="2.2977724"
          id="rect10748-1-0-1-7-76-86-1-8-76-9-4-7-6"
@@ -33444,10 +33775,10 @@ collision_model_size =0.4 8.5 0.4;</desc>
          id="rect11831-6-4-3-6-6-5-8-6-6"
          width="6"
          height="16"
-         x="645.42639"
-         y="1412.7346"
+         x="645.26239"
+         y="1413.0405"
          inkscape:label="#mesh"
-         transform="rotate(-38.374228)">
+         transform="rotate(-38.033743)">
         <desc
            id="desc11833-1-2-2-7-8-3-9-7-8">mesh_name = trunks.mesh; texture0 = trunks.png; collision_model_type = 1; collision_model_size = 3 1.7 8;</desc>
       </rect>
@@ -33456,10 +33787,10 @@ collision_model_size =0.4 8.5 0.4;</desc>
          id="rect11831-6-4-3-6-6-5-8-6-9"
          width="6"
          height="16"
-         x="645.4436"
-         y="1430.6188"
+         x="645.26111"
+         y="1431.7988"
          inkscape:label="#mesh"
-         transform="rotate(-38.374228)">
+         transform="rotate(-38.033793)">
         <desc
            id="desc11833-1-2-2-7-8-3-9-7-9">mesh_name = trunks.mesh; texture0 = trunks.png; collision_model_type = 1; collision_model_size = 3 1.7 8;</desc>
       </rect>
@@ -33649,6 +33980,154 @@ see_through = 0;</desc>
          style="display:inline;fill:#ff8900;fill-opacity:1;fill-rule:nonzero;stroke:#13ce00;stroke-width:0.85699999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new">
         <desc
            id="desc10092-7-0-4-9-8-24-0-4-5-7-4">mesh_name = market_banana.mesh; texture0 = muttrah_banana.png; collision_model_type = 0; collision_model_offset = 0 0 0; collision_model_size = 1.8 3.6 1.8;</desc>
+      </rect>
+      <rect
+         style="display:inline;opacity:0.97797361;fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:none;enable-background:new"
+         id="rect14998-5-8-5"
+         width="2"
+         height="10"
+         x="1413.8883"
+         y="-643.81812"
+         inkscape:label="#mesh"
+         transform="rotate(51.979493)">
+        <desc
+           id="desc15000-6-0-2">name = concrete_pipes; mesh_name = concrete_pipes.mesh; texture0 = concrete.png; collision_model_type = 1; collision_model_size = 1.0 2.0 5.0; walkable = 1; texture0 = alpha.png; alpha_blend = 1;</desc>
+      </rect>
+      <rect
+         transform="rotate(-128.03909)"
+         inkscape:label="#mesh"
+         y="633.35535"
+         x="-1427.078"
+         height="10.000001"
+         width="11.000001"
+         id="rect10286-6-6-8-0-2-0-3-7-5-3"
+         style="display:inline;fill:#00ff00;fill-opacity:1;stroke:none;enable-background:new">
+        <title
+           id="title49658-82-9-3-6-9-9-3-2">crane_collision</title>
+        <desc
+           id="desc10288-1-3-4-4-3-1-8-4-4-5">name = concrete_pipes; mesh_name = concrete_pipes.mesh; texture0 = concrete.png; collision_model_type = 1; collision_model_size = 6.0 3.2 5.0; walkable = 1;</desc>
+      </rect>
+      <rect
+         style="display:inline;opacity:0.97797361;fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:none;enable-background:new"
+         id="rect14998-7-7-7-4"
+         width="2"
+         height="10"
+         x="1426.8918"
+         y="-643.81812"
+         inkscape:label="#mesh"
+         transform="rotate(51.979493)">
+        <desc
+           id="desc15000-8-9-0-7">name = concrete_pipes; mesh_name = concrete_pipes.mesh; texture0 = concrete.png; collision_model_type = 1; collision_model_size = 1.0 2.0 5.0; walkable = 1; texture0 = alpha.png; alpha_blend = 1;</desc>
+      </rect>
+      <rect
+         style="display:inline;opacity:0.97797361;fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:none;enable-background:new"
+         id="rect14998-3-8-9-5"
+         width="1.2"
+         height="10"
+         x="1416.8651"
+         y="-643.81458"
+         inkscape:label="#mesh"
+         transform="rotate(51.979493)">
+        <desc
+           id="desc15000-83-73-7-7">name = concrete_pipes; mesh_name = concrete_pipes.mesh; texture0 = concrete.png; collision_model_type = 1; collision_model_size = 0.6 0.3 5.0; walkable = 1; texture0 = alpha.png; alpha_blend = 1;</desc>
+      </rect>
+      <rect
+         style="display:inline;opacity:0.97797361;fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:none;enable-background:new"
+         id="rect14998-3-7-6-5-4"
+         width="1.2"
+         height="10"
+         x="1420.7902"
+         y="-643.81628"
+         inkscape:label="#mesh"
+         transform="rotate(51.979493)">
+        <desc
+           id="desc15000-83-1-5-7-3-8">name = concrete_pipes; mesh_name = concrete_pipes.mesh; texture0 = concrete.png; collision_model_type = 1; collision_model_size = 0.6 0.3 5.0; walkable = 1; texture0 = alpha.png; alpha_blend = 1;</desc>
+      </rect>
+      <rect
+         style="display:inline;opacity:0.97797361;fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:none;enable-background:new"
+         id="rect14998-3-0-3-1-4"
+         width="1.2"
+         height="10"
+         x="1424.7229"
+         y="-643.81458"
+         inkscape:label="#mesh"
+         transform="rotate(51.979493)">
+        <desc
+           id="desc15000-83-7-3-6-9">name = concrete_pipes; mesh_name = concrete_pipes.mesh; texture0 = concrete.png; collision_model_type = 1; collision_model_size = 0.6 0.3 5.0; walkable = 1; texture0 = alpha.png; alpha_blend = 1;</desc>
+      </rect>
+      <rect
+         style="display:inline;opacity:0.97797361;fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:none;enable-background:new"
+         id="rect14998-5-8-5-1"
+         width="2"
+         height="10"
+         x="1431.9567"
+         y="-643.13544"
+         inkscape:label="#mesh"
+         transform="rotate(51.952148)">
+        <desc
+           id="desc15000-6-0-2-1">name = concrete_pipes; mesh_name = concrete_pipes.mesh; texture0 = concrete.png; collision_model_type = 1; collision_model_size = 1.0 2.0 5.0; walkable = 1; texture0 = alpha.png; alpha_blend = 1;</desc>
+      </rect>
+      <rect
+         transform="rotate(-128.06643)"
+         inkscape:label="#mesh"
+         y="632.66681"
+         x="-1445.1462"
+         height="10.000001"
+         width="11.000001"
+         id="rect10286-6-6-8-0-2-0-3-7-5-3-2"
+         style="display:inline;fill:#00ff00;fill-opacity:1;stroke:none;enable-background:new">
+        <title
+           id="title49658-82-9-3-6-9-9-3-2-3">crane_collision</title>
+        <desc
+           id="desc10288-1-3-4-4-3-1-8-4-4-5-6">name = concrete_pipes; mesh_name = concrete_pipes.mesh; texture0 = concrete.png; collision_model_type = 1; collision_model_size = 6.0 3.2 5.0; walkable = 1;</desc>
+      </rect>
+      <rect
+         style="display:inline;opacity:0.97797361;fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:none;enable-background:new"
+         id="rect14998-7-7-7-4-8"
+         width="2"
+         height="10"
+         x="1444.9602"
+         y="-643.13544"
+         inkscape:label="#mesh"
+         transform="rotate(51.952148)">
+        <desc
+           id="desc15000-8-9-0-7-1">name = concrete_pipes; mesh_name = concrete_pipes.mesh; texture0 = concrete.png; collision_model_type = 1; collision_model_size = 1.0 2.0 5.0; walkable = 1; texture0 = alpha.png; alpha_blend = 1;</desc>
+      </rect>
+      <rect
+         style="display:inline;opacity:0.97797361;fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:none;enable-background:new"
+         id="rect14998-3-8-9-5-3"
+         width="1.2"
+         height="10"
+         x="1434.9335"
+         y="-643.1319"
+         inkscape:label="#mesh"
+         transform="rotate(51.952148)">
+        <desc
+           id="desc15000-83-73-7-7-4">name = concrete_pipes; mesh_name = concrete_pipes.mesh; texture0 = concrete.png; collision_model_type = 1; collision_model_size = 0.6 0.3 5.0; walkable = 1; texture0 = alpha.png; alpha_blend = 1;</desc>
+      </rect>
+      <rect
+         style="display:inline;opacity:0.97797361;fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:none;enable-background:new"
+         id="rect14998-3-7-6-5-4-9"
+         width="1.2"
+         height="10"
+         x="1438.8585"
+         y="-643.13361"
+         inkscape:label="#mesh"
+         transform="rotate(51.952148)">
+        <desc
+           id="desc15000-83-1-5-7-3-8-9">name = concrete_pipes; mesh_name = concrete_pipes.mesh; texture0 = concrete.png; collision_model_type = 1; collision_model_size = 0.6 0.3 5.0; walkable = 1; texture0 = alpha.png; alpha_blend = 1;</desc>
+      </rect>
+      <rect
+         style="display:inline;opacity:0.97797361;fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:none;enable-background:new"
+         id="rect14998-3-0-3-1-4-5"
+         width="1.2"
+         height="10"
+         x="1442.7913"
+         y="-643.1319"
+         inkscape:label="#mesh"
+         transform="rotate(51.952148)">
+        <desc
+           id="desc15000-83-7-3-6-9-6">name = concrete_pipes; mesh_name = concrete_pipes.mesh; texture0 = concrete.png; collision_model_type = 1; collision_model_size = 0.6 0.3 5.0; walkable = 1; texture0 = alpha.png; alpha_blend = 1;</desc>
       </rect>
     </g>
     <g
@@ -34000,7 +34479,7 @@ height = 0.9; </desc>
          id="rect10892"
          width="11.923013"
          height="5.8959785"
-         x="-642.01898"
+         x="-642.02069"
          y="-1472.5265"
          inkscape:label="#mesh"
          transform="rotate(141.6763)">
