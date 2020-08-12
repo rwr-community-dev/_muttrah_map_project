@@ -30,9 +30,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="15.999999"
-     inkscape:cx="1440.8832"
-     inkscape:cy="1169.3328"
+     inkscape:zoom="22.627416"
+     inkscape:cx="1347.5358"
+     inkscape:cy="1176.5408"
      inkscape:document-units="px"
      inkscape:current-layer="layer3"
      showgrid="true"
@@ -34441,6 +34441,17 @@ height = 0.9; </desc>
          inkscape:label="#wall30280">
         <desc
            id="desc30282-3-1-9">template = SandbagWall1; 
+height = 0.9; </desc>
+      </path>
+      <path
+         style="display:inline;fill:none;stroke:#ffffff;stroke-width:1.26049876;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+         d="m 1351.231,879.74254 5.5187,-4.56918 -4.7381,-15.70191 9.529,-2.87539 6.2586,20.21938"
+         id="path30280-2-5-43-2"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc"
+         inkscape:label="#wall30280">
+        <desc
+           id="desc30282-3-1-9-2">template = SandbagWall1; 
 height = 0.9; </desc>
       </path>
     </g>
