@@ -30,9 +30,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.9999998"
-     inkscape:cx="1285.5649"
-     inkscape:cy="1272.6743"
+     inkscape:zoom="63.999996"
+     inkscape:cx="1373.0691"
+     inkscape:cy="1202.6055"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -29533,9 +29533,7 @@ alpha_blend = 1;</desc>
          height="16"
          width="16"
          id="rect7910"
-         style="display:inline;fill:#800080;fill-opacity:1;stroke:none;enable-background:new"
-         inkscape:transform-center-x="0.15862386"
-         inkscape:transform-center-y="0.0063049468">
+         style="display:inline;fill:#800080;fill-opacity:1;stroke:none;enable-background:new">
         <desc
            id="desc7906">mesh_name = crane_base.mesh; texture0 = world_atlas1.png; texture0_atlas_cell = 3 1 8 8;</desc>
         <title
@@ -29549,9 +29547,7 @@ alpha_blend = 1;</desc>
          x="686.21094"
          y="-1217.9111"
          inkscape:label="#mesh"
-         transform="rotate(52.978929)"
-         inkscape:transform-center-x="-4.8726443"
-         inkscape:transform-center-y="-3.8794049">
+         transform="rotate(52.978929)">
         <desc
            id="desc7912">name = concrete_pipes; mesh_name = concrete_pipes.mesh; texture0 = concrete.png; collision_model_type = 1; collision_model_size = 0.5 0.9 3.0; walkable = 1; texture0 = alpha.png; alpha_blend = 1;</desc>
       </rect>
@@ -29563,15 +29559,11 @@ alpha_blend = 1;</desc>
          x="1207.9584"
          y="677.42657"
          inkscape:label="#mesh"
-         transform="rotate(-37.021071)"
-         inkscape:transform-center-x="4.0632597"
-         inkscape:transform-center-y="-5.0115445">
+         transform="rotate(-37.021071)">
         <desc
            id="desc7916">name = concrete_pipes; mesh_name = concrete_pipes.mesh; texture0 = concrete.png; collision_model_type = 1; collision_model_size = 0.5 0.9 3.0; walkable = 1; texture0 = alpha.png; alpha_blend = 1;</desc>
       </rect>
       <rect
-         inkscape:transform-center-y="5.0161153"
-         inkscape:transform-center-x="-3.6964433"
          transform="rotate(142.97893)"
          inkscape:label="#mesh"
          y="-696.10504"
@@ -29591,23 +29583,18 @@ alpha_blend = 1;</desc>
          x="-687.39215"
          y="1199.2384"
          inkscape:label="#mesh"
-         transform="rotate(-127.02107)"
-         inkscape:transform-center-x="5.1364385"
-         inkscape:transform-center-y="3.8958008">
+         transform="rotate(-127.02107)">
         <desc
            id="desc7924">name = concrete_pipes; mesh_name = concrete_pipes.mesh; texture0 = concrete.png; collision_model_type = 1; collision_model_size = 0.5 0.9 3.0; walkable = 1; texture0 = alpha.png; alpha_blend = 1;</desc>
       </rect>
       <g
-         transform="rotate(-82.021071,658.2113,-756.36253)"
-         inkscape:transform-center-y="0.036699654"
-         inkscape:transform-center-x="0.068444101"
-         id="g7936">
+         id="g8121">
         <path
            sodipodi:nodetypes="cc"
            inkscape:label="#path7483_platform"
            inkscape:connector-curvature="0"
            id="path7930"
-           d="m 182.01085,32.564847 0.065,9.0442"
+           d="m 1373.4003,-175.26194 8.9657,1.19105"
            style="display:inline;fill:none;stroke:#ff0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new">
           <desc
              id="desc7928">type = deck_end; height =0.7; wall_template = BrickWall1; wall_height = 0; top_material = none; climbable = 1; separator_height = 0; #no_collision_side1; #no_collision_side2;</desc>
@@ -29617,7 +29604,7 @@ alpha_blend = 1;</desc>
            inkscape:label="#path743_platform"
            inkscape:connector-curvature="0"
            id="path7934"
-           d="m 191.34905,32.238847 0.067,9.3777"
+           d="m 1374.3737,-184.55499 9.2962,1.23536"
            style="display:inline;fill:none;stroke:#0000ff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new">
           <desc
              id="desc7932">type = deck_start;</desc>
@@ -29640,9 +29627,7 @@ alpha_blend = 1;</desc>
          x="-1331.0924"
          y="-412.03149"
          inkscape:label="#mesh"
-         transform="rotate(155.4557)"
-         inkscape:transform-center-x="0.037376701"
-         inkscape:transform-center-y="0.089902749">
+         transform="rotate(155.4557)">
         <desc
            id="desc7940">mesh_name = crane.mesh; texture0 = world_atlas1.png; texture0_atlas_cell = 3 1 8 8;</desc>
         <title
@@ -29656,9 +29641,7 @@ alpha_blend = 1;</desc>
          height="2.9987612"
          width="2.998677"
          id="rect7950"
-         style="display:inline;fill:#d94e4e;fill-opacity:1;stroke:none;enable-background:new"
-         inkscape:transform-center-x="0.17312366"
-         inkscape:transform-center-y="-0.083960511">
+         style="display:inline;fill:#d94e4e;fill-opacity:1;stroke:none;enable-background:new">
         <title
            id="title7946">crane_collision</title>
         <desc
