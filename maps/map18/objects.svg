@@ -30,11 +30,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="11.313708"
-     inkscape:cx="1271.2834"
-     inkscape:cy="1403.6893"
+     inkscape:zoom="15.999999"
+     inkscape:cx="1440.8832"
+     inkscape:cy="1169.3328"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer3"
      showgrid="true"
      inkscape:window-width="1673"
      inkscape:window-height="921"
@@ -20030,8 +20030,8 @@ walkable = 0;</desc>
       <rect
          transform="rotate(-38.324693)"
          inkscape:label="#ladder"
-         y="1603.8817"
-         x="589.09137"
+         y="1603.9696"
+         x="589.10162"
          height="2.25"
          width="6"
          id="rect7651-13-5-8-6-4-4-7-3-9-0-3-2-0-9-1-1-5-1"
@@ -34378,8 +34378,8 @@ height = 0.9; </desc>
 height = 0.9; </desc>
       </path>
       <path
-         style="display:inline;fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
-         d="m 1265.5877,769.22735 -6.8383,5.21726 -10.2076,-13.37933 6.8383,-5.21725"
+         style="display:inline;fill:none;stroke:#ffffff;stroke-width:1.89999998;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+         d="m 1265.1417,769.03846 -6.4964,4.9564 -9.6972,-12.71036 6.4964,-4.95639"
          id="path30280-2-5"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cccc"
@@ -34388,17 +34388,9 @@ height = 0.9; </desc>
            id="desc30282-3-1">template = SandbagWall1; 
 height = 0.9; </desc>
       </path>
-      <rect
-         style="opacity:0.75;fill:#e9afaf;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:5, 5;stroke-dashoffset:50"
-         id="rect8546"
-         width="8.6013365"
-         height="16.828577"
-         x="530.99847"
-         y="1362.394"
-         transform="rotate(-37.3415)" />
       <path
-         style="display:inline;fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
-         d="m 1257.5591,739.60355 -5.2118,-6.84245 4.069,-3.09924"
+         style="display:inline;fill:none;stroke:#ffffff;stroke-width:1.89999998;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+         d="m 1257.9559,739.20694 -4.9513,-6.50033 3.8656,-2.94428"
          id="path30280-2-5-0"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="ccc"
@@ -34407,17 +34399,9 @@ height = 0.9; </desc>
            id="desc30282-3-1-5">template = SandbagWall1; 
 height = 0.9; </desc>
       </path>
-      <rect
-         style="display:inline;opacity:0.75;fill:#e9afaf;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:5, 5;stroke-dashoffset:50;enable-background:new"
-         id="rect8546-8"
-         width="8.6013365"
-         height="16.828577"
-         x="1341.7599"
-         y="-569.09039"
-         transform="rotate(52.704161)" />
       <path
-         style="display:inline;fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
-         d="m 1290.6002,728.97633 3.4191,-2.60878 10.2076,13.3793 -6.8382,5.21733"
+         style="display:inline;fill:none;stroke:#ffffff;stroke-width:1.89999998;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+         d="m 1290.9607,729.29564 3.2482,-2.47834 9.6972,12.71034 -6.4963,4.95646"
          id="path30280-2-5-1"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cccc"
@@ -34426,40 +34410,39 @@ height = 0.9; </desc>
            id="desc30282-3-1-7">template = SandbagWall1; 
 height = 0.9; </desc>
       </path>
-      <rect
-         style="display:inline;opacity:0.75;fill:#e9afaf;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:5, 5;stroke-dashoffset:50;enable-background:new"
-         id="rect8546-4"
-         width="8.6013365"
-         height="16.828577"
-         x="-588.20111"
-         y="-1379.2219"
-         transform="rotate(142.6585)" />
       <path
-         style="display:inline;fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
-         d="m 1295.2052,761.20266 5.2172,6.8383 -4.1548,3.16994"
+         style="display:inline;fill:none;stroke:#ffffff;stroke-width:1.89999998;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+         d="m 1295.001,761.62878 4.9564,6.49644 -3.25,2.47957"
          id="path8703"
-         inkscape:label="#wall8703">
+         inkscape:label="#wall8703"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccc">
         <desc
            id="desc8707">template = SandbagWall1; 
 height = 0.9; </desc>
       </path>
       <path
-         style="display:inline;fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
-         d="m 1291.1452,775.11895 -4.1021,3.12961 -5.2172,-6.8383"
+         style="display:inline;fill:none;stroke:#ffffff;stroke-width:1.89999998;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+         d="m 1290.8582,775.06737 -3.6111,2.75507 -4.9564,-6.49644"
          id="path30280-2-5-4"
-         inkscape:label="#wall30280-2-5-4">
+         inkscape:label="#wall30280-2-5-4"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccc">
         <desc
            id="desc8705">template = SandbagWall1; 
 height = 0.9; </desc>
       </path>
-      <rect
-         style="display:inline;opacity:0.75;fill:#e9afaf;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:5, 5;stroke-dashoffset:50;enable-background:new"
-         id="rect8546-9"
-         width="8.6013365"
-         height="16.828577"
-         x="-1399.4089"
-         y="551.18555"
-         transform="rotate(-127.3415)" />
+      <path
+         style="display:inline;fill:none;stroke:#ffffff;stroke-width:1.80499995;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+         d="m 1431.8604,899.50377 -17.2917,-21.87628 28.2502,-22.32996 22.3299,28.25026 -16.6592,13.16798"
+         id="path30280-2-5-43"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc"
+         inkscape:label="#wall30280">
+        <desc
+           id="desc30282-3-1-9">template = SandbagWall1; 
+height = 0.9; </desc>
+      </path>
     </g>
     <g
        inkscape:label="rocks"
