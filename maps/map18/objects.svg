@@ -30,9 +30,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="63.999996"
-     inkscape:cx="1373.0691"
-     inkscape:cy="1202.6055"
+     inkscape:zoom="5.6568539"
+     inkscape:cx="1389.095"
+     inkscape:cy="1267.2088"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -19416,7 +19416,8 @@ walkable = 0;</desc>
        style="display:inline"
        inkscape:label="extraction"
        id="layer28"
-       inkscape:groupmode="layer" />
+       inkscape:groupmode="layer"
+       sodipodi:insensitive="true" />
     <g
        style="display:inline"
        inkscape:label="ladders"
@@ -20046,8 +20047,7 @@ walkable = 0;</desc>
        style="display:inline"
        inkscape:label="other"
        id="layer16"
-       inkscape:groupmode="layer"
-       sodipodi:insensitive="true">
+       inkscape:groupmode="layer">
       <g
          id="g7955">
         <path
@@ -29526,10 +29526,10 @@ penetrability = 0.1;
 alpha_blend = 1;</desc>
       </rect>
       <rect
-         transform="rotate(8.8033427)"
+         transform="rotate(96.577436)"
          inkscape:label="#mesh"
-         y="-396.19238"
-         x="1326.7594"
+         y="-1373.1083"
+         x="-380.52399"
          height="16"
          width="16"
          id="rect7910"
@@ -29544,10 +29544,10 @@ alpha_blend = 1;</desc>
          id="rect7914"
          width="1"
          height="6"
-         x="686.21094"
-         y="-1217.9111"
+         x="-1219.0389"
+         y="-728.82495"
          inkscape:label="#mesh"
-         transform="rotate(52.978929)">
+         transform="rotate(140.75303)">
         <desc
            id="desc7912">name = concrete_pipes; mesh_name = concrete_pipes.mesh; texture0 = concrete.png; collision_model_type = 1; collision_model_size = 0.5 0.9 3.0; walkable = 1; texture0 = alpha.png; alpha_blend = 1;</desc>
       </rect>
@@ -29556,18 +29556,18 @@ alpha_blend = 1;</desc>
          id="rect7918"
          width="1"
          height="6"
-         x="1207.9584"
-         y="677.42657"
+         x="718.87219"
+         y="-1227.8234"
          inkscape:label="#mesh"
-         transform="rotate(-37.021071)">
+         transform="rotate(50.753022)">
         <desc
            id="desc7916">name = concrete_pipes; mesh_name = concrete_pipes.mesh; texture0 = concrete.png; collision_model_type = 1; collision_model_size = 0.5 0.9 3.0; walkable = 1; texture0 = alpha.png; alpha_blend = 1;</desc>
       </rect>
       <rect
-         transform="rotate(142.97893)"
+         transform="rotate(-129.24697)"
          inkscape:label="#mesh"
-         y="-696.10504"
-         x="-1209.116"
+         y="1209.1449"
+         x="-720.02979"
          height="6"
          width="1"
          id="rect7922"
@@ -29580,21 +29580,21 @@ alpha_blend = 1;</desc>
          id="rect7926"
          width="1"
          height="6"
-         x="-687.39215"
-         y="1199.2384"
+         x="1217.8578"
+         y="710.15222"
          inkscape:label="#mesh"
-         transform="rotate(-127.02107)">
+         transform="rotate(-39.246977)">
         <desc
            id="desc7924">name = concrete_pipes; mesh_name = concrete_pipes.mesh; texture0 = concrete.png; collision_model_type = 1; collision_model_size = 0.5 0.9 3.0; walkable = 1; texture0 = alpha.png; alpha_blend = 1;</desc>
       </rect>
       <g
-         id="g8121">
+         id="g8143">
         <path
            sodipodi:nodetypes="cc"
            inkscape:label="#path7483_platform"
            inkscape:connector-curvature="0"
            id="path7930"
-           d="m 1373.4003,-175.26194 8.9657,1.19105"
+           d="m 1394.5203,-218.58834 -0.8419,9.0052"
            style="display:inline;fill:none;stroke:#ff0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new">
           <desc
              id="desc7928">type = deck_end; height =0.7; wall_template = BrickWall1; wall_height = 0; top_material = none; climbable = 1; separator_height = 0; #no_collision_side1; #no_collision_side2;</desc>
@@ -29604,7 +29604,7 @@ alpha_blend = 1;</desc>
            inkscape:label="#path743_platform"
            inkscape:connector-curvature="0"
            id="path7934"
-           d="m 1374.3737,-184.55499 9.2962,1.23536"
+           d="m 1403.8442,-217.97661 -0.8734,9.33717"
            style="display:inline;fill:none;stroke:#0000ff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new">
           <desc
              id="desc7932">type = deck_start;</desc>
@@ -29615,29 +29615,29 @@ alpha_blend = 1;</desc>
          id="rect7938"
          width="3.1491213"
          height="1.0750006"
-         x="-426.72345"
-         y="1320.8672"
+         x="1337.717"
+         y="451.42017"
          inkscape:label="#ladder"
-         transform="rotate(-115.18603)" />
+         transform="rotate(-27.411937)" />
       <rect
          style="display:inline;fill:#ffff00;fill-opacity:1;stroke:none;enable-background:new"
          id="rect7944"
          width="5.2584629"
          height="4.8828583"
-         x="-1331.0924"
-         y="-412.03149"
+         x="-441.94016"
+         y="1342.5601"
          inkscape:label="#mesh"
-         transform="rotate(155.4557)">
+         transform="rotate(-116.7702)">
         <desc
            id="desc7940">mesh_name = crane.mesh; texture0 = world_atlas1.png; texture0_atlas_cell = 3 1 8 8;</desc>
         <title
            id="title7942">crane</title>
       </rect>
       <rect
-         transform="rotate(65.432009)"
+         transform="rotate(153.20611)"
          inkscape:label="#mesh"
-         y="-1329.7407"
-         x="408.42538"
+         y="-441.31351"
+         x="-1346.5337"
          height="2.9987612"
          width="2.998677"
          id="rect7950"
@@ -31522,7 +31522,8 @@ merge = 1;</desc>
        style="display:inline"
        inkscape:label="rocks"
        id="layer19"
-       inkscape:groupmode="layer">
+       inkscape:groupmode="layer"
+       sodipodi:insensitive="true">
       <rect
          style="display:inline;fill:#cccccc;fill-opacity:1;enable-background:new"
          id="use9624-50-2-3-9"
@@ -32787,17 +32788,20 @@ merge = 1;</desc>
        style="display:inline"
        inkscape:label="fallen"
        id="layer20"
-       inkscape:groupmode="layer" />
+       inkscape:groupmode="layer"
+       sodipodi:insensitive="true" />
     <g
        style="display:inline"
        inkscape:label="woods_tree"
        id="layer41"
-       inkscape:groupmode="layer" />
+       inkscape:groupmode="layer"
+       sodipodi:insensitive="true" />
     <g
        style="display:inline"
        inkscape:label="woods_palm"
        id="layer42"
-       inkscape:groupmode="layer">
+       inkscape:groupmode="layer"
+       sodipodi:insensitive="true">
       <rect
          inkscape:label="#mesh"
          y="-3105.6135"
@@ -32835,7 +32839,8 @@ merge = 1;</desc>
        inkscape:label="woods_fir"
        id="layer25"
        inkscape:groupmode="layer"
-       style="display:inline" />
+       style="display:inline"
+       sodipodi:insensitive="true" />
     <g
        style="display:inline"
        inkscape:label="crates"
@@ -33373,7 +33378,8 @@ texture0_atlas_cell = 1 2 4 4;</desc>
        inkscape:label="spawnpoints"
        id="layer33"
        inkscape:groupmode="layer"
-       style="display:inline">
+       style="display:inline"
+       sodipodi:insensitive="true">
       <rect
          inkscape:label="#spawnrect10748"
          y="777.2572"
@@ -33440,8 +33446,7 @@ texture0_atlas_cell = 1 2 4 4;</desc>
      style="display:inline"
      inkscape:label="layer2"
      id="layer11"
-     inkscape:groupmode="layer"
-     sodipodi:insensitive="true">
+     inkscape:groupmode="layer">
     <g
        style="display:inline"
        inkscape:label="objects"
@@ -34743,7 +34748,8 @@ height = 0.9; </desc>
        inkscape:label="woods_palm"
        id="layer43"
        inkscape:groupmode="layer"
-       style="display:inline">
+       style="display:inline"
+       sodipodi:insensitive="true">
       <rect
          ry="4"
          rx="4"
@@ -35414,7 +35420,8 @@ height = 0.9; </desc>
        inkscape:label="spawnpoints"
        id="layer40"
        inkscape:groupmode="layer"
-       style="display:inline">
+       style="display:inline"
+       sodipodi:insensitive="true">
       <rect
          inkscape:label="#spawnrect10748"
          y="741.54578"
@@ -35583,8 +35590,7 @@ height = 0.9; </desc>
      style="display:inline"
      inkscape:label="layer3"
      id="layer22"
-     inkscape:groupmode="layer"
-     sodipodi:insensitive="true">
+     inkscape:groupmode="layer">
     <g
        style="display:inline"
        inkscape:label="objects"
@@ -36236,49 +36242,49 @@ height = 0.9; </desc>
       </rect>
       <rect
          inkscape:label="#mesh"
-         y="867.37927"
-         x="-1366.516"
+         y="1378.3307"
+         x="845.21423"
          height="0.27143928"
          width="3.012603"
          id="rect4-7-2-7-52-4-5-8-5-8-1-8-8"
          style="display:inline;fill:#ff0000;fill-opacity:1;stroke:none;enable-background:new"
-         transform="rotate(-116.10661)">
+         transform="rotate(-28.332517)">
         <desc
            id="desc6099-8-8-7-8-1-8-5-5-1-2-1-9-7">mesh_name = container.mesh; texture0 = alpha.png; collision_model_type = 1; collision_model_size = 1.5 1.2 0.13; walkable = 0; texture0 = alpha.png; alpha_blend = 1; penetrability = 0.8; see_through = 1;</desc>
       </rect>
       <rect
          inkscape:label="#mesh"
-         y="907.87756"
-         x="-1336.067"
+         y="1347.8099"
+         x="890.88007"
          height="0.27144927"
          width="1.0109661"
          id="rect4-7-2-7-52-4-5-8-5-7-4-3-3-2"
          style="display:inline;fill:#ff0000;fill-opacity:1;stroke:none;enable-background:new"
-         transform="rotate(-114.27328)">
+         transform="rotate(-26.499187)">
         <desc
            id="desc6099-8-8-7-8-1-8-5-5-1-1-5-8-4-5">mesh_name = container.mesh; texture0 = alpha.png; collision_model_type = 1; collision_model_size = 0.5 1.2 0.13; walkable = 0; texture0 = alpha.png; alpha_blend = 1; penetrability = 0.8; see_through = 1;</desc>
       </rect>
       <rect
          inkscape:label="#mesh"
-         y="1311.0718"
-         x="945.98309"
+         y="-927.60663"
+         x="1321.6759"
          height="0.27143928"
          width="3.012603"
          id="rect4-7-2-7-52-4-5-8-5-1-5-7-4-8"
          style="display:inline;fill:#ff0000;fill-opacity:1;stroke:none;enable-background:new"
-         transform="rotate(-22.624962)">
+         transform="rotate(65.149131)">
         <desc
            id="desc6099-8-8-7-8-1-8-5-5-1-5-1-4-6-5">mesh_name = container.mesh; texture0 = alpha.png; collision_model_type = 1; collision_model_size = 1.5 1.2 0.13; walkable = 0; texture0 = alpha.png; alpha_blend = 1; penetrability = 0.8; see_through = 1;</desc>
       </rect>
       <rect
          inkscape:label="#mesh"
-         y="1332.9764"
-         x="910.92188"
+         y="-894.96832"
+         x="1345.7688"
          height="0.27143928"
          width="3.012603"
          id="rect4-7-2-7-52-4-5-8-5-1-2-7-2-0-1"
          style="display:inline;fill:#ff0000;fill-opacity:1;stroke:none;enable-background:new"
-         transform="rotate(-24.142482)">
+         transform="rotate(63.631611)">
         <desc
            id="desc6099-8-8-7-8-1-8-5-5-1-5-7-1-7-6-6">mesh_name = container.mesh; texture0 = alpha.png; collision_model_type = 1; collision_model_size = 1.5 1.2 0.13; walkable = 0; texture0 = alpha.png; alpha_blend = 1; penetrability = 0.8; see_through = 1;</desc>
       </rect>
