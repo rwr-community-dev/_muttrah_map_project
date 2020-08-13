@@ -30,9 +30,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.6568539"
-     inkscape:cx="1389.095"
-     inkscape:cy="1267.2088"
+     inkscape:zoom="15.999999"
+     inkscape:cx="1330.5303"
+     inkscape:cy="1294.6095"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -29648,28 +29648,28 @@ alpha_blend = 1;</desc>
            id="desc7948">mesh_name = container.mesh; texture0 = alpha.png; collision_model_type = 1; collision_model_size = 1.5 18.5 1.5; walkable = 1; texture0 = alpha.png; alpha_blend = 1; penetrability = 0.8; see_through = 1;</desc>
       </rect>
       <rect
-         inkscape:transform-center-y="0.10093827"
-         inkscape:transform-center-x="-0.12242912"
+         inkscape:transform-center-y="-0.012062596"
+         inkscape:transform-center-x="-0.15824611"
          style="display:inline;fill:#800080;fill-opacity:1;stroke:none;enable-background:new"
          id="rect8037"
          width="16"
          height="16"
-         x="-619.80542"
-         y="1214.2094"
+         x="-1310.4923"
+         y="429.642"
          inkscape:label="#mesh"
-         transform="rotate(-129.41033)">
+         transform="rotate(-173.27217)">
         <desc
            id="desc8033">mesh_name = crane_base.mesh; texture0 = world_atlas1.png; texture0_atlas_cell = 3 1 8 8;</desc>
         <title
            id="title8035">crane</title>
       </rect>
       <rect
-         inkscape:transform-center-y="-0.3543101"
-         inkscape:transform-center-x="6.2183443"
-         transform="rotate(-85.234737)"
+         inkscape:transform-center-y="4.0532632"
+         inkscape:transform-center-x="4.7289117"
+         transform="rotate(-129.09658)"
          inkscape:label="#mesh"
-         y="1293.5648"
-         x="412.34283"
+         y="1212.1792"
+         x="-629.75635"
          height="6"
          width="1"
          id="rect8041"
@@ -29678,12 +29678,12 @@ alpha_blend = 1;</desc>
            id="desc8039">name = concrete_pipes; mesh_name = concrete_pipes.mesh; texture0 = concrete.png; collision_model_type = 1; collision_model_size = 0.5 0.9 3.0; walkable = 1; texture0 = alpha.png; alpha_blend = 1;</desc>
       </rect>
       <rect
-         inkscape:transform-center-y="6.4442641"
-         inkscape:transform-center-x="0.30984383"
-         transform="rotate(-175.23474)"
+         inkscape:transform-center-y="4.8611105"
+         inkscape:transform-center-x="-4.2420372"
+         transform="rotate(140.90342)"
          inkscape:label="#mesh"
-         y="403.55847"
-         x="-1303.5176"
+         y="-638.54071"
+         x="-1222.1318"
          height="6"
          width="1"
          id="rect8045"
@@ -29696,22 +29696,22 @@ alpha_blend = 1;</desc>
          id="rect8049"
          width="1"
          height="6"
-         x="1302.36"
-         y="-422.23697"
+         x="1220.9744"
+         y="619.86218"
          inkscape:label="#mesh"
-         transform="rotate(4.7652643)"
-         inkscape:transform-center-x="-0.58624147"
-         inkscape:transform-center-y="-6.2033332">
+         transform="rotate(-39.096577)"
+         inkscape:transform-center-x="3.8756644"
+         inkscape:transform-center-y="-4.8789739">
         <desc
            id="desc8047">name = concrete_pipes; mesh_name = concrete_pipes.mesh; texture0 = concrete.png; collision_model_type = 1; collision_model_size = 0.5 0.9 3.0; walkable = 1; texture0 = alpha.png; alpha_blend = 1;</desc>
       </rect>
       <rect
-         inkscape:transform-center-y="0.51783723"
-         inkscape:transform-center-x="-6.4258184"
-         transform="rotate(94.765264)"
+         inkscape:transform-center-y="-4.0792903"
+         inkscape:transform-center-x="-4.9919965"
+         transform="rotate(50.903423)"
          inkscape:label="#mesh"
-         y="-1312.2375"
-         x="-413.52408"
+         y="-1230.8519"
+         x="628.57507"
          height="6"
          width="1"
          id="rect8053"
@@ -29720,21 +29720,21 @@ alpha_blend = 1;</desc>
            id="desc8051">name = concrete_pipes; mesh_name = concrete_pipes.mesh; texture0 = concrete.png; collision_model_type = 1; collision_model_size = 0.5 0.9 3.0; walkable = 1; texture0 = alpha.png; alpha_blend = 1;</desc>
       </rect>
       <rect
-         transform="rotate(106.6003)"
+         transform="rotate(62.73846)"
          inkscape:label="#ladder"
-         y="-1193.3922"
-         x="-673.72668"
+         y="-1327.4653"
+         x="362.9115"
          height="1.0750006"
          width="3.1491213"
          id="rect8065"
          style="display:inline;opacity:0.79775277;fill:#2cffe7;fill-opacity:1;fill-rule:nonzero;stroke:none;enable-background:new" />
       <rect
-         inkscape:transform-center-y="-0.042133179"
-         inkscape:transform-center-x="-0.087845072"
-         transform="rotate(17.242034)"
+         inkscape:transform-center-y="-0.091168057"
+         inkscape:transform-center-x="-0.034087332"
+         transform="rotate(-26.619807)"
          inkscape:label="#mesh"
-         y="-687.21942"
-         x="1180.2408"
+         y="347.85211"
+         x="1325.9159"
          height="4.8828583"
          width="5.2584629"
          id="rect8071"
@@ -29745,26 +29745,26 @@ alpha_blend = 1;</desc>
            id="title8069">crane</title>
       </rect>
       <rect
-         inkscape:transform-center-y="0.17800099"
-         inkscape:transform-center-x="-0.073174775"
+         inkscape:transform-center-y="0.077615595"
+         inkscape:transform-center-x="-0.17612688"
          style="display:inline;fill:#d94e4e;fill-opacity:1;stroke:none;enable-background:new"
          id="rect8077"
          width="2.998677"
          height="2.9987612"
-         x="682.5741"
-         y="1181.7068"
+         x="-352.55756"
+         y="1326.9539"
          inkscape:label="#mesh"
-         transform="rotate(-72.781657)">
+         transform="rotate(-116.6435)">
         <title
            id="title8073">crane_collision</title>
         <desc
            id="desc8075">mesh_name = container.mesh; texture0 = alpha.png; collision_model_type = 1; collision_model_size = 1.5 18.5 1.5; walkable = 1; texture0 = alpha.png; alpha_blend = 1; penetrability = 0.8; see_through = 1;</desc>
       </rect>
       <g
-         id="g8130">
+         id="g8153">
         <path
            style="display:inline;fill:none;stroke:#ff0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new"
-           d="m 1339.2025,-302.92991 -5.8914,-6.8624"
+           d="m 1349.6915,-286.29798 -9.0029,-0.8656"
            id="path8057"
            inkscape:connector-curvature="0"
            inkscape:label="#path7483_platform"
@@ -29774,7 +29774,7 @@ alpha_blend = 1;</desc>
         </path>
         <path
            style="display:inline;fill:none;stroke:#0000ff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new"
-           d="m 1332.2843,-296.6493 -6.1084,-7.1157"
+           d="m 1349.0554,-276.97581 -9.3349,-0.89786"
            id="path8061"
            inkscape:connector-curvature="0"
            inkscape:label="#path743_platform"
@@ -29788,8 +29788,8 @@ alpha_blend = 1;</desc>
          id="rect14998-5-8-5-1-2"
          width="2"
          height="10"
-         x="598.36096"
-         y="-1244.6208"
+         x="555.07556"
+         y="-1232.3955"
          inkscape:label="#mesh"
          transform="rotate(51.952148)">
         <desc
@@ -29798,8 +29798,8 @@ alpha_blend = 1;</desc>
       <rect
          transform="rotate(-128.06643)"
          inkscape:label="#mesh"
-         y="1234.4224"
-         x="-611.74567"
+         y="1222.2111"
+         x="-568.4563"
          height="10.000001"
          width="11.000001"
          id="rect10286-6-6-8-0-2-0-3-7-5-3-2-5"
@@ -29814,8 +29814,8 @@ alpha_blend = 1;</desc>
          id="rect14998-7-7-7-4-8-1"
          width="2"
          height="10"
-         x="611.3645"
-         y="-1244.6208"
+         x="568.0791"
+         y="-1232.3955"
          inkscape:label="#mesh"
          transform="rotate(51.952148)">
         <desc
@@ -29826,8 +29826,8 @@ alpha_blend = 1;</desc>
          id="rect14998-3-8-9-5-3-4"
          width="1.2"
          height="10"
-         x="601.33777"
-         y="-1244.6173"
+         x="558.05237"
+         y="-1232.392"
          inkscape:label="#mesh"
          transform="rotate(51.952148)">
         <desc
@@ -29838,8 +29838,8 @@ alpha_blend = 1;</desc>
          id="rect14998-3-7-6-5-4-9-2"
          width="1.2"
          height="10"
-         x="605.26282"
-         y="-1244.619"
+         x="561.97742"
+         y="-1232.3937"
          inkscape:label="#mesh"
          transform="rotate(51.952148)">
         <desc
@@ -29850,8 +29850,8 @@ alpha_blend = 1;</desc>
          id="rect14998-3-0-3-1-4-5-2"
          width="1.2"
          height="10"
-         x="609.19556"
-         y="-1244.6173"
+         x="565.91016"
+         y="-1232.392"
          inkscape:label="#mesh"
          transform="rotate(51.952148)">
         <desc
@@ -36194,49 +36194,49 @@ height = 0.9; </desc>
       </rect>
       <rect
          inkscape:label="#mesh"
-         y="-1474.9111"
-         x="339.96249"
+         y="-826.99884"
+         x="1291.9777"
          height="0.27143928"
          width="3.012603"
          id="rect4-7-2-7-52-4-5-8-5-8-1-8"
          style="display:inline;fill:#ff0000;fill-opacity:1;stroke:none;enable-background:new"
-         transform="rotate(105.38193)">
+         transform="rotate(61.52009)">
         <desc
            id="desc6099-8-8-7-8-1-8-5-5-1-2-1-9">mesh_name = container.mesh; texture0 = alpha.png; collision_model_type = 1; collision_model_size = 1.5 1.2 0.13; walkable = 0; texture0 = alpha.png; alpha_blend = 1; penetrability = 0.8; see_through = 1;</desc>
       </rect>
       <rect
          inkscape:label="#mesh"
-         y="-1487.8079"
-         x="294.60306"
+         y="-870.68414"
+         x="1266.8591"
          height="0.27144927"
          width="1.0109661"
          id="rect4-7-2-7-52-4-5-8-5-7-4-3-3"
          style="display:inline;fill:#ff0000;fill-opacity:1;stroke:none;enable-background:new"
-         transform="rotate(107.21526)">
+         transform="rotate(63.35342)">
         <desc
            id="desc6099-8-8-7-8-1-8-5-5-1-1-5-8-4">mesh_name = container.mesh; texture0 = alpha.png; collision_model_type = 1; collision_model_size = 0.5 1.2 0.13; walkable = 0; texture0 = alpha.png; alpha_blend = 1; penetrability = 0.8; see_through = 1;</desc>
       </rect>
       <rect
          inkscape:label="#mesh"
-         y="-250.0125"
-         x="-1495.6168"
+         y="-1239.6176"
+         x="-906.71533"
          height="0.27143928"
          width="3.012603"
          id="rect4-7-2-7-52-4-5-8-5-1-5-7-4"
          style="display:inline;fill:#ff0000;fill-opacity:1;stroke:none;enable-background:new"
-         transform="rotate(-161.13642)">
+         transform="rotate(155.00174)">
         <desc
            id="desc6099-8-8-7-8-1-8-5-5-1-5-1-4-6">mesh_name = container.mesh; texture0 = alpha.png; collision_model_type = 1; collision_model_size = 1.5 1.2 0.13; walkable = 0; texture0 = alpha.png; alpha_blend = 1; penetrability = 0.8; see_through = 1;</desc>
       </rect>
       <rect
          inkscape:label="#mesh"
-         y="-292.22012"
-         x="-1488.48"
+         y="-1265.8823"
+         x="-873.57758"
          height="0.27143928"
          width="3.012603"
          id="rect4-7-2-7-52-4-5-8-5-1-2-7-2-0"
          style="display:inline;fill:#ff0000;fill-opacity:1;stroke:none;enable-background:new"
-         transform="rotate(-162.65394)">
+         transform="rotate(153.48422)">
         <desc
            id="desc6099-8-8-7-8-1-8-5-5-1-5-7-1-7-6">mesh_name = container.mesh; texture0 = alpha.png; collision_model_type = 1; collision_model_size = 1.5 1.2 0.13; walkable = 0; texture0 = alpha.png; alpha_blend = 1; penetrability = 0.8; see_through = 1;</desc>
       </rect>
