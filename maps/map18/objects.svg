@@ -30,9 +30,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.9999998"
-     inkscape:cx="1197.1349"
-     inkscape:cy="1349.1624"
+     inkscape:zoom="7.9999996"
+     inkscape:cx="1215.3942"
+     inkscape:cy="1347.6771"
      inkscape:document-units="px"
      inkscape:current-layer="layer12"
      showgrid="true"
@@ -34637,6 +34637,30 @@ see_through = 0;</desc>
          transform="rotate(-78.903582)">
         <desc
            id="desc7569-9-3-1-9-3-7-7-5-8">name = container_paleblue; mesh_name = container.mesh; texture0 = docks_container_atlas.png; texture0_atlas_cell = 4 0 12 1;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#383838;fill-opacity:0.43317231;stroke:none;enable-background:new"
+         id="mesh_template11-7-7-6-3-5"
+         width="12.288"
+         height="6.1440001"
+         x="-426.01062"
+         y="1337.2294"
+         inkscape:label="#mesh_template"
+         transform="rotate(-78.903582)">
+        <desc
+           id="desc7569-9-3-1-9-3-7-7-5-2">name = container_camo1; mesh_name = container.mesh; texture0 = docks_container_atlas.png; texture0_atlas_cell = 5 0 12 1;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#4f5d49;fill-opacity:0.43317231;stroke:none;enable-background:new"
+         id="mesh_template11-7-7-6-3-5-0"
+         width="12.288"
+         height="6.1440001"
+         x="-426.01062"
+         y="1343.3734"
+         inkscape:label="#mesh_template"
+         transform="rotate(-78.903582)">
+        <desc
+           id="desc7569-9-3-1-9-3-7-7-5-2-6">name = container_camo2; mesh_name = container.mesh; texture0 = docks_container_atlas.png; texture0_atlas_cell = 6 0 12 1;</desc>
       </rect>
     </g>
     <g
