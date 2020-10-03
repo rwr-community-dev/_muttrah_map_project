@@ -30,9 +30,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.656854"
-     inkscape:cx="1382.755"
-     inkscape:cy="1118.6454"
+     inkscape:zoom="11.313708"
+     inkscape:cx="1182.2445"
+     inkscape:cy="1054.8838"
      inkscape:document-units="px"
      inkscape:current-layer="layer14"
      showgrid="true"
@@ -37385,6 +37385,102 @@ key = prison_hatch.vehicle;
          transform="rotate(100.13206)">
         <desc
            id="desc5585-42-2-1-8">type = vehicle; key = heli_extraction.vehicle;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#007cff;fill-opacity:1;stroke:#000000;stroke-width:0.5803957;stroke-miterlimit:4;stroke-dasharray:6.96474699, 6.96474699;stroke-dashoffset:2.66981983;stroke-opacity:1;enable-background:new"
+         id="spawn1-3-7-7"
+         width="2.3113017"
+         height="4.2926941"
+         x="1519.0952"
+         y="-286.31451"
+         inkscape:label=""
+         transform="rotate(51.203071)">
+        <desc
+           id="desc7082-7-40-7">type = vehicle; key = racing_car4.vehicle;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#007cff;fill-opacity:1;stroke:#000000;stroke-width:0.5803957;stroke-miterlimit:4;stroke-dasharray:6.96474713, 6.96474713;stroke-dashoffset:2.66981983;stroke-opacity:1;enable-background:new"
+         id="spawn1-3-7-7-6"
+         width="2.3113017"
+         height="4.2926941"
+         x="1514.3481"
+         y="-275.85553"
+         inkscape:label=""
+         transform="rotate(50.992754)">
+        <desc
+           id="desc7082-7-40-7-0">type = vehicle; key = racing_car3.vehicle;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#007cff;fill-opacity:1;stroke:#000000;stroke-width:0.5803957;stroke-miterlimit:4;stroke-dasharray:6.96474783, 6.96474783;stroke-dashoffset:2.66982007;stroke-opacity:1;enable-background:new"
+         id="spawn1-3-7-7-4"
+         width="2.3113017"
+         height="4.2926941"
+         x="-309.44412"
+         y="-1510.0426"
+         inkscape:label=""
+         transform="rotate(141.52433)">
+        <desc
+           id="desc7082-7-40-7-9">type = vehicle; key = racing_car2.vehicle;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#007cff;fill-opacity:1;stroke:#000000;stroke-width:0.5803957;stroke-miterlimit:4;stroke-dasharray:6.96474787, 6.96474787;stroke-dashoffset:2.66982007;stroke-opacity:1;enable-background:new"
+         id="spawn1-3-7-7-46"
+         width="2.3113017"
+         height="4.2926941"
+         x="1505.7474"
+         y="-290.43787"
+         inkscape:label=""
+         transform="rotate(51.450583)">
+        <desc
+           id="desc7082-7-40-7-03">type = vehicle; key = racing_car1.vehicle;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#007cff;fill-opacity:1;stroke:#000000;stroke-width:0.5803957;stroke-miterlimit:4;stroke-dasharray:6.96474764, 6.96474764;stroke-dashoffset:2.66981983;stroke-opacity:1;enable-background:new"
+         id="spawn1-3-7-7-44"
+         width="2.3113017"
+         height="4.2926941"
+         x="-1519.3668"
+         y="287.0448"
+         inkscape:label=""
+         transform="rotate(-129.46695)">
+        <desc
+           id="desc7082-7-40-7-90">type = vehicle; key = racing_car8.vehicle;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#007cff;fill-opacity:1;stroke:#000000;stroke-width:0.5803957;stroke-miterlimit:4;stroke-dasharray:6.96474765, 6.96474765;stroke-dashoffset:2.66981983;stroke-opacity:1;enable-background:new"
+         id="spawn1-3-7-7-6-6"
+         width="2.3113017"
+         height="4.2926941"
+         x="354.19913"
+         y="1505.4286"
+         inkscape:label=""
+         transform="rotate(-36.68528)">
+        <desc
+           id="desc7082-7-40-7-0-1">type = vehicle; key = racing_car7.vehicle;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#007cff;fill-opacity:1;stroke:#000000;stroke-width:0.5803957;stroke-miterlimit:4;stroke-dasharray:6.9647475, 6.9647475;stroke-dashoffset:2.66981983;stroke-opacity:1;enable-background:new"
+         id="spawn1-3-7-7-4-1"
+         width="2.3113017"
+         height="4.2926941"
+         x="286.96774"
+         y="1518.3689"
+         inkscape:label=""
+         transform="rotate(-38.997876)">
+        <desc
+           id="desc7082-7-40-7-9-9">type = vehicle; key = racing_car6.vehicle;</desc>
+      </rect>
+      <rect
+         style="display:inline;fill:#007cff;fill-opacity:1;stroke:#000000;stroke-width:0.5803957;stroke-miterlimit:4;stroke-dasharray:6.96474758, 6.96474758;stroke-dashoffset:2.66981983;stroke-opacity:1;enable-background:new"
+         id="spawn1-3-7-7-46-0"
+         width="2.3113017"
+         height="4.2926941"
+         x="-323.88889"
+         y="-1505.3331"
+         inkscape:label=""
+         transform="rotate(142.32196)">
+        <desc
+           id="desc7082-7-40-7-03-4">type = vehicle; key = racing_car5.vehicle;</desc>
       </rect>
     </g>
     <g
