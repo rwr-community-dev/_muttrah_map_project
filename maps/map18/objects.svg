@@ -31,10 +31,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="11.313708"
-     inkscape:cx="1182.2445"
+     inkscape:cx="1166.7323"
      inkscape:cy="1054.8838"
      inkscape:document-units="px"
-     inkscape:current-layer="layer14"
+     inkscape:current-layer="layer18"
      showgrid="true"
      inkscape:window-width="1673"
      inkscape:window-height="921"
@@ -35437,6 +35437,20 @@ height = 0.9; </desc>
          width="6"
          id="rect7651-13-5-8-6-4-4-7-3-9-0-3-2-7-1-1-7-8-5"
          style="display:inline;opacity:0.79775277;fill:#2cffe7;fill-opacity:1;fill-rule:nonzero;stroke:none;enable-background:new" />
+      <rect
+         inkscape:label="#mesh"
+         y="-1515.0559"
+         x="-284.7128"
+         height="4.8366308"
+         width="5.199378"
+         id="rect96345"
+         style="display:inline;fill:#ff0000;stroke:none;enable-background:new"
+         transform="rotate(141.58008)">
+        <desc
+           id="desc96347">mesh_name = podium.mesh; texture0 = alpha.png; collision_model_type = 1; collision_model_size = 2.0 0.7 2; walkable = 1; alpha_blend = 1;</desc>
+        <title
+           id="title96349">podium</title>
+      </rect>
     </g>
     <g
        inkscape:label="crates"

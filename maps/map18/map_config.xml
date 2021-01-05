@@ -13,4 +13,8 @@
 	<vehicle file="all_vehicles.xml" />
   <vehicle file="heli_extraction.vehicle" />
   <vehicle file="race_vehicles.xml" />
+
+  <!-- <scene>
+    <fog offset="10.0" range="60.0" />
+  </scene> -->
 </map_config>
