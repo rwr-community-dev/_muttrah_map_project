@@ -27,11 +27,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.656854"
-     inkscape:cx="1527.4391"
-     inkscape:cy="483.57267"
+     inkscape:zoom="0.70710675"
+     inkscape:cx="1523.8152"
+     inkscape:cy="386.78743"
      inkscape:document-units="px"
-     inkscape:current-layer="layer25"
+     inkscape:current-layer="g340"
      showgrid="true"
      inkscape:window-width="3840"
      inkscape:window-height="2081"
@@ -26884,7 +26884,7 @@ static_object_type_key=barbed_wire.static_object;</desc>
     </rect>
   </g>
   <g
-     style="display:none"
+     style="display:inline"
      inkscape:label="library"
      id="layer9"
      inkscape:groupmode="layer"
@@ -27641,7 +27641,7 @@ static_object_type_key=barbed_wire.static_object;</desc>
      inkscape:groupmode="layer"
      sodipodi:insensitive="true">
     <rect
-       style="opacity:0.92699998;fill:#aa4400;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5.48714018;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:0.927;fill:#aa4400;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5.48714;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect7013"
        width="2554.5127"
        height="2554.5127"
@@ -27757,7 +27757,7 @@ static_object_type_key=barbed_wire.static_object;</desc>
      inkscape:groupmode="layer"
      id="layer45"
      inkscape:label="alpha_dirtroad"
-     style="display:none"
+     style="display:inline"
      sodipodi:insensitive="true">
     <path
        inkscape:label="#path1133"
@@ -28295,7 +28295,7 @@ static_object_type_key=barbed_wire.static_object;</desc>
     </rect>
   </g>
   <g
-     style="display:none"
+     style="display:inline"
      inkscape:label="map_view_decoration"
      id="layer38"
      inkscape:groupmode="layer"
@@ -28537,7 +28537,8 @@ static_object_type_key=barbed_wire.static_object;</desc>
      style="display:inline"
      id="g340"
      inkscape:groupmode="layer"
-     inkscape:label="layer1">
+     inkscape:label="layer1"
+     sodipodi:insensitive="true">
     <g
        style="display:inline"
        inkscape:label="extraction"
@@ -51860,7 +51861,8 @@ height = 3.6;</desc>
        style="display:inline"
        inkscape:label="decals"
        id="layer6"
-       inkscape:groupmode="layer">
+       inkscape:groupmode="layer"
+       sodipodi:insensitive="true">
       <rect
          inkscape:label="#rect5943"
          y="1478.1475"
