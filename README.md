@@ -43,8 +43,8 @@ Note: *Sector names are subject to change, whilst work is ongoing, pending sugge
 | CENTRAL CITY SQUARE | *pending* |
 | NORTH CITY DISTRICT | *pending* |
 | NORTH WEST CITY DISTRICT | *pending* |
-| BAZAAR | *pending* |
+| BAZAAR | GarandalaHS |
 | DOCKS | [david-wm-sanders <MR. BANG>](https://github.com/david-wm-sanders) |
-| LIGHT HOUSE | *pending* |
+| LIGHT HOUSE | GarandalaHS |
 | (SOUTHERN INSURGENT CAMPS) | *pending* |
 | (NORTHERN INSURGENT CAMPS) | *pending* |
